@@ -1,0 +1,151 @@
+id,hora,dia,escena,cuerpo,lugar,con_quien,pantalla,exposicion,dura,fuente,nota
+E001,07:10,lab,"Suena la alarma del móvil debajo de la almohada; la apaga y mira notificaciones 12 min sin levantarse.",tumbada,cama,sola_conectada,si,indiferente,min,HA,
+E002,07:30,lab,"Desayuna de pie en la cocina mirando el móvil: café de cápsula y una tostada, 6 min.",de_pie,cocina,sola_conectada,si,indiferente,min,HA,
+E003,07:45,lab,"Se ducha en 5 min porque la compañera espera; se seca el pelo en el cuarto con la puerta cerrada.",de_pie,bano,otra,no,ocultarse,min,COMP,
+E004,08:05,lab,"Sale con la mochila siempre hecha: portátil, cargador, táper, cascos; 45 min de cercanías.",moviendose,fuera,sola_conectada,si,indiferente,hora,HA,
+E005,08:30,lab,"Teletrabajo: abre el portátil en la mesa del salón porque el cuarto no tiene mesa; la compañera desayuna al lado.",sentada,mesa,otra,si,controlar,horas,HA,
+E006,09:00,lab,"Entrevista de trabajo por videollamada desde la cama hecha; sube el portátil sobre libros para que la cámara no enseñe la ropa.",sentada,cama,sola_conectada,si,controlar,hora,COMP,situación B
+E007,09:30,lab,"Clase online con la cámara apagada; sigue en pijama, micrófono en silencio, chat abierto con amigas.",tumbada,cama,sola_conectada,si,ocultarse,horas,GZ,
+E008,10:15,lab,"Llega un paquete; el repartidor llama a todos los timbres; baja en chanclas a recogerlo.",moviendose,umbral,desconocidos,no,indiferente,min,GZ,
+E009,10:40,lab,"Hace la cama solo cuando va a tener videollamada: la cama es el fondo de cámara.",de_pie,cama,sola,no,controlar,min,HA,
+E010,11:00,lab,"Estudia con un temporizador de 25 min y el móvil boca abajo; en cada descanso, scroll.",sentada,mesa,sola_conectada,si,indiferente,horas,GZ,
+E011,11:30,lab,"Vuelve de un turno de guardia de 7 h en la acampada y duerme a mediodía con la persiana bajada.",tumbada,cama,sola,no,ocultarse,horas,SOL,Laura
+E012,12:00,lab,"Duerme de día después de cerrar un bar a las 4; el resto del piso vive en voz baja.",tumbada,cama,otra,no,ocultarse,horas,COMP,situación B
+E013,12:30,lab,"Calienta el táper de ayer y come en el cuarto para no cruzarse con nadie.",sentada,cama,sola,si,ocultarse,min,ESC,S05
+E014,13:00,lab,"Reparte a domicilio en bici: el cuarto es donde carga la batería y deja la mochila térmica.",de_pie,umbral,sola,si,indiferente,min,GZ,
+E015,13:30,lab,"Come en el suelo con el portátil en la silla porque la mesa está llena de cosas de otra.",sentada,suelo,sola_conectada,si,indiferente,min,HA,
+E016,14:00,lab,"Videollamada con su madre mientras come; le enseña el cuarto girando el móvil.",sentada,cama,sola_conectada,si,mostrarse,min,GZ,
+E017,14:30,lab,"Trabajo en grupo por llamada: cuatro pantallas, cada una en su cama en un barrio distinto.",tumbada,cama,sola_conectada,si,controlar,horas,HA,
+E018,15:00,lab,"Calor: videollamada con el ventilador al lado; cierra las contraventanas y trabaja a oscuras.",sentada,cama,sola_conectada,si,controlar,hora,ESC,S12
+E019,15:30,lab,"Siesta de 20 min con el móvil en el pecho y una alarma puesta.",tumbada,cama,sola,si,ocultarse,min,GZ,
+E020,16:00,lab,"Gimnasio en el cuarto: esterilla entre la cama y el armario, vídeo de 30 min, la vecina de abajo lo oye.",moviendose,suelo,sola_conectada,si,ocultarse,min,HA,
+E021,16:30,lab,"Mira pisos en Idealista tumbada; guarda cinco; ninguno baja de 700 €.",tumbada,cama,sola_conectada,si,indiferente,min,SOL,Elena Mercero
+E022,17:00,lab,"Café con wifi: en casa no hay sitio para trabajar sin oír la tele del salón.",sentada,fuera,desconocidos,si,indiferente,horas,HA,
+E023,17:30,lab,"Biblioteca pública hasta que cierra; la casa es solo para dormir.",sentada,fuera,desconocidos,si,indiferente,horas,HA,
+E024,18:00,lab,"Llega con la compra y la mochila, abre con el codo y lo deja todo en el suelo del cuarto.",moviendose,umbral,sola,no,indiferente,min,ESC,S15
+E025,18:20,lab,"Audios de WhatsApp a volumen alto mientras ordena; al otro lado del tabique se oyen enteros.",de_pie,cama,sola_conectada,si,indiferente,min,GZ,
+E026,18:40,lab,"Se encierra con cascos: el cuarto no aísla, los cascos sí.",tumbada,cama,sola_conectada,si,ocultarse,horas,HA,
+E027,19:00,lab,"Terapia online desde el único sitio donde no la oyen: el baño.",sentada,bano,sola_conectada,si,ocultarse,hora,GZ,
+E028,19:30,lab,"Cocina deprisa en una cocina saturada: tres personas, dos fuegos, un fregadero.",de_pie,cocina,grupo,no,indiferente,min,HA,
+E029,20:00,lab,"Cena en la cama viendo una serie, el plato sobre la rodilla, la luz apagada.",tumbada,cama,sola_conectada,si,ocultarse,hora,HA,
+E030,20:30,lab,"Cuatro cocinan doce raciones; alguien solo quiere calentar su táper y marcharse.",de_pie,cocina,grupo,no,indiferente,hora,ESC,S05
+E031,21:00,lab,"Ve la serie «juntas» con una amiga en otra ciudad: la misma pantalla sincronizada y el chat al lado.",tumbada,cama,sola_conectada,si,ocultarse,horas,GZ,
+E032,21:30,lab,"Pide comida a domicilio a medias con la compañera; comen en el sofá, cada una con su móvil.",sentada,comun,otra,si,indiferente,min,GZ,
+E033,22:00,lab,"Graba un vídeo para redes con el móvil apoyado en un vaso; necesita fondo limpio y luz; lo repite nueve veces.",de_pie,cama,sola_conectada,si,mostrarse,hora,SOL,María Barrier creadora de contenido
+E034,22:30,lab,"Hay cena y conversación en el salón; una quiere ducharse y acostarse sin explicar nada.",moviendose,umbral,grupo,no,ocultarse,min,ESC,S08
+E035,23:00,lab,"Juega online con cascos y micro hasta las 3; habla en voz alta; el tabique no lo para.",sentada,cama,sola_conectada,si,ocultarse,horas,GZ,
+E036,23:30,lab,"Pone la lavadora a las 23:30 porque es la única hora en que está libre.",de_pie,comun,otra,no,indiferente,hora,ESC,S11
+E037,00:00,noche,"Tiende la ropa en el cuarto, en una cuerda entre la ventana y el armario; mañana olerá a humedad.",de_pie,cama,sola,no,ocultarse,min,HA,
+E038,00:30,noche,"Scroll en la cama a oscuras; la pantalla ilumina el techo; 1 h 20 sin querer.",tumbada,cama,sola_conectada,si,ocultarse,horas,GZ,
+E039,01:00,noche,"Entrega un trabajo a la 1:00 desde la cama; no hay impresora, lo manda en PDF.",tumbada,cama,sola_conectada,si,ocultarse,hora,AUT,
+E040,01:20,noche,"Una corta cartón para una maqueta; otra necesita dormir para entrar a trabajar a las 6.",de_pie,suelo,otra,no,controlar,horas,ESC,S04
+E041,02:00,noche,"Llega del bar y calienta algo; la luz de la cocina entra por debajo de la puerta del cuarto de otra.",moviendose,cocina,otra,no,controlar,min,GZ,
+E042,02:10,noche,"Una amiga sin sitio donde dormir: comparten la cama de 1,25; la otra tiene entrega a las 9.",tumbada,cama,otra,no,ocultarse,noche,ESC,S02
+E043,02:30,noche,"Insomnio: mira el techo, luego el móvil, luego el techo.",tumbada,cama,sola,si,ocultarse,horas,GZ,
+E044,03:00,noche,"Sexo con gente al otro lado de un tabique de 7 cm.",tumbada,cama,otra,no,ocultarse,hora,ESC,S13
+E045,03:30,noche,"Llora sin que la oigan: cascos puestos sin música, cara a la pared.",tumbada,cama,sola,no,ocultarse,min,GZ,
+E046,04:00,noche,"Llega borracha, no encuentra la llave y llama al móvil de la compañera que duerme.",moviendose,umbral,otra,si,indiferente,min,GZ,
+E047,04:30,noche,"Desmonta la tienda en Sol para ir a trabajar a las 6 y la deja plegada bajo una lona.",moviendose,fuera,grupo,no,indiferente,min,SOL,
+E048,05:00,noche,"Desalojo anunciado a las 5:00; vuelven miles; nadie duerme.",de_pie,fuera,grupo,si,mostrarse,horas,SOL,17 may 2011
+E049,06:00,lab,"Turno de las 6: sale sin desayunar, con el café en vaso de papel y el móvil al 18 %.",moviendose,umbral,sola,si,indiferente,min,COMP,situación B
+E050,06:30,lab,"En una cocina externa preparan 60 kg de comida caliente para la plaza; empieza a las 8.",de_pie,fuera,grupo,no,indiferente,horas,SOL,
+E051,10:00,finde,"Duerme 12 h seguidas con el móvil en modo avión; nadie puede saber si está.",tumbada,cama,sola,no,ocultarse,noche,GZ,
+E052,11:30,finde,"Resaca: agua, pantalla, cortina; sale del cuarto solo para ir al baño.",tumbada,cama,sola,si,ocultarse,horas,GZ,
+E053,12:00,finde,"Se cortan el pelo una a otra en la cocina, como la peluquería gratis de la acampada.",sentada,cocina,otra,no,indiferente,hora,SOL,
+E054,13:00,finde,"Llama al casero por una gotera; le dice que pasará el martes; habrá que esconder al gato.",de_pie,comun,desconocidos,si,controlar,min,GZ,
+E055,14:00,finde,"Comen juntas una vez por semana: la mesa se despeja de portátiles.",sentada,mesa,grupo,no,mostrarse,hora,COMP,situación C
+E056,16:00,finde,"Cocina para cinco días y etiqueta los táperes con su nombre.",de_pie,cocina,sola,si,indiferente,horas,GZ,
+E057,17:00,finde,"Vende ropa en Vinted: fotos sobre la cama hecha, paquetes en el suelo, cola en Correos.",de_pie,cama,sola_conectada,si,mostrarse,hora,GZ,
+E058,18:00,finde,"Previa en el cuarto: seis personas en una cama de 1,25, un altavoz pequeño; el resto del piso lo oye.",sentada,cama,grupo,si,mostrarse,horas,GZ,
+E059,19:00,finde,"Se maquilla delante del móvil apoyado en la ventana porque el baño está ocupado.",sentada,cama,sola,si,controlar,min,GZ,
+E060,20:00,finde,"Botellón en la plaza: el bar es caro y el salón es de todas.",sentada,fuera,grupo,si,mostrarse,horas,RAS,
+E061,23:00,finde,"Cumpleaños sorpresa en el salón; la tarta se esconde en el cuarto de la que menos recibe.",de_pie,comun,grupo,no,mostrarse,hora,GZ,
+E062,08:00,finde,"Baja al Rastro antes de que se llene: busca una lámpara y una silla por menos de 10 €.",moviendose,fuera,desconocidos,no,indiferente,horas,RAS,
+E063,10:00,finde,"Vende en el suelo lo que no cabe en la mudanza: libros, un espejo, una tabla.",sentada,fuera,desconocidos,no,mostrarse,horas,RAS,
+E064,11:00,finde,"Se prueba ropa del Rastro delante del espejo del cuarto; lo que no vale va a una bolsa para vender.",de_pie,cama,sola,si,controlar,min,RAS,
+E065,12:00,finde,"Pintan una pancarta en el suelo del salón y la cuelgan del balcón con bridas.",de_pie,umbral,grupo,no,mostrarse,hora,SOL,
+E066,13:00,finde,"Caña en el bar de abajo con los compañeros; el bar hace de salón.",sentada,fuera,grupo,no,mostrarse,hora,RAS,
+E067,15:00,finde,"Siesta de domingo con el ruido del mercadillo recogiéndose.",tumbada,cama,sola,no,ocultarse,hora,RAS,
+E068,17:00,finde,"Vuelve a casa de sus padres a cenar y a poner lavadoras; se trae táperes para la semana.",moviendose,fuera,grupo,no,indiferente,horas,SOL,Andrea / Irene
+E069,19:00,finde,"Vuelve de la manifestación con la garganta rota y se tumba con los zapatos puestos.",tumbada,cama,sola,si,ocultarse,min,SOL,26S
+E070,21:00,finde,"Domingo noche: ansiedad por el lunes; mira el techo con la lámpara nueva encendida.",tumbada,cama,sola,si,ocultarse,horas,GZ,
+E071,22:15,lab,"Grupo de WhatsApp del piso: la limpieza se discute por escrito; nadie sale al pasillo.",tumbada,cama,sola_conectada,si,ocultarse,min,GZ,
+E072,09:50,lab,"Calendario de limpieza en la nevera que nadie mira; la foto de la cocina sucia va al chat.",de_pie,cocina,otra,si,mostrarse,min,ESC,S14
+E073,20:10,lab,"Habitación de 689 € con alguien que no elegiste; se cruzan en el pasillo sin hablar.",moviendose,umbral,desconocidos,no,controlar,min,SOL,base.txt: no eliges con quién
+E074,19:45,lab,"La puerta cerrada es la señal; nadie llama.",de_pie,umbral,otra,no,ocultarse,min,COMP,
+E075,23:45,lab,"La pareja viene a dormir tres noches por semana y se convierte en cuarta compañera sin pagar.",tumbada,cama,otra,no,controlar,noche,GZ,
+E076,16:20,lab,"Acompaña a alguien que está mal: sentadas en el suelo del pasillo, sin encender la luz.",sentada,umbral,otra,no,ocultarse,hora,ESC,S10
+E077,10:05,lab,"Bizum del alquiler el día 1: 689 €, el sueldo entero, y el mensaje «ya está».",sentada,cama,sola_conectada,si,indiferente,min,SOL,Elena Mercero
+E078,11:30,lab,"Visita del casero: esconde al gato, descuelga la pancarta y quita el colchón del suelo.",moviendose,comun,desconocidos,no,controlar,hora,GZ,
+E079,08:50,lab,"Maleta sin deshacer tres meses: vive desde la maleta abierta sobre una silla.",de_pie,cama,sola,no,indiferente,min,HA,base de operaciones temporal
+E080,21:15,lab,"Nada en las paredes: una tira de luces LED y fotos con cinta; todo se quita en 10 min.",de_pie,cama,sola,no,mostrarse,min,HA,
+E081,12:00,finde,"Mudanza en un coche de alquiler por horas: tres cajas y la planta; el colchón se queda.",moviendose,umbral,otra,si,indiferente,horas,SOL,María Barrier: cambiar de barrio cada dos años
+E082,18:30,finde,"Guarda lo que no cabe en casa de sus padres: la bici, los libros, la ropa de invierno.",moviendose,fuera,grupo,no,indiferente,horas,HA,
+E083,13:30,finde,"Deja a quien viene la cafetera, el perchero y la lista de teléfonos: queda memoria para quien llega.",de_pie,cama,otra,no,mostrarse,min,SOL,cuaderno: temporalidad → continuidad
+E084,09:00,finde,"Subarrienda el cuarto en agosto a una desconocida y guarda su ropa en una bolsa bajo la cama.",de_pie,cama,desconocidos,si,controlar,hora,GZ,
+E085,22:40,lab,"Alquiló tres meses y volvió con sus padres; el cuarto de la infancia con el portátil de ahora.",tumbada,cama,grupo,si,ocultarse,horas,SOL,Jorge Collado
+E086,23:10,lab,"Vive con su abuela: estudia en la mesa de la cocina de noche, cuando ella se acuesta.",sentada,mesa,otra,si,ocultarse,horas,SOL,Iona
+E087,07:20,lab,"Tres horas de transporte al día: el cercanías es la habitación donde lee, duerme y contesta.",sentada,fuera,desconocidos,si,indiferente,horas,SOL,Jairo
+E088,09:20,lab,"Una planta en un jarrón del Rastro: lo único que cuida y lo único que no es de nadie más.",de_pie,cama,sola,no,mostrarse,min,HA,el jarrón como supervivencia emocional
+E089,00:50,noche,"Carga el móvil con un cable corto: duerme con el cuerpo torcido hacia el enchufe.",tumbada,cama,sola,si,indiferente,noche,GZ,
+E090,19:15,lab,"Compra online todo lo pequeño; el portal se llena de cajas de otras.",moviendose,umbral,desconocidos,si,indiferente,min,GZ,
+E091,22:20,lab,"Ducha larga: el único sitio con pestillo y vapor donde nadie entra; 25 min hasta que se acaba el agua caliente.",de_pie,bano,sola,no,ocultarse,min,GZ,
+E092,17:40,lab,"Regla con dolor: bolsa de agua caliente, cama, serie y aviso en el chat de que hoy no cocina.",tumbada,cama,sola_conectada,si,ocultarse,horas,GZ,
+E093,13:00,lab,"Enferma: quiere retirarse sin desaparecer; alguien le deja sopa en la puerta.",tumbada,cama,otra,si,ocultarse,noche,ESC,S16
+E094,23:20,lab,"Cuidado de la piel en doce pasos delante del móvil con un aro de luz; el baño está ocupado.",sentada,cama,sola,si,controlar,min,GZ,
+E095,07:55,lab,"Meditación con una app, diez minutos sentada en el suelo entre la cama y la puerta.",sentada,suelo,sola_conectada,si,ocultarse,min,GZ,
+E096,20:00,lab,"Tres días sin salir del cuarto; la comida llega a la puerta; el chat del piso pregunta si está bien.",tumbada,cama,sola_conectada,si,ocultarse,noche,GZ,
+E097,18:50,lab,"Estira en el suelo con la espalda rota de trabajar en la cama.",tumbada,suelo,sola,si,indiferente,min,HA,
+E098,07:00,lab,"Corre por la Ribera a las 7 con cascos y se ducha en 4 min antes de que se levante nadie.",moviendose,fuera,sola_conectada,si,indiferente,hora,HA,
+E099,01:30,noche,"Punto violeta en la acampada: una tienda con luz donde se escucha a quien lo necesita.",sentada,fuera,otra,no,ocultarse,hora,SOL,
+E100,17:00,lab,"Cuida de la hija de otra residente dos tardes; la cama hace de parque.",sentada,cama,otra,no,indiferente,horas,SOL,chiqui-asamblea
+E101,23:00,lab,"Toma la pastilla a la misma hora cada noche: alarma del móvil y vaso de agua en el suelo.",tumbada,cama,sola,si,ocultarse,min,GZ,
+E102,21:40,lab,"Se depila con un espejo de mano en la cama porque la luz del baño es mala.",sentada,cama,sola,no,ocultarse,min,GZ,
+E103,23:30,lab,"Perro pequeño en un piso que no lo permite; lo saca por la escalera de atrás.",moviendose,umbral,sola,no,ocultarse,min,GZ,
+E104,19:30,finde,"Se tatúa en casa de una amiga que está aprendiendo: sofá, flexo, guantes.",tumbada,comun,otra,si,controlar,hora,GZ,
+E105,22:50,lab,"Lava la ropa interior a mano en el lavabo y la seca en el radiador del cuarto.",de_pie,bano,sola,no,ocultarse,min,HA,
+E106,09:00,lab,"Teleoperador desde el cuarto: auriculares, guion, 8 h; el micrófono capta la lavadora.",sentada,mesa,sola_conectada,si,controlar,horas,SOL,Pepe
+E107,05:30,noche,"Reparte pedidos de madrugada; carga dos baterías en el cuarto; huele a goma.",de_pie,cama,sola,no,indiferente,min,GZ,
+E108,10:00,lab,"Oposiciones: 8 h en la misma silla; el cuarto es el aula; tapones de cera.",sentada,mesa,sola,no,ocultarse,horas,COMP,situación B
+E109,02:45,noche,"Edita vídeos hasta las 3 para subirlos a las 9; el ordenador suena como un avión.",sentada,mesa,sola_conectada,si,ocultarse,horas,SOL,creadora de contenido
+E110,17:30,lab,"Clase particular por videollamada a un niño; el fondo tiene que parecer una oficina.",sentada,cama,sola_conectada,si,mostrarse,hora,GZ,
+E111,11:00,lab,"Vende por Instagram lo que hace: fotos en el suelo con la buena luz de las 11.",de_pie,suelo,sola_conectada,si,mostrarse,hora,RAS,
+E112,16:30,lab,"Turno partido: vuelve a casa 2 h a dormir entre dos turnos, vestida.",tumbada,cama,sola,no,ocultarse,hora,COMP,situación B
+E113,21:00,lab,"Rellena un formulario de ayudas en el móvil, en la cama, con el DNI al lado; se cuelga en el paso 4.",tumbada,cama,sola_conectada,si,indiferente,hora,GZ,
+E114,20:30,lab,"Pide un adelanto a un amigo por Bizum para llegar al día 1.",sentada,cama,sola_conectada,si,ocultarse,min,SOL,
+E115,08:20,lab,"Lleva el portátil al baño para seguir una reunión mientras hace cola para la ducha.",de_pie,bano,otra,si,controlar,min,HA,
+E116,21:30,lab,"Asamblea del piso en el salón: 40 min para decidir el wifi; se vota a mano alzada como en Sol.",sentada,comun,grupo,no,mostrarse,hora,SOL,
+E117,19:30,lab,"Asamblea online del comité de barrio: 30 cuadrados, la mitad sin cámara, desde las camas.",tumbada,cama,grupo,si,controlar,hora,SOL,comités de barrio
+E118,12:30,lab,"Caja de resistencia: cada una pone 10 € para la multa de otra.",sentada,cama,sola_conectada,si,indiferente,min,SOL,
+E119,18:10,lab,"Se prestan el taladro, la plancha y la maleta; hay un inventario en el chat.",de_pie,umbral,otra,si,indiferente,min,SOL,
+E120,23:00,lab,"Pintan carteles en el suelo del pasillo la noche antes de la manifestación.",sentada,suelo,grupo,no,mostrarse,horas,SOL,
+E121,20:00,lab,"Huelga de alquileres: reunión con la vecina del 2.º en la escalera para no pagar el mismo mes.",de_pie,umbral,otra,no,controlar,min,SOL,Sindicato de Inquilinas
+E122,02:00,noche,"Turno de noche en la acampada: controlar la entrada, repartir mantas, chalecos de colores.",de_pie,fuera,desconocidos,no,mostrarse,horas,SOL,
+E123,14:00,lab,"Reparte la comida de la cocina externa en la plaza: 300 raciones en 40 min.",de_pie,fuera,grupo,no,mostrarse,hora,SOL,
+E124,16:00,lab,"Biblioteca de la acampada: libros que llegan en especie y se llevan sin registro.",sentada,fuera,desconocidos,no,indiferente,hora,SOL,
+E125,08:00,lab,"El saco de dormir compartido: lo usa una de día y otra de noche.",moviendose,fuera,otra,no,indiferente,min,SOL,sacos que pasan de mano en mano
+E126,22:00,lab,"Montan una tienda de 2 × 2 en 10 min con cinta y lona contra la lluvia.",moviendose,fuera,grupo,no,indiferente,min,SOL,
+E127,18:00,lab,"Redibuja el plano de la plaza a mano en una libreta cada vez que llegan tiendas nuevas.",sentada,fuera,grupo,no,mostrarse,hora,SOL,Alejandro T.
+E128,19:00,finde,"Taller de autodefensa feminista en el salón con los muebles contra la pared.",moviendose,comun,grupo,no,mostrarse,hora,SOL,comisión feminismos
+E129,21:00,lab,"Directo en Instagram desde la acampada bajo la lluvia: 2.000 personas mirando una tienda.",de_pie,fuera,grupo,si,mostrarse,min,SOL,
+E130,23:30,lab,"Vuelve a dormir a casa de sus padres y a la plaza a las 7: la tienda queda vacía 8 h.",tumbada,cama,grupo,no,ocultarse,noche,SOL,rotación
+E131,23:15,lab,"App de citas en la cama: ocho conversaciones, ninguna cita; la foto del perfil, hecha en el cuarto.",tumbada,cama,sola_conectada,si,controlar,hora,GZ,
+E132,20:30,finde,"Primera cita en casa porque el bar es caro: ordena el cuarto, esconde la ropa, enciende las luces LED.",moviendose,cama,otra,no,mostrarse,hora,GZ,
+E133,18:30,lab,"Tirada 40 min sin hacer nada; no es descanso, es no poder.",tumbada,cama,sola,no,ocultarse,hora,GZ,
+E134,21:00,finde,"Ven un partido tres personas en una pantalla de 13 pulgadas sobre la cama.",sentada,cama,grupo,si,mostrarse,horas,GZ,
+E135,00:15,noche,"Lee en el móvil tumbada en el suelo porque la cama da calor.",tumbada,suelo,sola,si,ocultarse,hora,GZ,
+E136,01:00,noche,"Fuma sentada en el alféizar con un pie fuera; la calle es el balcón.",sentada,umbral,sola,si,indiferente,min,RAS,
+E137,22:00,lab,"Sube a la azotea cerrada con una llave que no debería tener; el cielo de Madrid es la única habitación grande.",sentada,fuera,otra,no,ocultarse,hora,HA,azotea comunitaria
+E138,17:15,lab,"Toca la guitarra con los cascos enchufados a un amplificador de 5 W para no molestar.",sentada,cama,sola,no,ocultarse,hora,GZ,
+E139,11:20,finde,"Pone música en un altavoz pequeño mientras limpia; la baja cuando oye la puerta de otra.",moviendose,comun,otra,si,controlar,min,GZ,
+E140,16:45,lab,"Dibuja con la tableta tumbada boca abajo en la cama.",tumbada,cama,sola_conectada,si,ocultarse,horas,AUT,
+E141,09:40,lab,"Tres macetas del Rastro en la ventana y una cuerda; riega desde la cama con un vaso.",tumbada,cama,sola,no,indiferente,min,HA,
+E142,12:30,finde,"Compra una silla de oficina de segunda mano porque la espalda ya no aguanta la cama.",moviendose,fuera,desconocidos,si,indiferente,hora,HA,
+E143,00:30,noche,"Karaoke en el salón con el móvil conectado a la tele; el vecino de abajo da golpes en el techo.",de_pie,comun,grupo,si,mostrarse,hora,GZ,
+E144,02:20,noche,"Se queda a dormir en el sofá de una amiga en Vallecas para no hacer 1 h 30 de vuelta.",tumbada,comun,otra,no,ocultarse,noche,SOL,periferia
+E145,03:10,noche,"Mira el techo: la mancha de humedad es el único cuadro.",tumbada,cama,sola,no,indiferente,min,HA,
+E146,07:40,lab,"Contesta mensajes de trabajo desde la cama antes de levantarse; el día empieza acostada.",tumbada,cama,sola_conectada,si,indiferente,min,HA,
+E147,10:30,finde,"Recoge el cuarto en 10 min grabando un vídeo acelerado para redes.",moviendose,cama,sola_conectada,si,mostrarse,min,GZ,
+E148,19:00,lab,"Graba un pódcast con una amiga con el edredón por encima para que no resuene.",sentada,cama,otra,si,ocultarse,hora,GZ,
+E149,21:50,lab,"Deja la puerta del cuarto abierta a propósito: hoy quiere que alguien entre a hablar.",tumbada,cama,otra,no,mostrarse,hora,COMP,
+E150,23:55,lab,"Última noche en el piso: duerme en el colchón en el suelo entre cajas; el móvil al 100 % y el despertador a las 6.",tumbada,suelo,sola,si,indiferente,noche,SOL,cambiar de barrio

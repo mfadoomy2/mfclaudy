@@ -202,9 +202,10 @@ Cada punto lleva su tipo: **dato** (medido o leído de una fuente), **lectura** 
 
 ### Reglas nuevas
 
-- R1. La unidad se justifica con la encuesta y las fuentes reales. Las escenas inventadas solo sirven para comprobar, nunca para generar.
+- R1. **Corregida el mismo día por Adam.** La encuesta es contexto, no genera la unidad: sus categorías son viejas (apartamento privado, zonas comunes). La unidad sale de **cómo vive la juventud hoy**, contado en muchas escenas (150, no 20), y de lo que esas escenas tienen en común. La radicalidad es de **programa** (qué contiene la unidad), no solo de forma. Referencias que pone Adam: la unidad infinita de Superstudio y la unidad-cama de María Palacios (misma parcela).
 - R2. El conflicto que organiza es **horario y acústico**: descanso protegido frente a trabajo, voz y cocina a otras horas. Se comprueba en planta y en sección (separaciones, DB-HR).
 - R3. La vivienda va por encima de ≈ +21 m o se justifica hueco a hueco. Abajo va lo común y lo público.
-- R4. Nada de mobiliario «flexible» como argumento (1 de 34 lo pide).
-- R5. La cubierta compartida es programa principal (30 de 34), no un resto.
+- R4. El mobiliario «flexible» no es un argumento por sí mismo; lo que se invente tiene que venir de una escena.
+- R5. La cubierta y el cielo son programa, no un resto.
 - R6. Se sigue usando el mismo Rhino para el mismo trabajo, y cada cifra lleva su fuente y su fecha.
+- R7. Las 150 escenas y su análisis están en `01_150_ESCENAS.md` y `escenas.csv`. Cada escena lleva su fuente; las que son hipótesis mías van marcadas como tales.
