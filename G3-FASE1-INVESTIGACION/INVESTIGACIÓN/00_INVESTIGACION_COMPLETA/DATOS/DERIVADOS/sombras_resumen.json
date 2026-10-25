@@ -1,0 +1,28 @@
+{
+ "hipotesis_altura": "PB 4.0 m + 3.1 m/planta (B)",
+ "resolucion_m": 1,
+ "paso_min": 15,
+ "parcela": {
+  "2026-03-21": {
+   "media_parcela_h": 0.85,
+   "min": 0.0,
+   "max": 3.5,
+   "pct_parcela_>=4h": 0.0,
+   "pct_parcela_>=2h": 21.2
+  },
+  "2026-06-21": {
+   "media_parcela_h": 7.97,
+   "min": 2.75,
+   "max": 11.5,
+   "pct_parcela_>=4h": 94.0,
+   "pct_parcela_>=2h": 100.0
+  },
+  "2026-12-21": {
+   "media_parcela_h": 0.17,
+   "min": 0.0,
+   "max": 2.75,
+   "pct_parcela_>=4h": 0.0,
+   "pct_parcela_>=2h": 2.9
+  }
+ }
+}

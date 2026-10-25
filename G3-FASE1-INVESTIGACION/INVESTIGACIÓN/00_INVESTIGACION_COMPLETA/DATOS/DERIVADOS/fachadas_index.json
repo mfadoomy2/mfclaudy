@@ -1,0 +1,1994 @@
+[
+{
+"rc": "0136401VK4703E",
+"side": "E",
+"dmin": 15.4,
+"s0": 24.9,
+"s1": 31.8,
+"len": 6.8,
+"anio": 1860,
+"uso": "1_residential",
+"plantas_max": 8,
+"viviendas": 17,
+"unidades": 23,
+"file": "vistas/fachadas/E01_0136401VK4703E.jpg",
+"L": 7.1,
+"H": 29.6,
+"estaciones": [
+"E01"
+],
+"a": [
+439995.29,
+4473566.29
+],
+"b": [
+439996.95,
+4473559.4
+],
+"codigo": "E01",
+"plantas_frente": 7,
+"plantas_frente_pond": 6.5,
+"cod": {
+"pb_com": 1,
+"cierre": null,
+"grafiti": null,
+"zocalo": null,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "mixto",
+"toldo_alto": 1,
+"instal": null,
+"vegetal": null,
+"alero": 1,
+"expo": null,
+"nota": "recorte estrecho (7 m)"
+}
+},
+{
+"rc": "0136420VK4703E",
+"side": "E",
+"dmin": 11.1,
+"s0": 114.7,
+"s1": 122.3,
+"len": 7.6,
+"anio": 1850,
+"uso": "1_residential",
+"plantas_max": 5,
+"viviendas": 1,
+"unidades": 1,
+"file": "vistas/fachadas/E02_0136420VK4703E.jpg",
+"L": 7.6,
+"H": 20.0,
+"estaciones": [
+"E04"
+],
+"a": [
+439997.29,
+4473478.34
+],
+"b": [
+439997.43,
+4473470.79
+],
+"codigo": "E02",
+"plantas_frente": 2,
+"plantas_frente_pond": 2.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 1,
+"vegetal": 0,
+"alero": 1,
+"expo": 0,
+"nota": "casa baja de 2 plantas con buhardillas"
+}
+},
+{
+"rc": "0136419VK4703E",
+"side": "E",
+"dmin": 10.3,
+"s0": 122.3,
+"s1": 136.2,
+"len": 13.9,
+"anio": 1986,
+"uso": "1_residential",
+"plantas_max": 5,
+"viviendas": 31,
+"unidades": 38,
+"file": "vistas/fachadas/E03_0136419VK4703E.jpg",
+"L": 13.9,
+"H": 20.0,
+"estaciones": [
+"E04"
+],
+"a": [
+439996.67,
+4473470.77
+],
+"b": [
+439996.37,
+4473456.91
+],
+"codigo": "E03",
+"plantas_frente": 5,
+"plantas_frente_pond": 4.8,
+"cod": {
+"pb_com": 1,
+"cierre": null,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 1,
+"instal": 1,
+"vegetal": 1,
+"alero": 1,
+"expo": 0,
+"nota": "revoco con despiece de siller\u00eda"
+}
+},
+{
+"rc": "0136418VK4703E",
+"side": "E",
+"dmin": 10.2,
+"s0": 136.7,
+"s1": 148.6,
+"len": 11.9,
+"anio": 1987,
+"uso": "1_residential",
+"plantas_max": 6,
+"viviendas": 9,
+"unidades": 12,
+"file": "vistas/fachadas/E04_0136418VK4703E.jpg",
+"L": 11.9,
+"H": 23.2,
+"estaciones": [
+"E04",
+"E05"
+],
+"a": [
+439996.36,
+4473456.43
+],
+"b": [
+439996.08,
+4473444.53
+],
+"codigo": "E04",
+"plantas_frente": 5,
+"plantas_frente_pond": 5.0,
+"cod": {
+"pb_com": 1,
+"cierre": null,
+"grafiti": null,
+"zocalo": null,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": null,
+"acabado": "revoco",
+"toldo_alto": 1,
+"instal": null,
+"vegetal": null,
+"alero": null,
+"expo": null,
+"nota": "ocultado por arbolado"
+}
+},
+{
+"rc": "0136416VK4703E",
+"side": "E",
+"dmin": 12.2,
+"s0": 148.4,
+"s1": 159.0,
+"len": 10.5,
+"anio": 1850,
+"uso": "4_2_retail",
+"plantas_max": 4,
+"viviendas": 3,
+"unidades": 6,
+"file": "vistas/fachadas/E05_0136416VK4703E.jpg",
+"L": 10.7,
+"H": 16.8,
+"estaciones": [
+"E05"
+],
+"a": [
+439998.11,
+4473444.67
+],
+"b": [
+439998.41,
+4473433.97
+],
+"codigo": "E05",
+"plantas_frente": 3,
+"plantas_frente_pond": 2.5,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 0,
+"zocalo": null,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 1,
+"vegetal": 0,
+"alero": 1,
+"expo": 0,
+"nota": "casa baja; portal en arco"
+}
+},
+{
+"rc": "0136415VK4703E",
+"side": "E",
+"dmin": 10.6,
+"s0": 159.2,
+"s1": 170.2,
+"len": 11.0,
+"anio": 1943,
+"uso": "1_residential",
+"plantas_max": 7,
+"viviendas": 10,
+"unidades": 12,
+"file": "vistas/fachadas/E06_0136415VK4703E.jpg",
+"L": 11.0,
+"H": 26.4,
+"estaciones": [
+"E05"
+],
+"a": [
+439996.4,
+4473433.8
+],
+"b": [
+439996.22,
+4473422.76
+],
+"codigo": "E06",
+"plantas_frente": 5,
+"plantas_frente_pond": 5.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 1,
+"vegetal": 1,
+"alero": 1,
+"expo": 0
+}
+},
+{
+"rc": "0136414VK4703E",
+"side": "E",
+"dmin": 10.6,
+"s0": 170.2,
+"s1": 185.5,
+"len": 15.3,
+"anio": 1985,
+"uso": "1_residential",
+"plantas_max": 7,
+"viviendas": 25,
+"unidades": 30,
+"file": "vistas/fachadas/E07_0136414VK4703E.jpg",
+"L": 15.3,
+"H": 26.4,
+"estaciones": [
+"E05",
+"E06"
+],
+"a": [
+439996.22,
+4473422.76
+],
+"b": [
+439995.96,
+4473407.47
+],
+"codigo": "E07",
+"plantas_frente": 6,
+"plantas_frente_pond": 6.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 1,
+"instal": 0,
+"vegetal": 1,
+"alero": 1,
+"expo": 0
+}
+},
+{
+"rc": "0136701VK4703E",
+"side": "E",
+"dmin": 10.5,
+"s0": 191.2,
+"s1": 215.6,
+"len": 24.3,
+"anio": 1973,
+"uso": "1_residential",
+"plantas_max": 9,
+"viviendas": 47,
+"unidades": 48,
+"file": "vistas/fachadas/E08_0136701VK4703E.jpg",
+"L": 24.3,
+"H": 32.8,
+"estaciones": [
+"E06"
+],
+"a": [
+439995.92,
+4473401.86
+],
+"b": [
+439995.56,
+4473377.55
+],
+"codigo": "E08",
+"plantas_frente": 8,
+"plantas_frente_pond": 7.2,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 1,
+"zocalo": 0,
+"ejes": 0,
+"balcon": "corr",
+"mirador": 0,
+"recercado": 0,
+"acabado": "mixto",
+"toldo_alto": 1,
+"instal": 1,
+"vegetal": 1,
+"alero": 0,
+"expo": 0,
+"nota": "terrazas corridas con toldos"
+}
+},
+{
+"rc": "0136718VK4703E",
+"side": "E",
+"dmin": 10.4,
+"s0": 216.0,
+"s1": 232.5,
+"len": 16.5,
+"anio": 1980,
+"uso": "1_residential",
+"plantas_max": 7,
+"viviendas": 1,
+"unidades": 1,
+"file": "vistas/fachadas/E09_0136718VK4703E.jpg",
+"L": 16.5,
+"H": 26.4,
+"estaciones": [
+"E06",
+"E07"
+],
+"a": [
+439995.55,
+4473377.1
+],
+"b": [
+439995.31,
+4473360.64
+],
+"codigo": "E09",
+"plantas_frente": 7,
+"plantas_frente_pond": 6.4,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "mixto",
+"mirador": 0,
+"recercado": 1,
+"acabado": "mixto",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 1,
+"alero": 0,
+"expo": 0,
+"nota": "torre\u00f3n ornamental; a\u00f1o catastral 1980"
+}
+},
+{
+"rc": "0136717VK4703E",
+"side": "E",
+"dmin": 10.3,
+"s0": 232.5,
+"s1": 249.0,
+"len": 16.6,
+"anio": 1910,
+"uso": "1_residential",
+"plantas_max": 6,
+"viviendas": 17,
+"unidades": 19,
+"file": "vistas/fachadas/E10_0136717VK4703E.jpg",
+"L": 16.6,
+"H": 23.2,
+"estaciones": [
+"E07"
+],
+"a": [
+439995.31,
+4473360.64
+],
+"b": [
+439995.06,
+4473344.08
+],
+"codigo": "E10",
+"plantas_frente": 5,
+"plantas_frente_pond": 5.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "ladrillo",
+"toldo_alto": 1,
+"instal": 0,
+"vegetal": 1,
+"alero": 1,
+"expo": 0
+}
+},
+{
+"rc": "0135601VK4703E",
+"side": "E",
+"dmin": 10.8,
+"s0": 257.3,
+"s1": 275.2,
+"len": 18.0,
+"anio": 1973,
+"uso": "1_residential",
+"plantas_max": 7,
+"viviendas": 24,
+"unidades": 33,
+"file": "vistas/fachadas/E11_0135601VK4703E.jpg",
+"L": 18.0,
+"H": 26.4,
+"estaciones": [
+"E08",
+"E09"
+],
+"a": [
+439995.06,
+4473335.31
+],
+"b": [
+439994.61,
+4473317.34
+],
+"codigo": "E11",
+"plantas_frente": 6,
+"plantas_frente_pond": 6.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 0,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 0,
+"acabado": "ladrillo",
+"toldo_alto": 1,
+"instal": 1,
+"vegetal": 1,
+"alero": 1,
+"expo": 0,
+"nota": "aparatos de climatizaci\u00f3n en fachada"
+}
+},
+{
+"rc": "0135625VK4703E",
+"side": "E",
+"dmin": 11.2,
+"s0": 275.2,
+"s1": 289.7,
+"len": 14.4,
+"anio": 1985,
+"uso": "1_residential",
+"plantas_max": 7,
+"viviendas": 13,
+"unidades": 17,
+"file": "vistas/fachadas/E12_0135625VK4703E.jpg",
+"L": 14.4,
+"H": 26.4,
+"estaciones": [
+"E09",
+"E10"
+],
+"a": [
+439994.61,
+4473317.34
+],
+"b": [
+439994.48,
+4473302.91
+],
+"codigo": "E12",
+"plantas_frente": 6,
+"plantas_frente_pond": 6.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 0,
+"acabado": "revoco",
+"toldo_alto": 1,
+"instal": 1,
+"vegetal": 1,
+"alero": 1,
+"expo": 0
+}
+},
+{
+"rc": "0135624VK4703E",
+"side": "E",
+"dmin": 12.0,
+"s0": 289.7,
+"s1": 296.6,
+"len": 6.9,
+"anio": 2018,
+"uso": "1_residential",
+"plantas_max": 6,
+"viviendas": 1,
+"unidades": 1,
+"file": "vistas/fachadas/E13_0135624VK4703E.jpg",
+"L": 6.9,
+"H": 23.2,
+"estaciones": [
+"E10"
+],
+"a": [
+439994.48,
+4473302.91
+],
+"b": [
+439994.4,
+4473296.01
+],
+"codigo": "E13",
+"plantas_frente": 5,
+"plantas_frente_pond": 5.0,
+"cod": {
+"pb_com": 1,
+"cierre": null,
+"grafiti": 1,
+"zocalo": 0,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 0,
+"acabado": "ladrillo",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 0,
+"alero": 0,
+"expo": 0,
+"nota": "local con cartel DISPONIBLE"
+}
+},
+{
+"rc": "0135623VK4703C",
+"side": "E",
+"dmin": 12.3,
+"s0": 296.6,
+"s1": 310.4,
+"len": 13.8,
+"anio": 1905,
+"uso": "1_residential",
+"plantas_max": 6,
+"viviendas": 1,
+"unidades": 1,
+"file": "vistas/fachadas/E14_0135623VK4703C.jpg",
+"L": 13.8,
+"H": 23.2,
+"estaciones": [
+"E10",
+"E11"
+],
+"a": [
+439994.4,
+4473296.01
+],
+"b": [
+439994.24,
+4473282.17
+],
+"codigo": "E14",
+"plantas_frente": 6,
+"plantas_frente_pond": 6.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "ladrillo",
+"toldo_alto": 1,
+"instal": 0,
+"vegetal": 1,
+"alero": 1,
+"expo": 0,
+"nota": "recercados blancos sobre ladrillo"
+}
+},
+{
+"rc": "0134901VK4703C",
+"side": "E",
+"dmin": 13.3,
+"s0": 316.7,
+"s1": 357.7,
+"len": 39.1,
+"anio": 1952,
+"uso": "4_2_retail",
+"plantas_max": 10,
+"viviendas": 23,
+"unidades": 91,
+"file": "vistas/fachadas/E15_0134901VK4703C.jpg",
+"L": 39.4,
+"H": 36.0,
+"estaciones": [
+"E11",
+"E12",
+"E13"
+],
+"a": [
+439994.2,
+4473276.15
+],
+"b": [
+439996.07,
+4473236.83
+],
+"codigo": "E15",
+"plantas_frente": 8,
+"plantas_frente_pond": 3.2,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ninguno",
+"mirador": 0,
+"recercado": 0,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 0,
+"alero": 0,
+"expo": 0,
+"nota": "Galer\u00edas Piquer: pasaje comercial al interior de manzana"
+}
+},
+{
+"rc": "0134910VK4703C",
+"side": "E",
+"dmin": 13.6,
+"s0": 372.7,
+"s1": 384.7,
+"len": 11.7,
+"anio": 1928,
+"uso": "1_residential",
+"plantas_max": 8,
+"viviendas": 46,
+"unidades": 50,
+"file": "vistas/fachadas/E16_0134910VK4703C.jpg",
+"L": 12.0,
+"H": 29.6,
+"estaciones": [
+"E14"
+],
+"a": [
+439997.28,
+4473221.9
+],
+"b": [
+439998.43,
+4473209.92
+],
+"codigo": "E16",
+"plantas_frente": 8,
+"plantas_frente_pond": 7.3,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 0,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 1,
+"instal": 1,
+"vegetal": 1,
+"alero": 0,
+"expo": 1,
+"nota": "quiosco con exposici\u00f3n en acera"
+}
+},
+{
+"rc": "0134912VK4703C",
+"side": "E",
+"dmin": 13.8,
+"s0": 384.7,
+"s1": 396.4,
+"len": 11.7,
+"anio": 2018,
+"uso": "1_residential",
+"plantas_max": 9,
+"viviendas": 72,
+"unidades": 234,
+"file": "vistas/fachadas/E17_0134912VK4703C.jpg",
+"L": 11.7,
+"H": 32.8,
+"estaciones": [
+"E14",
+"E15"
+],
+"a": [
+439998.43,
+4473209.92
+],
+"b": [
+439999.53,
+4473198.25
+],
+"codigo": "E17",
+"plantas_frente": 8,
+"plantas_frente_pond": 8.0,
+"cod": {
+"pb_com": 0,
+"cierre": 0,
+"grafiti": 0,
+"zocalo": 0,
+"ejes": 1,
+"balcon": "ninguno",
+"mirador": 1,
+"recercado": 0,
+"acabado": "placado",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 0,
+"alero": 0,
+"expo": 0,
+"nota": "obra 2018; mirador acristalado en esquina"
+}
+},
+{
+"rc": "0133907VK4703C",
+"side": "E",
+"dmin": 16.3,
+"s0": 470.0,
+"s1": 487.1,
+"len": 17.2,
+"anio": 1998,
+"uso": "1_residential",
+"plantas_max": 8,
+"viviendas": 25,
+"unidades": 75,
+"file": "vistas/fachadas/E18_0133907VK4703C.jpg",
+"L": 17.2,
+"H": 29.6,
+"estaciones": [
+"E19"
+],
+"a": [
+440009.57,
+4473125.66
+],
+"b": [
+440010.9,
+4473108.56
+],
+"codigo": "E18",
+"plantas_frente": 6,
+"plantas_frente_pond": 5.5,
+"cod": {
+"pb_com": 1,
+"cierre": null,
+"grafiti": 1,
+"zocalo": null,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 0,
+"acabado": "revoco",
+"toldo_alto": null,
+"instal": null,
+"vegetal": null,
+"alero": 0,
+"expo": 0,
+"nota": "soportal; ocultado por arbolado"
+}
+},
+{
+"rc": "0133906VK4703C",
+"side": "E",
+"dmin": 15.9,
+"s0": 498.9,
+"s1": 507.4,
+"len": 8.5,
+"anio": 2003,
+"uso": "1_residential",
+"plantas_max": 10,
+"viviendas": 30,
+"unidades": 32,
+"file": "vistas/fachadas/E19_0133906VK4703C.jpg",
+"L": 8.5,
+"H": 36.0,
+"estaciones": [
+"E20"
+],
+"a": [
+440011.9,
+4473096.83
+],
+"b": [
+440012.61,
+4473088.38
+],
+"codigo": "E19",
+"plantas_frente": 9,
+"plantas_frente_pond": 9.0,
+"cod": {
+"pb_com": null,
+"cierre": null,
+"grafiti": null,
+"zocalo": null,
+"ejes": null,
+"balcon": null,
+"mirador": null,
+"recercado": null,
+"acabado": "ladrillo",
+"toldo_alto": null,
+"instal": null,
+"vegetal": null,
+"alero": null,
+"expo": null,
+"nota": "no legible"
+}
+},
+{
+"rc": "0037406VK4703G",
+"side": "W",
+"dmin": 7.0,
+"s0": 1.0,
+"s1": 22.4,
+"len": 22.0,
+"anio": 1860,
+"uso": "1_residential",
+"plantas_max": 7,
+"viviendas": 36,
+"unidades": 58,
+"file": "vistas/fachadas/W02_0037406VK4703G.jpg",
+"L": 21.8,
+"H": 26.4,
+"estaciones": [
+"E01"
+],
+"a": [
+439972.9,
+4473568.19
+],
+"b": [
+439971.87,
+4473589.93
+],
+"codigo": "W02",
+"plantas_frente": 6,
+"plantas_frente_pond": 6.0,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 1,
+"alero": 1,
+"expo": 1,
+"nota": "pizarras y veladores en acera"
+}
+},
+{
+"rc": "0037407VK4703G",
+"side": "W",
+"dmin": 7.3,
+"s0": 22.4,
+"s1": 32.8,
+"len": 10.3,
+"anio": 1860,
+"uso": "1_residential",
+"plantas_max": 5,
+"viviendas": 5,
+"unidades": 7,
+"file": "vistas/fachadas/W03_0037407VK4703G.jpg",
+"L": 10.3,
+"H": 20.0,
+"estaciones": [
+"E01"
+],
+"a": [
+439972.92,
+4473557.85
+],
+"b": [
+439972.9,
+4473568.19
+],
+"codigo": "W03",
+"plantas_frente": 5,
+"plantas_frente_pond": 5.0,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 1,
+"alero": null,
+"expo": 1,
+"nota": "pizarras y macetas en acera"
+}
+},
+{
+"rc": "0037408VK4703G",
+"side": "W",
+"dmin": 7.6,
+"s0": 32.8,
+"s1": 45.8,
+"len": 13.0,
+"anio": 1860,
+"uso": "1_residential",
+"plantas_max": 7,
+"viviendas": 15,
+"unidades": 21,
+"file": "vistas/fachadas/W04_0037408VK4703G.jpg",
+"L": 13.0,
+"H": 26.4,
+"estaciones": [
+"E01",
+"E02"
+],
+"a": [
+439972.94,
+4473544.87
+],
+"b": [
+439972.92,
+4473557.85
+],
+"codigo": "W04",
+"plantas_frente": 7,
+"plantas_frente_pond": 7.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "mixto",
+"toldo_alto": 1,
+"instal": 1,
+"vegetal": 1,
+"alero": 1,
+"expo": 0
+}
+},
+{
+"rc": "0037803VK4703E",
+"side": "W",
+"dmin": 13.8,
+"s0": 52.2,
+"s1": 57.8,
+"len": 6.0,
+"anio": 1905,
+"uso": "1_residential",
+"plantas_max": 4,
+"viviendas": 31,
+"unidades": 46,
+"file": "vistas/fachadas/W05_0037803VK4703E.jpg",
+"L": 6.0,
+"H": 16.8,
+"estaciones": [
+"E02"
+],
+"a": [
+439965.42,
+4473532.66
+],
+"b": [
+439967.35,
+4473538.34
+],
+"codigo": "W05",
+"plantas_frente": 4,
+"plantas_frente_pond": 4.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": null,
+"ejes": null,
+"balcon": "ninguno",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 1,
+"vegetal": 0,
+"alero": 1,
+"expo": 0,
+"nota": "recorte parcial"
+}
+},
+{
+"rc": "0037804VK4703E",
+"side": "W",
+"dmin": 6.0,
+"s0": 55.4,
+"s1": 68.0,
+"len": 12.6,
+"anio": 1850,
+"uso": "1_residential",
+"plantas_max": 5,
+"viviendas": 6,
+"unidades": 8,
+"file": "vistas/fachadas/W06_0037804VK4703E.jpg",
+"L": 12.6,
+"H": 20.0,
+"estaciones": [
+"E02",
+"E03"
+],
+"a": [
+439975.46,
+4473522.81
+],
+"b": [
+439974.06,
+4473535.32
+],
+"codigo": "W06",
+"plantas_frente": 5,
+"plantas_frente_pond": 4.3,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 1,
+"instal": 1,
+"vegetal": 1,
+"alero": 1,
+"expo": 0
+}
+},
+{
+"rc": "0037805VK4703E",
+"side": "W",
+"dmin": 7.5,
+"s0": 68.2,
+"s1": 73.1,
+"len": 4.9,
+"anio": 1860,
+"uso": "4_2_retail",
+"plantas_max": 3,
+"viviendas": 0,
+"unidades": 1,
+"file": "vistas/fachadas/W07_0037805VK4703E.jpg",
+"L": 4.9,
+"H": 13.6,
+"estaciones": [
+"E03"
+],
+"a": [
+439973.55,
+4473517.76
+],
+"b": [
+439973.46,
+4473522.63
+],
+"codigo": "W07",
+"plantas_frente": 3,
+"plantas_frente_pond": 3.0,
+"cod": {
+"pb_com": null,
+"cierre": null,
+"grafiti": null,
+"zocalo": null,
+"ejes": null,
+"balcon": null,
+"mirador": null,
+"recercado": null,
+"acabado": null,
+"toldo_alto": null,
+"instal": null,
+"vegetal": null,
+"alero": null,
+"expo": null,
+"nota": "en obra (andamio y lona) en 2022"
+}
+},
+{
+"rc": "0037806VK4703E",
+"side": "W",
+"dmin": 7.3,
+"s0": 73.1,
+"s1": 87.3,
+"len": 14.2,
+"anio": 1880,
+"uso": "1_residential",
+"plantas_max": 8,
+"viviendas": 31,
+"unidades": 35,
+"file": "vistas/fachadas/W08_0037806VK4703E.jpg",
+"L": 14.2,
+"H": 29.6,
+"estaciones": [
+"E03"
+],
+"a": [
+439973.71,
+4473503.56
+],
+"b": [
+439973.55,
+4473517.76
+],
+"codigo": "W08",
+"plantas_frente": 7,
+"plantas_frente_pond": 7.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 1,
+"recercado": 1,
+"acabado": "mixto",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 0,
+"alero": 1,
+"expo": 0,
+"nota": "miradores curvos; red de protecci\u00f3n"
+}
+},
+{
+"rc": "0037807VK4703E",
+"side": "W",
+"dmin": 7.2,
+"s0": 87.3,
+"s1": 96.1,
+"len": 10.9,
+"anio": 1890,
+"uso": "1_residential",
+"plantas_max": 7,
+"viviendas": 10,
+"unidades": 13,
+"file": "vistas/fachadas/W09_0037807VK4703E.jpg",
+"L": 10.9,
+"H": 26.4,
+"estaciones": [
+"E03"
+],
+"a": [
+439973.66,
+4473492.69
+],
+"b": [
+439973.71,
+4473503.56
+],
+"codigo": "W09",
+"plantas_frente": 6,
+"plantas_frente_pond": 6.0,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 1,
+"instal": 0,
+"vegetal": 0,
+"alero": 1,
+"expo": 0
+}
+},
+{
+"rc": "0035404VK4703E",
+"side": "W",
+"dmin": 10.8,
+"s0": 164.7,
+"s1": 186.8,
+"len": 22.1,
+"anio": 1870,
+"uso": "1_residential",
+"plantas_max": 7,
+"viviendas": 56,
+"unidades": 63,
+"file": "vistas/fachadas/W11_0035404VK4703E.jpg",
+"L": 22.1,
+"H": 26.4,
+"estaciones": [
+"E05",
+"E06"
+],
+"a": [
+439974.07,
+4473406.58
+],
+"b": [
+439975.08,
+4473428.65
+],
+"codigo": "W11",
+"plantas_frente": 6,
+"plantas_frente_pond": 6.0,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 1,
+"instal": 0,
+"vegetal": 1,
+"alero": 1,
+"expo": 0,
+"nota": "lonas publicitarias en balcones de planta 1"
+}
+},
+{
+"rc": "0035405VK4703E",
+"side": "W",
+"dmin": 11.3,
+"s0": 187.4,
+"s1": 198.0,
+"len": 10.7,
+"anio": 1993,
+"uso": "1_residential",
+"plantas_max": 5,
+"viviendas": 6,
+"unidades": 8,
+"file": "vistas/fachadas/W12_0035405VK4703E.jpg",
+"L": 10.7,
+"H": 20.0,
+"estaciones": [
+"E06"
+],
+"a": [
+439973.72,
+4473395.3
+],
+"b": [
+439974.05,
+4473406.01
+],
+"codigo": "W12",
+"plantas_frente": 5,
+"plantas_frente_pond": 4.5,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 1,
+"vegetal": 1,
+"alero": 0,
+"expo": 0,
+"nota": "\u00e1tico retranqueado"
+}
+},
+{
+"rc": "0035406VK4703E",
+"side": "W",
+"dmin": 11.8,
+"s0": 198.6,
+"s1": 215.3,
+"len": 16.7,
+"anio": 1880,
+"uso": "1_residential",
+"plantas_max": 5,
+"viviendas": 13,
+"unidades": 17,
+"file": "vistas/fachadas/W13_0035406VK4703E.jpg",
+"L": 16.7,
+"H": 20.0,
+"estaciones": [
+"E06"
+],
+"a": [
+439973.1,
+4473378.0
+],
+"b": [
+439973.7,
+4473394.73
+],
+"codigo": "W13",
+"plantas_frente": 4,
+"plantas_frente_pond": 4.0,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 1,
+"instal": 0,
+"vegetal": 1,
+"alero": 1,
+"expo": 0
+}
+},
+{
+"rc": "0035407VK4703E",
+"side": "W",
+"dmin": 12.0,
+"s0": 215.3,
+"s1": 235.3,
+"len": 19.8,
+"anio": 1992,
+"uso": "1_residential",
+"plantas_max": 6,
+"viviendas": 39,
+"unidades": 45,
+"file": "vistas/fachadas/W14_0035407VK4703E.jpg",
+"L": 20.0,
+"H": 23.2,
+"estaciones": [
+"E06",
+"E07"
+],
+"a": [
+439972.38,
+4473358.02
+],
+"b": [
+439973.1,
+4473378.0
+],
+"codigo": "W14",
+"plantas_frente": 6,
+"plantas_frente_pond": 5.2,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 1,
+"instal": 1,
+"vegetal": 1,
+"alero": 1,
+"expo": 1,
+"nota": "expositor de postales en acera"
+}
+},
+{
+"rc": "0035408VK4703E",
+"side": "W",
+"dmin": 12.8,
+"s0": 235.3,
+"s1": 254.0,
+"len": 18.0,
+"anio": 1900,
+"uso": "1_residential",
+"plantas_max": 6,
+"viviendas": 1,
+"unidades": 1,
+"file": "vistas/fachadas/W15_0035408VK4703E.jpg",
+"L": 18.0,
+"H": 23.2,
+"estaciones": [
+"E07",
+"E08"
+],
+"a": [
+439971.76,
+4473340.0
+],
+"b": [
+439972.38,
+4473358.02
+],
+"codigo": "W15",
+"plantas_frente": 5,
+"plantas_frente_pond": 5.0,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 0,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 1,
+"alero": 1,
+"expo": 0,
+"nota": "esquina en chafl\u00e1n"
+}
+},
+{
+"rc": "0034903VK4703C",
+"side": "W",
+"dmin": 11.9,
+"s0": 268.8,
+"s1": 312.5,
+"len": 43.8,
+"anio": 1900,
+"uso": "1_residential",
+"plantas_max": 6,
+"viviendas": 1,
+"unidades": 1,
+"file": "vistas/fachadas/W16_0034903VK4703C.jpg",
+"L": 43.8,
+"H": 23.2,
+"estaciones": [
+"E08",
+"E09",
+"E10",
+"E11"
+],
+"a": [
+439969.42,
+4473281.47
+],
+"b": [
+439970.7,
+4473325.21
+],
+"codigo": "W16",
+"plantas_frente": 2,
+"plantas_frente_pond": 1.1,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 0,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 1,
+"alero": 1,
+"expo": 1,
+"nota": "galer\u00eda comercial en dos niveles con pasarela; bloque de 6 plantas detr\u00e1s"
+}
+},
+{
+"rc": "0034904VK4703C",
+"side": "W",
+"dmin": 11.9,
+"s0": 312.5,
+"s1": 334.3,
+"len": 21.8,
+"anio": 2006,
+"uso": "1_residential",
+"plantas_max": 5,
+"viviendas": 41,
+"unidades": 135,
+"file": "vistas/fachadas/W17_0034904VK4703C.jpg",
+"L": 22.4,
+"H": 20.0,
+"estaciones": [
+"E11",
+"E12"
+],
+"a": [
+439968.35,
+4473259.13
+],
+"b": [
+439969.42,
+4473281.47
+],
+"codigo": "W17",
+"plantas_frente": 4,
+"plantas_frente_pond": 3.6,
+"cod": {
+"pb_com": 0,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 0,
+"acabado": "mixto",
+"toldo_alto": 1,
+"instal": 0,
+"vegetal": 1,
+"alero": 0,
+"expo": 0,
+"nota": "planta baja de portales y garaje"
+}
+},
+{
+"rc": "0034905VK4703C",
+"side": "W",
+"dmin": 12.2,
+"s0": 334.3,
+"s1": 353.3,
+"len": 19.6,
+"anio": 1880,
+"uso": "1_residential",
+"plantas_max": 5,
+"viviendas": 19,
+"unidades": 23,
+"file": "vistas/fachadas/W18_0034905VK4703C.jpg",
+"L": 19.6,
+"H": 20.0,
+"estaciones": [
+"E12",
+"E13"
+],
+"a": [
+439969.99,
+4473239.03
+],
+"b": [
+439968.33,
+4473258.55
+],
+"codigo": "W18",
+"plantas_frente": 4,
+"plantas_frente_pond": 4.0,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 1,
+"alero": 1,
+"expo": 1,
+"nota": "mercanc\u00eda colgada y apoyada en acera"
+}
+},
+{
+"rc": "0034906VK4703C",
+"side": "W",
+"dmin": 12.1,
+"s0": 353.3,
+"s1": 378.1,
+"len": 24.8,
+"anio": 1950,
+"uso": "1_residential",
+"plantas_max": 5,
+"viviendas": 29,
+"unidades": 34,
+"file": "vistas/fachadas/W19_0034906VK4703C.jpg",
+"L": 24.8,
+"H": 20.0,
+"estaciones": [
+"E13",
+"E14"
+],
+"a": [
+439972.17,
+4473214.33
+],
+"b": [
+439969.99,
+4473239.03
+],
+"codigo": "W19",
+"plantas_frente": 5,
+"plantas_frente_pond": 5.0,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "mixto",
+"mirador": 0,
+"recercado": 1,
+"acabado": "mixto",
+"toldo_alto": 1,
+"instal": 0,
+"vegetal": 1,
+"alero": 1,
+"expo": 1,
+"nota": "jaulas expuestas en acera; z\u00f3calo de m\u00e1rmol"
+}
+},
+{
+"rc": "0034907VK4703C",
+"side": "W",
+"dmin": 12.1,
+"s0": 378.1,
+"s1": 385.2,
+"len": 7.1,
+"anio": 2006,
+"uso": "1_residential",
+"plantas_max": 6,
+"viviendas": 20,
+"unidades": 50,
+"file": "vistas/fachadas/W20_0034907VK4703C.jpg",
+"L": 7.1,
+"H": 23.2,
+"estaciones": [
+"E14"
+],
+"a": [
+439972.75,
+4473207.24
+],
+"b": [
+439972.17,
+4473214.33
+],
+"codigo": "W20",
+"plantas_frente": 4,
+"plantas_frente_pond": 4.0,
+"cod": {
+"pb_com": 1,
+"cierre": null,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ninguno",
+"mirador": 0,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 0,
+"alero": 0,
+"expo": 0
+}
+},
+{
+"rc": "0034908VK4703C",
+"side": "W",
+"dmin": 12.1,
+"s0": 385.2,
+"s1": 392.4,
+"len": 7.2,
+"anio": 1995,
+"uso": "1_residential",
+"plantas_max": 5,
+"viviendas": 6,
+"unidades": 9,
+"file": "vistas/fachadas/W21_0034908VK4703C.jpg",
+"L": 7.2,
+"H": 20.0,
+"estaciones": [
+"E14"
+],
+"a": [
+439973.33,
+4473200.05
+],
+"b": [
+439972.75,
+4473207.24
+],
+"codigo": "W21",
+"plantas_frente": 3,
+"plantas_frente_pond": 3.0,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 1,
+"recercado": 1,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 0,
+"alero": 0,
+"expo": 1,
+"nota": "muebles expuestos en acera; celos\u00eda en azotea"
+}
+},
+{
+"rc": "0034909VK4703C",
+"side": "W",
+"dmin": 12.1,
+"s0": 392.4,
+"s1": 406.6,
+"len": 14.1,
+"anio": 1930,
+"uso": "3_industrial",
+"plantas_max": 3,
+"viviendas": 0,
+"unidades": 1,
+"file": "vistas/fachadas/W22_0034909VK4703C.jpg",
+"L": 14.1,
+"H": 13.6,
+"estaciones": [
+"E14",
+"E15"
+],
+"a": [
+439974.47,
+4473185.98
+],
+"b": [
+439973.33,
+4473200.05
+],
+"codigo": "W22",
+"plantas_frente": 3,
+"plantas_frente_pond": 3.0,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 1,
+"zocalo": 1,
+"ejes": 1,
+"balcon": "ninguno",
+"mirador": 0,
+"recercado": 0,
+"acabado": "ladrillo",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 0,
+"alero": 0,
+"expo": 0,
+"nota": "uso industrial catastral; ventanal horizontal"
+}
+},
+{
+"rc": "0034910VK4703C",
+"side": "W",
+"dmin": 12.1,
+"s0": 406.6,
+"s1": 418.7,
+"len": 12.2,
+"anio": 2007,
+"uso": "1_residential",
+"plantas_max": 6,
+"viviendas": 20,
+"unidades": 47,
+"file": "vistas/fachadas/W23_0034910VK4703C.jpg",
+"L": 12.2,
+"H": 23.2,
+"estaciones": [
+"E15",
+"E16"
+],
+"a": [
+439975.64,
+4473173.85
+],
+"b": [
+439974.47,
+4473185.98
+],
+"codigo": "W23",
+"plantas_frente": 4,
+"plantas_frente_pond": 4.0,
+"cod": {
+"pb_com": 1,
+"cierre": 0,
+"grafiti": 0,
+"zocalo": 1,
+"ejes": 0,
+"balcon": "ninguno",
+"mirador": 0,
+"recercado": 0,
+"acabado": "revoco",
+"toldo_alto": 0,
+"instal": 0,
+"vegetal": 0,
+"alero": 0,
+"expo": 0,
+"nota": "locales sin actividad visible"
+}
+},
+{
+"rc": "0033903VK4703C",
+"side": "W",
+"dmin": 13.0,
+"s0": 428.2,
+"s1": 532.1,
+"len": 102.0,
+"anio": 1996,
+"uso": "1_residential",
+"plantas_max": 7,
+"viviendas": 58,
+"unidades": 177,
+"file": "vistas/fachadas/W24_0033903VK4703C.jpg",
+"L": 102.7,
+"H": 26.4,
+"estaciones": [
+"E16",
+"E17",
+"E18",
+"E19",
+"E20",
+"E21"
+],
+"a": [
+439983.66,
+4473061.74
+],
+"b": [
+439975.01,
+4473164.09
+],
+"codigo": "W24",
+"plantas_frente": 6,
+"plantas_frente_pond": 4.8,
+"cod": {
+"pb_com": 1,
+"cierre": 1,
+"grafiti": 1,
+"zocalo": 0,
+"ejes": 1,
+"balcon": "ind",
+"mirador": 0,
+"recercado": 0,
+"acabado": "revoco",
+"toldo_alto": null,
+"instal": 1,
+"vegetal": 1,
+"alero": 0,
+"expo": 0,
+"nota": "bloque de 103 m con soportal y celos\u00eda met\u00e1lica en planta 1"
+}
+},
+{
+"rc": "0032803VK4703A",
+"side": "W",
+"dmin": 15.7,
+"s0": 566.0,
+"s1": 570.4,
+"len": 4.6,
+"anio": 1966,
+"uso": "1_residential",
+"plantas_max": 11,
+"viviendas": 88,
+"unidades": 102,
+"file": "vistas/fachadas/W25_0032803VK4703A.jpg",
+"L": 4.6,
+"H": 39.2,
+"estaciones": [
+"E22"
+],
+"a": [
+439983.85,
+4473022.35
+],
+"b": [
+439984.97,
+4473026.86
+],
+"codigo": "W25",
+"plantas_frente": 10,
+"plantas_frente_pond": 9.1,
+"cod": {
+"pb_com": null,
+"cierre": null,
+"grafiti": null,
+"zocalo": null,
+"ejes": null,
+"balcon": null,
+"mirador": null,
+"recercado": null,
+"acabado": null,
+"toldo_alto": null,
+"instal": null,
+"vegetal": null,
+"alero": null,
+"expo": null,
+"nota": "no legible"
+}
+}
+]

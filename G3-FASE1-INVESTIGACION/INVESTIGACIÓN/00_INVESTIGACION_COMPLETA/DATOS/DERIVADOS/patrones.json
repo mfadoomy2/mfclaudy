@@ -1,0 +1,200 @@
+[
+{
+"id": "P01",
+"nombre": "Hueco vertical con balcón propio",
+"pregunta": "¿Cada hueco tiene su propio balcón?",
+"campo": [
+"balcon",
+"ind"
+],
+"banda": "alta",
+"casos": [
+"W02",
+"W03",
+"W09",
+"W11",
+"E07",
+"E14",
+"W13",
+"W18"
+],
+"n": 30,
+"N": 39
+},
+{
+"id": "P02",
+"nombre": "Planta baja comercial que se cierra",
+"pregunta": "¿Qué fachada queda cuando el comercio cierra?",
+"campo": [
+"cierre",
+1
+],
+"banda": "pb",
+"casos": [
+"E10",
+"E09",
+"E14",
+"E06",
+"W04",
+"W06",
+"E12",
+"W16"
+],
+"n": 19,
+"N": 33
+},
+{
+"id": "P03",
+"nombre": "Basamento que cambia al tocar la calle",
+"pregunta": "¿Qué material recibe el contacto de la acera?",
+"campo": [
+"zocalo",
+1
+],
+"banda": "pb",
+"casos": [
+"W02",
+"W03",
+"W11",
+"W13",
+"W18",
+"W19",
+"W22",
+"E14"
+],
+"n": 27,
+"N": 34
+},
+{
+"id": "P04",
+"nombre": "Recercado: un segundo borde del hueco",
+"pregunta": "¿Cómo se marca el borde de cada ventana?",
+"campo": [
+"recercado",
+1
+],
+"banda": "alta",
+"casos": [
+"E14",
+"W09",
+"W18",
+"W04",
+"E06",
+"W11",
+"W14",
+"E16"
+],
+"n": 26,
+"N": 38
+},
+{
+"id": "P05",
+"nombre": "Textil en las plantas altas",
+"pregunta": "¿Quién controla la sombra de cada vivienda?",
+"campo": [
+"toldo_alto",
+1
+],
+"banda": "alta",
+"casos": [
+"E10",
+"E16",
+"E07",
+"W13",
+"W14",
+"E08",
+"W17",
+"W09"
+],
+"n": 18,
+"N": 37
+},
+{
+"id": "P06",
+"nombre": "Plantas en el balcón",
+"pregunta": "¿Dónde se cultiva cuando no hay suelo?",
+"campo": [
+"vegetal",
+1
+],
+"banda": "alta",
+"casos": [
+"W13",
+"W14",
+"E10",
+"W18",
+"W15",
+"E06",
+"E07",
+"E12"
+],
+"n": 24,
+"N": 36
+},
+{
+"id": "P07",
+"nombre": "Alero y cornisa que vuelan",
+"pregunta": "¿Cómo termina la fachada contra el cielo?",
+"campo": [
+"alero",
+1
+],
+"banda": "top",
+"casos": [
+"W02",
+"W13",
+"W14",
+"E06",
+"E07",
+"W09",
+"E10",
+"W16"
+],
+"n": 23,
+"N": 37
+},
+{
+"id": "P08",
+"nombre": "Instalaciones como segunda trama",
+"pregunta": "¿Por dónde pasan los cables y las máquinas?",
+"campo": [
+"instal",
+1
+],
+"banda": "media",
+"casos": [
+"E11",
+"W06",
+"E02",
+"W04",
+"W12",
+"E16",
+"E06",
+"E12"
+],
+"n": 14,
+"N": 36
+},
+{
+"id": "P09",
+"nombre": "Exposición que ocupa la acera",
+"pregunta": "¿Hasta dónde llega la tienda?",
+"campo": [
+"expo",
+1
+],
+"banda": "pb",
+"casos": [
+"W18",
+"W19",
+"W21",
+"W14",
+"W02",
+"W03",
+"E16",
+"W16"
+],
+"n": 8,
+"N": 37
+}
+]
