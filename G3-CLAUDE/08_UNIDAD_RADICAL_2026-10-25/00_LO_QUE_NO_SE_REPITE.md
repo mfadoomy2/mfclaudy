@@ -209,3 +209,9 @@ Cada punto lleva su tipo: **dato** (medido o leído de una fuente), **lectura** 
 - R5. La cubierta y el cielo son programa, no un resto.
 - R6. Se sigue usando el mismo Rhino para el mismo trabajo, y cada cifra lleva su fuente y su fecha.
 - R7. Las 150 escenas y su análisis están en `01_150_ESCENAS.md` y `escenas.csv`. Cada escena lleva su fuente; las que son hipótesis mías van marcadas como tales.
+
+## 9. Lo que dijo Adam el 25-10 por la noche
+
+- Los modelos 3D de `08_UNIDAD_RADICAL` (H1–H6, U1–U5) valen 0/10: cajas, extrusiones y cápsulas generadas por código, no modelado. También los análisis de Claude son flojos. **No se vuelve a producir 3D así.**
+- **Regla:** cuando se modele, alimentarse siempre de los archivos de Codex (`G3-CODEX/`): sus Rhino, medidas, verificaciones y plantas. Lo de Claude (`G3-CLAUDE/`) no es base para nada.
+- El traspaso a Codex está en `02_PARA_CODEX_150_ESCENAS_Y_LO_COMUN.md`: las 150 escenas con etiquetas, lo común, por qué, el foco, los cuerpos, la parcela y lo que falta.

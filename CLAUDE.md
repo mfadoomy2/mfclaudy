@@ -4,6 +4,10 @@
 
 **Antes de hacer nada, revisar TODO lo que hay en el repositorio.** No se diseña, no se dibuja, no se modela y no se propone nada hasta haber leído todo el material existente: documentos, guías de cada carpeta, verificaciones, fichas, imágenes y planos. Nada se rehace si ya existe, y ningún error ya señalado se repite. La lista de errores y de lo ya hecho está en `G3-CLAUDE/08_UNIDAD_RADICAL_2026-10-25/00_LO_QUE_NO_SE_REPITE.md` y se relee antes de cada trabajo.
 
+## Regla número dos
+
+**Cuando se vaya a modelar o a dibujar, partir siempre de los archivos de Codex (`G3-CODEX/`): sus Rhino, sus medidas, sus verificaciones y sus plantas.** Los `.3dm` y los análisis hechos por Claude (`G3-CLAUDE/`, incluida la carpeta `08_UNIDAD_RADICAL_2026-10-25`) no sirven como base: son mallas generadas por código, sin calidad de modelo. Antes de producir, leer lo bueno de Codex (unidades V01–V03, E01–E03, el catálogo corregido, la V4/V5 de la selva, los planos 1:100) y construir sobre eso, en los mismos archivos Rhino.
+
 Proyecto de arquitectura G3 (UEM): viviendas temporales para 40 jóvenes en Ribera de Curtidores 31, El Rastro, Madrid. Autor: Adam.
 
 ## Cómo orientarte
