@@ -1,0 +1,15 @@
+{
+  "prototype": "Una habitacion experimental independiente; no implantada ni repetida en P02",
+  "source": "/Volumes/T7/G3 Proyectos/G3_UNIDAD_AISLADA_DETALLE_2026-10-16/modelos/UNIDAD_P02_DETALLADA.3dm",
+  "clear_envelope_area_m2": 21.27737814218625,
+  "rectangle_m": [
+    4,
+    4.8
+  ],
+  "niche_radius_m": 1.15,
+  "bed_diameter_m": 2.1,
+  "door_nominal_m": 1,
+  "objects": 25,
+  "invalid": 0,
+  "warning": "Sin validacion normativa, estructura, luz interior ni mecanismos; no multiplicar area por4 como dimension final de unidad"
+}

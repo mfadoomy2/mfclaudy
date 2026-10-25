@@ -1,0 +1,28 @@
+{
+  "code": "T15B",
+  "family": "Estar sin cocinar",
+  "variant": "B",
+  "logic": "Traslación del tejido 3; estar sin cocinar.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 3,
+  "target_error": {
+    "B1": 0.4,
+    "B2": 2.21,
+    "K": 4.99,
+    "F": 2.4,
+    "M": 5.75,
+    "S": 4.82,
+    "G": 5.05
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1,
+    1
+  ],
+  "room_expansion": 3.1500000000000004,
+  "floor_m2": 156.72,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 83.63,
+  "entry_on_boundary": true
+}

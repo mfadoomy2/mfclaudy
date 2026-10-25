@@ -1,0 +1,28 @@
+{
+  "code": "T04A",
+  "family": "Retorno mojado",
+  "variant": "A",
+  "logic": "Traslación del tejido 1; retorno mojado.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 1,
+  "target_error": {
+    "B1": 1.42,
+    "B2": 1.94,
+    "K": 4.64,
+    "F": 1.04,
+    "M": 7.15,
+    "S": 1.69,
+    "G": 1.71
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1,
+    0.85
+  ],
+  "room_expansion": 2.8000000000000003,
+  "floor_m2": 174.49,
+  "bedrooms_m2": 71.75,
+  "shared_gross_m2": 102.75,
+  "entry_on_boundary": true
+}

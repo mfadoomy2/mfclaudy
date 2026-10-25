@@ -1,0 +1,28 @@
+{
+  "code": "T06A",
+  "family": "Carga y descarga",
+  "variant": "A",
+  "logic": "Traslación del tejido 3; carga y descarga.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 3,
+  "target_error": {
+    "B1": 0.27,
+    "B2": 1.81,
+    "K": 3.13,
+    "F": 1.6,
+    "M": 6.53,
+    "S": 2.91,
+    "G": 0.31
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1,
+    0.85
+  ],
+  "room_expansion": 3.5000000000000004,
+  "floor_m2": 163.69,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 92.43,
+  "entry_on_boundary": true
+}

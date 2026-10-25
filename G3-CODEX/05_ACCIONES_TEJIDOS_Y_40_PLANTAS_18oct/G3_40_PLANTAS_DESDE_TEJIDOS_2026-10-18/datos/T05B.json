@@ -1,0 +1,28 @@
+{
+  "code": "T05B",
+  "family": "Conversación y retiro",
+  "variant": "B",
+  "logic": "Traslación del tejido 2; conversación y retiro.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 2,
+  "target_error": {
+    "B1": 0.41,
+    "B2": 0.63,
+    "K": 1.13,
+    "F": 1.74,
+    "M": 2.41,
+    "S": 0.7,
+    "G": 3.59
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1,
+    0.85
+  ],
+  "room_expansion": 3.8500000000000005,
+  "floor_m2": 146.86,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 73.77,
+  "entry_on_boundary": true
+}

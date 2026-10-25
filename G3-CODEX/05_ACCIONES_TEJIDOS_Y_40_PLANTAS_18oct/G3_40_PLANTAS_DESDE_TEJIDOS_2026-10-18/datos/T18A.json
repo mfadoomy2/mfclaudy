@@ -1,0 +1,28 @@
+{
+  "code": "T18A",
+  "family": "Cambio de turno",
+  "variant": "A",
+  "logic": "Traslación del tejido 3; cambio de turno.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 3,
+  "target_error": {
+    "B1": 0.13,
+    "B2": 2.17,
+    "K": 5.58,
+    "F": 0.59,
+    "M": 8.34,
+    "S": 0.73,
+    "G": 4.84
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1.05,
+    0.9
+  ],
+  "room_expansion": 3.5000000000000004,
+  "floor_m2": 158.27,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 87.02,
+  "entry_on_boundary": true
+}

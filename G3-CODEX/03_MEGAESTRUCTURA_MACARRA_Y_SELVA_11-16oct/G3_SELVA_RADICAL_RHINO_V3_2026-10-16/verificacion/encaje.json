@@ -1,0 +1,27 @@
+{
+  "people": 40,
+  "units": 10,
+  "outside_unit_area": -2.623798444824587,
+  "areas": {
+    "unidades_brutas": 937.1048062207028,
+    "programa_comunitario": 137.20000000000002,
+    "galerias_abiertas": 476.8516299402005,
+    "terrazas_unidades": 195.33378115042976,
+    "nucleos_reserva_maxima": 375.1800000000001,
+    "total_con_reserva_maxima": 2121.670217311333
+  },
+  "levels_left": [
+    3.8,
+    7.8,
+    11.8,
+    15.8,
+    19.8
+  ],
+  "levels_right": [
+    4.3999999999999995,
+    8.4,
+    12.4,
+    16.400000000000002,
+    20.400000000000002
+  ]
+}

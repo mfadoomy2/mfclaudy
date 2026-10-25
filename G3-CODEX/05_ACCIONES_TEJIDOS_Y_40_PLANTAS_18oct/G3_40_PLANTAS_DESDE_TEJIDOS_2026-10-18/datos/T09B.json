@@ -1,0 +1,28 @@
+{
+  "code": "T09B",
+  "family": "Acuerdo de privacidad",
+  "variant": "B",
+  "logic": "Traslación del tejido 3; acuerdo de privacidad.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 3,
+  "target_error": {
+    "B1": 0.34,
+    "B2": 1.91,
+    "K": 5.07,
+    "F": 0.48,
+    "M": 7.34,
+    "S": 2.65,
+    "G": 1.06
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1.1,
+    0.8
+  ],
+  "room_expansion": 3.8500000000000005,
+  "floor_m2": 160.72,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 87.63,
+  "entry_on_boundary": true
+}

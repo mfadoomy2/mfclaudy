@@ -1,0 +1,44 @@
+[
+  {
+    "file": "D02_ENVOLVENTE_Y_BANDEJA_1a1.3dm",
+    "objects": 32,
+    "invalid": 0,
+    "units": "UnitSystem.Meters",
+    "definitions": 0,
+    "views": []
+  },
+  {
+    "file": "UNIDAD_P02_DETALLADA.3dm",
+    "objects": 1121,
+    "invalid": 0,
+    "units": "UnitSystem.Meters",
+    "definitions": 0,
+    "views": [
+      "01_UNIDAD_COMPLETA",
+      "02_INTERIOR",
+      "03_PLANTA",
+      "04_ENCUENTROS"
+    ]
+  },
+  {
+    "file": "UNIDAD_P02_INTERIOR_EDITABLE.3dm",
+    "objects": 1121,
+    "invalid": 0,
+    "units": "UnitSystem.Meters",
+    "definitions": 0,
+    "views": [
+      "01_UNIDAD_COMPLETA",
+      "02_INTERIOR",
+      "03_PLANTA",
+      "04_ENCUENTROS"
+    ]
+  },
+  {
+    "file": "UNIDAD_P02_PREVIA_SOLIDA.3dm",
+    "objects": 3823,
+    "invalid": 0,
+    "units": "UnitSystem.Meters",
+    "definitions": 0,
+    "views": []
+  }
+]

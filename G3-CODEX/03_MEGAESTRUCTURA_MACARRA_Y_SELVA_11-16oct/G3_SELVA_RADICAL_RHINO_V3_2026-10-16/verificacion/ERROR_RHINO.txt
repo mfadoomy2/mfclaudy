@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Volumes/T7/G3 Proyectos/G3 CLAUDE/03_MEGAESTRUCTURA_MACARRA_Y_SELVA_11-16oct/G3_SELVA_RADICAL_RHINO_V3_2026-10-16/fuentes/modelar_rhino.py", line 506, in <module>
+    ids=[ob.Attributes.Id for ob in F.Objects if not ob.Attributes.IsInstanceDefinitionObject]
+AttributeError: 'ObjectAttributes' object has no attribute 'Id'

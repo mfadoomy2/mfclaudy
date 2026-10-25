@@ -1,0 +1,28 @@
+{
+  "code": "T16B",
+  "family": "Dibujar sin recoger",
+  "variant": "B",
+  "logic": "Traslación del tejido 1; dibujar sin recoger.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 1,
+  "target_error": {
+    "B1": 1.47,
+    "B2": 1.69,
+    "K": 3.58,
+    "F": 0.97,
+    "M": 4.66,
+    "S": 0.41,
+    "G": 3.5
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1.05,
+    0.9
+  ],
+  "room_expansion": 2.8000000000000003,
+  "floor_m2": 169.03,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 95.44,
+  "entry_on_boundary": true
+}

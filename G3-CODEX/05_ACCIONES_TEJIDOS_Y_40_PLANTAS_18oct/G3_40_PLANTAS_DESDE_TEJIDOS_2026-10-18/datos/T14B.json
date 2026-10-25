@@ -1,0 +1,28 @@
+{
+  "code": "T14B",
+  "family": "Visita discreta",
+  "variant": "B",
+  "logic": "Traslación del tejido 2; visita discreta.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 2,
+  "target_error": {
+    "B1": 0.44,
+    "B2": 0.67,
+    "K": 1.2,
+    "F": 1.74,
+    "M": 2.21,
+    "S": 0.83,
+    "G": 2.43
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1,
+    1
+  ],
+  "room_expansion": 3.5000000000000004,
+  "floor_m2": 145.91,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 72.82,
+  "entry_on_boundary": true
+}

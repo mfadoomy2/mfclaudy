@@ -1,0 +1,28 @@
+{
+  "code": "T08B",
+  "family": "Comer a deshora",
+  "variant": "B",
+  "logic": "Traslación del tejido 2; comer a deshora.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 2,
+  "target_error": {
+    "B1": 1.29,
+    "B2": 2.46,
+    "K": 2.08,
+    "F": 1.99,
+    "M": 4.64,
+    "S": 6.48,
+    "G": 0.4
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1.1,
+    0.8
+  ],
+  "room_expansion": 2.8000000000000003,
+  "floor_m2": 190.4,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 117.31,
+  "entry_on_boundary": true
+}

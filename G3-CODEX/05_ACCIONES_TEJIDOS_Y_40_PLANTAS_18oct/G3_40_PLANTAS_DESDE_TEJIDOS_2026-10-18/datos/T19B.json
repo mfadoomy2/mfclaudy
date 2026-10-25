@@ -1,0 +1,28 @@
+{
+  "code": "T19B",
+  "family": "Dos ritmos domésticos",
+  "variant": "B",
+  "logic": "Traslación del tejido 1; dos ritmos domésticos.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 1,
+  "target_error": {
+    "B1": 0.84,
+    "B2": 2.4,
+    "K": 3.76,
+    "F": 0.19,
+    "M": 2.43,
+    "S": 7.93,
+    "G": 3.6
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1.1,
+    1
+  ],
+  "room_expansion": 3.1500000000000004,
+  "floor_m2": 152.54,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 78.96,
+  "entry_on_boundary": true
+}

@@ -1,0 +1,28 @@
+{
+  "code": "T13B",
+  "family": "Mesa desplegada",
+  "variant": "B",
+  "logic": "Traslación del tejido 1; mesa desplegada.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 1,
+  "target_error": {
+    "B1": 0.78,
+    "B2": 1.03,
+    "K": 0.05,
+    "F": 0.68,
+    "M": 1.94,
+    "S": 6.46,
+    "G": 2.17
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1,
+    1
+  ],
+  "room_expansion": 3.8500000000000005,
+  "floor_m2": 170.59,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 97.01,
+  "entry_on_boundary": true
+}

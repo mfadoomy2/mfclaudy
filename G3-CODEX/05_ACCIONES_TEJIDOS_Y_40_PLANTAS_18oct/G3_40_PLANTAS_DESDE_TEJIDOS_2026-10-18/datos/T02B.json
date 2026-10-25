@@ -1,0 +1,28 @@
+{
+  "code": "T02B",
+  "family": "Trabajo persistente",
+  "variant": "B",
+  "logic": "Traslación del tejido 2; trabajo persistente.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 2,
+  "target_error": {
+    "B1": 0.89,
+    "B2": 0.63,
+    "K": 1.66,
+    "F": 1.53,
+    "M": 3.31,
+    "S": 0.68,
+    "G": 2.39
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    0.85,
+    1
+  ],
+  "room_expansion": 3.5000000000000004,
+  "floor_m2": 145.32,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 72.23,
+  "entry_on_boundary": true
+}

@@ -1,0 +1,28 @@
+{
+  "code": "T20A",
+  "family": "Umbral y retirada",
+  "variant": "A",
+  "logic": "Traslación del tejido 2; umbral y retirada.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 2,
+  "target_error": {
+    "B1": 0.3,
+    "B2": 1.5,
+    "K": 1.55,
+    "F": 1.69,
+    "M": 3.76,
+    "S": 10.66,
+    "G": 3.71
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1.1,
+    1
+  ],
+  "room_expansion": 2.8000000000000003,
+  "floor_m2": 163.07,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 91.82,
+  "entry_on_boundary": true
+}

@@ -1,0 +1,28 @@
+{
+  "code": "T07B",
+  "family": "Coser y guardar",
+  "variant": "B",
+  "logic": "Traslación del tejido 1; coser y guardar.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 1,
+  "target_error": {
+    "B1": 1.0,
+    "B2": 1.62,
+    "K": 2.81,
+    "F": 0.24,
+    "M": 8.08,
+    "S": 3.35,
+    "G": 2.82
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1.1,
+    0.8
+  ],
+  "room_expansion": 3.1500000000000004,
+  "floor_m2": 167.86,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 94.28,
+  "entry_on_boundary": true
+}

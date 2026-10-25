@@ -1,0 +1,1122 @@
+[
+  {
+    "code": "T01A",
+    "family": "Llegada y cuidado",
+    "variant": "A",
+    "logic": "Traslación del tejido 1; llegada y cuidado.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 0.67,
+      "B2": 1.12,
+      "K": 3.7,
+      "F": 0.21,
+      "M": 3.25,
+      "S": 5.78,
+      "G": 1.35
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.85,
+      1
+    ],
+    "room_expansion": 3.8500000000000005,
+    "floor_m2": 158.18,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 86.44,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T01B",
+    "family": "Llegada y cuidado",
+    "variant": "B",
+    "logic": "Traslación del tejido 1; llegada y cuidado.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 0.84,
+      "B2": 2.78,
+      "K": 3.9,
+      "F": 2.39,
+      "M": 3.59,
+      "S": 0.2,
+      "G": 3.48
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.85,
+      1
+    ],
+    "room_expansion": 3.8500000000000005,
+    "floor_m2": 150.58,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 77.0,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T02A",
+    "family": "Trabajo persistente",
+    "variant": "A",
+    "logic": "Traslación del tejido 2; trabajo persistente.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.53,
+      "B2": 0.91,
+      "K": 1.84,
+      "F": 0.91,
+      "M": 2.86,
+      "S": 1.07,
+      "G": 2.95
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.85,
+      1
+    ],
+    "room_expansion": 3.5000000000000004,
+    "floor_m2": 148.71,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 77.46,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T02B",
+    "family": "Trabajo persistente",
+    "variant": "B",
+    "logic": "Traslación del tejido 2; trabajo persistente.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.89,
+      "B2": 0.63,
+      "K": 1.66,
+      "F": 1.53,
+      "M": 3.31,
+      "S": 0.68,
+      "G": 2.39
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.85,
+      1
+    ],
+    "room_expansion": 3.5000000000000004,
+    "floor_m2": 145.32,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 72.23,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T03A",
+    "family": "Encuentro voluntario",
+    "variant": "A",
+    "logic": "Traslación del tejido 3; encuentro voluntario.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.46,
+      "B2": 1.64,
+      "K": 4.52,
+      "F": 1.74,
+      "M": 2.22,
+      "S": 2.34,
+      "G": 0.02
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.85,
+      1
+    ],
+    "room_expansion": 3.1500000000000004,
+    "floor_m2": 158.51,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 87.25,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T03B",
+    "family": "Encuentro voluntario",
+    "variant": "B",
+    "logic": "Traslación del tejido 3; encuentro voluntario.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.37,
+      "B2": 1.38,
+      "K": 3.7,
+      "F": 1.63,
+      "M": 5.15,
+      "S": 4.82,
+      "G": 0.28
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.85,
+      1
+    ],
+    "room_expansion": 3.1500000000000004,
+    "floor_m2": 159.78,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 86.69,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T04A",
+    "family": "Retorno mojado",
+    "variant": "A",
+    "logic": "Traslación del tejido 1; retorno mojado.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 1.42,
+      "B2": 1.94,
+      "K": 4.64,
+      "F": 1.04,
+      "M": 7.15,
+      "S": 1.69,
+      "G": 1.71
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      0.85
+    ],
+    "room_expansion": 2.8000000000000003,
+    "floor_m2": 174.49,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 102.75,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T04B",
+    "family": "Retorno mojado",
+    "variant": "B",
+    "logic": "Traslación del tejido 1; retorno mojado.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 1.28,
+      "B2": 1.78,
+      "K": 4.12,
+      "F": 1.55,
+      "M": 6.58,
+      "S": 1.42,
+      "G": 0.95
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      0.85
+    ],
+    "room_expansion": 2.8000000000000003,
+    "floor_m2": 164.66,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 91.08,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T05A",
+    "family": "Conversación y retiro",
+    "variant": "A",
+    "logic": "Traslación del tejido 2; conversación y retiro.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.22,
+      "B2": 1.04,
+      "K": 1.64,
+      "F": 1.62,
+      "M": 4.33,
+      "S": 5.55,
+      "G": 2.57
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      0.85
+    ],
+    "room_expansion": 3.8500000000000005,
+    "floor_m2": 149.3,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 78.05,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T05B",
+    "family": "Conversación y retiro",
+    "variant": "B",
+    "logic": "Traslación del tejido 2; conversación y retiro.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.41,
+      "B2": 0.63,
+      "K": 1.13,
+      "F": 1.74,
+      "M": 2.41,
+      "S": 0.7,
+      "G": 3.59
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      0.85
+    ],
+    "room_expansion": 3.8500000000000005,
+    "floor_m2": 146.86,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 73.77,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T06A",
+    "family": "Carga y descarga",
+    "variant": "A",
+    "logic": "Traslación del tejido 3; carga y descarga.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.27,
+      "B2": 1.81,
+      "K": 3.13,
+      "F": 1.6,
+      "M": 6.53,
+      "S": 2.91,
+      "G": 0.31
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      0.85
+    ],
+    "room_expansion": 3.5000000000000004,
+    "floor_m2": 163.69,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 92.43,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T06B",
+    "family": "Carga y descarga",
+    "variant": "B",
+    "logic": "Traslación del tejido 3; carga y descarga.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.18,
+      "B2": 1.95,
+      "K": 5.21,
+      "F": 2.66,
+      "M": 7.35,
+      "S": 0.3,
+      "G": 4.26
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      0.85
+    ],
+    "room_expansion": 3.5000000000000004,
+    "floor_m2": 155.18,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 82.08,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T07A",
+    "family": "Coser y guardar",
+    "variant": "A",
+    "logic": "Traslación del tejido 1; coser y guardar.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 0.52,
+      "B2": 0.83,
+      "K": 3.05,
+      "F": 0.2,
+      "M": 4.49,
+      "S": 1.14,
+      "G": 2.69
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.1,
+      0.8
+    ],
+    "room_expansion": 3.1500000000000004,
+    "floor_m2": 155.91,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 84.16,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T07B",
+    "family": "Coser y guardar",
+    "variant": "B",
+    "logic": "Traslación del tejido 1; coser y guardar.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 1.0,
+      "B2": 1.62,
+      "K": 2.81,
+      "F": 0.24,
+      "M": 8.08,
+      "S": 3.35,
+      "G": 2.82
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.1,
+      0.8
+    ],
+    "room_expansion": 3.1500000000000004,
+    "floor_m2": 167.86,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 94.28,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T08A",
+    "family": "Comer a deshora",
+    "variant": "A",
+    "logic": "Traslación del tejido 2; comer a deshora.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.95,
+      "B2": 2.95,
+      "K": 2.03,
+      "F": 1.84,
+      "M": 3.58,
+      "S": 6.93,
+      "G": 0.66
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.1,
+      0.8
+    ],
+    "room_expansion": 2.8000000000000003,
+    "floor_m2": 202.25,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 130.99,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T08B",
+    "family": "Comer a deshora",
+    "variant": "B",
+    "logic": "Traslación del tejido 2; comer a deshora.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 1.29,
+      "B2": 2.46,
+      "K": 2.08,
+      "F": 1.99,
+      "M": 4.64,
+      "S": 6.48,
+      "G": 0.4
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.1,
+      0.8
+    ],
+    "room_expansion": 2.8000000000000003,
+    "floor_m2": 190.4,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 117.31,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T09A",
+    "family": "Acuerdo de privacidad",
+    "variant": "A",
+    "logic": "Traslación del tejido 3; acuerdo de privacidad.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.23,
+      "B2": 2.13,
+      "K": 5.71,
+      "F": 0.45,
+      "M": 4.75,
+      "S": 4.75,
+      "G": 0.92
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.1,
+      0.8
+    ],
+    "room_expansion": 3.8500000000000005,
+    "floor_m2": 161.31,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 90.05,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T09B",
+    "family": "Acuerdo de privacidad",
+    "variant": "B",
+    "logic": "Traslación del tejido 3; acuerdo de privacidad.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.34,
+      "B2": 1.91,
+      "K": 5.07,
+      "F": 0.48,
+      "M": 7.34,
+      "S": 2.65,
+      "G": 1.06
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.1,
+      0.8
+    ],
+    "room_expansion": 3.8500000000000005,
+    "floor_m2": 160.72,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 87.63,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T10A",
+    "family": "Trabajo y visita",
+    "variant": "A",
+    "logic": "Traslación del tejido 1; trabajo y visita.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 0.88,
+      "B2": 1.12,
+      "K": 3.27,
+      "F": 0.25,
+      "M": 2.8,
+      "S": 5.66,
+      "G": 1.68
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.8,
+      1.1
+    ],
+    "room_expansion": 3.5000000000000004,
+    "floor_m2": 152.55,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 80.81,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T10B",
+    "family": "Trabajo y visita",
+    "variant": "B",
+    "logic": "Traslación del tejido 1; trabajo y visita.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 0.59,
+      "B2": 3.28,
+      "K": 4.01,
+      "F": 2.77,
+      "M": 3.3,
+      "S": 5.73,
+      "G": 3.77
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.8,
+      1.1
+    ],
+    "room_expansion": 3.5000000000000004,
+    "floor_m2": 146.21,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 72.63,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T11A",
+    "family": "Herramientas próximas",
+    "variant": "A",
+    "logic": "Traslación del tejido 2; herramientas próximas.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.61,
+      "B2": 1.13,
+      "K": 2.32,
+      "F": 0.55,
+      "M": 2.82,
+      "S": 1.18,
+      "G": 2.82
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.8,
+      1.1
+    ],
+    "room_expansion": 3.1500000000000004,
+    "floor_m2": 150.17,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 78.91,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T11B",
+    "family": "Herramientas próximas",
+    "variant": "B",
+    "logic": "Traslación del tejido 2; herramientas próximas.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.72,
+      "B2": 1.56,
+      "K": 2.93,
+      "F": 1.81,
+      "M": 2.73,
+      "S": 6.49,
+      "G": 0.78
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.8,
+      1.1
+    ],
+    "room_expansion": 3.1500000000000004,
+    "floor_m2": 167.66,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 94.56,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T12A",
+    "family": "Humedad separada",
+    "variant": "A",
+    "logic": "Traslación del tejido 3; humedad separada.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.28,
+      "B2": 1.3,
+      "K": 3.26,
+      "F": 1.87,
+      "M": 6.05,
+      "S": 6.9,
+      "G": 1.53
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.8,
+      1.1
+    ],
+    "room_expansion": 2.8000000000000003,
+    "floor_m2": 145.88,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 74.62,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T12B",
+    "family": "Humedad separada",
+    "variant": "B",
+    "logic": "Traslación del tejido 3; humedad separada.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.8,
+      "B2": 1.74,
+      "K": 3.5,
+      "F": 1.89,
+      "M": 4.8,
+      "S": 5.18,
+      "G": 0.59
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      0.8,
+      1.1
+    ],
+    "room_expansion": 2.8000000000000003,
+    "floor_m2": 162.28,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 89.19,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T13A",
+    "family": "Mesa desplegada",
+    "variant": "A",
+    "logic": "Traslación del tejido 1; mesa desplegada.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 0.98,
+      "B2": 2.08,
+      "K": 2.21,
+      "F": 0.18,
+      "M": 0.92,
+      "S": 7.44,
+      "G": 2.33
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      1
+    ],
+    "room_expansion": 3.8500000000000005,
+    "floor_m2": 159.28,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 87.53,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T13B",
+    "family": "Mesa desplegada",
+    "variant": "B",
+    "logic": "Traslación del tejido 1; mesa desplegada.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 0.78,
+      "B2": 1.03,
+      "K": 0.05,
+      "F": 0.68,
+      "M": 1.94,
+      "S": 6.46,
+      "G": 2.17
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      1
+    ],
+    "room_expansion": 3.8500000000000005,
+    "floor_m2": 170.59,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 97.01,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T14A",
+    "family": "Visita discreta",
+    "variant": "A",
+    "logic": "Traslación del tejido 2; visita discreta.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.61,
+      "B2": 0.89,
+      "K": 1.39,
+      "F": 1.51,
+      "M": 3.5,
+      "S": 1.54,
+      "G": 0.57
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      1
+    ],
+    "room_expansion": 3.5000000000000004,
+    "floor_m2": 153.01,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 81.75,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T14B",
+    "family": "Visita discreta",
+    "variant": "B",
+    "logic": "Traslación del tejido 2; visita discreta.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.44,
+      "B2": 0.67,
+      "K": 1.2,
+      "F": 1.74,
+      "M": 2.21,
+      "S": 0.83,
+      "G": 2.43
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      1
+    ],
+    "room_expansion": 3.5000000000000004,
+    "floor_m2": 145.91,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 72.82,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T15A",
+    "family": "Estar sin cocinar",
+    "variant": "A",
+    "logic": "Traslación del tejido 3; estar sin cocinar.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.33,
+      "B2": 2.26,
+      "K": 5.15,
+      "F": 2.3,
+      "M": 4.11,
+      "S": 2.77,
+      "G": 0.05
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      1
+    ],
+    "room_expansion": 3.1500000000000004,
+    "floor_m2": 155.07,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 83.81,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T15B",
+    "family": "Estar sin cocinar",
+    "variant": "B",
+    "logic": "Traslación del tejido 3; estar sin cocinar.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.4,
+      "B2": 2.21,
+      "K": 4.99,
+      "F": 2.4,
+      "M": 5.75,
+      "S": 4.82,
+      "G": 5.05
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1,
+      1
+    ],
+    "room_expansion": 3.1500000000000004,
+    "floor_m2": 156.72,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 83.63,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T16A",
+    "family": "Dibujar sin recoger",
+    "variant": "A",
+    "logic": "Traslación del tejido 1; dibujar sin recoger.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 1.13,
+      "B2": 1.56,
+      "K": 3.16,
+      "F": 0.56,
+      "M": 3.43,
+      "S": 7.04,
+      "G": 3.7
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.05,
+      0.9
+    ],
+    "room_expansion": 2.8000000000000003,
+    "floor_m2": 149.52,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 77.77,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T16B",
+    "family": "Dibujar sin recoger",
+    "variant": "B",
+    "logic": "Traslación del tejido 1; dibujar sin recoger.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 1.47,
+      "B2": 1.69,
+      "K": 3.58,
+      "F": 0.97,
+      "M": 4.66,
+      "S": 0.41,
+      "G": 3.5
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.05,
+      0.9
+    ],
+    "room_expansion": 2.8000000000000003,
+    "floor_m2": 169.03,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 95.44,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T17A",
+    "family": "Limpieza accesible",
+    "variant": "A",
+    "logic": "Traslación del tejido 2; limpieza accesible.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.82,
+      "B2": 0.91,
+      "K": 1.28,
+      "F": 1.7,
+      "M": 2.32,
+      "S": 1.29,
+      "G": 2.4
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.05,
+      0.9
+    ],
+    "room_expansion": 3.8500000000000005,
+    "floor_m2": 159.13,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 87.88,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T17B",
+    "family": "Limpieza accesible",
+    "variant": "B",
+    "logic": "Traslación del tejido 2; limpieza accesible.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.78,
+      "B2": 0.86,
+      "K": 1.18,
+      "F": 1.78,
+      "M": 2.33,
+      "S": 0.34,
+      "G": 0.19
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.05,
+      0.9
+    ],
+    "room_expansion": 3.8500000000000005,
+    "floor_m2": 155.45,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 82.35,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T18A",
+    "family": "Cambio de turno",
+    "variant": "A",
+    "logic": "Traslación del tejido 3; cambio de turno.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.13,
+      "B2": 2.17,
+      "K": 5.58,
+      "F": 0.59,
+      "M": 8.34,
+      "S": 0.73,
+      "G": 4.84
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.05,
+      0.9
+    ],
+    "room_expansion": 3.5000000000000004,
+    "floor_m2": 158.27,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 87.02,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T18B",
+    "family": "Cambio de turno",
+    "variant": "B",
+    "logic": "Traslación del tejido 3; cambio de turno.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 3,
+    "target_error": {
+      "B1": 0.54,
+      "B2": 1.57,
+      "K": 3.51,
+      "F": 1.66,
+      "M": 5.74,
+      "S": 4.47,
+      "G": 0.24
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.05,
+      0.9
+    ],
+    "room_expansion": 3.5000000000000004,
+    "floor_m2": 169.24,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 96.15,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T19A",
+    "family": "Dos ritmos domésticos",
+    "variant": "A",
+    "logic": "Traslación del tejido 1; dos ritmos domésticos.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 0.68,
+      "B2": 0.84,
+      "K": 3.08,
+      "F": 0.18,
+      "M": 5.24,
+      "S": 1.15,
+      "G": 1.62
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.1,
+      1
+    ],
+    "room_expansion": 3.1500000000000004,
+    "floor_m2": 160.64,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 88.89,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T19B",
+    "family": "Dos ritmos domésticos",
+    "variant": "B",
+    "logic": "Traslación del tejido 1; dos ritmos domésticos.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 1,
+    "target_error": {
+      "B1": 0.84,
+      "B2": 2.4,
+      "K": 3.76,
+      "F": 0.19,
+      "M": 2.43,
+      "S": 7.93,
+      "G": 3.6
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.1,
+      1
+    ],
+    "room_expansion": 3.1500000000000004,
+    "floor_m2": 152.54,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 78.96,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T20A",
+    "family": "Umbral y retirada",
+    "variant": "A",
+    "logic": "Traslación del tejido 2; umbral y retirada.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.3,
+      "B2": 1.5,
+      "K": 1.55,
+      "F": 1.69,
+      "M": 3.76,
+      "S": 10.66,
+      "G": 3.71
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.1,
+      1
+    ],
+    "room_expansion": 2.8000000000000003,
+    "floor_m2": 163.07,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 91.82,
+    "entry_on_boundary": true
+  },
+  {
+    "code": "T20B",
+    "family": "Umbral y retirada",
+    "variant": "B",
+    "logic": "Traslación del tejido 2; umbral y retirada.",
+    "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+    "source": 2,
+    "target_error": {
+      "B1": 0.25,
+      "B2": 2.26,
+      "K": 1.04,
+      "F": 1.46,
+      "M": 3.3,
+      "S": 2.06,
+      "G": 6.26
+    },
+    "connections": 4,
+    "geometry_conflicts": [],
+    "stretch": [
+      1.1,
+      1
+    ],
+    "room_expansion": 2.8000000000000003,
+    "floor_m2": 157.51,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 84.42,
+    "entry_on_boundary": true
+  }
+]

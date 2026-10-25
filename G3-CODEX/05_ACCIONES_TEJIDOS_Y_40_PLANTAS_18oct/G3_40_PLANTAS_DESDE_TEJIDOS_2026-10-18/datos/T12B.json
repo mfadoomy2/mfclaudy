@@ -1,0 +1,28 @@
+{
+  "code": "T12B",
+  "family": "Humedad separada",
+  "variant": "B",
+  "logic": "Traslación del tejido 3; humedad separada.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 3,
+  "target_error": {
+    "B1": 0.8,
+    "B2": 1.74,
+    "K": 3.5,
+    "F": 1.89,
+    "M": 4.8,
+    "S": 5.18,
+    "G": 0.59
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    0.8,
+    1.1
+  ],
+  "room_expansion": 2.8000000000000003,
+  "floor_m2": 162.28,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 89.19,
+  "entry_on_boundary": true
+}

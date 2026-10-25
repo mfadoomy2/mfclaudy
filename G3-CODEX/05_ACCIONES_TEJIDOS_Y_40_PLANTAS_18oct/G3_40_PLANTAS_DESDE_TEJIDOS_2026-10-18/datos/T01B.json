@@ -1,0 +1,28 @@
+{
+  "code": "T01B",
+  "family": "Llegada y cuidado",
+  "variant": "B",
+  "logic": "Traslación del tejido 1; llegada y cuidado.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 1,
+  "target_error": {
+    "B1": 0.84,
+    "B2": 2.78,
+    "K": 3.9,
+    "F": 2.39,
+    "M": 3.59,
+    "S": 0.2,
+    "G": 3.48
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    0.85,
+    1
+  ],
+  "room_expansion": 3.8500000000000005,
+  "floor_m2": 150.58,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 77.0,
+  "entry_on_boundary": true
+}

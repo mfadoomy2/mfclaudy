@@ -1,0 +1,556 @@
+{
+  "seconds": 13.862899780273438, 
+  "details": {
+    "lift": {
+      "pit_depth": 1.0, 
+      "cabin_level": 3.7999999999999998, 
+      "clear_door": 0.90000000000000002, 
+      "clear_cabin": [
+        1.3999999999999999, 
+        1.6000000000000001
+      ], 
+      "overhead": 3.7000000000000002, 
+      "stops": [
+        0, 
+        3.7999999999999998, 
+        7.7999999999999998, 
+        11.800000000000001, 
+        15.800000000000001, 
+        19.800000000000001
+      ]
+    }
+  }, 
+  "people": [
+    {
+      "activity": "U01 vida domestica", 
+      "position": [
+        25.362172941090854, 
+        4.1931347599270321, 
+        3.7999999999999998
+      ], 
+      "pose": 30
+    }, 
+    {
+      "activity": "U01 vida domestica", 
+      "position": [
+        21.794548503937452, 
+        -0.82703016519503736, 
+        3.7999999999999998
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "U02 vida domestica", 
+      "position": [
+        37.254094844713400, 
+        3.0986552346629490, 
+        4.3999999999999995
+      ], 
+      "pose": 30
+    }, 
+    {
+      "activity": "U02 vida domestica", 
+      "position": [
+        33.863844937223433, 
+        -2.0429598389072501, 
+        4.3999999999999995
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "U03 vida domestica", 
+      "position": [
+        25.610656267363034, 
+        5.5972703020845298, 
+        7.7999999999999998
+      ], 
+      "pose": 30
+    }, 
+    {
+      "activity": "U03 vida domestica", 
+      "position": [
+        22.634263838152130, 
+        0.20550916982579448, 
+        7.7999999999999998
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "U04 vida domestica", 
+      "position": [
+        37.635067532535331, 
+        3.0003672397661889, 
+        8.4000000000000004
+      ], 
+      "pose": 30
+    }, 
+    {
+      "activity": "U04 vida domestica", 
+      "position": [
+        34.444691860461795, 
+        -2.2676022999180860, 
+        8.4000000000000004
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "U05 vida domestica", 
+      "position": [
+        25.208157981128704, 
+        4.5963665889240719, 
+        11.800000000000001
+      ], 
+      "pose": 30
+    }, 
+    {
+      "activity": "U05 vida domestica", 
+      "position": [
+        21.728690869112683, 
+        -0.48529737245697291, 
+        11.800000000000001
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "U06 vida domestica", 
+      "position": [
+        37.375724826762280, 
+        2.8978530094140353, 
+        12.400000000000000
+      ], 
+      "pose": 30
+    }, 
+    {
+      "activity": "U06 vida domestica", 
+      "position": [
+        33.949662584090582, 
+        -2.2199685495443617, 
+        12.400000000000000
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "U07 vida domestica", 
+      "position": [
+        25.537690012384601, 
+        5.7983683555513261, 
+        15.800000000000001
+      ], 
+      "pose": 30
+    }, 
+    {
+      "activity": "U07 vida domestica", 
+      "position": [
+        22.514359520157814, 
+        0.43278611922582755, 
+        15.800000000000001
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "U08 vida domestica", 
+      "position": [
+        37.856712367149115, 
+        3.0003959334458004, 
+        16.400000000000002
+      ], 
+      "pose": 30
+    }, 
+    {
+      "activity": "U08 vida domestica", 
+      "position": [
+        34.629637375681966, 
+        -2.2451723865217610, 
+        16.400000000000002
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "U09 vida domestica", 
+      "position": [
+        25.435172511911635, 
+        4.8948685175354925, 
+        19.800000000000001
+      ], 
+      "pose": 30
+    }, 
+    {
+      "activity": "U09 vida domestica", 
+      "position": [
+        21.911492566391757, 
+        -0.15623825638455902, 
+        19.800000000000001
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "U10 vida domestica", 
+      "position": [
+        37.554094844713397, 
+        3.0486552346629483, 
+        20.400000000000002
+      ], 
+      "pose": 30
+    }, 
+    {
+      "activity": "U10 vida domestica", 
+      "position": [
+        34.163844937223431, 
+        -2.0929598389072508, 
+        20.400000000000002
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        23, 
+        -6.0, 
+        3.7999999999999998
+      ], 
+      "pose": 19
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        35, 
+        -6.0999999999999996, 
+        4.1857142857142859
+      ], 
+      "pose": 43
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        49, 
+        -5.0, 
+        4.3999999999999995
+      ], 
+      "pose": 42
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        23, 
+        -6.0, 
+        7.7999999999999998
+      ], 
+      "pose": 19
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        35, 
+        -6.0999999999999996, 
+        8.1857142857142851
+      ], 
+      "pose": 43
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        49, 
+        -5.0, 
+        8.4000000000000004
+      ], 
+      "pose": 42
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        23, 
+        -6.0, 
+        11.800000000000001
+      ], 
+      "pose": 19
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        35, 
+        -6.0999999999999996, 
+        12.185714285714287
+      ], 
+      "pose": 43
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        49, 
+        -5.0, 
+        12.400000000000000
+      ], 
+      "pose": 42
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        23, 
+        -6.0, 
+        15.800000000000001
+      ], 
+      "pose": 19
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        35, 
+        -6.0999999999999996, 
+        16.185714285714287
+      ], 
+      "pose": 43
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        49, 
+        -5.0, 
+        16.400000000000002
+      ], 
+      "pose": 42
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        23, 
+        -6.0, 
+        19.800000000000001
+      ], 
+      "pose": 19
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        35, 
+        -6.0999999999999996, 
+        20.185714285714287
+      ], 
+      "pose": 43
+    }, 
+    {
+      "activity": "recorrer galeria", 
+      "position": [
+        49, 
+        -5.0, 
+        20.400000000000002
+      ], 
+      "pose": 42
+    }, 
+    {
+      "activity": "usar ascensor", 
+      "position": [
+        18.190000000000001, 
+        -5.5400000000000000, 
+        3.7999999999999998
+      ], 
+      "pose": 34
+    }, 
+    {
+      "activity": "CUIDADOS_LAVADO", 
+      "position": [
+        50.899999999999999, 
+        -1.4000000000000004, 
+        0
+      ], 
+      "pose": 45
+    }, 
+    {
+      "activity": "CUIDADOS_LAVADO", 
+      "position": [
+        49.0, 
+        -1.8000000000000003, 
+        0
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "CANTINA", 
+      "position": [
+        50.899999999999999, 
+        -1.4000000000000004, 
+        4.4000000000000004
+      ], 
+      "pose": 45
+    }, 
+    {
+      "activity": "CANTINA", 
+      "position": [
+        49.0, 
+        -1.8000000000000003, 
+        4.4000000000000004
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "TALLER", 
+      "position": [
+        50.899999999999999, 
+        -1.4000000000000004, 
+        12.400000000000000
+      ], 
+      "pose": 45
+    }, 
+    {
+      "activity": "TALLER", 
+      "position": [
+        49.0, 
+        -1.8000000000000003, 
+        12.400000000000000
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "AULA", 
+      "position": [
+        50.899999999999999, 
+        -1.4000000000000004, 
+        20.399999999999999
+      ], 
+      "pose": 45
+    }, 
+    {
+      "activity": "AULA", 
+      "position": [
+        49.0, 
+        -1.8000000000000003, 
+        20.399999999999999
+      ], 
+      "pose": 25
+    }, 
+    {
+      "activity": "planta baja y llegada", 
+      "position": [
+        13.400000000000000, 
+        0.10000000000000001, 
+        0
+      ], 
+      "pose": 19
+    }, 
+    {
+      "activity": "planta baja y llegada", 
+      "position": [
+        19, 
+        -5.7000000000000002, 
+        0
+      ], 
+      "pose": 19
+    }, 
+    {
+      "activity": "planta baja y llegada", 
+      "position": [
+        33, 
+        -6, 
+        0
+      ], 
+      "pose": 19
+    }, 
+    {
+      "activity": "planta baja y llegada", 
+      "position": [
+        49, 
+        -4.7999999999999998, 
+        0
+      ], 
+      "pose": 19
+    }
+  ], 
+  "counts_by_layer": {
+    "13_COSTILLAS": 19, 
+    "14_VIDRIOS": 28, 
+    "21_ACCESORIOS": 76, 
+    "23_ILUMINACION": 10, 
+    "04_UNIONES": 2728, 
+    "17_NUCLEOS": 42, 
+    "30_VEGETACION": 1078, 
+    "25_URBANIZACION": 5, 
+    "03_CELOSIAS": 9559, 
+    "24_COMUNES": 33, 
+    "05_CABLES": 160, 
+    "11_ENVOLVENTE_OPACA": 1, 
+    "08_BARANDILLAS": 19826, 
+    "16_BANOS": 12, 
+    "09_ESCALERAS": 294, 
+    "22_INSTALACIONES": 15, 
+    "02_ESTRUCTURA_RAMAS": 44, 
+    "90_CONTEXTO": 4, 
+    "06_VELAS": 100, 
+    "01_BANDEJAS": 51, 
+    "91_EJES_CONTROL": 10, 
+    "12_CUBIERTAS": 7, 
+    "10_UNIDADES": 15, 
+    "00_PARCELA": 2, 
+    "20_MOBILIARIO": 139, 
+    "40_PERSONAS": 60, 
+    "15_CARPINTERIAS": 23, 
+    "19_ASCENSOR_VIDRIO": 6, 
+    "07_GALERIAS": 27, 
+    "18_ASCENSOR": 103
+  }, 
+  "geometry_errors": [], 
+  "architecture": "native NURBS Breps and solids; meshes only supplied people, context and leaves where explicitly noted", 
+  "units": [
+    {
+      "people": 4, 
+      "id": "U01", 
+      "level": 3.7999999999999998, 
+      "angle": -3.0
+    }, 
+    {
+      "people": 4, 
+      "id": "U02", 
+      "level": 4.3999999999999995, 
+      "angle": -1
+    }, 
+    {
+      "people": 4, 
+      "id": "U03", 
+      "level": 7.7999999999999998, 
+      "angle": 3.5
+    }, 
+    {
+      "people": 4, 
+      "id": "U04", 
+      "level": 8.4000000000000004, 
+      "angle": 1.2000000000000000
+    }, 
+    {
+      "people": 4, 
+      "id": "U05", 
+      "level": 11.800000000000001, 
+      "angle": -2
+    }, 
+    {
+      "people": 4, 
+      "id": "U06", 
+      "level": 12.400000000000000, 
+      "angle": -1.3999999999999999
+    }, 
+    {
+      "people": 4, 
+      "id": "U07", 
+      "level": 15.800000000000001, 
+      "angle": 3
+    }, 
+    {
+      "people": 4, 
+      "id": "U08", 
+      "level": 16.400000000000002, 
+      "angle": 0.80000000000000004
+    }, 
+    {
+      "people": 4, 
+      "id": "U09", 
+      "level": 19.800000000000001, 
+      "angle": -2.5
+    }, 
+    {
+      "people": 4, 
+      "id": "U10", 
+      "level": 20.400000000000002, 
+      "angle": -1
+    }
+  ], 
+  "objects_main_before_unit_export": 34477, 
+  "source_people": "/Volumes/T7/PERSONAS.3dm", 
+  "start": 1792104759.4247284
+}

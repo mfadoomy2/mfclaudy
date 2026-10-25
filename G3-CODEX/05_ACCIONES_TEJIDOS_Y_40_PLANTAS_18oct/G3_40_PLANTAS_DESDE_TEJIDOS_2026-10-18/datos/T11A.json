@@ -1,0 +1,28 @@
+{
+  "code": "T11A",
+  "family": "Herramientas próximas",
+  "variant": "A",
+  "logic": "Traslación del tejido 2; herramientas próximas.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 2,
+  "target_error": {
+    "B1": 0.61,
+    "B2": 1.13,
+    "K": 2.32,
+    "F": 0.55,
+    "M": 2.82,
+    "S": 1.18,
+    "G": 2.82
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    0.8,
+    1.1
+  ],
+  "room_expansion": 3.1500000000000004,
+  "floor_m2": 150.17,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 78.91,
+  "entry_on_boundary": true
+}

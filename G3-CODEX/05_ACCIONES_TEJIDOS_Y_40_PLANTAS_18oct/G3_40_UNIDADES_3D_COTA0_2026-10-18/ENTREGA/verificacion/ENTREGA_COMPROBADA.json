@@ -1,0 +1,22 @@
+{
+  "units_3d": 40,
+  "isolated_rooms": 2,
+  "master_file_objects": 29481,
+  "named_views": 41,
+  "floor_z_all": 0,
+  "no_xy_overlap_between_catalog_units": true,
+  "all_geometry_valid": true,
+  "individual_solid_geometries_closed": true,
+  "native_volume_checks": "base perforated profiles + updated slabs and basins passed",
+  "interior_use_points": "160 rooms, body diameter0.80m; clear landing diameter1.40m",
+  "shared_room_entrances": "40 units, body diameter0.90m, including plotted furniture",
+  "visual_review": "40 native axons and 40 native top views inspected; wide top views reframed; two actual isolated rooms inspected",
+  "construction_ready": false,
+  "remaining": [
+    "surface reduction",
+    "structural sizing",
+    "hardware loads and complete kinematics",
+    "daylight and ventilation",
+    "code compliance"
+  ]
+}

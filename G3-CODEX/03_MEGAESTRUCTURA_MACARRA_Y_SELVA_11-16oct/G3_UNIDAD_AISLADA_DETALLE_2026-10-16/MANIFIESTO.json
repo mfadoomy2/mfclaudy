@@ -1,0 +1,122 @@
+[
+  {
+    "path": "LEER_PRIMERO.md",
+    "bytes": 3134,
+    "sha256": "9afcaad6a226b24c7189443e699b8bb49f8920c71c61f7a334783c472da50533"
+  },
+  {
+    "path": "fuentes/empaquetar_unidad.py",
+    "bytes": 944,
+    "sha256": "2d4b207f30be1aaa85a62d4d493d7c44504b621f9809d22d70fc9dca93fe47b2"
+  },
+  {
+    "path": "fuentes/exportar_unidad_nativo.py",
+    "bytes": 2267,
+    "sha256": "1ba6de984fb76a50531f26dcc72c9fd9b70dd7975dfc7076be1de1af26dad112"
+  },
+  {
+    "path": "fuentes/extraer_unidad.py",
+    "bytes": 4915,
+    "sha256": "752ce643e6d0c87e05e76f091e3abac356892f946a46543d69439205e4bc065e"
+  },
+  {
+    "path": "fuentes/geometria_unidad.json",
+    "bytes": 25326429,
+    "sha256": "bb6226b9592250a295197506f3979990d47213f69ee04a2937f9f9269273da80"
+  },
+  {
+    "path": "fuentes/preparar_previa.py",
+    "bytes": 1121,
+    "sha256": "d7933aa42122548b7a656d7b4d93dab941139b1332c540c3bf8214e46da192ec"
+  },
+  {
+    "path": "fuentes/preparar_vista_rhino.py",
+    "bytes": 1453,
+    "sha256": "17f702d1dab88fd134d13302ce31d1c3650a25205f16e698c9aac5db280ae445"
+  },
+  {
+    "path": "fuentes/renderizar_unidad.py",
+    "bytes": 3812,
+    "sha256": "19cd51aff9a69618a35d2dd5b855dd773cdcbf5564f850380a9ef0ff9a150ee6"
+  },
+  {
+    "path": "fuentes/terminar_unidad.py",
+    "bytes": 1049,
+    "sha256": "7e4f9048eb570086abbbe15b6ec96f8ee77cfb553b6efb3c0fcff26e0129ead5"
+  },
+  {
+    "path": "modelos/D02_ENVOLVENTE_Y_BANDEJA_1a1.3dm",
+    "bytes": 732432,
+    "sha256": "a8348c0c12e2178e65984cbce3f9eda07af78501bf54858337bc7bbe0bb23d0c"
+  },
+  {
+    "path": "modelos/SELVA_MACARRA_V4_RENDER.blend",
+    "bytes": 53596849,
+    "sha256": "26ed4293435ec913b9e6b3a6708416ebdf55ac817fbd45f120a71ab435e5f675"
+  },
+  {
+    "path": "modelos/UNIDAD_P02_DETALLADA.3dm",
+    "bytes": 21049133,
+    "sha256": "188143df8720a310591f4fb812b51496b9d07cf0600f757e6a8224255c228804"
+  },
+  {
+    "path": "modelos/UNIDAD_P02_INTERIOR_EDITABLE.3dm",
+    "bytes": 17900087,
+    "sha256": "1ede7a92c072cc26ec624a33ab45f9a9ddaf08f6ac8d31066f0a75f26db80e25"
+  },
+  {
+    "path": "modelos/UNIDAD_P02_PREVIA_SOLIDA.3dm",
+    "bytes": 14598373,
+    "sha256": "2a088663c0489ec7fe784c95c3d9171ce44a9e2cc34fc2d46fb700d087785598"
+  },
+  {
+    "path": "verificacion/apertura_nativa.json",
+    "bytes": 143,
+    "sha256": "75f63c9e942e9502336ed8daa135a5a70ad2f76fa7f2735c3f61b5c335b3e508"
+  },
+  {
+    "path": "verificacion/auditoria_final.json",
+    "bytes": 850,
+    "sha256": "999c8429f132c3dfd8cf6decd6b688859b9cd00aaeb844fd4b49f7c36a9433e5"
+  },
+  {
+    "path": "verificacion/extraccion.json",
+    "bytes": 25314,
+    "sha256": "9e8e7c9fa94f5c562f56768aef185661d292ae01a6da4dbb20ebc77b3ac2a84a"
+  },
+  {
+    "path": "verificacion/mallas_nativas.json",
+    "bytes": 154,
+    "sha256": "71cf0f7491305ceea3b0cb61c0678bb55a08f07daa090911960b99f302b74421"
+  },
+  {
+    "path": "verificacion/render.log",
+    "bytes": 463488,
+    "sha256": "051ad7033bb14f71760fff98221b295a793a9f8967d334d6ec5965f887907072"
+  },
+  {
+    "path": "vistas/01_UNIDAD_COMPLETA.png",
+    "bytes": 5693703,
+    "sha256": "61013874be6afed79cc1ccac2f3249b53a1037ccab797b5a8fc6ff8cc2b2a7c5"
+  },
+  {
+    "path": "vistas/02_INTERIOR_ABIERTO.png",
+    "bytes": 5858918,
+    "sha256": "4d5f5e3debe5f0c5d08abd21fe3abf8fd9ed882b786ee581fe15a1307443f09c"
+  },
+  {
+    "path": "vistas/03_PLANTA_AMUEBLADA.png",
+    "bytes": 4938638,
+    "sha256": "5606663a5e3995ca3aff8c5ce5d4600116d1285c3d179ed0289bc0efc7f3945c"
+  },
+  {
+    "path": "vistas/04_DETALLE_TERRAZA.png",
+    "bytes": 5683532,
+    "sha256": "2eea8cf7131e60cc128a9df94dacaaf71ceca8a452955bfa89e5c28be6c92582"
+  },
+  {
+    "path": "vistas/05_RHINO_NATIVO.png",
+    "bytes": 2926245,
+    "sha256": "6722f11fb52775c301e7be9561cb27f37ad12e09cdcc6b2aeab307c41144f16f"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "code": "T17A",
+  "family": "Limpieza accesible",
+  "variant": "A",
+  "logic": "Traslación del tejido 2; limpieza accesible.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 2,
+  "target_error": {
+    "B1": 0.82,
+    "B2": 0.91,
+    "K": 1.28,
+    "F": 1.7,
+    "M": 2.32,
+    "S": 1.29,
+    "G": 2.4
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    1.05,
+    0.9
+  ],
+  "room_expansion": 3.8500000000000005,
+  "floor_m2": 159.13,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 87.88,
+  "entry_on_boundary": true
+}

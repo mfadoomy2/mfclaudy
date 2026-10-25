@@ -1,0 +1,28 @@
+{
+  "code": "T10B",
+  "family": "Trabajo y visita",
+  "variant": "B",
+  "logic": "Traslación del tejido 1; trabajo y visita.",
+  "risk": "La traducción desplaza equipamiento y amplía el nodo dormir: consultar las distancias al objetivo.",
+  "source": 1,
+  "target_error": {
+    "B1": 0.59,
+    "B2": 3.28,
+    "K": 4.01,
+    "F": 2.77,
+    "M": 3.3,
+    "S": 5.73,
+    "G": 3.77
+  },
+  "connections": 4,
+  "geometry_conflicts": [],
+  "stretch": [
+    0.8,
+    1.1
+  ],
+  "room_expansion": 3.5000000000000004,
+  "floor_m2": 146.21,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 72.63,
+  "entry_on_boundary": true
+}
