@@ -1,0 +1,194 @@
+{
+  "laminas": 10,
+  "plantas_conceptuales": 20,
+  "acciones_fuente": 20,
+  "herramienta": "image_gen integrada",
+  "tipografia_html": "Ibarra Real Nova Italic local",
+  "tipografia_en_imagen": "aproximacion raster generada",
+  "alcance": "Hipotesis no medidas; no son 20 modelos CAD ni reemplazan las cuarenta plantas previas. Comprobar escala, accesos, instalaciones y relaciones antes de desarrollar.",
+  "imagenes": [
+    {
+      "n": "01",
+      "title": "Dormir mientras otra sigue",
+      "actions": "A01 dormir · A06 entrevista · A10 hablar en privado",
+      "relation": "ruido → filtro → descanso",
+      "a": "A · banda de silencio",
+      "b": "B · dos pares separados",
+      "src": "/Users/adam/.codex/generated_images/01a12a94-fa82-7a63-9eb6-db87c00f1ea9/exec-def69df3-16d1-4446-a946-544af0759249.png",
+      "revised": false,
+      "archivo": "01_ACCIONES_Y_PLANTAS.png",
+      "sha256": "264a68cb89800ecf4596b1bf66ff48f28c0552318bb25be526a3e50d857e0ee6",
+      "dimensiones_px": [
+        1055,
+        1491
+      ]
+    },
+    {
+      "n": "02",
+      "title": "Vestirse y guardar",
+      "actions": "A02 vestirse · A05 guardar ropa",
+      "relation": "guardar → espesor habitable → intimidad",
+      "a": "A · pared que se ocupa",
+      "b": "B · dos espesores",
+      "src": "/Users/adam/.codex/generated_images/01a12a94-fa82-7a63-9eb6-db87c00f1ea9/exec-2f0c8c5d-9c24-42af-b3be-227d3dda3491.png",
+      "revised": false,
+      "archivo": "02_ACCIONES_Y_PLANTAS.png",
+      "sha256": "428be168edb8739393d2316938c9612d6fcdc380e10e8c81eb4b054d22f02fdf",
+      "dimensiones_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "n": "03",
+      "title": "Mojar y secar",
+      "actions": "A03 ducharse · A04 secar",
+      "relation": "agua → ventilación → secado",
+      "a": "A · borde húmedo",
+      "b": "B · dos extremos ventilados",
+      "src": "/Users/adam/.codex/generated_images/01a12a94-fa82-7a63-9eb6-db87c00f1ea9/exec-8759cbab-2123-41f4-9702-46b8bc5cc07a.png",
+      "revised": true,
+      "archivo": "03_ACCIONES_Y_PLANTAS.png",
+      "sha256": "6005081fb7932445b3f917f8ae7a90c5e9c4ad1e835269b6246585c631a1f28e",
+      "dimensiones_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "n": "04",
+      "title": "Cocinar y recoger",
+      "actions": "A07 cocinar · A19 recoger",
+      "relation": "preparar → compartir → limpiar",
+      "a": "A · cocina en paralelo",
+      "b": "B · cocina en el pliegue",
+      "src": "/Users/adam/.codex/generated_images/01a12a94-fa82-7a63-9eb6-db87c00f1ea9/exec-6148ed5a-3b0d-4041-8f0a-da438a652db8.png",
+      "revised": false,
+      "archivo": "04_ACCIONES_Y_PLANTAS.png",
+      "sha256": "da696ae1fbfe6bd1b780ede3fa99d73137e01fdbc1b78ba27db04fc863f10ddb",
+      "dimensiones_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "n": "05",
+      "title": "Comer y conversar",
+      "actions": "A08 comer · A09 conversar en grupo",
+      "relation": "mesa → estancia → elección",
+      "a": "A · mesa longitudinal",
+      "b": "B · dos conversaciones",
+      "src": "/Users/adam/.codex/generated_images/01a12a94-fa82-7a63-9eb6-db87c00f1ea9/exec-f73ff82f-ebdf-4bc4-a2dc-ae688aa2ac2c.png",
+      "revised": false,
+      "archivo": "05_ACCIONES_Y_PLANTAS.png",
+      "sha256": "df9fc71d860d5a9284f98702c860ff0533f128a9f777eb51aae89df982d04e73",
+      "dimensiones_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "n": "06",
+      "title": "Dibujar sin desaparecer",
+      "actions": "A11 dibujar · A06 entrevista",
+      "relation": "luz → tablero → compartir o cerrar",
+      "a": "A · franja de dibujo",
+      "b": "B · dos claros de trabajo",
+      "src": "/Users/adam/.codex/generated_images/01a12a94-fa82-7a63-9eb6-db87c00f1ea9/exec-e4abdbb7-dc25-44d9-bdf3-70c2ff818f0e.png",
+      "revised": false,
+      "archivo": "06_ACCIONES_Y_PLANTAS.png",
+      "sha256": "32bf98f499984bc9e47a91dd01c740ef5b9c32daa36fcff796d2d3d7d396f599",
+      "dimensiones_px": [
+        1055,
+        1491
+      ]
+    },
+    {
+      "n": "07",
+      "title": "Hacer maqueta y guardarla",
+      "actions": "A12 guardar maqueta · A13 cortar",
+      "relation": "desplegar → dejar a medias → guardar",
+      "a": "A · taller en el borde",
+      "b": "B · alcobas de trabajo",
+      "src": "/Users/adam/.codex/generated_images/01a12a94-fa82-7a63-9eb6-db87c00f1ea9/exec-43e17991-8f0a-4aed-93ba-d360b72da5cf.png",
+      "revised": true,
+      "archivo": "07_ACCIONES_Y_PLANTAS.png",
+      "sha256": "92bd46a1abc81a68491d72b48a34bf3fc00b9c2444cb1d2f8fa61c9095a487dd",
+      "dimensiones_px": [
+        1054,
+        1492
+      ]
+    },
+    {
+      "n": "08",
+      "title": "Coser, reparar la tela",
+      "actions": "A14 coser · A20 guardar herramientas",
+      "relation": "extender → tensar → recoger",
+      "a": "A · mesa y pared textil",
+      "b": "B · trabajar en el umbral",
+      "src": "/Users/adam/.codex/generated_images/01a12a94-fa82-7a63-9eb6-db87c00f1ea9/exec-6b3b8d07-5397-4337-b484-fdbcd336c10f.png",
+      "revised": true,
+      "archivo": "08_ACCIONES_Y_PLANTAS.png",
+      "sha256": "5250a20a8bd2797145b88f5e9b9849005756e4ad00fd6acbd0206d5f70e9eeac",
+      "dimensiones_px": [
+        1054,
+        1492
+      ]
+    },
+    {
+      "n": "09",
+      "title": "Reparar sin ocupar el paso",
+      "actions": "A15 reparar bicicleta · A20 guardar herramientas",
+      "relation": "entrada → apoyo → herramientas",
+      "a": "A · ensanche de llegada",
+      "b": "B · taller que comparte el borde",
+      "src": "/Users/adam/.codex/generated_images/01a12a94-fa82-7a63-9eb6-db87c00f1ea9/exec-ef73ca1b-9bf9-469f-a439-6d2d0a664217.png",
+      "revised": false,
+      "archivo": "09_ACCIONES_Y_PLANTAS.png",
+      "sha256": "42adb513bac5893cf780a1cda84ebffbd092a8dbbd109a150690002dffe9ab8f",
+      "dimensiones_px": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "n": "10",
+      "title": "Llegar, recibir y salir",
+      "actions": "A16 llegar · A17 recibir · A18 salir",
+      "relation": "un acceso → dos grados de intimidad",
+      "a": "A · llegada con bifurcación",
+      "b": "B · recibir en una estancia",
+      "src": "/Users/adam/.codex/generated_images/01a12a94-fa82-7a63-9eb6-db87c00f1ea9/exec-0d16d217-8d1e-45ae-94b5-a7fb3b373041.png",
+      "revised": false,
+      "archivo": "10_ACCIONES_Y_PLANTAS.png",
+      "sha256": "5a9c87c6b51f75f0376d59f5d7c57dcd6d83f480cc1fc64d6abee53e6b18e415",
+      "dimensiones_px": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "acciones_cubiertas": [
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A06",
+    "A07",
+    "A08",
+    "A09",
+    "A10",
+    "A11",
+    "A12",
+    "A13",
+    "A14",
+    "A15",
+    "A16",
+    "A17",
+    "A18",
+    "A19",
+    "A20"
+  ],
+  "revision": "Inspeccion visual de diez laminas; correccion de dormitorios omitidos en 03,07,08; comprobacion de integridad PNG. No validacion dimensional."
+}

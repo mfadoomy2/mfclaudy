@@ -1,0 +1,76 @@
+[
+  {
+    "code": "V01",
+    "original_floor_m2": 122.6951523839481,
+    "compact_floor_m2": 122.6951523839481,
+    "floor_bbox_after_rotation_m": [
+      13.399997322713393,
+      12.829999999999998
+    ],
+    "room_floor_m2": 18.3526452378725,
+    "beds_m": [
+      1.25,
+      2.0
+    ],
+    "desks_m": [
+      1.8,
+      0.9
+    ],
+    "programme_clearance_90cm_checked": true,
+    "all_bedrooms_face_street": false,
+    "roof_scope": "Common roof recomposed; structure and connections require recalculation."
+  },
+  {
+    "code": "V02",
+    "original_floor_m2": 126.26427663226718,
+    "compact_floor_m2": 121.48921063907169,
+    "floor_bbox_after_rotation_m": [
+      14.299997322713391,
+      12.980000000000004
+    ],
+    "room_floor_m2": 18.3526452378725,
+    "beds_m": [
+      1.25,
+      2.0
+    ],
+    "desks_m": [
+      1.8,
+      0.9
+    ],
+    "programme_clearance_90cm_checked": true,
+    "all_bedrooms_face_street": false,
+    "roof_scope": "Common roof recomposed; structure and connections require recalculation."
+  },
+  {
+    "code": "V03",
+    "original_floor_m2": 117.55955563268445,
+    "compact_floor_m2": 121.0797661497538,
+    "floor_bbox_after_rotation_m": [
+      15.399997322713396,
+      15.399997322713396
+    ],
+    "room_floor_m2": 18.3526452378725,
+    "beds_m": [
+      1.25,
+      2.0
+    ],
+    "desks_m": [
+      1.8,
+      0.9
+    ],
+    "programme_clearance_90cm_checked": true,
+    "all_bedrooms_face_street": false,
+    "roof_scope": "Common roof recomposed; structure and connections require recalculation."
+  },
+  {
+    "code": "E02_GIRO90",
+    "floor_bbox_after_rotation_m": [
+      14.67890685921984,
+      25.812341574472562
+    ],
+    "outside_parcel_m2": 60.89816586408628,
+    "parcel_max_transverse_extent_m": 20.169999999925494,
+    "fits_parcel": false,
+    "scope": "Rigid rotation only. Recomposition and a new vertical-access/structural solution are necessary."
+  }
+]

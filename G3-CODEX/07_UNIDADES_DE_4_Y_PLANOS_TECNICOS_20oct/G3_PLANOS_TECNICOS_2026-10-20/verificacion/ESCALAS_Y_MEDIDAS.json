@@ -1,0 +1,317 @@
+[
+  {
+    "code": "V01_U",
+    "sheet_mm": [
+      420,
+      297
+    ],
+    "scale": 100,
+    "cut_elevation_m": 1.2,
+    "floor_elevation_m": 0,
+    "geometry_source": "RhinoCommon: sections, native profiles and cap loops",
+    "true_mm_per_model_m": 10.0,
+    "scale_bar_paper_mm": 50.0,
+    "scale_bar_model_m": 5.0,
+    "geometric_floor_m2": 122.69603171853215,
+    "doors": 7,
+    "windows_components": 7,
+    "wall_cut_m2": 9.093078974589167,
+    "measured_outer_bbox_m": [
+      -0.06495506464851553,
+      -0.05999999999999961,
+      13.464952387361908,
+      12.895
+    ],
+    "native_bed_sizes_m": [
+      [
+        1.2500000000000004,
+        2.0
+      ],
+      [
+        1.25,
+        2.0
+      ],
+      [
+        1.25,
+        2.0
+      ],
+      [
+        1.25,
+        2.0
+      ]
+    ],
+    "native_desk_sizes_m": [
+      [
+        0.8999999999999995,
+        1.7999999999999998
+      ],
+      [
+        0.8999999999999995,
+        1.7999999999999998
+      ],
+      [
+        0.9000000000000004,
+        1.7999999999999998
+      ],
+      [
+        0.9000000000000004,
+        1.8000000000000007
+      ]
+    ]
+  },
+  {
+    "code": "V02_U",
+    "sheet_mm": [
+      420,
+      297
+    ],
+    "scale": 100,
+    "cut_elevation_m": 1.2,
+    "floor_elevation_m": 0,
+    "geometry_source": "RhinoCommon: sections, native profiles and cap loops",
+    "true_mm_per_model_m": 10.0,
+    "scale_bar_paper_mm": 50.0,
+    "scale_bar_model_m": 5.0,
+    "geometric_floor_m2": 121.4878274301629,
+    "doors": 7,
+    "windows_components": 8,
+    "wall_cut_m2": 9.312598251787756,
+    "measured_outer_bbox_m": [
+      27.935044935351485,
+      -0.05999999999999828,
+      42.3649523873619,
+      13.045000000000002
+    ],
+    "native_bed_sizes_m": [
+      [
+        1.25,
+        2.0
+      ],
+      [
+        1.25,
+        2.0
+      ],
+      [
+        1.25,
+        2.0
+      ],
+      [
+        1.25,
+        2.0
+      ]
+    ],
+    "native_desk_sizes_m": [
+      [
+        0.8999999999999986,
+        1.7999999999999998
+      ],
+      [
+        0.8999999999999986,
+        1.7999999999999998
+      ],
+      [
+        0.8999999999999986,
+        1.7999999999999998
+      ],
+      [
+        0.8999999999999986,
+        1.8000000000000007
+      ]
+    ]
+  },
+  {
+    "code": "V03_U",
+    "sheet_mm": [
+      420,
+      297
+    ],
+    "scale": 100,
+    "cut_elevation_m": 1.2,
+    "floor_elevation_m": 0,
+    "geometry_source": "RhinoCommon: sections, native profiles and cap loops",
+    "true_mm_per_model_m": 10.0,
+    "scale_bar_paper_mm": 50.0,
+    "scale_bar_model_m": 5.0,
+    "geometric_floor_m2": 114.89486416717448,
+    "doors": 7,
+    "windows_components": 7,
+    "wall_cut_m2": 8.962279032375765,
+    "measured_outer_bbox_m": [
+      55.935044935351485,
+      -0.06495506464851086,
+      71.4649523873619,
+      15.464952387361908
+    ],
+    "native_bed_sizes_m": [
+      [
+        1.25,
+        2.0
+      ],
+      [
+        1.25,
+        2.0
+      ],
+      [
+        1.25,
+        2.0
+      ],
+      [
+        1.25,
+        2.0
+      ]
+    ],
+    "native_desk_sizes_m": [
+      [
+        0.8999999999999986,
+        1.7999999999999998
+      ],
+      [
+        0.9000000000000004,
+        1.79999999999999
+      ],
+      [
+        0.9000000000000057,
+        1.8000000000000007
+      ],
+      [
+        0.9000000000000012,
+        1.7999999999999972
+      ]
+    ]
+  },
+  {
+    "code": "E02",
+    "sheet_mm": [
+      841,
+      594
+    ],
+    "scale": 100,
+    "cut_elevation_m": 5.4,
+    "floor_elevation_m": 4.2,
+    "geometry_source": "RhinoCommon: sections, native profiles and cap loops",
+    "true_mm_per_model_m": 10.0,
+    "scale_bar_paper_mm": 50.0,
+    "scale_bar_model_m": 5.0,
+    "geometric_floor_m2": 251.3594222431212,
+    "not_fitted_rotation_test": true,
+    "doors": 13,
+    "windows_components": 14,
+    "wall_cut_m2": 18.526662728286514,
+    "measured_outer_bbox_m": [
+      18.612851867897916,
+      -12.54728377824679,
+      33.42099517255354,
+      26.753147025487657
+    ],
+    "native_bed_sizes_m": [
+      [
+        1.2499999999999907,
+        1.9999999999999967
+      ],
+      [
+        1.2499999999999942,
+        2.0000000000000178
+      ],
+      [
+        1.2499999999999951,
+        1.9999999999999998
+      ],
+      [
+        1.2500000000000002,
+        1.9999999999999998
+      ],
+      [
+        1.2499999999999996,
+        2.000000000000007
+      ],
+      [
+        1.2499999999999907,
+        1.9999999999999896
+      ],
+      [
+        1.2499999999999951,
+        2.0000000000000036
+      ],
+      [
+        1.2500000000000013,
+        2.0000000000000036
+      ]
+    ],
+    "native_desk_sizes_m": [
+      [
+        0.8999999999999961,
+        1.8000000000000163
+      ],
+      [
+        0.8999999999999987,
+        1.7999999999999992
+      ],
+      [
+        0.899999999999999,
+        1.8000000000000007
+      ],
+      [
+        0.8999999999999991,
+        1.8000000000000014
+      ],
+      [
+        0.8999999999999948,
+        1.8000000000000194
+      ],
+      [
+        0.8999999999999991,
+        1.7999999999999912
+      ],
+      [
+        0.8999999999999956,
+        1.799999999999993
+      ],
+      [
+        0.9000000000000026,
+        1.8000000000000027
+      ]
+    ]
+  },
+  {
+    "code": "E02_PB_DIARIA",
+    "sheet_mm": [
+      594,
+      420
+    ],
+    "scale": 100,
+    "cut_elevation_m": 1.2,
+    "floor_elevation_m": 0,
+    "geometry_source": "RhinoCommon: sections, native profiles and cap loops",
+    "true_mm_per_model_m": 10.0,
+    "frontage_m": 14.978951899248491,
+    "overall_extent_x_m": 49.47999999998137,
+    "overall_extent_y_m": 20.169999999925494,
+    "scale_bar_paper_mm": 50.0,
+    "scale_bar_model_m": 5.0,
+    "geometric_floor_m2": 650.9263499875563,
+    "programme_state": "DIARIA",
+    "library_area_m2": 53.05,
+    "study_area_m2": 67.09
+  },
+  {
+    "code": "E02_PB_DOMINGO",
+    "sheet_mm": [
+      594,
+      420
+    ],
+    "scale": 100,
+    "cut_elevation_m": 1.2,
+    "floor_elevation_m": 0,
+    "geometry_source": "RhinoCommon: sections, native profiles and cap loops",
+    "true_mm_per_model_m": 10.0,
+    "frontage_m": 14.978951899248491,
+    "overall_extent_x_m": 49.47999999998137,
+    "overall_extent_y_m": 20.169999999925494,
+    "scale_bar_paper_mm": 50.0,
+    "scale_bar_model_m": 5.0,
+    "geometric_floor_m2": 650.9263499875563,
+    "programme_state": "DOMINGO",
+    "library_area_m2": 53.05,
+    "study_area_m2": 67.09
+  }
+]

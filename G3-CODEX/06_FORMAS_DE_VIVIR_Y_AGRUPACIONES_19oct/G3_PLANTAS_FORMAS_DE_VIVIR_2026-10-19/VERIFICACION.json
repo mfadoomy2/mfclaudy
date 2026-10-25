@@ -1,0 +1,78 @@
+{
+  "habitacion": {
+    "area_m2": 20.56,
+    "recorridos_disco80": {
+      "entrada": true,
+      "junto_cama": true,
+      "vestidor": true,
+      "ventana": true,
+      "dibujar": true
+    },
+    "colisiones_muebles_m2": 0.0
+  },
+  "familias": [
+    {
+      "codigo": "V01",
+      "suelo_geometrico_m2": 124.8,
+      "envolvente_estudio_m2": 134.25,
+      "habitacion_geometrica_m2": 20.56,
+      "comun_sin_banos_ni_privados_m2": 36.02,
+      "puertas_privadas_conectadas_disco90": 4,
+      "solape_habitaciones_m2": 0.0,
+      "ventanas_comunes_candidatas": 4,
+      "luz_parcela": "PENDIENTE",
+      "acustica": "PENDIENTE",
+      "alcanzables": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "mobiliario_fuera_suelo_m2": 0.0,
+      "frentes_ventana_privada_libres_3m": 4,
+      "objetos_3dm_2d": 50
+    },
+    {
+      "codigo": "V02",
+      "suelo_geometrico_m2": 128.13,
+      "envolvente_estudio_m2": 137.63,
+      "habitacion_geometrica_m2": 20.56,
+      "comun_sin_banos_ni_privados_m2": 39.09,
+      "puertas_privadas_conectadas_disco90": 4,
+      "solape_habitaciones_m2": 0.0,
+      "ventanas_comunes_candidatas": 3,
+      "luz_parcela": "PENDIENTE",
+      "acustica": "PENDIENTE",
+      "alcanzables": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "mobiliario_fuera_suelo_m2": 0.0,
+      "frentes_ventana_privada_libres_3m": 4,
+      "objetos_3dm_2d": 47
+    },
+    {
+      "codigo": "V03",
+      "suelo_geometrico_m2": 128.44,
+      "envolvente_estudio_m2": 138.07,
+      "habitacion_geometrica_m2": 20.56,
+      "comun_sin_banos_ni_privados_m2": 39.41,
+      "puertas_privadas_conectadas_disco90": 4,
+      "solape_habitaciones_m2": 0.0,
+      "ventanas_comunes_candidatas": 3,
+      "luz_parcela": "PENDIENTE",
+      "acustica": "PENDIENTE",
+      "alcanzables": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "mobiliario_fuera_suelo_m2": 0.0,
+      "frentes_ventana_privada_libres_3m": 4,
+      "objetos_3dm_2d": 47
+    }
+  ]
+}

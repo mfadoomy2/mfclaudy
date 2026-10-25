@@ -1,0 +1,16 @@
+<type 'Font'>
+Defines a format for text.
+
+Font(familyName: str)
+Font(familyName: str, weight: FontWeight, style: FontStyle, underlined: bool, strikethrough: bool)
+Font(familyName: str, weight: FontWeight, style: FontStyle, stretch: FontStretch, underlined: bool, strikethrough: bool)
+
+<type 'DimensionStyle'>
+Can also be considered an annotation style since it is used for
+            more than just dimensions
+
+DimensionStyle()
+
+<type 'TextEntity'>
+TextEntity()
+

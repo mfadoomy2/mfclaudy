@@ -1,0 +1,1 @@
+{"errors": [], "curves": 0, "hatches": 0, "texts": 0, "layouts": [], "fatal": "Traceback (most recent call last):\n  File \"/Volumes/T7/G3 Proyectos/G3_PLANOS_TECNICOS_2026-10-20/fuentes/montar_laminas_rhino.py\", line 15, in <module>\n    si=doc.DimStyles.Add(style);styleid=doc.DimStyles[si].Id\nTypeError: expected str, got DimensionStyle\n"}

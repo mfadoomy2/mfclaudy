@@ -1,0 +1,77 @@
+{
+  "modelos_2d": [
+    {
+      "archivo": "DOS_UNIDADES_PLANTA_EDITABLE.3dm",
+      "objetos": 95,
+      "geometria_valida": true,
+      "metros": true,
+      "todos_a_z0": true
+    },
+    {
+      "archivo": "HABITACION_PLANTA_EDITABLE.3dm",
+      "objetos": 8,
+      "geometria_valida": true,
+      "metros": true,
+      "todos_a_z0": true
+    },
+    {
+      "archivo": "V01_PLANTA_EDITABLE.3dm",
+      "objetos": 50,
+      "geometria_valida": true,
+      "metros": true,
+      "todos_a_z0": true
+    },
+    {
+      "archivo": "V02_PLANTA_EDITABLE.3dm",
+      "objetos": 47,
+      "geometria_valida": true,
+      "metros": true,
+      "todos_a_z0": true
+    },
+    {
+      "archivo": "V03_PLANTA_EDITABLE.3dm",
+      "objetos": 47,
+      "geometria_valida": true,
+      "metros": true,
+      "todos_a_z0": true
+    }
+  ],
+  "imagenes": [
+    {
+      "archivo": "00_HABITACION_DOS_ESTADOS_Y_SECCION.png",
+      "tamano": [
+        2800,
+        1400
+      ]
+    },
+    {
+      "archivo": "04_DOS_UNIDADES_UMBRAL.png",
+      "tamano": [
+        2800,
+        1680
+      ]
+    },
+    {
+      "archivo": "V01_PLANTA.png",
+      "tamano": [
+        1950,
+        1800
+      ]
+    },
+    {
+      "archivo": "V02_PLANTA.png",
+      "tamano": [
+        1950,
+        1800
+      ]
+    },
+    {
+      "archivo": "V03_PLANTA.png",
+      "tamano": [
+        1950,
+        1800
+      ]
+    }
+  ],
+  "nativa_Rhino": "NO ejecutada; relectura rhino3dm"
+}

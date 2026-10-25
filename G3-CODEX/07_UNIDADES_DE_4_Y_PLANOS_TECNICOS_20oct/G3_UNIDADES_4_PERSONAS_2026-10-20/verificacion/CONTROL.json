@@ -1,0 +1,170 @@
+{
+  "archivo": "/Volumes/T7/G3 Proyectos/G3_UNIDADES_4_PERSONAS_2026-10-20/UNIDADES_4_PERSONAS_TODAS_CON_CUBIERTA.3dm",
+  "sha256": "949f3dc42157905ebbd5693dae0090ff275859da02647b927d5625beb5f061c8",
+  "objetos": 1383,
+  "invalidos": [],
+  "propuestas": [
+    {
+      "propuesta": "V01_U",
+      "residentes": 4,
+      "cota_pavimento": 0,
+      "suelo_m2": 122.7,
+      "traslacion": [
+        7.529999999999999,
+        6.699998661356696,
+        0
+      ],
+      "cubiertas_comunes_solidas": 1,
+      "control_2d_heredado": {
+        "codigo": "V01_U",
+        "habitantes": 4,
+        "suelo_m2": 122.7,
+        "envolvente_estudio_m2": 132.04,
+        "banos": 2,
+        "aseos_en_borde": 2,
+        "longitud_contacto_exterior_banos_m": [
+          4.42,
+          4.22
+        ],
+        "accesos_dormitorios_disco90": 4,
+        "accesos_banos_disco90": 2,
+        "dormitorios_ok": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "banos_ok": [
+          true,
+          true
+        ],
+        "bow_exterior_3m": 4,
+        "bow_ok": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "vistas_WC_muestreadas_filtradas": 6,
+        "lineas_visuales_muestreadas": 6,
+        "solape_habitaciones_m2": 0.0,
+        "muebles_fuera_suelo_m2": 0.0,
+        "solapes_muebles_m2": 0.0,
+        "servicios_fuera_ambito_principal": true
+      }
+    },
+    {
+      "propuesta": "V02_U",
+      "residentes": 4,
+      "cota_pavimento": 0,
+      "suelo_m2": 126.26,
+      "traslacion": [
+        35.63,
+        7.599998661356697,
+        0
+      ],
+      "cubiertas_comunes_solidas": 1,
+      "control_2d_heredado": {
+        "codigo": "V02_U",
+        "habitantes": 4,
+        "suelo_m2": 126.26,
+        "envolvente_estudio_m2": 135.74,
+        "banos": 2,
+        "aseos_en_borde": 2,
+        "longitud_contacto_exterior_banos_m": [
+          4.72,
+          3.84
+        ],
+        "accesos_dormitorios_disco90": 4,
+        "accesos_banos_disco90": 2,
+        "dormitorios_ok": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "banos_ok": [
+          true,
+          true
+        ],
+        "bow_exterior_3m": 4,
+        "bow_ok": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "vistas_WC_muestreadas_filtradas": 6,
+        "lineas_visuales_muestreadas": 6,
+        "solape_habitaciones_m2": 0.0,
+        "muebles_fuera_suelo_m2": 0.0,
+        "solapes_muebles_m2": 0.0,
+        "servicios_fuera_ambito_principal": true
+      }
+    },
+    {
+      "propuesta": "V03_U",
+      "residentes": 4,
+      "cota_pavimento": 0,
+      "suelo_m2": 117.56,
+      "traslacion": [
+        64.5499986613567,
+        8.549998661356696,
+        0
+      ],
+      "cubiertas_comunes_solidas": 1,
+      "control_2d_heredado": {
+        "codigo": "V03_U",
+        "habitantes": 4,
+        "suelo_m2": 117.56,
+        "envolvente_estudio_m2": 128.04,
+        "banos": 2,
+        "aseos_en_borde": 2,
+        "longitud_contacto_exterior_banos_m": [
+          3.59,
+          3.59
+        ],
+        "accesos_dormitorios_disco90": 4,
+        "accesos_banos_disco90": 2,
+        "dormitorios_ok": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "banos_ok": [
+          true,
+          true
+        ],
+        "bow_exterior_3m": 4,
+        "bow_ok": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "vistas_WC_muestreadas_filtradas": 6,
+        "lineas_visuales_muestreadas": 6,
+        "solape_habitaciones_m2": 0.0,
+        "muebles_fuera_suelo_m2": 0.0,
+        "solapes_muebles_m2": 0.0,
+        "servicios_fuera_ambito_principal": true
+      }
+    }
+  ],
+  "vistas_guardadas": [
+    "V01_PLANTA",
+    "V01_AXO",
+    "V01_ALZADO",
+    "V02_PLANTA",
+    "V02_AXO",
+    "V02_ALZADO",
+    "V03_PLANTA",
+    "V03_AXO",
+    "V03_ALZADO",
+    "00_TODAS_CUBIERTAS"
+  ],
+  "apertura_y_guardado_nativo_Rhino8": true,
+  "revision_visual_cubiertas": true,
+  "cubiertas_comunes_cerradas": true
+}

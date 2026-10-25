@@ -1,0 +1,96 @@
+{
+  "modelos": [
+    {
+      "archivo": "V01_D_PLANTA.3dm",
+      "objetos": 96,
+      "arcos_bow": 8,
+      "geometria_valida": true,
+      "metros": true,
+      "cota": 0
+    },
+    {
+      "archivo": "V01_S_PLANTA.3dm",
+      "objetos": 91,
+      "arcos_bow": 8,
+      "geometria_valida": true,
+      "metros": true,
+      "cota": 0
+    },
+    {
+      "archivo": "V03_D_PLANTA.3dm",
+      "objetos": 99,
+      "arcos_bow": 8,
+      "geometria_valida": true,
+      "metros": true,
+      "cota": 0
+    },
+    {
+      "archivo": "V03_S_PLANTA.3dm",
+      "objetos": 97,
+      "arcos_bow": 8,
+      "geometria_valida": true,
+      "metros": true,
+      "cota": 0
+    }
+  ],
+  "imagenes": [
+    {
+      "archivo": "00_COMPARACION_CUATRO.png",
+      "dimensiones_px": [
+        2800,
+        2520
+      ]
+    },
+    {
+      "archivo": "01_ENCUENTROS_CERCA.png",
+      "dimensiones_px": [
+        2380,
+        2380
+      ]
+    },
+    {
+      "archivo": "02_BOW_WINDOW_CURVA.png",
+      "dimensiones_px": [
+        2400,
+        1200
+      ]
+    },
+    {
+      "archivo": "03_OCHO_PERSONAS_TRES_MOMENTOS.png",
+      "dimensiones_px": [
+        2380,
+        2100
+      ]
+    },
+    {
+      "archivo": "V01_D_PLANTA.png",
+      "dimensiones_px": [
+        2550,
+        1800
+      ]
+    },
+    {
+      "archivo": "V01_S_PLANTA.png",
+      "dimensiones_px": [
+        2550,
+        1800
+      ]
+    },
+    {
+      "archivo": "V03_D_PLANTA.png",
+      "dimensiones_px": [
+        2550,
+        1800
+      ]
+    },
+    {
+      "archivo": "V03_S_PLANTA.png",
+      "dimensiones_px": [
+        2550,
+        1800
+      ]
+    }
+  ],
+  "revision_nativa_Rhino": false,
+  "revision_relectura_rhino3dm": true
+}
