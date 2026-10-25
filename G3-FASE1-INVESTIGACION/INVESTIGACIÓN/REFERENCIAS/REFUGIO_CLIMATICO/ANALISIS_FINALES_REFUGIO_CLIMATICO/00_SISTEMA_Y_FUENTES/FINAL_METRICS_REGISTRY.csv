@@ -1,0 +1,49 @@
+﻿id,valor,unidad,estado,metodo,fuente,notas,pdf,pagina,version_geometrica,fecha
+AGU01-M1,30.1,m³/día,B,laminas medidas + riego ETx1.3 + niebla 6h,agu_stats.json,,AGU-01_BALANCE_HIDRICO.pdf,0,v006 build 12,2026-08-13
+AGU01-M2,3.3,días,B,V_dep/total punta,agu_stats.json,,AGU-01_BALANCE_HIDRICO.pdf,2,v006 build 12,2026-08-13
+AGU03-M1,6.9,L/día·m²,B,total punta / m2 refugio con niebla,agu_stats.json,,AGU-03_AGUA_X_CLIMA.pdf,0,v006 build 12,2026-08-13
+CLI01-M1,3.669,m²,A,shade_crit_B>=0.5 sobre pisable,_reclima9/shade_crit_B.npy,,CLI-01_SOMBRA.pdf,0,v006 build 12,2026-08-13
+CLI01-M2,4.186,m²,A,m2_sombra_extra,_reclima9/metricas.json,,CLI-01_SOMBRA.pdf,2,v006 build 12,2026-08-13
+CLI01-M3,-40.3,%,A,radwin_B/radwin_A sobre pisable,_reclima9/radwin_*.npy,perdida media de radiacion el 21-dic,CLI-01_SOMBRA.pdf,3,v006 build 12,2026-08-13
+CLI01-M4,5690,m²,A,celdas con radwin_B>=0.5*radwin_A,_reclima9/radwin_*.npy,,CLI-01_SOMBRA.pdf,3,v006 build 12,2026-08-13
+CLI02-M1,"−38,0",%,A,rad_B vs rad_A sobre pisable,_reclima9/rad_*.npy,,CLI-02_RADIACION.pdf,0,v006 build 12,2026-08-13
+CLI02-M2,653.9,W/m²,A,rad_A media pisable,_reclima9/rad_A.npy,,CLI-02_RADIACION.pdf,2,v006 build 12,2026-08-13
+CLI02-M3,380.3,W/m²,A,rad_B media pisable,_reclima9/rad_B.npy,,CLI-02_RADIACION.pdf,2,v006 build 12,2026-08-13
+CLI03-M1,"−10,9",K,A,Tmrt_B - Tmrt_A media pisable E2/16h,_reclima9/f_E2_16_*_Tmrt.npy,,CLI-03_MRT.pdf,0,v006 build 12,2026-08-13
+CLI03-M2,755,m²,A,celdas dUTCI>+0.5K en E2/16,cli_stats.json,,CLI-03_MRT.pdf,3,v006 build 12,2026-08-13
+CLI03-M3,1175,m²,A,celdas dUTCI>+0.5K en E3/16,cli_stats.json,,CLI-03_MRT.pdf,3,v006 build 12,2026-08-13
+CLI04-M1,"−3,4",K,B,dUTCI E2 con nebulizacion (E4),_reclima9/u_E4_16_B.npy,,CLI-04_UTCI.pdf,0,v006 build 12,2026-08-13
+CLI04-M2,3876,m²,A,refugio efectivo sin niebla,refugio.json,,CLI-04_UTCI.pdf,2,v006 build 12,2026-08-13
+CLI04-M3,4377,m²,B,refugio efectivo con niebla,refugio.json,,CLI-04_UTCI.pdf,2,v006 build 12,2026-08-13
+CLI05-M1,"−1,09",K,B,balance de volumen de control,_reclima9/aire.json,,CLI-05_AIRE.pdf,0,v006 build 12,2026-08-13
+CLI06-M1,425,L/h,B,"Penman por copa, kc 0.65",_reclima9/vegetacion.json,,CLI-06_VEGETACION.pdf,0,v006 build 12,2026-08-13
+CLI06-M2,±1,p.p.,B,sens k_veg +-30% sobre fraccion de sombra,cli_stats.json/sens_kveg,,CLI-06_VEGETACION.pdf,2,v006 build 12,2026-08-13
+CLI07-M1,2034,L/h,B,suma de terminos agua,_reclima9/metricas.json,,CLI-07_AGUA.pdf,0,v006 build 12,2026-08-13
+CLI08-M1,0.55,K,C,UTCI(v x0.5) - UTCI(v) sobre MRT_B E2/16,cli_stats.json,,CLI-08_VIENTO.pdf,2,v006 build 12,2026-08-13
+CLI09-M1,-5.9,K,A,dUTCI zona HUERTO C1,zonas.json,,CLI-09_CONFORT_POR_PROGRAMA.pdf,2,v006 build 12,2026-08-13
+CLI09-M2,22.6,%,A,estaciones de cinta en sombra,cinta.json,,CLI-09_CONFORT_POR_PROGRAMA.pdf,2,v006 build 12,2026-08-13
+CLI09-M3,38.0,°C,A,UTCI medio de la cinta E2/16,cinta.json,,CLI-09_CONFORT_POR_PROGRAMA.pdf,2,v006 build 12,2026-08-13
+CLI10-M1,6.9,K,C,dMRT bajo dosel con tau_canopy 0.25,cli_stats.json/canopy_seco,,CLI-10_ESCENARIOS_DE_FALLO.pdf,2,v006 build 12,2026-08-13
+S01-M1,36-41,%,A,refugio efectivo pisable,refugio.json,,CLIMA_SINTESIS_INTEGRADA.pdf,5,v006 build 12,2026-08-13
+ECO01-M1,11.9,M€,C,CAPEX BASE por analogia,eco_stats.json,,ECO-01_CAPEX_OPEX_CICLO_DE_VIDA.pdf,2,v006 build 12,2026-08-13
+ECO01-M2,276,k€/año,B,OPEX BASE por componentes,eco_stats.json,,ECO-01_CAPEX_OPEX_CICLO_DE_VIDA.pdf,3,v006 build 12,2026-08-13
+ECO02-M1,2430,€/día,C,modelo 5 factores BASE,eco_stats.json,,ECO-02_ESCENARIOS_DE_COMERCIO.pdf,2,v006 build 12,2026-08-13
+S07-M1,4.8,€/p·h,C,(CAPEX+25a OPEX)/(p·h BASE 25a),eco_stats.json + soc_stats.json,,ECONOMIA_SINTESIS_INTEGRADA.pdf,2,v006 build 12,2026-08-13
+IA-M1,240,eventos,A,conteo flog,_FORENSIC_PROCESS,,IA_EN_EL_REFUGIO_CLIMATICO.pdf,5,v006 build 12,2026-08-13
+KPI-EFICIENCIA_ESPACIA,4.2,m²/m²,A,m² de refugio efectivo / m² de suelo ocupado por el proyecto,kpis.json,,INDICADORES_CRUZADOS.pdf,2,v006 build 12,2026-08-13
+KPI-COBERTURA_REAL_DE_,23.3 % (antes 1.9 %),% del flujo,B,Σ (peso de flujo por eje × sombra media sobre su traza),kpis.json,,INDICADORES_CRUZADOS.pdf,2,v006 build 12,2026-08-13
+KPI-EFICIENCIA_HÍDRICA,13.9,L/p·h,C,litros de agua totales / persona-hora protegida (BASE),kpis.json,,INDICADORES_CRUZADOS.pdf,2,v006 build 12,2026-08-13
+KPI-EFICIENCIA_DE_MANT,33,p·h por hora de trabajo,C,personas-hora protegidas/año (BASE) / horas anuales de conservación,kpis.json,,INDICADORES_CRUZADOS.pdf,2,v006 build 12,2026-08-13
+KPI-VISIBILIDAD_EFECTI,"33.6 % (41,5 % por superficie)",%,B,visibilidad ponderada por potencial de estancia (vis × IPE),kpis.json,,INDICADORES_CRUZADOS.pdf,2,v006 build 12,2026-08-13
+KPI-COSTE_POR_PERSONA-,"4,9 (1,1–29)",€/p·h,C,(CAPEX + 25·OPEX+fondo) / p·h acumuladas,kpis.json,,INDICADORES_CRUZADOS.pdf,2,v006 build 12,2026-08-13
+KPI-ROBUSTEZ_AL_FALLO,~66,%,B,fracción del ΔUTCI que sobrevive al peor fallo combinado,kpis.json,,INDICADORES_CRUZADOS.pdf,2,v006 build 12,2026-08-13
+MOB01-M1,3.75,m,A,peor cuello entre 45 pares,a1_paths.json,,MOB-01_RED_PEATONAL.pdf,2,v006 build 12,2026-08-13
+MOB02-M1,286.0,m,A,peor rodeo PMR con N-1,mob_stats.json,,MOB-02_ACCESIBILIDAD_VERTICAL.pdf,2,v006 build 12,2026-08-13
+MOB03-M1,36.9,m,A,p95 distancia geodesica a acceso,mob_stats.json,,MOB-03_EVACUACION_Y_AFLUENCIA.pdf,2,v006 build 12,2026-08-13
+PAT01-M1,33.6,%,B,vis x IPE,pat_stats.json,,PAT-01_VISIBILIDAD_HITOS.pdf,0,v006 build 12,2026-08-13
+SOC01-M1,1956.0,m²,B,celdas IPE>=0.6,soc_stats.json,,SOC-01_POTENCIAL_DE_ESTANCIA.pdf,0,v006 build 12,2026-08-13
+SOC02-M1,2160,p·h/día,C,modelo LOW/BASE/HIGH,soc_stats.json,,SOC-02_PERSONAS_HORA_PROTEGIDAS.pdf,2,v006 build 12,2026-08-13
+TEC01-M1,15197,ud,A,len(mesh) escena,tec_stats.json,,TEC-01_INVENTARIO_Y_FAMILIAS.pdf,0,v006 build 12,2026-08-13
+TEC02-M1,159/160,puntos,A,acceso A9 auditado,a9_maint.json,,TEC-02_MATRIZ_MANTENIMIENTO.pdf,3,v006 build 12,2026-08-13
+URB01-M1,5.0,m,A,min libre_min accesos en ambito,a6_metro.json,,URB-01_METRO_Y_CERCANIAS.pdf,0,v006 build 12,2026-08-13
+URB02-M1,0,ud,A,A12 sobre 35 edificios reales,a12_edificios.json,,URB-02_BORDES_Y_FACHADAS.pdf,0,v006 build 12,2026-08-13

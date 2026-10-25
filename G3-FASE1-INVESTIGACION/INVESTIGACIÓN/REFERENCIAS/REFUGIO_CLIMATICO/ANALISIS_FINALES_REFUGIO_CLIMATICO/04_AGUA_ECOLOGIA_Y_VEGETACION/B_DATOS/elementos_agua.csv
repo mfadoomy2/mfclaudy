@@ -1,0 +1,15 @@
+﻿kind,id,area,depth,vol,sv,cx,cy,z,expuesto,Rn,E_kg_m2_h,L_h,kW,nota,mm_dia,pct_calado_dia,m3_dia
+SPLASH,splash,155.5,0.03,4.7,33.33,17,-8.0,0.03,1.0,616.0,0.876,136.3,91.58,lamina jugable de 3 cm; profundidad MEDIDA en el modelo (z=0.03),10.5,35.0,1.64
+ESTANQUE,E-1,38.5,0.48,18.5,2.08,-38,13.0,0.48,0.85,513.0,0.748,28.8,19.35,"bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HIPOTESIS",9.0,1.9,0.35
+ESTANQUE,E-2,28.3,0.48,13.6,2.08,-9,21.0,0.48,0.85,513.0,0.748,21.2,14.22,"bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HIPOTESIS",9.0,1.9,0.25
+ESTANQUE,E-3,38.5,0.48,18.5,2.08,10.4,20.4,0.48,0.85,513.0,0.748,28.8,19.35,"bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HIPOTESIS",9.0,1.9,0.35
+ESTANQUE,E-4,28.3,0.48,13.6,2.08,48,1.0,0.48,0.85,513.0,0.748,21.2,14.22,"bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HIPOTESIS",9.0,1.9,0.25
+ESTANQUE,E-5,72.0,0.45,32.4,2.22,31.243877551020407,-5.191020408163266,0.45,0.85,513.0,0.748,53.9,36.19,lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS,9.0,2.0,0.65
+ESTANQUE,E-6,37.7,0.45,17.0,2.22,-25.057804878048778,-2.11,0.45,0.85,513.0,0.748,28.2,18.98,lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS,9.0,2.0,0.34
+BALSA ELEVADA,B-C1a,164.1,0.3,49.2,3.33,-56,9.0,6.0,1.0,657.0,0.927,152.2,102.25,balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTESIS,11.1,3.7,1.83
+BALSA ELEVADA,B-C1b,81.7,0.3,24.5,3.33,-45,1.0,7.5,1.0,657.0,0.927,75.7,50.88,balsa sobre estructura a cota 7.5 MEDIDA; calado 0.30 HIPOTESIS,11.1,3.7,0.91
+BALSA ELEVADA,B-C2a,133.5,0.3,40.1,3.33,3,16.0,6.5,1.0,657.0,0.927,123.8,83.17,balsa sobre estructura a cota 6.5 MEDIDA; calado 0.30 HIPOTESIS,11.1,3.7,1.49
+BALSA ELEVADA,B-C2b,75.4,0.3,22.6,3.33,14,7.0,8.0,1.0,657.0,0.927,69.9,46.97,balsa sobre estructura a cota 8.0 MEDIDA; calado 0.30 HIPOTESIS,11.1,3.7,0.84
+BALSA ELEVADA,B-C3a,188.5,0.3,56.5,3.33,54,10.0,6.0,1.0,657.0,0.927,174.7,117.42,balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTESIS,11.1,3.7,2.1
+BALSA ELEVADA,B-C3b,99.0,0.3,29.7,3.33,68,1.0,7.6,1.0,657.0,0.927,91.7,61.64,balsa sobre estructura a cota 7.6 MEDIDA; calado 0.30 HIPOTESIS,11.1,3.7,1.1
+LAMINA MICROALGAS,DISCOS x94,1108.5,0.03,33.3,33.33,0.0,10.0,6.0,1.0,657.0,0.927,1027.6,690.5,"D15: lamina de 2-5 cm en TODOS los discos, radio 0.82r MEDIDO en el bloque LEAF; espesor 0.03 HIPOTESIS (rango 0.02-0.05)",11.1,37.1,12.33

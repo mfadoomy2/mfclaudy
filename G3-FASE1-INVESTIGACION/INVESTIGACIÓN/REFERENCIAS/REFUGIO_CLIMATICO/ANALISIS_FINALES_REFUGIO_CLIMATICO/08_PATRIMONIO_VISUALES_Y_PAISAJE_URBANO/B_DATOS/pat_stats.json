@@ -1,0 +1,27 @@
+{
+ "baseline": "v006 build 12",
+ "n_puntos": 2455,
+ "pct_superficie": {
+  "RELOJ": 41.54786150712831,
+  "TORRE": 42.60692464358452,
+  "CORREOS": 48.14663951120163
+ },
+ "ponderada": {
+  "RELOJ": {
+   "pct_superficie": 41.5,
+   "pct_ponderado_uso": 33.6,
+   "pct_en_estancia_alta": 25.5
+  },
+  "TORRE": {
+   "pct_superficie": 42.6,
+   "pct_ponderado_uso": 33.0,
+   "pct_en_estancia_alta": 25.1
+  },
+  "CORREOS": {
+   "pct_superficie": 48.1,
+   "pct_ponderado_uso": 46.0,
+   "pct_en_estancia_alta": 48.4
+  }
+ },
+ "nota": "vis x IPE: la visibilidad que experimentan los USUARIOS (ponderada por potencial de estancia), frente a la clasica por superficie. El estado A (plaza actual) tiene visibilidad cuasi-total desde el vacio central: la reduccion es real y se publica; la pregunta correcta es cuanta visibilidad queda desde donde la gente se detiene."
+}

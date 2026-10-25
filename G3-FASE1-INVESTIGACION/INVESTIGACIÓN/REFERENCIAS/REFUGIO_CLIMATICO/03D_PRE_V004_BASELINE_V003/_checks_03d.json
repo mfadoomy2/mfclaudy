@@ -1,0 +1,118 @@
+{
+ "H1_mediodia": {
+  "kb": 5004,
+  "lum": 161.1,
+  "p05": 86.0,
+  "p95": 202.0,
+  "ok_30kb": true,
+  "ok_rango": true,
+  "H1_roi_sombra_pct": 36.7,
+  "ok_H1_sombra_30": true
+ },
+ "H1_tarde": {
+  "kb": 5068,
+  "lum": 147.3,
+  "p05": 73.0,
+  "p95": 190.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H2_mediodia": {
+  "kb": 5385,
+  "lum": 99.7,
+  "p05": 35.0,
+  "p95": 168.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H2_tarde": {
+  "kb": 5327,
+  "lum": 77.8,
+  "p05": 24.0,
+  "p95": 169.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H3_mediodia": {
+  "kb": 5334,
+  "lum": 130.6,
+  "p05": 68.0,
+  "p95": 198.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H3_tarde": {
+  "kb": 5352,
+  "lum": 117.6,
+  "p05": 55.0,
+  "p95": 204.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H4_mediodia": {
+  "kb": 4972,
+  "lum": 148.2,
+  "p05": 57.0,
+  "p95": 197.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H4_tarde": {
+  "kb": 5000,
+  "lum": 139.0,
+  "p05": 53.0,
+  "p95": 194.0,
+  "ok_30kb": true,
+  "ok_rango": true,
+  "H4_contraste_pct": 6.8,
+  "ok_H4_contraste_15": false
+ },
+ "H5_mediodia": {
+  "kb": 5053,
+  "lum": 146.3,
+  "p05": 70.0,
+  "p95": 201.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H5_tarde": {
+  "kb": 5124,
+  "lum": 137.5,
+  "p05": 67.0,
+  "p95": 196.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H6_mediodia": {
+  "kb": 4960,
+  "lum": 115.9,
+  "p05": 58.0,
+  "p95": 184.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H6_tarde": {
+  "kb": 4972,
+  "lum": 107.3,
+  "p05": 43.0,
+  "p95": 196.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H7_mediodia": {
+  "kb": 4852,
+  "lum": 175.2,
+  "p05": 131.0,
+  "p95": 226.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ },
+ "H7_tarde": {
+  "kb": 4896,
+  "lum": 164.7,
+  "p05": 112.0,
+  "p95": 219.0,
+  "ok_30kb": true,
+  "ok_rango": true
+ }
+}

@@ -1,0 +1,3 @@
+{"id": "CLI04-M1", "valor": "−3,4", "unidad": "K", "estado": "B", "metodo": "dUTCI E2 con nebulizacion (E4)", "fuente": "_reclima9/u_E4_16_B.npy", "notas": "", "pdf": "CLI-04_UTCI.pdf", "pagina": 0}
+{"id": "CLI04-M2", "valor": 3876, "unidad": "m²", "estado": "A", "metodo": "refugio efectivo sin niebla", "fuente": "refugio.json", "notas": "", "pdf": "CLI-04_UTCI.pdf", "pagina": 2}
+{"id": "CLI04-M3", "valor": 4377, "unidad": "m²", "estado": "B", "metodo": "refugio efectivo con niebla", "fuente": "refugio.json", "notas": "", "pdf": "CLI-04_UTCI.pdf", "pagina": 2}

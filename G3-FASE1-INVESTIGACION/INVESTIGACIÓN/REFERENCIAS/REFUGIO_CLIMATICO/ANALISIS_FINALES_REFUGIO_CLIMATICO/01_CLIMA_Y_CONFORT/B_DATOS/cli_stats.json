@@ -1,0 +1,843 @@
+{
+ "baseline": "v006 build 12",
+ "celda_m": 0.5,
+ "area_pisable_m2": 9827.0,
+ "escenarios": {
+  "E1_14_A": {
+   "UTCI": {
+    "media": 34.21,
+    "p50": 34.6,
+    "p05": 30.87,
+    "p95": 34.6,
+    "min": 24.9,
+    "max": 34.9
+   },
+   "MRT": {
+    "media": 62.74,
+    "p50": 64.07,
+    "p05": 45.54,
+    "p95": 64.16,
+    "min": 27.23,
+    "max": 65.49
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 31.0,
+    "MODERADO": 609.0,
+    "FUERTE": 9187.0,
+    "MUY FUERTE": 0.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E1_14_B": {
+   "UTCI": {
+    "media": 31.35,
+    "p50": 34.27,
+    "p05": 25.47,
+    "p95": 34.67,
+    "min": 24.4,
+    "max": 35.5
+   },
+   "MRT": {
+    "media": 52.01,
+    "p50": 63.3,
+    "p05": 29.66,
+    "p95": 64.29,
+    "min": 25.93,
+    "max": 67.41
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 1872.0,
+    "MODERADO": 2319.0,
+    "FUERTE": 5636.0,
+    "MUY FUERTE": 0.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E1_16_A": {
+   "UTCI": {
+    "media": 34.97,
+    "p50": 35.4,
+    "p05": 31.2,
+    "p95": 35.4,
+    "min": 25.9,
+    "max": 35.9
+   },
+   "MRT": {
+    "media": 62.44,
+    "p50": 63.97,
+    "p05": 47.89,
+    "p95": 64.09,
+    "min": 27.35,
+    "max": 65.78
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 560.0,
+    "FUERTE": 9267.0,
+    "MUY FUERTE": 0.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E1_16_B": {
+   "UTCI": {
+    "media": 32.12,
+    "p50": 33.9,
+    "p05": 26.7,
+    "p95": 35.5,
+    "min": 25.7,
+    "max": 36.3
+   },
+   "MRT": {
+    "media": 51.47,
+    "p50": 63.63,
+    "p05": 30.49,
+    "p95": 64.36,
+    "min": 26.45,
+    "max": 67.65
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 20.0,
+    "MODERADO": 3982.0,
+    "FUERTE": 5825.0,
+    "MUY FUERTE": 0.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E1_18_A": {
+   "UTCI": {
+    "media": 33.03,
+    "p50": 33.4,
+    "p05": 30.8,
+    "p95": 33.5,
+    "min": 25.6,
+    "max": 34.0
+   },
+   "MRT": {
+    "media": 54.47,
+    "p50": 55.8,
+    "p05": 45.67,
+    "p95": 56.05,
+    "min": 25.82,
+    "max": 58.22
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 1066.0,
+    "FUERTE": 8760.0,
+    "MUY FUERTE": 0.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E1_18_B": {
+   "UTCI": {
+    "media": 30.63,
+    "p50": 31.6,
+    "p05": 26.5,
+    "p95": 33.6,
+    "min": 25.5,
+    "max": 34.3
+   },
+   "MRT": {
+    "media": 45.19,
+    "p50": 47.86,
+    "p05": 29.14,
+    "p95": 56.62,
+    "min": 25.36,
+    "max": 59.51
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 64.0,
+    "MODERADO": 5015.0,
+    "FUERTE": 4749.0,
+    "MUY FUERTE": 0.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E2_14_A": {
+   "UTCI": {
+    "media": 38.99,
+    "p50": 39.4,
+    "p05": 35.4,
+    "p95": 39.57,
+    "min": 28.6,
+    "max": 40.3
+   },
+   "MRT": {
+    "media": 65.85,
+    "p50": 67.28,
+    "p05": 46.25,
+    "p95": 68.06,
+    "min": 23.62,
+    "max": 70.95
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 62.0,
+    "FUERTE": 840.0,
+    "MUY FUERTE": 8925.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E2_14_B": {
+   "UTCI": {
+    "media": 36.52,
+    "p50": 39.4,
+    "p05": 30.43,
+    "p95": 40.1,
+    "min": 29.4,
+    "max": 41.3
+   },
+   "MRT": {
+    "media": 55.94,
+    "p50": 67.56,
+    "p05": 30.61,
+    "p95": 70.66,
+    "min": 26.51,
+    "max": 74.94
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 2334.0,
+    "FUERTE": 2097.0,
+    "MUY FUERTE": 5397.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E2_16_A": {
+   "UTCI": {
+    "media": 40.21,
+    "p50": 40.63,
+    "p05": 36.4,
+    "p95": 40.8,
+    "min": 30.8,
+    "max": 41.6
+   },
+   "MRT": {
+    "media": 66.13,
+    "p50": 67.76,
+    "p05": 50.02,
+    "p95": 68.41,
+    "min": 26.24,
+    "max": 71.53
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 48.0,
+    "FUERTE": 743.0,
+    "MUY FUERTE": 9035.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E2_16_B": {
+   "UTCI": {
+    "media": 37.72,
+    "p50": 39.63,
+    "p05": 32.2,
+    "p95": 41.23,
+    "min": 31.3,
+    "max": 42.3
+   },
+   "MRT": {
+    "media": 55.68,
+    "p50": 67.85,
+    "p05": 32.23,
+    "p95": 70.63,
+    "min": 28.49,
+    "max": 74.41
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 198.0,
+    "FUERTE": 4046.0,
+    "MUY FUERTE": 5584.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E2_18_A": {
+   "UTCI": {
+    "media": 39.07,
+    "p50": 39.47,
+    "p05": 36.5,
+    "p95": 39.6,
+    "min": 31.0,
+    "max": 40.6
+   },
+   "MRT": {
+    "media": 60.58,
+    "p50": 62.09,
+    "p05": 49.51,
+    "p95": 62.77,
+    "min": 26.03,
+    "max": 66.64
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 40.0,
+    "FUERTE": 1043.0,
+    "MUY FUERTE": 8744.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E2_18_B": {
+   "UTCI": {
+    "media": 36.77,
+    "p50": 37.73,
+    "p05": 32.23,
+    "p95": 40.1,
+    "min": 31.3,
+    "max": 41.0
+   },
+   "MRT": {
+    "media": 50.87,
+    "p50": 54.64,
+    "p05": 31.42,
+    "p95": 65.05,
+    "min": 27.62,
+    "max": 68.6
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 224.0,
+    "FUERTE": 4774.0,
+    "MUY FUERTE": 4829.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E3_14_A": {
+   "UTCI": {
+    "media": 43.83,
+    "p50": 44.2,
+    "p05": 40.11,
+    "p95": 44.5,
+    "min": 33.5,
+    "max": 45.4
+   },
+   "MRT": {
+    "media": 68.69,
+    "p50": 70.14,
+    "p05": 47.44,
+    "p95": 71.29,
+    "min": 24.75,
+    "max": 75.12
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 0.0,
+    "FUERTE": 138.0,
+    "MUY FUERTE": 9689.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E3_14_B": {
+   "UTCI": {
+    "media": 41.64,
+    "p50": 44.27,
+    "p05": 35.73,
+    "p95": 45.3,
+    "min": 34.3,
+    "max": 46.6
+   },
+   "MRT": {
+    "media": 59.53,
+    "p50": 70.57,
+    "p05": 33.88,
+    "p95": 74.93,
+    "min": 27.8,
+    "max": 79.73
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 0.0,
+    "FUERTE": 2719.0,
+    "MUY FUERTE": 7074.0,
+    "EXTREMO": 34.0
+   }
+  },
+  "E3_16_A": {
+   "UTCI": {
+    "media": 44.88,
+    "p50": 45.27,
+    "p05": 41.43,
+    "p95": 45.47,
+    "min": 36.6,
+    "max": 46.5
+   },
+   "MRT": {
+    "media": 67.31,
+    "p50": 68.83,
+    "p05": 51.54,
+    "p95": 69.78,
+    "min": 27.94,
+    "max": 73.95
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 0.0,
+    "FUERTE": 49.0,
+    "MUY FUERTE": 9757.0,
+    "EXTREMO": 21.0
+   }
+  },
+  "E3_16_B": {
+   "UTCI": {
+    "media": 42.89,
+    "p50": 44.6,
+    "p05": 38.1,
+    "p95": 46.1,
+    "min": 36.9,
+    "max": 47.3
+   },
+   "MRT": {
+    "media": 58.24,
+    "p50": 68.99,
+    "p05": 35.87,
+    "p95": 72.95,
+    "min": 30.38,
+    "max": 77.29
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 0.0,
+    "FUERTE": 322.0,
+    "MUY FUERTE": 8838.0,
+    "EXTREMO": 668.0
+   }
+  },
+  "E3_18_A": {
+   "UTCI": {
+    "media": 41.78,
+    "p50": 42.1,
+    "p05": 39.5,
+    "p95": 42.3,
+    "min": 34.6,
+    "max": 43.4
+   },
+   "MRT": {
+    "media": 61.2,
+    "p50": 62.62,
+    "p05": 50.66,
+    "p95": 63.47,
+    "min": 27.27,
+    "max": 68.22
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 0.0,
+    "FUERTE": 124.0,
+    "MUY FUERTE": 9703.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E3_18_B": {
+   "UTCI": {
+    "media": 39.89,
+    "p50": 40.8,
+    "p05": 35.9,
+    "p95": 42.9,
+    "min": 35.0,
+    "max": 43.9
+   },
+   "MRT": {
+    "media": 52.48,
+    "p50": 56.75,
+    "p05": 33.7,
+    "p95": 66.38,
+    "min": 29.58,
+    "max": 70.23
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 0.0,
+    "FUERTE": 3316.0,
+    "MUY FUERTE": 6512.0,
+    "EXTREMO": 0.0
+   }
+  },
+  "E4_16_B": {
+   "UTCI": {
+    "media": 37.01,
+    "p50": 38.57,
+    "p05": 29.7,
+    "p95": 41.07,
+    "min": 26.7,
+    "max": 42.3
+   },
+   "UTCI_categorias_m2": {
+    "SIN ESTRÉS / LEVE": 0.0,
+    "MODERADO": 1561.0,
+    "FUERTE": 3080.0,
+    "MUY FUERTE": 5186.0,
+    "EXTREMO": 0.0
+   }
+  }
+ },
+ "deltas_16h": {
+  "E1": {
+   "dUTCI": {
+    "media": -2.84,
+    "p50": -0.1,
+    "p05": -8.7,
+    "p95": 0.1,
+    "min": -9.0,
+    "max": 1.0
+   },
+   "dMRT": {
+    "media": -10.97,
+    "p50": -0.18,
+    "p05": -33.44,
+    "p95": 0.34,
+    "min": -34.93,
+    "max": 4.68
+   },
+   "m2_mejora_1K": 4482.0,
+   "m2_mejora_3K": 3664.0,
+   "m2_empeora_05K": 55.0
+  },
+  "E2": {
+   "dUTCI": {
+    "media": -2.5,
+    "p50": 0.0,
+    "p05": -8.3,
+    "p95": 0.67,
+    "min": -9.3,
+    "max": 1.8
+   },
+   "dMRT": {
+    "media": -10.45,
+    "p50": 0.03,
+    "p05": -35.1,
+    "p95": 3.02,
+    "min": -38.76,
+    "max": 9.04
+   },
+   "m2_mejora_1K": 4190.0,
+   "m2_mejora_3K": 3501.0,
+   "m2_empeora_05K": 755.0
+  },
+  "E3": {
+   "dUTCI": {
+    "media": -1.99,
+    "p50": 0.0,
+    "p05": -7.03,
+    "p95": 0.9,
+    "min": -8.2,
+    "max": 2.1
+   },
+   "dMRT": {
+    "media": -9.07,
+    "p50": 0.05,
+    "p05": -32.48,
+    "p95": 4.33,
+    "min": -37.74,
+    "max": 11.07
+   },
+   "m2_mejora_1K": 3990.0,
+   "m2_mejora_3K": 3307.0,
+   "m2_empeora_05K": 1175.0
+  }
+ },
+ "cola_positiva_E2_16": {
+  "m2": 755.0,
+  "atribucion_m2": {
+   "ABIERTO": 755.0
+  },
+  "clusters": [
+   {
+    "x": -68.1,
+    "y": -12.5,
+    "m2": 181.0,
+    "dUTCI_medio": 0.93,
+    "dMRT_medio": 3.59
+   },
+   {
+    "x": -61.7,
+    "y": 16.1,
+    "m2": 85.0,
+    "dUTCI_medio": 0.7,
+    "dMRT_medio": 2.82
+   },
+   {
+    "x": -17.0,
+    "y": 18.5,
+    "m2": 80.0,
+    "dUTCI_medio": 0.7,
+    "dMRT_medio": 2.76
+   },
+   {
+    "x": -32.9,
+    "y": 9.8,
+    "m2": 41.0,
+    "dUTCI_medio": 0.72,
+    "dMRT_medio": 2.78
+   },
+   {
+    "x": 56.7,
+    "y": -3.3,
+    "m2": 41.0,
+    "dUTCI_medio": 0.75,
+    "dMRT_medio": 2.84
+   }
+  ],
+  "nota": "celdas pisables donde la propuesta EMPEORA el UTCI >0,5 K en E2/16h; atribucion por raster de causa"
+ },
+ "sombra": {
+  "critica_A": {
+   "media": 0.03,
+   "p50": 0.0,
+   "p05": 0.0,
+   "p95": 0.16,
+   "min": 0.0,
+   "max": 0.85
+  },
+  "critica_B": {
+   "media": 0.38,
+   "p50": 0.32,
+   "p05": 0.0,
+   "p95": 0.97,
+   "min": 0.0,
+   "max": 1.0
+  },
+  "m2_sombra50_A": 32.0,
+  "m2_sombra50_B": 3669.0,
+  "sunhours": {
+   "A": {
+    "media": 1217.4,
+    "p50": 1242.0,
+    "p05": 1056.0,
+    "p95": 1281.0,
+    "min": 457.0,
+    "max": 1290.0
+   },
+   "B": {
+    "media": 714.52,
+    "p50": 732.5,
+    "p05": 132.0,
+    "p95": 1190.0,
+    "min": 0.0,
+    "max": 1272.0
+   }
+  }
+ },
+ "radiacion": {
+  "verano_kWh_m2": {
+   "A": {
+    "media": 655.14,
+    "p50": 669.67,
+    "p05": 576.0,
+    "p95": 680.12,
+    "min": 161.86,
+    "max": 682.6
+   },
+   "B": {
+    "media": 405.98,
+    "p50": 434.08,
+    "p05": 72.51,
+    "p95": 659.93,
+    "min": 0.0,
+    "max": 681.69
+   },
+   "reduccion_pct": 38.0
+  },
+  "invierno_kWh_m2_dia": {
+   "A": {
+    "media": 2.31,
+    "p50": 2.45,
+    "p05": 1.75,
+    "p95": 2.52,
+    "min": 0.31,
+    "max": 2.53
+   },
+   "B": {
+    "media": 1.38,
+    "p50": 1.38,
+    "p05": 0.16,
+    "p95": 2.48,
+    "min": 0.0,
+    "max": 2.52
+   },
+   "perdida_pct": 40.3,
+   "nota": "21-dic: coste invernal de la sombra estival. Se publica con el mismo peso que el beneficio (§43)."
+  },
+  "invierno_m2_conservan50": 5690.0
+ },
+ "sens_viento": {
+  "UTCI_B_E2_16": {
+   "BASE": 37.74,
+   "VIENTO -25%": 38.1,
+   "VIENTO -50%": 38.29
+  },
+  "nota": "HIPOTESIS (C): el modelo no resuelve el abrigo del viento por la estructura; si el viento efectivo bajo el dosel cayera 25-50 %, el UTCI-B medio subiria 0.36 / 0.55 K. Requiere CFD o medicion en prototipo para resolverse."
+ },
+ "sens_kveg": {
+  "posiciones": "15-jul 14:30/16:30/18:30 (sol real PSA)",
+  "resultado": {
+   "14:30": {
+    "LOW": {
+     "tau_medio": 0.62,
+     "pct_sombra": 37.6
+    },
+    "BASE": {
+     "tau_medio": 0.618,
+     "pct_sombra": 38.0
+    },
+    "HIGH": {
+     "tau_medio": 0.617,
+     "pct_sombra": 38.1
+    }
+   },
+   "16:30": {
+    "LOW": {
+     "tau_medio": 0.572,
+     "pct_sombra": 42.4
+    },
+    "BASE": {
+     "tau_medio": 0.569,
+     "pct_sombra": 43.2
+    },
+    "HIGH": {
+     "tau_medio": 0.566,
+     "pct_sombra": 43.4
+    }
+   },
+   "18:30": {
+    "LOW": {
+     "tau_medio": 0.442,
+     "pct_sombra": 55.5
+    },
+    "BASE": {
+     "tau_medio": 0.439,
+     "pct_sombra": 56.2
+    },
+    "HIGH": {
+     "tau_medio": 0.436,
+     "pct_sombra": 56.5
+    }
+   }
+  },
+  "nota": "INFERIDO (B): LAI bibliografico +-30 % -> variacion de tau y de fraccion en sombra sobre suelo pisable. La sombra del proyecto es mayormente ESTRUCTURAL: la banda vegetal solo mueve la sombra unos puntos porcentuales."
+ },
+ "canopy_seco": {
+  "m2_bajo_dosel": 700.0,
+  "dMRT_medio_K": 6.87,
+  "dUTCI_aprox_K": 2.41,
+  "hipotesis": "HIPOTESIS (C): camara de microalgas seca -> tau_canopy pasa de 0,12 a 0,25 (rango declarado en PARAMS). Linealizacion radiativa sobre las celdas bajo dosel; factor dUTCI/dMRT ~0,35 tipico a 33 C y viento 2 m/s."
+ },
+ "sin_agua": {
+  "dTa_latente_perdida_K": 0.43,
+  "refugio_m2_sin_neb": 3876.0,
+  "refugio_m2_con_neb": 4377.0,
+  "perdida_neb_m2": 501.0,
+  "agua_total_L_h": 2034.0,
+  "nota": "INFERIDO (B): sin agua se pierden el termino latente del aire (-0,43 K de los -1,09 K), la nebulizacion (-501 m2 de refugio) y la evapotranspiracion queda limitada al agua del sustrato (dias). La sombra estructural (el grueso del beneficio MRT) NO depende del agua."
+ },
+ "zonas_resumen": [
+  {
+   "zona": "BANCOS (estancia)",
+   "m2": 263.0,
+   "dUTCI": -5.18,
+   "refugio_pct": 73.4
+  },
+  {
+   "zona": "HUERTO C1",
+   "m2": 312.0,
+   "dUTCI": -5.9,
+   "refugio_pct": 84.1
+  },
+  {
+   "zona": "SPLASH PAD",
+   "m2": 218.0,
+   "dUTCI": -1.61,
+   "refugio_pct": 15.5
+  },
+  {
+   "zona": "CUPULA-PERGOLA",
+   "m2": 135.0,
+   "dUTCI": -3.57,
+   "refugio_pct": 51.9
+  },
+  {
+   "zona": "VIVEROS C3",
+   "m2": 82.0,
+   "dUTCI": -6.93,
+   "refugio_pct": 89.6
+  },
+  {
+   "zona": "BAJO DOSEL",
+   "m2": 1466.0,
+   "dUTCI": -5.92,
+   "refugio_pct": 83.8
+  },
+  {
+   "zona": "ESTANQUES",
+   "m2": 492.0,
+   "dUTCI": -2.8,
+   "refugio_pct": 52.4
+  },
+  {
+   "zona": "CORREDORES",
+   "m2": 2098.0,
+   "dUTCI": -1.45,
+   "refugio_pct": 21.5
+  },
+  {
+   "zona": "BAJO NEBULIZACION",
+   "m2": 1143.0,
+   "dUTCI": -3.9,
+   "refugio_pct": 56.8
+  }
+ ],
+ "cinta_resumen": {
+  "n": 186,
+  "pct_sombra": 22.58,
+  "MRT": 56.78,
+  "MRT_max": 68.95,
+  "UTCI": 38.0,
+  "UTCI_max": 40.9,
+  "u_deck": 2.45,
+  "u_suelo": 1.0,
+  "svf": 0.77,
+  "tau": 0.74
+ },
+ "metricas_canon": {
+  "area_ambito": 10755.0,
+  "area_pisable": 9827.0,
+  "sombra_crit_A": 3.4,
+  "sombra_crit_B": 42.3,
+  "sombra_crit_A_pisable": 3.2,
+  "sombra_crit_B_pisable": 38.3,
+  "m2_sombra_extra": 4186.0,
+  "rad_A": 653.9,
+  "rad_B": 380.3,
+  "rad_red_pct": 41.8,
+  "rad_red_max_pct": 100.0,
+  "sunh_A": 1215.0,
+  "sunh_B": 670.0,
+  "MRT_A": 65.2,
+  "MRT_B": 54.3,
+  "dMRT": -10.9,
+  "dMRT_refugio": -28.23,
+  "dMRT_max": -38.76,
+  "UTCI_A": 40.0,
+  "UTCI_B": 37.4,
+  "dUTCI": -2.62,
+  "dUTCI_neb": -3.36,
+  "dUTCI_max": -9.3,
+  "m2_refugio": 3876.0,
+  "m2_refugio_neb": 4377.0,
+  "m2_mejora": 4903.0,
+  "pct_beneficiada": 45.6,
+  "agua_L_h": 2034.0,
+  "agua_kW": 1366.7,
+  "agua_suelo_kW": 213.9,
+  "veg_L_h": 425.0,
+  "veg_kW": 285.9,
+  "neb_L_h": 210.0,
+  "neb_kW": 141.1,
+  "dTa_aire": 1.09,
+  "win_A": 2.3,
+  "win_B": 1.29,
+  "win_perdida_pct": 43.8,
+  "hot_m2": 5150.0,
+  "cool_m2": 3210.0
+ }
+}

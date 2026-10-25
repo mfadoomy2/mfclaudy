@@ -1,0 +1,3 @@
+{"id": "CLI03-M1", "valor": "−10,9", "unidad": "K", "estado": "A", "metodo": "Tmrt_B - Tmrt_A media pisable E2/16h", "fuente": "_reclima9/f_E2_16_*_Tmrt.npy", "notas": "", "pdf": "CLI-03_MRT.pdf", "pagina": 0}
+{"id": "CLI03-M2", "valor": 755, "unidad": "m²", "estado": "A", "metodo": "celdas dUTCI>+0.5K en E2/16", "fuente": "cli_stats.json", "notas": "", "pdf": "CLI-03_MRT.pdf", "pagina": 3}
+{"id": "CLI03-M3", "valor": 1175, "unidad": "m²", "estado": "A", "metodo": "celdas dUTCI>+0.5K en E3/16", "fuente": "cli_stats.json", "notas": "", "pdf": "CLI-03_MRT.pdf", "pagina": 3}

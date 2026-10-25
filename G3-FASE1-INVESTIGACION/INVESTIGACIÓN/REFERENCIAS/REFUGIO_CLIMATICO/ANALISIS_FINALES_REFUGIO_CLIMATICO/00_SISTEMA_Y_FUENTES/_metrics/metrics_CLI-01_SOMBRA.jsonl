@@ -1,0 +1,4 @@
+{"id": "CLI01-M1", "valor": "3.669", "unidad": "m²", "estado": "A", "metodo": "shade_crit_B>=0.5 sobre pisable", "fuente": "_reclima9/shade_crit_B.npy", "notas": "", "pdf": "CLI-01_SOMBRA.pdf", "pagina": 0}
+{"id": "CLI01-M2", "valor": "4.186", "unidad": "m²", "estado": "A", "metodo": "m2_sombra_extra", "fuente": "_reclima9/metricas.json", "notas": "", "pdf": "CLI-01_SOMBRA.pdf", "pagina": 2}
+{"id": "CLI01-M3", "valor": -40.3, "unidad": "%", "estado": "A", "metodo": "radwin_B/radwin_A sobre pisable", "fuente": "_reclima9/radwin_*.npy", "notas": "perdida media de radiacion el 21-dic", "pdf": "CLI-01_SOMBRA.pdf", "pagina": 3}
+{"id": "CLI01-M4", "valor": 5690, "unidad": "m²", "estado": "A", "metodo": "celdas con radwin_B>=0.5*radwin_A", "fuente": "_reclima9/radwin_*.npy", "notas": "", "pdf": "CLI-01_SOMBRA.pdf", "pagina": 3}

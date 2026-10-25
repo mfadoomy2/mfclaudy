@@ -1,0 +1,208 @@
+{
+ "baseline": "v006 build 12",
+ "fuentes": [
+  {
+   "id": "F-01",
+   "dato": "Estacion Sol (Metro): >73 millones de viajeros en 2024 (+11,5%)",
+   "url": "https://www.eldiario.es/madrid/somos/metro-madrid-bate-record-historico-viajeros-son-diez-estaciones-utilizadas_1_11969185.html",
+   "institucion": "Metro de Madrid via elDiario.es",
+   "fecha": "2025-01",
+   "licencia": "prensa",
+   "resolucion": "anual por estacion"
+  },
+  {
+   "id": "F-02",
+   "dato": "Metro de Madrid: 715,2 M viajes 2024 (record historico)",
+   "url": "https://www.comunidad.madrid/noticias/2025/01/16/comunidad-madrid-bate-record-historico-usuarios-metro-715-millones-viajes-2024-incremento-8-respecto-ano-anterior",
+   "institucion": "Comunidad de Madrid",
+   "fecha": "2025-01-16",
+   "licencia": "nota oficial",
+   "resolucion": "anual red"
+  },
+  {
+   "id": "F-03",
+   "dato": "Calle Preciados: ~13.800 peatones/dia de media; picos 21.200-26.300 en rebajas",
+   "url": "https://www.tcgroupsolutions.com/recurso/calles-comerciales-espana/",
+   "institucion": "TC Group Solutions (contadores) + reasonwhy.es",
+   "fecha": "2024-2025",
+   "licencia": "informe comercial",
+   "resolucion": "diaria por punto de conteo"
+  },
+  {
+   "id": "F-04",
+   "dato": "Aforos peatonales oficiales disponibles (portal de datos abiertos)",
+   "url": "https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=695cd64d6f9b9610VgnVCM1000001d4a900aRCRD",
+   "institucion": "Ayuntamiento de Madrid",
+   "fecha": "continuo",
+   "licencia": "datos abiertos",
+   "resolucion": "horaria por punto"
+  },
+  {
+   "id": "F-05",
+   "dato": "Sevilla: toldos en 30 calles del centro, 1.703.228 EUR (4 anos); puente San Telmo 1,1 M EUR",
+   "url": "https://www.sevilla.org/actualidad/noticias/2026/el-gobierno-de-jose-luis-sanz-amplia-las-zonas-de-sombra-en-sevilla-toldos-en-30-calles-del-centro-y-en-el-puente-de-san-telmo",
+   "institucion": "Ayuntamiento de Sevilla",
+   "fecha": "2026-03",
+   "licencia": "nota oficial",
+   "resolucion": "contrato"
+  },
+  {
+   "id": "F-06",
+   "dato": "Tarifas de agua Canal de Isabel II 2025-2026 (BOCM 31-05-2025); uso comercial sin subida",
+   "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/31/BOCM-20250531-3.PDF",
+   "institucion": "BOCM / Canal de Isabel II",
+   "fecha": "2025-05-31",
+   "licencia": "boletin oficial",
+   "resolucion": "bloque tarifario"
+  }
+ ],
+ "capex_MEUR": {
+  "partidas": [
+   {
+    "partida": "Dosel estructural (80 mastiles, 93 hojas, cables, microalgas)",
+    "low": 2.5,
+    "base": 3.8,
+    "high": 5.2,
+    "analogia": "membrana tensada + estructura 600-1.200 EUR/m2 proyectado sobre 4.186 m2 de sombra"
+   },
+   {
+    "partida": "Cinta elevada (733 m, tablero 2,5 m, 43 soportes, barandilla)",
+    "low": 1.6,
+    "base": 2.1,
+    "high": 2.9,
+    "analogia": "pasarela urbana 900-1.500 EUR/m2 de tablero"
+   },
+   {
+    "partida": "Ascensores (3) + escaleras (6)",
+    "low": 0.7,
+    "base": 0.9,
+    "high": 1.2,
+    "analogia": "aparato urbano exterior 150-250 kEUR/ud + obra"
+   },
+   {
+    "partida": "Sistema de agua (laminas, splash, red enterrada, bombas, niebla, depositos)",
+    "low": 0.8,
+    "base": 1.1,
+    "high": 1.6,
+    "analogia": "fuentes transitables municipales comparables"
+   },
+   {
+    "partida": "Vegetacion, jardineras, suelos y mobiliario",
+    "low": 0.6,
+    "base": 0.9,
+    "high": 1.3,
+    "analogia": "jardineria intensiva de centro historico"
+   },
+   {
+    "partida": "Pods, atrio Metro, iluminacion, control",
+    "low": 0.5,
+    "base": 0.7,
+    "high": 1.0,
+    "analogia": "equipamiento ligero + BMS"
+   }
+  ],
+  "subtotal": {
+   "low": 6.7,
+   "base": 9.5,
+   "high": 13.2
+  },
+  "total_con_25pct": {
+   "low": 8.4,
+   "base": 11.9,
+   "high": 16.5
+  },
+  "nivel": "C — analogia declarada, sin proyecto de ejecucion"
+ },
+ "opex_kEUR_ano": {
+  "partidas": [
+   {
+    "partida": "Agua (temporada critica + riego anual)",
+    "low": 6,
+    "base": 9,
+    "high": 14,
+    "metodo": "~3.000 m3/ano x 2,0-3,0 EUR/m3 (bloque no domestico BOCM, pendiente bloque exacto)"
+   },
+   {
+    "partida": "Energia (bombas, niebla alta presion, 3 ascensores, iluminacion)",
+    "low": 10,
+    "base": 15,
+    "high": 22,
+    "metodo": "60-110 MWh/ano x 0,15-0,20 EUR/kWh"
+   },
+   {
+    "partida": "Mantenimiento ascensores (SLA <48 h)",
+    "low": 9,
+    "base": 12,
+    "high": 18,
+    "metodo": "3 uds x contrato urbano 3-6 kEUR/ud/ano"
+   },
+   {
+    "partida": "Jardineria intensiva (17 especies, hidrozonas)",
+    "low": 60,
+    "base": 90,
+    "high": 130,
+    "metodo": "plantilla + reposicion 5-8% anual"
+   },
+   {
+    "partida": "Limpieza + membrana + camara de microalgas",
+    "low": 70,
+    "base": 110,
+    "high": 160,
+    "metodo": "quincenal camara (TEC-02), semestral membrana, diario suelo"
+   },
+   {
+    "partida": "Inspecciones, seguros y gestion",
+    "low": 25,
+    "base": 40,
+    "high": 60,
+    "metodo": "matriz TEC-02 + estandar municipal"
+   }
+  ],
+  "total": {
+   "low": 180,
+   "base": 276,
+   "high": 404
+  },
+  "fondo_reposicion_MEUR_ano": 0.21,
+  "nivel": "B/C segun partida"
+ },
+ "comercio": {
+  "escenarios": {
+   "LOW": {
+    "flujo_adicional_pct": 2.0,
+    "tiempo_adicional_min": 3,
+    "exposicion": 0.5,
+    "conversion_pct": 1.0,
+    "ticket_eur": 12.0,
+    "gasto_incremental_eur_dia": 612,
+    "gasto_temporada_93d_keur": 57.0
+   },
+   "BASE": {
+    "flujo_adicional_pct": 5.0,
+    "tiempo_adicional_min": 6,
+    "exposicion": 0.6,
+    "conversion_pct": 1.5,
+    "ticket_eur": 15.0,
+    "gasto_incremental_eur_dia": 2430,
+    "gasto_temporada_93d_keur": 226.0
+   },
+   "HIGH": {
+    "flujo_adicional_pct": 10.0,
+    "tiempo_adicional_min": 10,
+    "exposicion": 0.7,
+    "conversion_pct": 2.0,
+    "ticket_eur": 18.0,
+    "gasto_incremental_eur_dia": 6912,
+    "gasto_temporada_93d_keur": 643.0
+   }
+  },
+  "ancla_flujo": "60.000/dia (hipotesis BASE, ver F-03/F-04)",
+  "nivel": "C — modelo de escenarios, jamas un hecho"
+ },
+ "contexto": {
+  "sevilla_toldos_MEUR": 1.7,
+  "sevilla_calles": 30,
+  "sol_metro_viajeros_M": 73,
+  "preciados_peatones_dia": 13800
+ }
+}

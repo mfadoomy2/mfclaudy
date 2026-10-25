@@ -1,0 +1,249 @@
+{
+ "proyecto": "REFUGIO CLIMATICO PUERTA DEL SOL",
+ "fase": "FINAL-ANALISIS",
+ "baseline": "v006 / FASE_03B9_HYPERDETAIL_V006 (build 12)",
+ "veredicto_baseline": "V006 HYPERDETAIL PASS (0 RED / 26 YELLOW / 18 GREEN)",
+ "timestamp": "2026-08-13T15:33:27+02:00",
+ "archivos": {
+  "geometria_maestra_v006.json": {
+   "grupo": "geometria",
+   "bytes": 278867,
+   "mtime": "2026-08-13T10:46:16",
+   "sha256": "9012d4405c9666db6400a5a1bda48b5abddb96a5cbbec0acf5feb0fa6fc04728"
+  },
+  "_v006_diff.json": {
+   "grupo": "geometria",
+   "bytes": 211,
+   "mtime": "2026-08-13T10:46:16",
+   "sha256": "c4f85219a2bbe697422f16ec14893b5d1b2746464ae4a63de8631833cfbbf9d4"
+  },
+  "MASTER_ARCHITECTURE_v006.3dm": {
+   "grupo": "maestros",
+   "bytes": 22712769,
+   "mtime": "2026-08-13T12:13:01",
+   "sha256": "9873b05947db102f133756753da7a28635d46eea298fb7257d22bb5c5360dc48"
+  },
+  "SOL_FULL_SCENE_v005.3dm": {
+   "grupo": "maestros",
+   "bytes": 22967594,
+   "mtime": "2026-08-13T12:13:21",
+   "sha256": "d6d7a20ad318b9da06e97541da24018dca5c8ed85ba676da5627443742844c47"
+  },
+  "SOL_PRESENTATION_MASTER_v004.3dm": {
+   "grupo": "maestros",
+   "bytes": 22967612,
+   "mtime": "2026-08-13T12:13:24",
+   "sha256": "fe753caba99f7a989986d46dd2750346dd6d047b7f4a2adefce23f854b20465f"
+  },
+  "ASSET_LIBRARY_v005.3dm": {
+   "grupo": "maestros",
+   "bytes": 11859617,
+   "mtime": "2026-08-13T12:13:04",
+   "sha256": "3e9f350403e3e8f3abe9eff1f7f9548c44c9588466df1f19fb13bac3426b9c94"
+  },
+  "build_all_03b9.py": {
+   "grupo": "generadores",
+   "bytes": 138304,
+   "mtime": "2026-08-13T11:53:11",
+   "sha256": "784e06f96771c7a595583b5f65aaa1f89447efa897f1966ba3c6f20e45dd2370"
+  },
+  "detailing_03b9.py": {
+   "grupo": "generadores",
+   "bytes": 37784,
+   "mtime": "2026-08-13T12:12:30",
+   "sha256": "d21404fea8d5b6680939648609693a5c7017f6abea6bb008f79b1a0cee5c601d"
+  },
+  "veg_assets.py": {
+   "grupo": "generadores",
+   "bytes": 6553,
+   "mtime": "2026-08-13T11:05:31",
+   "sha256": "f6cfc71e84eafd1ef04855f7b7ae31058cd197cd6eb54b4ad4a2745e6df247f7"
+  },
+  "purge_scan.py": {
+   "grupo": "generadores",
+   "bytes": 9452,
+   "mtime": "2026-08-13T10:59:34",
+   "sha256": "5ad0597509975a07ba61c68a57f6abde54d3a07f459c67f9e01554dc8d39a4ad"
+  },
+  "_reaudit9/audit_core.py": {
+   "grupo": "auditoria",
+   "bytes": 11129,
+   "mtime": "2026-08-13T11:31:15",
+   "sha256": "b20d53d7f5db6099a1934f2cd4ebb2b5f6de8f5feb691438ed889c85e9341e10"
+  },
+  "_reaudit9/audit_run.py": {
+   "grupo": "auditoria",
+   "bytes": 79703,
+   "mtime": "2026-08-13T11:31:32",
+   "sha256": "c613aef083126ea80ce154ce5de54cb5ed153b8bdfedcc46ec9b8fb4793d6cbc"
+  },
+  "_reaudit9/audit_report.py": {
+   "grupo": "auditoria",
+   "bytes": 72904,
+   "mtime": "2026-08-13T11:31:32",
+   "sha256": "d08196793bb55986c65747ebd7e0e792630cc91b0aa69e058be2c86ef76a014e"
+  },
+  "_reaudit9/_data/summary.json": {
+   "grupo": "auditoria",
+   "bytes": 504,
+   "mtime": "2026-08-13T12:15:51",
+   "sha256": "3eaf4b314207d4071ae4c6edfd8ab600b5b79854f70cf01f1304f71dbd0e11a5"
+  },
+  "_reaudit9/_data/issues.json": {
+   "grupo": "auditoria",
+   "bytes": 21771,
+   "mtime": "2026-08-13T12:15:51",
+   "sha256": "b01152bcccda338f4f67ff9307e35929244e3dbc3fb5a1cf80b5f75b8ac34586"
+  },
+  "_reclima9/clima_core.py": {
+   "grupo": "clima",
+   "bytes": 21169,
+   "mtime": "2026-08-13T12:24:36",
+   "sha256": "cdcb06f9e057ce295ebc8ad2da14980f23017d4685ac3159a88e0efa86066c93"
+  },
+  "_reclima9/clima_run.py": {
+   "grupo": "clima",
+   "bytes": 21302,
+   "mtime": "2026-08-13T12:22:03",
+   "sha256": "128fc22e37eb49f8bb4b717eca108a4cda29cc9fb9587735b674807351af8f17"
+  },
+  "_reclima9/clima_run2.py": {
+   "grupo": "clima",
+   "bytes": 29805,
+   "mtime": "2026-08-13T12:29:18",
+   "sha256": "62618258d9f1661db8d692d1638f764bc7e23fc94c3d9fad2330c0137088a737"
+  },
+  "_reclima9/clima_report.py": {
+   "grupo": "clima",
+   "bytes": 60044,
+   "mtime": "2026-08-13T12:22:03",
+   "sha256": "d4d482371ad4f929b7beee72902560adec6aae86a03f917859da092470602819"
+  },
+  "_reclima9/_data/metricas.json": {
+   "grupo": "clima",
+   "bytes": 890,
+   "mtime": "2026-08-13T12:29:43",
+   "sha256": "0c394b96004538673cb10e232f2af5c6285c47fabaa1273ecbe945e4e99cacd3"
+  },
+  "_reclima9/_data/vegetacion.json": {
+   "grupo": "clima",
+   "bytes": 526,
+   "mtime": "2026-08-13T12:29:42",
+   "sha256": "60f73ccb30f00319fa6fc63dd946cb3e8f1f655c24c336f21882f36f85de7647"
+  },
+  "_veg_clima.json": {
+   "grupo": "clima",
+   "bytes": 5699,
+   "mtime": "2026-08-13T10:53:40",
+   "sha256": "bd6c3a072b22c861049a2aa009c3f43d6dc88f71bfd1557a587aeb8505129d5f"
+  },
+  "BOTANICAL_MASTERPLAN_v001.csv": {
+   "grupo": "botanica",
+   "bytes": 3296,
+   "mtime": "2026-08-13T10:52:49",
+   "sha256": "a3ec510809cb59edf9b64f7a3e44c36b095997a2f316b0c64b3d580ea4f597fa"
+  },
+  "ASSET_PROVENANCE.csv": {
+   "grupo": "botanica",
+   "bytes": 5395,
+   "mtime": "2026-08-13T12:22:32",
+   "sha256": "9298b11daf391622eac6aa58a4ff6848a5865b59602c2113e346ea6082cb7412"
+  },
+  "_veg_blocks.json": {
+   "grupo": "botanica",
+   "bytes": 5291385,
+   "mtime": "2026-08-13T11:07:13",
+   "sha256": "50f26a9bbbdd19913afc1267c1ce2f03776b67ad9b1a05fd8d937ab42d856f94"
+  },
+  "HYPERDETAIL_REPORT.md": {
+   "grupo": "informes",
+   "bytes": 5662,
+   "mtime": "2026-08-13T12:32:27",
+   "sha256": "73b2dd7f95c7f429f6fa07af10360445f7d15dac0f5a9fe06d78e3c392ad03dc"
+  },
+  "SELF_CRITIQUE_V006.md": {
+   "grupo": "informes",
+   "bytes": 4659,
+   "mtime": "2026-08-13T12:40:59",
+   "sha256": "e3dca9ad67180c5fd502e6ee932d3e6e361d09c48bc36ec6ee898e7edfe5a0da"
+  },
+  "AUDIT_V006_MASTER.pdf": {
+   "grupo": "informes",
+   "bytes": 284110,
+   "mtime": "2026-08-13T12:23:16",
+   "sha256": "2d05c861c90c6ca4e576e97e3f2b177aeb6abc1178d3bf5f8bcbfafed358a2bc"
+  },
+  "CLIMATE_V006_MASTER.pdf": {
+   "grupo": "informes",
+   "bytes": 192645,
+   "mtime": "2026-08-13T12:30:28",
+   "sha256": "25adb4608f98f588816133db31a10daabbf42e12cea080859381e4773a0d1a24"
+  }
+ },
+ "faltantes": [],
+ "auditoria_vigente": {
+  "objetos": 15197,
+  "tris": 1238977,
+  "area_ambito": 10756.5625,
+  "area_libre": 9825.9375,
+  "ocupacion": 8.651695186078266,
+  "cobertura": 31.701577525347897,
+  "galibo_min": 2.1328990423984155,
+  "galibo_p05": 4.242267671482432,
+  "ancho_p05": 0.7071067811865476,
+  "ancho_p50": 5.5901699437494745,
+  "cuello_min": 3.75,
+  "vis": {
+   "RELOJ": 41.54786150712831,
+   "TORRE": 42.60692464358452,
+   "CORREOS": 48.14663951120163
+  },
+  "counts": {
+   "RED": 0,
+   "YELLOW": 26,
+   "GREEN": 18
+  }
+ },
+ "clima_vigente": {
+  "area_ambito": 10755.0,
+  "area_pisable": 9827.0,
+  "sombra_crit_A": 3.4,
+  "sombra_crit_B": 42.3,
+  "sombra_crit_A_pisable": 3.2,
+  "sombra_crit_B_pisable": 38.3,
+  "m2_sombra_extra": 4186.0,
+  "rad_A": 653.9,
+  "rad_B": 380.3,
+  "rad_red_pct": 41.8,
+  "rad_red_max_pct": 100.0,
+  "sunh_A": 1215.0,
+  "sunh_B": 670.0,
+  "MRT_A": 65.2,
+  "MRT_B": 54.3,
+  "dMRT": -10.9,
+  "dMRT_refugio": -28.23,
+  "dMRT_max": -38.76,
+  "UTCI_A": 40.0,
+  "UTCI_B": 37.4,
+  "dUTCI": -2.62,
+  "dUTCI_neb": -3.36,
+  "dUTCI_max": -9.3,
+  "m2_refugio": 3876.0,
+  "m2_refugio_neb": 4377.0,
+  "m2_mejora": 4903.0,
+  "pct_beneficiada": 45.6,
+  "agua_L_h": 2034.0,
+  "agua_kW": 1366.7,
+  "agua_suelo_kW": 213.9,
+  "veg_L_h": 425.0,
+  "veg_kW": 285.9,
+  "neb_L_h": 210.0,
+  "neb_kW": 141.1,
+  "dTa_aire": 1.09,
+  "win_A": 2.3,
+  "win_B": 1.29,
+  "win_perdida_pct": 43.8,
+  "hot_m2": 5150.0,
+  "cool_m2": 3210.0
+ }
+}

@@ -1,0 +1,3 @@
+{"id": "CLI09-M1", "valor": -5.9, "unidad": "K", "estado": "A", "metodo": "dUTCI zona HUERTO C1", "fuente": "zonas.json", "notas": "", "pdf": "CLI-09_CONFORT_POR_PROGRAMA.pdf", "pagina": 2}
+{"id": "CLI09-M2", "valor": 22.6, "unidad": "%", "estado": "A", "metodo": "estaciones de cinta en sombra", "fuente": "cinta.json", "notas": "", "pdf": "CLI-09_CONFORT_POR_PROGRAMA.pdf", "pagina": 2}
+{"id": "CLI09-M3", "valor": 38.0, "unidad": "°C", "estado": "A", "metodo": "UTCI medio de la cinta E2/16", "fuente": "cinta.json", "notas": "", "pdf": "CLI-09_CONFORT_POR_PROGRAMA.pdf", "pagina": 2}

@@ -1,0 +1,106 @@
+{
+ "baseline": "v006 build 12",
+ "formula": "IPE = 0,30·sombra + 0,30·confort(UTCI) + 0,15·asiento(≤15 m) + 0,10·agua(≤20 m) + 0,15·borde(≤6 m)",
+ "pesos": {
+  "sombra": 0.3,
+  "confort": 0.3,
+  "asiento": 0.15,
+  "agua": 0.1,
+  "borde": 0.15
+ },
+ "capas": {
+  "bancos": 7,
+  "puntos_agua": 5
+ },
+ "ipe": {
+  "media": 0.327,
+  "p90": 0.685,
+  "m2_alto": 1956.0,
+  "m2_medio": 1893.0
+ },
+ "sensibilidad_pesos": {
+  "detalle": [
+   {
+    "peso": "sombra",
+    "factor": 0.5,
+    "jaccard_top": 0.83
+   },
+   {
+    "peso": "sombra",
+    "factor": 1.5,
+    "jaccard_top": 0.88
+   },
+   {
+    "peso": "confort",
+    "factor": 0.5,
+    "jaccard_top": 0.74
+   },
+   {
+    "peso": "confort",
+    "factor": 1.5,
+    "jaccard_top": 0.82
+   },
+   {
+    "peso": "asiento",
+    "factor": 0.5,
+    "jaccard_top": 0.81
+   },
+   {
+    "peso": "asiento",
+    "factor": 1.5,
+    "jaccard_top": 0.77
+   },
+   {
+    "peso": "agua",
+    "factor": 0.5,
+    "jaccard_top": 0.9
+   },
+   {
+    "peso": "agua",
+    "factor": 1.5,
+    "jaccard_top": 0.89
+   },
+   {
+    "peso": "borde",
+    "factor": 0.5,
+    "jaccard_top": 0.88
+   },
+   {
+    "peso": "borde",
+    "factor": 1.5,
+    "jaccard_top": 0.9
+   }
+  ],
+  "jaccard_min": 0.74,
+  "nota": "estabilidad del conjunto IPE>=0,6 al variar cada peso +-50 % (Jaccard): el mapa de estancia no es un artefacto de los pesos."
+ },
+ "personas_hora": {
+  "escenarios": {
+   "LOW": {
+    "afluencia": 30000,
+    "se_detiene": 0.15,
+    "estancia_min": 10,
+    "conc": 1.3,
+    "frac_estancia_en_refugio": 0.47,
+    "personas_hora_protegidas_dia": 350
+   },
+   "BASE": {
+    "afluencia": 60000,
+    "se_detiene": 0.25,
+    "estancia_min": 15,
+    "conc": 1.6,
+    "frac_estancia_en_refugio": 0.58,
+    "personas_hora_protegidas_dia": 2160
+   },
+   "HIGH": {
+    "afluencia": 120000,
+    "se_detiene": 0.35,
+    "estancia_min": 20,
+    "conc": 1.9,
+    "frac_estancia_en_refugio": 0.68,
+    "personas_hora_protegidas_dia": 9580
+   }
+  },
+  "hipotesis": "HIPOTESIS (C): afluencia diaria sin dato oficial cerrado (se busca en 07_ECONOMIA); % que se detiene y estancia media por rangos de literatura de espacio publico (Gehl/PPS); factor de concentracion = los que se detienen ELIGEN el confort (IPE alto esta en refugio)."
+ }
+}

@@ -1,0 +1,2 @@
+{"id": "CLI06-M1", "valor": 425, "unidad": "L/h", "estado": "B", "metodo": "Penman por copa, kc 0.65", "fuente": "_reclima9/vegetacion.json", "notas": "", "pdf": "CLI-06_VEGETACION.pdf", "pagina": 0}
+{"id": "CLI06-M2", "valor": "±1", "unidad": "p.p.", "estado": "B", "metodo": "sens k_veg +-30% sobre fraccion de sombra", "fuente": "cli_stats.json/sens_kveg", "notas": "", "pdf": "CLI-06_VEGETACION.pdf", "pagina": 2}

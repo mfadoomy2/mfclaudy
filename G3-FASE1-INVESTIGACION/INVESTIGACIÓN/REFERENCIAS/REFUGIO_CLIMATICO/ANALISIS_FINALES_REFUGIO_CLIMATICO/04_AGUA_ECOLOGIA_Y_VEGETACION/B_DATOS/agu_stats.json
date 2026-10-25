@@ -1,0 +1,129 @@
+{
+ "baseline": "v006 build 12",
+ "balance_dia_punta_m3": {
+  "evaporacion_laminas": 24.43,
+  "riego_vegetal": 4.4,
+  "nebulizacion": 1.26,
+  "total": 30.1,
+  "nota": "dia punta E2: laminas MEDIDAS (Penman por elemento, integradas por el modelo); riego = ET vegetal x1,30 de ineficiencia (B); niebla 6 h de operacion (C)."
+ },
+ "almacenamiento": {
+  "V_depositos_m3": 99.8,
+  "autonomia_dias_laminas": 4.08,
+  "autonomia_dias_total": 3.3,
+  "nota": "autonomia frente a corte de red con demanda de dia punta completa"
+ },
+ "recirculacion": {
+  "perdida_real": "solo la evaporacion: el splash y estanques recirculan por las mains enterradas; la reposicion diaria es el propio balance evaporativo",
+  "mains_polilineas": 4
+ },
+ "balance_dia_medio_m3": {
+  "total": 18.9,
+  "factor": "0,62 laminas · 0,85 riego (dia tipico E1)"
+ },
+ "hidrozonas": {
+  "alta": {
+   "especies": [
+    "Nephrolepis exaltata",
+    "Anthurium andraeanum",
+    "Calathea orbifolia",
+    "Solanum lycopersicum",
+    "Lactuca sativa"
+   ],
+   "dosis_L_m2_dia": 6.0
+  },
+  "muy alta": {
+   "especies": [
+    "Alocasia macrorrhizos"
+   ],
+   "dosis_L_m2_dia": 3.5
+  },
+  "media": {
+   "especies": [
+    "Monstera deliciosa",
+    "Epipremnum aureum",
+    "Celtis australis",
+    "Platanus x hispanica"
+   ],
+   "dosis_L_m2_dia": 3.5
+  },
+  "baja": {
+   "especies": [
+    "Deschampsia cespitosa",
+    "Miscanthus sinensis",
+    "Pittosporum tobira",
+    "Hedera helix"
+   ],
+   "dosis_L_m2_dia": 1.5
+  },
+  "acuatica": {
+   "especies": [
+    "Typha latifolia",
+    "Nymphaea alba"
+   ],
+   "dosis_L_m2_dia": 0.0
+  },
+  "muy baja": {
+   "especies": [
+    "Salvia rosmarinus"
+   ],
+   "dosis_L_m2_dia": 0.8
+  }
+ },
+ "estacionalidad": {
+  "perenne": 8,
+  "perenne (protegida)": 1,
+  "perenne (espigas verano)": 1,
+  "caduca parcial": 1,
+  "rebrote anual": 1,
+  "estival": 1,
+  "anual (jun-oct)": 1,
+  "rotacion mensual": 1,
+  "caduco (sombra verano/sol invierno)": 1,
+  "caduco": 1
+ },
+ "biodiversidad": {
+  "especies": 17,
+  "estratos": {
+   "arboreo": 2,
+   "arbustivo": 7,
+   "herbaceo": 8
+  },
+  "acuaticas": 2,
+  "nota_honesta": "las tropicales de sotobosque (Monstera, Alocasia, Calathea) viven del microclima del dosel: fuera de el no sobreviven al invierno de Madrid. Son una APUESTA condicionada al rendimiento del refugio (C)."
+ },
+ "eficiencia": {
+  "L_dia_por_m2_refugio": 6.9,
+  "mecanismos": [
+   {
+    "mecanismo": "Sombra estructural",
+    "L_dia": 0,
+    "beneficio": "−10,9 K MRT / 3.876 m2",
+    "L_por_m2_beneficio": 0.0,
+    "lectura": "el mecanismo dominante no consume agua: es geometria"
+   },
+   {
+    "mecanismo": "Laminas + splash",
+    "L_dia": 24430,
+    "beneficio": "−0,43 K aire (latente) + superficies frias",
+    "L_por_m2_beneficio": 6.3,
+    "lectura": "el termino mas caro en litros; parte es recreativo (splash jugable)"
+   },
+   {
+    "mecanismo": "Nebulizacion",
+    "L_dia": 1260,
+    "beneficio": "+501 m2 de refugio en dia seco",
+    "L_por_m2_beneficio": 2.5,
+    "lectura": "2,5 L/dia por m2 de refugio anadido: el agua mas rentable del sistema"
+   },
+   {
+    "mecanismo": "Riego vegetal",
+    "L_dia": 4400,
+    "beneficio": "286 kW latentes + paisaje + biodiversidad",
+    "L_por_m2_beneficio": null,
+    "lectura": "su retorno principal no es termico: es ecologico y social"
+   }
+  ],
+  "nota": "persona-hora protegida por litro se calcula en 10_SINTESIS con el modelo de uso (SOC); aqui solo ratios geometricos A/B."
+ }
+}

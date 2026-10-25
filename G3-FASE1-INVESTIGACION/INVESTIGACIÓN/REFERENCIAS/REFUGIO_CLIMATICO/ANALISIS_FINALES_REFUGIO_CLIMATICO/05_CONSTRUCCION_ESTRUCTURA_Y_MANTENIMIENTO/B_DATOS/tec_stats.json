@@ -1,0 +1,376 @@
+{
+ "baseline": "v006 build 12",
+ "escena": {
+  "mallas": 15197,
+  "objetos": 15266
+ },
+ "inventario": {
+  "LEAF": {
+   "mallas": 4170,
+   "instancias": 93
+  },
+  "BAL": {
+   "mallas": 2156,
+   "instancias": null
+  },
+  "MAST": {
+   "mallas": 1924,
+   "instancias": 80
+  },
+  "VEG2": {
+   "mallas": 1572,
+   "instancias": 48
+  },
+  "19_DETALLE": {
+   "mallas": 1057,
+   "instancias": 13
+  },
+  "STAIR": {
+   "mallas": 738,
+   "instancias": 6
+  },
+  "NEB": {
+   "mallas": 420,
+   "instancias": 41
+  },
+  "03_SECONDARY_STRUCTURE": {
+   "mallas": 392,
+   "instancias": 6
+  },
+  "VEGETACION (asset GRAMINEA)": {
+   "mallas": 315,
+   "instancias": 63
+  },
+  "POD": {
+   "mallas": 277,
+   "instancias": 14
+  },
+  "VEGETACION (asset CALATHEA)": {
+   "mallas": 265,
+   "instancias": 53
+  },
+  "SUP": {
+   "mallas": 258,
+   "instancias": null
+  },
+  "VEGETACION (asset HELECHO)": {
+   "mallas": 220,
+   "instancias": 55
+  },
+  "DECK": {
+   "mallas": 151,
+   "instancias": null
+  },
+  "LIFT": {
+   "mallas": 147,
+   "instancias": 3
+  },
+  "RIB": {
+   "mallas": 124,
+   "instancias": null
+  },
+  "05_CABLES": {
+   "mallas": 117,
+   "instancias": null
+  },
+  "00_CONTEXT": {
+   "mallas": 91,
+   "instancias": null
+  },
+  "02_PRIMARY_STRUCTURE": {
+   "mallas": 91,
+   "instancias": null
+  },
+  "BENCH": {
+   "mallas": 66,
+   "instancias": null
+  },
+  "CORREOS": {
+   "mallas": 65,
+   "instancias": null
+  },
+  "13_PIPES": {
+   "mallas": 64,
+   "instancias": 16
+  },
+  "POND": {
+   "mallas": 54,
+   "instancias": null
+  },
+  "15_VEGETATION_FULL": {
+   "mallas": 48,
+   "instancias": 3
+  },
+  "BASIN": {
+   "mallas": 42,
+   "instancias": null
+  },
+  "VEGETACION (asset ALOCASIA2)": {
+   "mallas": 42,
+   "instancias": 3
+  },
+  "10_FURNITURE": {
+   "mallas": 31,
+   "instancias": 10
+  },
+  "VEGETACION (asset POTHOS)": {
+   "mallas": 29,
+   "instancias": 29
+  },
+  "ECI": {
+   "mallas": 28,
+   "instancias": null
+  },
+  "EST": {
+   "mallas": 27,
+   "instancias": null
+  },
+  "VEGETACION (asset JUNCO)": {
+   "mallas": 24,
+   "instancias": 12
+  },
+  "ATRIO": {
+   "mallas": 22,
+   "instancias": null
+  },
+  "04_MASTS": {
+   "mallas": 21,
+   "instancias": null
+  },
+  "MAIN": {
+   "mallas": 20,
+   "instancias": null
+  },
+  "VEGETACION (asset ARBOLURB)": {
+   "mallas": 20,
+   "instancias": 20
+  },
+  "16_PEOPLE_PROXY": {
+   "mallas": 20,
+   "instancias": 20
+  },
+  "RECIRC": {
+   "mallas": 15,
+   "instancias": null
+  },
+  "VEGETACION (asset NENUFAR)": {
+   "mallas": 12,
+   "instancias": 12
+  },
+  "VEGETACION (asset ALOCASIA)": {
+   "mallas": 12,
+   "instancias": 2
+  },
+  "09_PLANTERS": {
+   "mallas": 8,
+   "instancias": null
+  },
+  "KIOSCO": {
+   "mallas": 8,
+   "instancias": null
+  },
+  "TANK": {
+   "mallas": 5,
+   "instancias": null
+  },
+  "VEGETACION (asset HELECHO2)": {
+   "mallas": 5,
+   "instancias": 5
+  },
+  "06_MEMBRANES": {
+   "mallas": 4,
+   "instancias": null
+  },
+  "CURB": {
+   "mallas": 4,
+   "instancias": null
+  },
+  "VEGETACION (asset JUNCO2)": {
+   "mallas": 4,
+   "instancias": 4
+  },
+  "VEGETACION (asset GRAMALTA)": {
+   "mallas": 4,
+   "instancias": 4
+  },
+  "VEGETACION (asset MONSTERA2)": {
+   "mallas": 3,
+   "instancias": 3
+  },
+  "VEGETACION (asset MONSTERA)": {
+   "mallas": 2,
+   "instancias": 2
+  },
+  "01_GROUND": {
+   "mallas": 1,
+   "instancias": null
+  },
+  "08_PINK_MODULES": {
+   "mallas": 1,
+   "instancias": null
+  },
+  "11_WATER": {
+   "mallas": 1,
+   "instancias": null
+  }
+ },
+ "acceso_a9": {
+  "DEPOSITO +10.5": {
+   "n": 6,
+   "con_acceso": 6,
+   "plataforma": 6
+  },
+  "DEPOSITO DE SUELO": {
+   "n": 6,
+   "con_acceso": 6,
+   "plataforma": 0
+  },
+  "NEBULIZADOR +4.0": {
+   "n": 42,
+   "con_acceso": 42,
+   "plataforma": 42
+  },
+  "VIVERO": {
+   "n": 3,
+   "con_acceso": 3,
+   "plataforma": 0
+  },
+  "CANOPY / BAJANTE": {
+   "n": 94,
+   "con_acceso": 94,
+   "plataforma": 94
+  },
+  "BOMBEO": {
+   "n": 3,
+   "con_acceso": 2,
+   "plataforma": 0
+  },
+  "BAJANTE/RISER": {
+   "n": 6,
+   "con_acceso": 6,
+   "plataforma": 0
+  }
+ },
+ "matriz": [
+  {
+   "componente": "Mástiles estructurales",
+   "n": 80,
+   "funcion": "soporte primario del dosel",
+   "acceso": "desde suelo + línea de vida",
+   "frecuencia": "inspección anual",
+   "vida": "50 años",
+   "riesgo": "BAJO",
+   "dependencia": "ninguna (fundación propia)"
+  },
+  {
+   "componente": "Hojas de dosel (canopy)",
+   "n": 93,
+   "funcion": "sombra + cámara de microalgas",
+   "acceso": "plataforma elevadora desde claros",
+   "frecuencia": "limpieza semestral · cámara quincenal",
+   "vida": "15-20 años (membrana)",
+   "riesgo": "MEDIO — cámara seca = +6,9 K local (CLI-10)",
+   "dependencia": "bombeo microalgas"
+  },
+  {
+   "componente": "Cinta (pasarela +6)",
+   "n": 1,
+   "funcion": "recorrido elevado 733 m",
+   "acceso": "propio tablero; juntas cada 18 m, tapas cada 36 m",
+   "frecuencia": "inspección trimestral de juntas",
+   "vida": "30 años (tablero)",
+   "riesgo": "MEDIO — elemento con público",
+   "dependencia": "43 soportes"
+  },
+  {
+   "componente": "Ascensores",
+   "n": 3,
+   "funcion": "itinerario accesible al +6",
+   "acceso": "cuartos técnicos propios",
+   "frecuencia": "mensual (normativa aparatos)",
+   "vida": "20 años",
+   "riesgo": "ALTO para equidad — N−1 = 286 m de rodeo (MOB-02)",
+   "dependencia": "energía"
+  },
+  {
+   "componente": "Escaleras",
+   "n": 6,
+   "funcion": "acceso general al +6",
+   "acceso": "directo",
+   "frecuencia": "inspección anual",
+   "vida": "40 años",
+   "riesgo": "BAJO",
+   "dependencia": "—"
+  },
+  {
+   "componente": "Pods rosa",
+   "n": 14,
+   "funcion": "estancia/servicio inflable",
+   "acceso": "desde suelo; válvula e inflado propios",
+   "frecuencia": "presión semanal · recambio membrana 8-10 años",
+   "vida": "10 años",
+   "riesgo": "MEDIO — vandalismo",
+   "dependencia": "soplante"
+  },
+  {
+   "componente": "Depósitos-gota",
+   "n": 6,
+   "funcion": "almacenamiento 99,8 m³",
+   "acceso": "6 de 6 con acceso auditado; plataforma",
+   "frecuencia": "purga mensual · limpieza anual",
+   "vida": "25 años",
+   "riesgo": "MEDIO — carga en altura",
+   "dependencia": "estructura mástil"
+  },
+  {
+   "componente": "Red hidráulica enterrada",
+   "n": 4,
+   "funcion": "mains + recirculación",
+   "acceso": "tapas de registro cada 9 m",
+   "frecuencia": "inspección anual · purga estacional",
+   "vida": "30 años",
+   "riesgo": "BAJO (enterrada, registrable)",
+   "dependencia": "bombas"
+  },
+  {
+   "componente": "Nebulizadores",
+   "n": 42,
+   "funcion": "enfriamiento evaporativo",
+   "acceso": "desde suelo (cabezal a 3,5 m)",
+   "frecuencia": "boquillas trimestral (cal)",
+   "vida": "7 años",
+   "riesgo": "MEDIO — agua dura de Madrid",
+   "dependencia": "bomba alta presión + agua"
+  },
+  {
+   "componente": "Balsas y estanques",
+   "n": 96,
+   "funcion": "lámina fría + microecosistema",
+   "acceso": "borde practicable",
+   "frecuencia": "limpieza mensual · vaciado anual",
+   "vida": "30 años (vaso)",
+   "riesgo": "MEDIO — calidad de agua estival",
+   "dependencia": "recirculación"
+  },
+  {
+   "componente": "Barandillas y remates",
+   "n": 2156,
+   "funcion": "protección de borde",
+   "acceso": "directo",
+   "frecuencia": "repaso anual",
+   "vida": "25 años",
+   "riesgo": "BAJO",
+   "dependencia": "—"
+  },
+  {
+   "componente": "Mobiliario (bancos)",
+   "n": 66,
+   "funcion": "estancia",
+   "acceso": "directo",
+   "frecuencia": "repaso anual",
+   "vida": "15 años",
+   "riesgo": "BAJO",
+   "dependencia": "—"
+  }
+ ]
+}

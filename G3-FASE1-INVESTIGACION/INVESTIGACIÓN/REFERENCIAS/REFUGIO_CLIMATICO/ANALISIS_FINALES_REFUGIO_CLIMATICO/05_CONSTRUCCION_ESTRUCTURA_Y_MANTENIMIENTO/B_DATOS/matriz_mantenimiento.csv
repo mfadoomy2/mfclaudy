@@ -1,0 +1,13 @@
+﻿componente,n,funcion,acceso,frecuencia,vida,riesgo,dependencia
+Mástiles estructurales,80,soporte primario del dosel,desde suelo + línea de vida,inspección anual,50 años,BAJO,ninguna (fundación propia)
+Hojas de dosel (canopy),93,sombra + cámara de microalgas,plataforma elevadora desde claros,limpieza semestral · cámara quincenal,15-20 años (membrana),"MEDIO — cámara seca = +6,9 K local (CLI-10)",bombeo microalgas
+Cinta (pasarela +6),1,recorrido elevado 733 m,"propio tablero; juntas cada 18 m, tapas cada 36 m",inspección trimestral de juntas,30 años (tablero),MEDIO — elemento con público,43 soportes
+Ascensores,3,itinerario accesible al +6,cuartos técnicos propios,mensual (normativa aparatos),20 años,ALTO para equidad — N−1 = 286 m de rodeo (MOB-02),energía
+Escaleras,6,acceso general al +6,directo,inspección anual,40 años,BAJO,—
+Pods rosa,14,estancia/servicio inflable,desde suelo; válvula e inflado propios,presión semanal · recambio membrana 8-10 años,10 años,MEDIO — vandalismo,soplante
+Depósitos-gota,6,"almacenamiento 99,8 m³",6 de 6 con acceso auditado; plataforma,purga mensual · limpieza anual,25 años,MEDIO — carga en altura,estructura mástil
+Red hidráulica enterrada,4,mains + recirculación,tapas de registro cada 9 m,inspección anual · purga estacional,30 años,"BAJO (enterrada, registrable)",bombas
+Nebulizadores,42,enfriamiento evaporativo,"desde suelo (cabezal a 3,5 m)",boquillas trimestral (cal),7 años,MEDIO — agua dura de Madrid,bomba alta presión + agua
+Balsas y estanques,96,lámina fría + microecosistema,borde practicable,limpieza mensual · vaciado anual,30 años (vaso),MEDIO — calidad de agua estival,recirculación
+Barandillas y remates,2156,protección de borde,directo,repaso anual,25 años,BAJO,—
+Mobiliario (bancos),66,estancia,directo,repaso anual,15 años,BAJO,—

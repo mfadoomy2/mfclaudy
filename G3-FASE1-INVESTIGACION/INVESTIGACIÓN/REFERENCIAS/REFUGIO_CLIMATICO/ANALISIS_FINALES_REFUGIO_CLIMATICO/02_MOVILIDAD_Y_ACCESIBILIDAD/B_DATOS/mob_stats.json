@@ -1,0 +1,334 @@
+{
+ "baseline": "v006 build 12",
+ "accesos": 10,
+ "dist_acceso": {
+  "media": 21.3,
+  "p50": 21.4,
+  "p95": 36.9,
+  "max": 45.2,
+  "pct_a_menos_60m": 100.0,
+  "pct_sin_conexion": 2.34
+ },
+ "pmr": {
+  "n_ascensores": 3,
+  "ascensores_xy": [
+   [
+    -68.4,
+    2.8
+   ],
+   [
+    5.4,
+    33.5
+   ],
+   [
+    76.7,
+    7.1
+   ]
+  ],
+  "n_escaleras": 6,
+  "cinta_long_m": 733.0,
+  "rodeo_max_con_todos_m": 174.0,
+  "rodeo_max_N1_m": 286.0,
+  "rodeos": {
+   "todos": 174.0,
+   "sin_asc_1": 253.0,
+   "sin_asc_2": 192.0,
+   "sin_asc_3": 286.0
+  },
+  "nota": "El nivel +6 es APTO PMR solo via ascensor: con los 3 operativos el rodeo maximo sobre la cinta es 174 m; con el peor N-1 sube a 286 m. Las 6 escaleras no son itinerario accesible."
+ },
+ "los": {
+  "escenarios": [
+   {
+    "escenario": "COTIDIANO",
+    "eje": "eje-mayor-alcala",
+    "flujo_p_h": 692.0,
+    "ancho_min_m": 6.75,
+    "q_p_min_m": 1.7,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "COTIDIANO",
+    "eje": "preciados-carretas",
+    "flujo_p_h": 973.0,
+    "ancho_min_m": 7.25,
+    "q_p_min_m": 2.2,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "COTIDIANO",
+    "eje": "carmen-correos",
+    "flujo_p_h": 697.0,
+    "ancho_min_m": 7.5,
+    "q_p_min_m": 1.5,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "COTIDIANO",
+    "eje": "montera-espozymina",
+    "flujo_p_h": 309.0,
+    "ancho_min_m": 3.75,
+    "q_p_min_m": 1.4,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "COTIDIANO",
+    "eje": "arenal-alcala",
+    "flujo_p_h": 971.0,
+    "ancho_min_m": 13.75,
+    "q_p_min_m": 1.2,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "COTIDIANO",
+    "eje": "CINTA +6.00",
+    "flujo_p_h": 357.0,
+    "ancho_min_m": 2.31,
+    "q_p_min_m": 2.6,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "HORA PUNTA",
+    "eje": "eje-mayor-alcala",
+    "flujo_p_h": 1246.0,
+    "ancho_min_m": 6.75,
+    "q_p_min_m": 3.1,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "HORA PUNTA",
+    "eje": "preciados-carretas",
+    "flujo_p_h": 1751.0,
+    "ancho_min_m": 7.25,
+    "q_p_min_m": 4.0,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "HORA PUNTA",
+    "eje": "carmen-correos",
+    "flujo_p_h": 1255.0,
+    "ancho_min_m": 7.5,
+    "q_p_min_m": 2.8,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "HORA PUNTA",
+    "eje": "montera-espozymina",
+    "flujo_p_h": 557.0,
+    "ancho_min_m": 3.75,
+    "q_p_min_m": 2.5,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "HORA PUNTA",
+    "eje": "arenal-alcala",
+    "flujo_p_h": 1748.0,
+    "ancho_min_m": 13.75,
+    "q_p_min_m": 2.1,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "HORA PUNTA",
+    "eje": "CINTA +6.00",
+    "flujo_p_h": 643.0,
+    "ancho_min_m": 2.31,
+    "q_p_min_m": 4.6,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "GRAN AFLUENCIA",
+    "eje": "eje-mayor-alcala",
+    "flujo_p_h": 3114.0,
+    "ancho_min_m": 6.75,
+    "q_p_min_m": 7.7,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "GRAN AFLUENCIA",
+    "eje": "preciados-carretas",
+    "flujo_p_h": 4377.0,
+    "ancho_min_m": 7.25,
+    "q_p_min_m": 10.1,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "GRAN AFLUENCIA",
+    "eje": "carmen-correos",
+    "flujo_p_h": 3136.0,
+    "ancho_min_m": 7.5,
+    "q_p_min_m": 7.0,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "GRAN AFLUENCIA",
+    "eje": "montera-espozymina",
+    "flujo_p_h": 1393.0,
+    "ancho_min_m": 3.75,
+    "q_p_min_m": 6.2,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "GRAN AFLUENCIA",
+    "eje": "arenal-alcala",
+    "flujo_p_h": 4371.0,
+    "ancho_min_m": 13.75,
+    "q_p_min_m": 5.3,
+    "LOS": "A-B (libre)"
+   },
+   {
+    "escenario": "GRAN AFLUENCIA",
+    "eje": "CINTA +6.00",
+    "flujo_p_h": 1609.0,
+    "ancho_min_m": 2.31,
+    "q_p_min_m": 11.6,
+    "LOS": "A-B (libre)"
+   }
+  ],
+  "hipotesis": "HIPOTESIS (C): demanda diaria 40.000 peatones/dia ordinario y 120.000 en gran afluencia (orden de magnitud de un eje centrico de Madrid; pendiente de dato oficial en 07_ECONOMIA); hora punta 18 %; reparto proporcional al ancho p05 de cada eje; el LOS se evalua en el ancho transversal MINIMO (punto pesimo)."
+ },
+ "red": {
+  "frag": [
+   {
+    "w": 0.9,
+    "comp": 1,
+    "big": 9167.1875,
+    "cover": 0.934058454982031
+   },
+   {
+    "w": 1.2,
+    "comp": 1,
+    "big": 8716.1875,
+    "cover": 0.8876633908978151
+   },
+   {
+    "w": 1.5,
+    "comp": 1,
+    "big": 8569.25,
+    "cover": 0.8726202970454473
+   },
+   {
+    "w": 1.8,
+    "comp": 1,
+    "big": 8274.625,
+    "cover": 0.8427058486785612
+   },
+   {
+    "w": 2.0,
+    "comp": 2,
+    "big": 8067.5,
+    "cover": 0.8245014788665204
+   },
+   {
+    "w": 2.5,
+    "comp": 1,
+    "big": 7625.5625,
+    "cover": 0.7790159972012849
+   },
+   {
+    "w": 3.0,
+    "comp": 3,
+    "big": 6959.5,
+    "cover": 0.7186400788728811
+   },
+   {
+    "w": 4.0,
+    "comp": 3,
+    "big": 6023.9375,
+    "cover": 0.627204783258595
+   }
+  ],
+  "bottleneck_peor": 3.75,
+  "pockets": [],
+  "narrow_n": 21,
+  "choke_n": 14
+ },
+ "ejes": [
+  {
+   "id": "eje-mayor-alcala",
+   "long": 192.5,
+   "pend_pct": 0.0,
+   "w_min": 3.5355339059327378,
+   "w_transv_min": 6.75,
+   "w_p05": 4.47213595499958,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "cambios_nivel": 0,
+   "bloqueos": 0,
+   "veredicto": "APTO"
+  },
+  {
+   "id": "preciados-carretas",
+   "long": 93.5,
+   "pend_pct": 0.0,
+   "w_min": 4.716990566028302,
+   "w_transv_min": 7.25,
+   "w_p05": 6.285832690113907,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "cambios_nivel": 0,
+   "bloqueos": 0,
+   "veredicto": "APTO"
+  },
+  {
+   "id": "carmen-correos",
+   "long": 101.5,
+   "pend_pct": 0.0,
+   "w_min": 3.605551275463989,
+   "w_transv_min": 7.5,
+   "w_p05": 4.5041538853603065,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "cambios_nivel": 0,
+   "bloqueos": 0,
+   "veredicto": "APTO"
+  },
+  {
+   "id": "montera-espozymina",
+   "long": 94.0,
+   "pend_pct": 0.0,
+   "w_min": 0.7071067811865476,
+   "w_transv_min": 3.75,
+   "w_p05": 2.0,
+   "pct_w_ge_180": 96.82539682539682,
+   "pct_giro_ge_150": 98.4126984126984,
+   "cambios_nivel": 0,
+   "bloqueos": 0,
+   "veredicto": "CONDICIONADO"
+  },
+  {
+   "id": "arenal-alcala",
+   "long": 192.0,
+   "pend_pct": 0.0,
+   "w_min": 3.5355339059327378,
+   "w_transv_min": 13.75,
+   "w_p05": 6.276896698524019,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "cambios_nivel": 0,
+   "bloqueos": 0,
+   "veredicto": "APTO"
+  },
+  {
+   "id": "CINTA +6.00",
+   "long": 733.0,
+   "pend_pct": 0.0,
+   "w_min": 2.31,
+   "w_transv_min": 2.31,
+   "w_p05": 2.31,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "bloqueos": 0,
+   "cambios_nivel": 1,
+   "veredicto": "APTO CON ASCENSOR (3 uds)"
+  }
+ ],
+ "cinta": {
+  "long": 733.0,
+  "z": 6.0,
+  "ancho_util": 2.31,
+  "n_soportes": 43,
+  "galibo_bajo": 5.78,
+  "n_accesos": 6,
+  "radio_min": 0.4732658711766695
+ }
+}
