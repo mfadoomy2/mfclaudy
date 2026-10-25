@@ -1,0 +1,451 @@
+[
+  {
+    "codigo": "V01_U_3D",
+    "base": "V01_U",
+    "residentes": 4,
+    "cota_suelo": 0,
+    "sitio": false,
+    "objetos": 435,
+    "invalidos": 0,
+    "suelo_m2": 122.7,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V01_U_3D.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V01_U_3D_INTERIOR.3dm",
+    "soportes_borde": 5,
+    "huella_local": [
+      -7.529999999999999,
+      -6.699998661356696,
+      5.3,
+      6.699998661356696
+    ],
+    "entrada": {
+      "cut": "POLYGON ((5.5 -0.6, 5.5 0.6, 5.1 0.6, 5.1 -0.6, 5.5 -0.6))",
+      "inside": [
+        4.65,
+        0.15
+      ],
+      "outside": [
+        6.0,
+        0.15
+      ]
+    },
+    "modelos_originales_modificados": false
+  },
+  {
+    "codigo": "V02_U_3D",
+    "base": "V02_U",
+    "residentes": 4,
+    "cota_suelo": 0,
+    "sitio": false,
+    "objetos": 461,
+    "invalidos": 0,
+    "suelo_m2": 126.26,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V02_U_3D.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V02_U_3D_INTERIOR.3dm",
+    "soportes_borde": 9,
+    "huella_local": [
+      -7.630000000000001,
+      -7.599998661356697,
+      5.35,
+      7.599998661356697
+    ],
+    "entrada": {
+      "cut": "POLYGON ((5.55 -0.4, 5.55 0.8, 5.15 0.8, 5.15 -0.4, 5.55 -0.4))",
+      "inside": [
+        4.65,
+        0.2
+      ],
+      "outside": [
+        6,
+        0.2
+      ]
+    },
+    "modelos_originales_modificados": false
+  },
+  {
+    "codigo": "V03_U_3D",
+    "base": "V03_U",
+    "residentes": 4,
+    "cota_suelo": 0,
+    "sitio": false,
+    "objetos": 457,
+    "invalidos": 0,
+    "suelo_m2": 117.56,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V03_U_3D.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V03_U_3D_INTERIOR.3dm",
+    "soportes_borde": 7,
+    "huella_local": [
+      -8.549998661356696,
+      -8.549998661356696,
+      8.549998661356696,
+      8.549998661356696
+    ],
+    "entrada": {
+      "cut": "POLYGON ((3.049090174387322 3.5235118584980594, 3.750909825612678 2.676488141501941, 2.000909825612678 1.2264881415019406, 1.2990901743873222 2.073511858498059, 3.049090174387322 3.5235118584980594))",
+      "inside": [
+        1.65,
+        1.65
+      ],
+      "outside": [
+        3.4,
+        3.1
+      ]
+    },
+    "modelos_originales_modificados": false
+  },
+  {
+    "codigo": "V02_P_3D",
+    "base": "V02_P",
+    "residentes": 8,
+    "cota_suelo": 0,
+    "sitio": false,
+    "objetos": 917,
+    "invalidos": 0,
+    "suelo_m2": 259.48,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V02_P_3D.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V02_P_3D_INTERIOR.3dm",
+    "soportes_borde": 18,
+    "huella_local": [
+      -7.630000000000001,
+      -7.599998661356697,
+      21.33,
+      7.599998661356697
+    ],
+    "entrada": {
+      "cut": "POLYGON ((7.5 -2, 7.5 -1.6, 6.199999999999999 -1.6, 6.199999999999999 -2, 7.5 -2))",
+      "inside": [
+        6.85,
+        -1.0
+      ],
+      "outside": [
+        6.85,
+        -2.7
+      ]
+    },
+    "modelos_originales_modificados": false
+  },
+  {
+    "codigo": "V01_D_3D",
+    "base": "V01_D",
+    "residentes": 8,
+    "cota_suelo": 0,
+    "sitio": false,
+    "objetos": 863,
+    "invalidos": 0,
+    "suelo_m2": 272.35,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V01_D_3D.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V01_D_3D_INTERIOR.3dm",
+    "soportes_borde": 11,
+    "huella_local": [
+      -7.529999999999999,
+      -6.699998661356696,
+      22.13,
+      6.699998661356696
+    ],
+    "entrada": {
+      "cut": "POLYGON ((8.1 -3.5, 8.1 -2.9, 6.5 -2.9, 6.5 -3.5, 8.1 -3.5))",
+      "inside": [
+        7.3,
+        -2.5
+      ],
+      "outside": [
+        7.3,
+        -4.1
+      ]
+    },
+    "modelos_originales_modificados": false
+  },
+  {
+    "codigo": "V01_S_3D",
+    "base": "V01_S",
+    "residentes": 8,
+    "cota_suelo": 0,
+    "sitio": false,
+    "objetos": 850,
+    "invalidos": 0,
+    "suelo_m2": 251.43,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V01_S_3D.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V01_S_3D_INTERIOR.3dm",
+    "soportes_borde": 9,
+    "huella_local": [
+      -7.529999999999999,
+      -6.699998661356696,
+      18.13,
+      7.599998661356697
+    ],
+    "entrada": {
+      "cut": "POLYGON ((6.1 2.45, 6.1 2.95, 4.5 2.95, 4.5 2.45, 6.1 2.45))",
+      "inside": [
+        5.3,
+        1.7
+      ],
+      "outside": [
+        5.3,
+        3.6
+      ]
+    },
+    "modelos_originales_modificados": false
+  },
+  {
+    "codigo": "V03_D_3D",
+    "base": "V03_D",
+    "residentes": 8,
+    "cota_suelo": 0,
+    "sitio": false,
+    "objetos": 880,
+    "invalidos": 0,
+    "suelo_m2": 279.46,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V03_D_3D.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V03_D_3D_INTERIOR.3dm",
+    "soportes_borde": 14,
+    "huella_local": [
+      -8.549998661356696,
+      -8.549998661356696,
+      22.549998661356696,
+      22.549998661356696
+    ],
+    "entrada": {
+      "cut": "POLYGON ((-2.316575918187588 -3.962299746709422, -3.2834240818124116 -3.4377002532905783, -2.215835695719453 -1.4701118671976197, -1.2489875320946298 -1.994711360616463, -2.316575918187588 -3.962299746709422))",
+      "inside": [
+        -1.7324116139070413,
+        -1.7324116139070413
+      ],
+      "outside": [
+        -2.8,
+        -3.7
+      ]
+    },
+    "modelos_originales_modificados": false
+  },
+  {
+    "codigo": "V03_S_3D",
+    "base": "V03_S",
+    "residentes": 8,
+    "cota_suelo": 0,
+    "sitio": false,
+    "objetos": 862,
+    "invalidos": 0,
+    "suelo_m2": 273.67,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V03_S_3D.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/V03_S_3D_INTERIOR.3dm",
+    "soportes_borde": 12,
+    "huella_local": [
+      -8.549998661356696,
+      -8.549998661356696,
+      21.949998661356695,
+      21.949998661356695
+    ],
+    "entrada": {
+      "cut": "POLYGON ((-2.316575918187588 -3.962299746709422, -3.2834240818124116 -3.4377002532905783, -2.215835695719453 -1.4701118671976197, -1.2489875320946298 -1.994711360616463, -2.316575918187588 -3.962299746709422))",
+      "inside": [
+        -1.7324116139070413,
+        -1.7324116139070413
+      ],
+      "outside": [
+        -2.8,
+        -3.7
+      ]
+    },
+    "modelos_originales_modificados": false
+  },
+  {
+    "codigo": "E01_ENCUENTRO",
+    "base": "V01_D",
+    "residentes": 8,
+    "cota_suelo": 4.2,
+    "sitio": true,
+    "entrada_revisada": "Acceso superior desde nucleo este y galeria al paso de servicios; la llegada desde calle transcurre por la planta baja comun.",
+    "invasion_parcela_m2": 0.0,
+    "paso_exterior90_desde_frente_en_cota_vivienda": false,
+    "llegada_principal": "Calle -> planta baja comun -> escalera o ascensor -> galeria -> vivienda a +4.20 m",
+    "dormitorios_en_planta_baja": 0,
+    "recorridos_PB90": {
+      "ascensor": true,
+      "escalera": true,
+      "cuidados": true,
+      "aseo1": true,
+      "aseo2": true,
+      "sala": true,
+      "taller": true
+    },
+    "PB_programa": [
+      "sala comun",
+      "comedor y cocina del edificio",
+      "taller",
+      "cuidados",
+      "aseos en borde",
+      "ascensor",
+      "escalera"
+    ],
+    "caja_ante_escalera_retirada": true,
+    "PB_servicios": "Cocina almacenaje y aseos integrados en borde sur; llegada a escalera libre",
+    "PB_viviendas": 0,
+    "cota_primera_vivienda": 4.2,
+    "escalera": {
+      "contrahuellas": 24,
+      "altura": 0.175,
+      "huella_nominal": 0.28,
+      "ancho_nominal": 1.2,
+      "rellano_intermedio": 2.1
+    },
+    "galeria_m2": 28.28,
+    "seguridad_pendiente": "Seccion de altura, evacuacion, accesibilidad normativa, uniones, pandeo y cimentacion. Los troncos no se calculan en esta entrega.",
+    "objetos": 1085,
+    "invalidos": 0,
+    "suelo_m2": 272.35,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/E01_ENCUENTRO.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/E01_ENCUENTRO_INTERIOR.3dm",
+    "soportes_borde": 12,
+    "huella_local": [
+      13.090071726206537,
+      -7.224265236643502,
+      42.757964697679355,
+      6.209750439117097
+    ],
+    "entrada": {
+      "cut": "POLYGON ((-7.77 0.52, -7.77 -0.52, -7.35 -0.52, -7.35 0.52, -7.77 0.52))",
+      "inside": [
+        -6.75,
+        0.0
+      ],
+      "outside": [
+        -8.3,
+        0.0
+      ]
+    },
+    "modelos_originales_modificados": false
+  },
+  {
+    "codigo": "E02_COMUNA",
+    "base": "V01_S",
+    "residentes": 8,
+    "cota_suelo": 4.2,
+    "sitio": true,
+    "entrada_revisada": "Acceso superior desde nucleo este y galeria al paso de servicios; la llegada desde calle transcurre por la planta baja comun.",
+    "invasion_parcela_m2": 0.0,
+    "paso_exterior90_desde_frente_en_cota_vivienda": false,
+    "llegada_principal": "Calle -> planta baja comun -> escalera o ascensor -> galeria -> vivienda a +4.20 m",
+    "dormitorios_en_planta_baja": 0,
+    "recorridos_PB90": {
+      "ascensor": true,
+      "escalera": true,
+      "cuidados": true,
+      "aseo1": true,
+      "aseo2": true,
+      "sala": true,
+      "taller": true
+    },
+    "PB_programa": [
+      "sala comun",
+      "comedor y cocina del edificio",
+      "taller",
+      "cuidados",
+      "aseos en borde",
+      "ascensor",
+      "escalera"
+    ],
+    "caja_ante_escalera_retirada": true,
+    "PB_servicios": "Cocina almacenaje y aseos integrados en borde sur; llegada a escalera libre",
+    "PB_viviendas": 0,
+    "cota_primera_vivienda": 4.2,
+    "escalera": {
+      "contrahuellas": 24,
+      "altura": 0.175,
+      "huella_nominal": 0.28,
+      "ancho_nominal": 1.2,
+      "rellano_intermedio": 2.1
+    },
+    "galeria_m2": 36.47,
+    "seguridad_pendiente": "Seccion de altura, evacuacion, accesibilidad normativa, uniones, pandeo y cimentacion. Los troncos no se calculan en esta entrega.",
+    "objetos": 1083,
+    "invalidos": 0,
+    "suelo_m2": 251.43,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/E02_COMUNA.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/E02_COMUNA_INTERIOR.3dm",
+    "soportes_borde": 10,
+    "huella_local": [
+      12.904529168057204,
+      -7.113046714609817,
+      38.71687074252977,
+      7.566190687965296
+    ],
+    "entrada": {
+      "cut": "POLYGON ((-7.77 0.52, -7.77 -0.52, -7.35 -0.52, -7.35 0.52, -7.77 0.52))",
+      "inside": [
+        -6.75,
+        0.0
+      ],
+      "outside": [
+        -8.3,
+        0.0
+      ]
+    },
+    "modelos_originales_modificados": false
+  },
+  {
+    "codigo": "E03_DOS_CLAROS",
+    "base": "V02_P",
+    "residentes": 8,
+    "cota_suelo": 4.2,
+    "sitio": true,
+    "entrada_revisada": "Acceso superior desde nucleo este y galeria al paso de servicios; la llegada desde calle transcurre por la planta baja comun.",
+    "invasion_parcela_m2": 0.0,
+    "paso_exterior90_desde_frente_en_cota_vivienda": false,
+    "llegada_principal": "Calle -> planta baja comun -> escalera o ascensor -> galeria -> vivienda a +4.20 m",
+    "dormitorios_en_planta_baja": 0,
+    "recorridos_PB90": {
+      "ascensor": true,
+      "escalera": true,
+      "cuidados": true,
+      "aseo1": true,
+      "aseo2": true,
+      "sala": true,
+      "taller": true
+    },
+    "PB_programa": [
+      "sala comun",
+      "comedor y cocina del edificio",
+      "taller",
+      "cuidados",
+      "aseos en borde",
+      "ascensor",
+      "escalera"
+    ],
+    "caja_ante_escalera_retirada": true,
+    "PB_servicios": "Cocina almacenaje y aseos integrados en borde sur; llegada a escalera libre",
+    "PB_viviendas": 0,
+    "cota_primera_vivienda": 4.2,
+    "escalera": {
+      "contrahuellas": 24,
+      "altura": 0.175,
+      "huella_nominal": 0.28,
+      "ancho_nominal": 1.2,
+      "rellano_intermedio": 2.1
+    },
+    "galeria_m2": 29.63,
+    "seguridad_pendiente": "Seccion de altura, evacuacion, accesibilidad normativa, uniones, pandeo y cimentacion. Los troncos no se calculan en esta entrega.",
+    "objetos": 1137,
+    "invalidos": 0,
+    "suelo_m2": 259.48,
+    "archivo": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/E03_DOS_CLAROS.3dm",
+    "interior": "/Volumes/T7/G3 Proyectos/G3_MODELOS_HERENCIA_MACARRA_2026-10-19/modelos/E03_DOS_CLAROS_INTERIOR.3dm",
+    "soportes_borde": 18,
+    "huella_local": [
+      13.012665589083392,
+      -7.297134074084137,
+      42.031886175226525,
+      8.084162185614662
+    ],
+    "entrada": {
+      "cut": "POLYGON ((-7.87 0.8200000000000001, -7.87 -0.22, -7.45 -0.22, -7.45 0.8200000000000001, -7.87 0.8200000000000001))",
+      "inside": [
+        -6.85,
+        0.3
+      ],
+      "outside": [
+        -8.4,
+        0.3
+      ]
+    },
+    "modelos_originales_modificados": false
+  }
+]

@@ -1,0 +1,294 @@
+{
+  "modelos": [
+    {
+      "archivo": "E01_ENCUENTRO.3dm",
+      "objetos": 1085,
+      "extrusiones_solidas": 296,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        4.2
+      ],
+      "colchones": 8,
+      "bytes": 6705869,
+      "sha256": "bfa1cd04a06643ce065a31ac0f0fb9fb36d8d2770947eefbc0416e9ce091531e"
+    },
+    {
+      "archivo": "E01_ENCUENTRO_INTERIOR.3dm",
+      "objetos": 1085,
+      "extrusiones_solidas": 296,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        4.2
+      ],
+      "colchones": 8,
+      "bytes": 6705887,
+      "sha256": "fc3f7911a19f9baa34164b2c65114660d7a6a119e9afb7d62c6e880dc03c5a43"
+    },
+    {
+      "archivo": "E02_COMUNA.3dm",
+      "objetos": 1083,
+      "extrusiones_solidas": 291,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        4.2
+      ],
+      "colchones": 8,
+      "bytes": 6120264,
+      "sha256": "9b20901a06d056f01a913a15b6a4cc2bace490dd29831e87a48bfc92fe7735c2"
+    },
+    {
+      "archivo": "E02_COMUNA_INTERIOR.3dm",
+      "objetos": 1083,
+      "extrusiones_solidas": 291,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        4.2
+      ],
+      "colchones": 8,
+      "bytes": 6120282,
+      "sha256": "aedcd18b882ddb48dd3c744e320e397f5f91a3d12983468829e0136be9aafe8e"
+    },
+    {
+      "archivo": "E03_DOS_CLAROS.3dm",
+      "objetos": 1137,
+      "extrusiones_solidas": 296,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        4.2
+      ],
+      "colchones": 8,
+      "bytes": 6876558,
+      "sha256": "7bd99d63e90b8ff6ccf97daf3ed77579c2cbb9e165b4c170a8c2f63cdfdb897c"
+    },
+    {
+      "archivo": "E03_DOS_CLAROS_INTERIOR.3dm",
+      "objetos": 1137,
+      "extrusiones_solidas": 296,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        4.2
+      ],
+      "colchones": 8,
+      "bytes": 6876576,
+      "sha256": "412a84dfe3c1c604e1aa09bba6249d569e22761e8847b239c0a4b12c379c9e8f"
+    },
+    {
+      "archivo": "TODAS_LAS_PLANTAS_3D_COTA0.3dm",
+      "objetos": 5733,
+      "extrusiones_solidas": 1325,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "colchones": 52,
+      "bytes": 27624302,
+      "sha256": "02e318a24403b4701e679252435d63ef9e68deba8d5b99303be2786da1ae09dc"
+    },
+    {
+      "archivo": "V01_D_3D.3dm",
+      "objetos": 863,
+      "extrusiones_solidas": 202,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 8,
+      "bytes": 4476161,
+      "sha256": "94d234ebd10065a994fecbf20ce993fb86521cbd2169f2aadf1ca55a0731088f"
+    },
+    {
+      "archivo": "V01_D_3D_INTERIOR.3dm",
+      "objetos": 863,
+      "extrusiones_solidas": 202,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 8,
+      "bytes": 4476179,
+      "sha256": "f1643d5fc77c8cb28f51625be1d5d5293a8d61ce148fcdd535f430e4b172275a"
+    },
+    {
+      "archivo": "V01_S_3D.3dm",
+      "objetos": 850,
+      "extrusiones_solidas": 197,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 8,
+      "bytes": 3867317,
+      "sha256": "1e3eb4c109aa348df5e87b4961b6b0163e6e6cffe9f28d9b3c8557bc4aa3265a"
+    },
+    {
+      "archivo": "V01_S_3D_INTERIOR.3dm",
+      "objetos": 850,
+      "extrusiones_solidas": 197,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 8,
+      "bytes": 3867335,
+      "sha256": "5c25523b49f81ebf8618754f5222d498c8341c24bb0725668d4e965ac3abf0da"
+    },
+    {
+      "archivo": "V01_U_3D.3dm",
+      "objetos": 435,
+      "extrusiones_solidas": 103,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 4,
+      "bytes": 2248701,
+      "sha256": "ad114386ebc3645bed71b9ea3e039b60487e4ce0eec010fe6a061ca5e57b1d96"
+    },
+    {
+      "archivo": "V01_U_3D_INTERIOR.3dm",
+      "objetos": 435,
+      "extrusiones_solidas": 103,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 4,
+      "bytes": 2248719,
+      "sha256": "22540b599406c6e0c123b2703d62ca10c58a7c5efb4b582764ada26681449628"
+    },
+    {
+      "archivo": "V02_P_3D.3dm",
+      "objetos": 917,
+      "extrusiones_solidas": 202,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 8,
+      "bytes": 4636844,
+      "sha256": "3acd7b9ddd409d38692e8429a800c36cb9f5584b96e2f4aae6d9639e2630204f"
+    },
+    {
+      "archivo": "V02_P_3D_INTERIOR.3dm",
+      "objetos": 917,
+      "extrusiones_solidas": 202,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 8,
+      "bytes": 4636862,
+      "sha256": "6cb8f8b1fbaae928e44db9cd9e63881ed7d5f5a1f98c03a3b106d04be27ccc28"
+    },
+    {
+      "archivo": "V02_U_3D.3dm",
+      "objetos": 461,
+      "extrusiones_solidas": 103,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 4,
+      "bytes": 3444413,
+      "sha256": "bc5a362ff1f308afc67cb72b93115ffd0afc1daaf65f9696b02587940ca83446"
+    },
+    {
+      "archivo": "V02_U_3D_INTERIOR.3dm",
+      "objetos": 461,
+      "extrusiones_solidas": 103,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 4,
+      "bytes": 3444431,
+      "sha256": "1ae9c005672dcdd1885ca85da429335e29a9ca834ecc46969a532da02b56b32d"
+    },
+    {
+      "archivo": "V03_D_3D.3dm",
+      "objetos": 880,
+      "extrusiones_solidas": 207,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 8,
+      "bytes": 4576967,
+      "sha256": "cfe1f8d9f0941f26c3492e6234039044dd651d6f53e3591851e0a64e2f275f82"
+    },
+    {
+      "archivo": "V03_D_3D_INTERIOR.3dm",
+      "objetos": 880,
+      "extrusiones_solidas": 207,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 8,
+      "bytes": 4576985,
+      "sha256": "46b58f45712f8ab94748936c3b0309c29dfe0579e04e540882c5ab3367ceff93"
+    },
+    {
+      "archivo": "V03_S_3D.3dm",
+      "objetos": 862,
+      "extrusiones_solidas": 205,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 8,
+      "bytes": 4510977,
+      "sha256": "c763e8ecd6cddb44dc459efa2078567fd1883657f1eb60ef074d5076a77ae7d1"
+    },
+    {
+      "archivo": "V03_S_3D_INTERIOR.3dm",
+      "objetos": 862,
+      "extrusiones_solidas": 205,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 8,
+      "bytes": 4510995,
+      "sha256": "d5d598cccf3c641fcadc7ba20699ec2134857ad5d8641678bf2eba0f47094c11"
+    },
+    {
+      "archivo": "V03_U_3D.3dm",
+      "objetos": 457,
+      "extrusiones_solidas": 106,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 4,
+      "bytes": 2882347,
+      "sha256": "9a62f93a0d92c603ae5819ae6efd7c056c5d94c3790b145c7d9dd777b00e69f1"
+    },
+    {
+      "archivo": "V03_U_3D_INTERIOR.3dm",
+      "objetos": 457,
+      "extrusiones_solidas": 106,
+      "invalidos": 0,
+      "suelo_vivienda_z": [
+        0.0
+      ],
+      "colchones": 4,
+      "bytes": 2882365,
+      "sha256": "9d407a224b5e98119c9f9a85fa9a542ee6e6b98947207dadce021edbe73b11d7"
+    }
+  ],
+  "ocho_modelos_aislados": 8,
+  "ensayos_parcela": 3,
+  "copias_interior": 11,
+  "catalogo": 1,
+  "capacidad_ensayos": "8 residentes en cada ensayo; no son tres edificios completos de 40",
+  "regla_PB": "Sin viviendas; servicios integrados en borde, sin caja ante escalera",
+  "alcance": "Geometria valida, extrusiones cerradas, cotas y comprobacion parcial de recorridos; no certifica normativa, estructura o iluminacion."
+}
