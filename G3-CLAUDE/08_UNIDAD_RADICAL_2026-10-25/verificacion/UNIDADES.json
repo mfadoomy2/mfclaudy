@@ -1,0 +1,204 @@
+[
+ {
+  "id": "H1",
+  "nombre": "La cama con canto",
+  "blando": [
+   0.55,
+   2.7,
+   1.9,
+   1.9
+  ],
+  "z_blando": 0.45,
+  "suelo_duro": [
+   0,
+   0,
+   3.0,
+   5.0
+  ],
+  "huella": [
+   3.08,
+   5.08
+  ],
+  "area_blanda": 3.61,
+  "area_huella": 16.31,
+  "cierre": "dosel textil (visual, no acústico)",
+  "cielo": "óculo Ø 1,6 sobre la cama",
+  "sonido": "tabiques ligeros",
+  "centro": [
+   1.5,
+   3.6500000000000004
+  ],
+  "estados": [
+   "cerrada",
+   "media",
+   "abierta",
+   "verano"
+  ],
+  "triangulos": 3224
+ },
+ {
+  "id": "H2",
+  "nombre": "El casco",
+  "blando": [
+   0,
+   0,
+   3.45,
+   4.35
+  ],
+  "z_blando": 0.14,
+  "suelo_duro": null,
+  "huella": [
+   3.95,
+   6.25
+  ],
+  "area_blanda": 15.01,
+  "area_huella": 24.69,
+  "cierre": "total: doble piel y esclusa",
+  "cielo": "óculo Ø 1,5",
+  "sonido": "aislado (doble piel 0,25; DB-HR por comprobar)",
+  "centro": [
+   1.725,
+   2.175
+  ],
+  "estados": [
+   "abierta",
+   "cerrada",
+   "media"
+  ],
+  "triangulos": 1408
+ },
+ {
+  "id": "H3",
+  "nombre": "La superficie silenciosa",
+  "blando": [
+   0,
+   0,
+   3.45,
+   4.35
+  ],
+  "z_blando": 0.45,
+  "suelo_duro": null,
+  "huella": [
+   4.75,
+   4.949999999999999
+  ],
+  "area_blanda": 15.01,
+  "area_huella": 23.51,
+  "cierre": "membrana graduable: abierta, media, cerrada",
+  "cielo": "hueco 2,0 × 1,4 en la bandeja superior",
+  "sonido": "membrana acústica (por caracterizar) + distancia",
+  "centro": [
+   1.725,
+   2.175
+  ],
+  "estados": [
+   "cerrada",
+   "media",
+   "abierta",
+   "verano"
+  ],
+  "triangulos": 3932
+ },
+ {
+  "id": "H4",
+  "nombre": "El turno",
+  "blando": [
+   0,
+   0,
+   3.45,
+   4.35
+  ],
+  "z_blando": 0.45,
+  "suelo_duro": null,
+  "huella": [
+   4.75,
+   4.949999999999999
+  ],
+  "area_blanda": 15.01,
+  "area_huella": 23.51,
+  "cierre": "membrana graduable y divisible",
+  "cielo": "dos huecos 1,6 × 1,1",
+  "sonido": "membrana + horario pactado",
+  "centro": [
+   1.725,
+   2.175
+  ],
+  "personas": 2,
+  "estados": [
+   "cerrada",
+   "media",
+   "abierta",
+   "dividida",
+   "verano"
+  ],
+  "triangulos": 4312
+ },
+ {
+  "id": "H5",
+  "nombre": "La mochila y el dock",
+  "blando": [
+   0.6,
+   1.0,
+   2.1,
+   2.1
+  ],
+  "z_blando": 0.12,
+  "suelo_duro": [
+   0,
+   0,
+   3.45,
+   4.35
+  ],
+  "huella": [
+   3.45,
+   4.35
+  ],
+  "area_blanda": 4.41,
+  "area_huella": 15.01,
+  "cierre": "la tienda propia (visual)",
+  "cielo": "abierto: no hay techo propio",
+  "sonido": "ninguno",
+  "centro": [
+   1.65,
+   2.05
+  ],
+  "estados": [
+   "cerrada",
+   "abierta",
+   "media"
+  ],
+  "triangulos": 492
+ },
+ {
+  "id": "H6",
+  "nombre": "La topografía",
+  "blando": [
+   0,
+   0,
+   3.45,
+   4.35
+  ],
+  "z_blando": 0.42,
+  "suelo_duro": null,
+  "huella": [
+   4.550000000000001,
+   5.449999999999999
+  ],
+  "area_blanda": 15.01,
+  "area_huella": 24.8,
+  "cierre": "cúpula textil con paso",
+  "cielo": "óculo Ø 1,5",
+  "sonido": "cúpula (por caracterizar)",
+  "centro": [
+   1.55,
+   1.95
+  ],
+  "estados": [
+   "cerrada",
+   "abierta",
+   "media",
+   "verano"
+  ],
+  "triangulos": 14164
+ }
+]

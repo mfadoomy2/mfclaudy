@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1190.551181pt" height="841.889764pt" viewBox="0 0 1190.551181 841.889764" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T22:06:51.966366</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 841.889764 
+L 1190.551181 841.889764 
+L 1190.551181 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 95.244094 715.606299 
+L 750.047244 715.606299 
+L 750.047244 126.283465 
+L 95.244094 126.283465 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 125.007874 715.606299 
+L 172.331038 715.606299 
+L 172.331038 203.15166 
+L 125.007874 203.15166 
+z
+" clip-path="url(#p8341cf2f1b)" style="fill: #f4a6c6"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 249.542516 715.606299 
+L 296.86568 715.606299 
+L 296.86568 292.831222 
+L 249.542516 292.831222 
+z
+" clip-path="url(#p8341cf2f1b)" style="fill: #f4a6c6"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 374.077159 715.606299 
+L 421.400323 715.606299 
+L 421.400323 203.15166 
+L 374.077159 203.15166 
+z
+" clip-path="url(#p8341cf2f1b)" style="fill: #f4a6c6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 498.611801 715.606299 
+L 545.934965 715.606299 
+L 545.934965 459.37898 
+L 498.611801 459.37898 
+z
+" clip-path="url(#p8341cf2f1b)" style="fill: #f4a6c6"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 623.146444 715.606299 
+L 670.469608 715.606299 
+L 670.469608 203.15166 
+L 623.146444 203.15166 
+z
+" clip-path="url(#p8341cf2f1b)" style="fill: #f4a6c6"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 174.821731 715.606299 
+L 222.144895 715.606299 
+L 222.144895 561.869908 
+L 174.821731 561.869908 
+z
+" clip-path="url(#p8341cf2f1b)" style="fill: #ffd23f"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 299.356373 715.606299 
+L 346.679537 715.606299 
+L 346.679537 382.510784 
+L 299.356373 382.510784 
+z
+" clip-path="url(#p8341cf2f1b)" style="fill: #ffd23f"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 423.891016 715.606299 
+L 471.21418 715.606299 
+L 471.21418 587.49264 
+L 423.891016 587.49264 
+z
+" clip-path="url(#p8341cf2f1b)" style="fill: #ffd23f"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 548.425658 715.606299 
+L 595.748822 715.606299 
+L 595.748822 664.360835 
+L 548.425658 664.360835 
+z
+" clip-path="url(#p8341cf2f1b)" style="fill: #ffd23f"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 672.9603 715.606299 
+L 720.283465 715.606299 
+L 720.283465 689.983567 
+L 672.9603 689.983567 
+z
+" clip-path="url(#p8341cf2f1b)" style="fill: #ffd23f"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mf21165b862" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf21165b862" x="95.244094" y="715.606299" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="88.244094" y="719.406299" transform="rotate(-0 88.244094 719.406299)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mf21165b862" x="95.244094" y="587.49264" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="88.244094" y="591.29264" transform="rotate(-0 88.244094 591.29264)">10</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mf21165b862" x="95.244094" y="459.37898" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="88.244094" y="463.17898" transform="rotate(-0 88.244094 463.17898)">20</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mf21165b862" x="95.244094" y="331.26532" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="88.244094" y="335.06532" transform="rotate(-0 88.244094 335.06532)">30</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mf21165b862" x="95.244094" y="203.15166" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="88.244094" y="206.95166" transform="rotate(-0 88.244094 206.95166)">40</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_6">
+    <path d="M 95.244094 203.15166 
+L 750.047244 203.15166 
+" clip-path="url(#p8341cf2f1b)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #d81b8a; stroke-width: 0.8"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 95.244094 715.606299 
+L 95.244094 126.283465 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="148.669456" y="195.464841" transform="rotate(-0 148.669456 195.464841)">40</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="198.483313" y="554.183088" transform="rotate(-0 198.483313 554.183088)">12</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'" transform="translate(151.016385 763.257446)">U1 · El campo</text>
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'" transform="translate(134.445135 773.257446)">3 niveles · +22.6 a +35.0</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="273.204098" y="285.144403" transform="rotate(-0 273.204098 285.144403)">33</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="323.017955" y="374.823964" transform="rotate(-0 323.017955 374.823964)">26</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'" transform="translate(269.877902 763.257446)">U2 · Las terrazas</text>
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'" transform="translate(259.835402 773.257446)">9 niveles · +17.6 a +29.3</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="397.738741" y="195.464841" transform="rotate(-0 397.738741 195.464841)">40</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="447.552598" y="579.80582" transform="rotate(-0 447.552598 579.80582)">10</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'" transform="translate(375.653169 763.257446)">U3 · Los racimos de comisión</text>
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'" transform="translate(384.173794 773.257446)">8 niveles · +16.4 a +38.1</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="522.273383" y="451.69216" transform="rotate(-0 522.273383 451.69216)">20</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="572.08724" y="656.674016" transform="rotate(-0 572.08724 656.674016)">4</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'" transform="translate(509.863437 763.257446)">U4 · La torre de turnos</text>
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'" transform="translate(508.912812 773.257446)">5 niveles · +16.4 a +29.6</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="646.808026" y="195.464841" transform="rotate(-0 646.808026 195.464841)">40</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="696.621883" y="682.296748" transform="rotate(-0 696.621883 682.296748)">2</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'" transform="translate(632.286829 763.257446)">U5 · La plaza-acampada</text>
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'" transform="translate(632.583704 773.257446)">3 niveles · +22.6 a +35.0</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #d81b8a" x="123.762528" y="190.340294" transform="rotate(-0 123.762528 190.340294)">40 personas</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_14">
+     <path d="M 646.054744 141.083465 
+L 662.054744 141.083465 
+L 662.054744 135.483465 
+L 646.054744 135.483465 
+z
+" style="fill: #f4a6c6"/>
+    </g>
+    <g id="text_22">
+     <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="668.454744" y="141.083465" transform="rotate(-0 668.454744 141.083465)">unidades (o superficies)</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 646.054744 155.083465 
+L 662.054744 155.083465 
+L 662.054744 149.483465 
+L 646.054744 149.483465 
+z
+" style="fill: #ffd23f"/>
+    </g>
+    <g id="text_23">
+     <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="668.454744" y="155.083465" transform="rotate(-0 668.454744 155.083465)">con cielo en vertical</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="text_24">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #d81b8a" x="809.574803" y="126.283465" transform="rotate(-0 809.574803 126.283465)">U1 · El campo</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="149.856378" transform="rotate(-0 809.574803 149.856378)">Una bandeja de 650,9 m² admite unas 18 superficies</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="170.482677" transform="rotate(-0 809.574803 170.482677)">de 15 m² con canto y paso (la parcela tiene 15 m de</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="191.108976" transform="rotate(-0 809.574803 191.108976)">ancho: solo tres filas). Para 40 hacen falta dos</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="211.735276" transform="rotate(-0 809.574803 211.735276)">campos, y el de abajo pierde el cielo.</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #d81b8a" x="809.574803" y="250.04126" transform="rotate(-0 809.574803 250.04126)">U2 · Las terrazas</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="273.614173" transform="rotate(-0 809.574803 273.614173)">Diez terrazas escalonadas: cada una ve el cielo</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="294.240472" transform="rotate(-0 809.574803 294.240472)">porque la siguiente está detrás y más alta. La</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="314.866772" transform="rotate(-0 809.574803 314.866772)">parcela se estrecha al fondo y allí caben menos.</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #d81b8a" x="809.574803" y="353.172756" transform="rotate(-0 809.574803 353.172756)">U3 · Los racimos de comisión</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="376.745669" transform="rotate(-0 809.574803 376.745669)">Un anillo de ocho alrededor de una comisión necesita</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="397.371969" transform="rotate(-0 809.574803 397.371969)">unos 17 m de diámetro y la parcela tiene 15: los</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="417.998268" transform="rotate(-0 809.574803 417.998268)">anillos pierden unidades en los bordes.</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #d81b8a" x="809.574803" y="456.304252" transform="rotate(-0 809.574803 456.304252)">U4 · La torre de turnos</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="479.877165" transform="rotate(-0 809.574803 479.877165)">Veinte superficies, cuarenta personas, media parcela</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="500.503465" transform="rotate(-0 809.574803 500.503465)">libre. Solo el último nivel ve el cielo en vertical;</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="521.129764" transform="rotate(-0 809.574803 521.129764)">los demás, por la fachada. Choca con el mínimo de 15</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="541.756063" transform="rotate(-0 809.574803 541.756063)">m² por unidad privativa si la unidad es de una</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="562.382362" transform="rotate(-0 809.574803 562.382362)">persona.</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 9px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #d81b8a" x="809.574803" y="600.688346" transform="rotate(-0 809.574803 600.688346)">U5 · La plaza-acampada</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="624.26126" transform="rotate(-0 809.574803 624.26126)">Sin canto ni membrana fija caben algo más docks que</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="644.887559" transform="rotate(-0 809.574803 644.887559)">superficies H3, pero tampoco 40: hace falta una</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="665.513858" transform="rotate(-0 809.574803 665.513858)">segunda plaza. Cada tienda es de quien la trae. Es</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="809.574803" y="686.140157" transform="rotate(-0 809.574803 686.140157)">Sol literal, a +22,6 m.</text>
+   </g>
+  </g>
+  <g id="text_48">
+   <text style="font-size: 13px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #222222" x="35.716535" y="41.816142" transform="rotate(-0 35.716535 41.816142)">D09 · Cuántas caben y cuántas ven el cielo</text>
+  </g>
+  <g id="text_49">
+   <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #555555" x="35.716535" y="62.322835" transform="rotate(-0 35.716535 62.322835)">las cinco uniones de 40 en la parcela real: unidades colocadas, unidades con cielo en vertical, número de niveles; el dato sale del empaquetado en el polígono catastral</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8341cf2f1b">
+   <rect x="95.244094" y="126.283465" width="654.80315" height="589.322835"/>
+  </clipPath>
+ </defs>
+</svg>

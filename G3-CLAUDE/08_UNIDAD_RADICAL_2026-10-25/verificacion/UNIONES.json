@@ -1,0 +1,82 @@
+[
+ {
+  "id": "U1",
+  "nombre": "El campo",
+  "unidades": 40,
+  "en_primera_bandeja": 14,
+  "con_cielo": 12,
+  "alturas": [
+   22.6,
+   28.8,
+   35.0
+  ],
+  "bandeja_m2": 650.9,
+  "nota": "Una bandeja de 650,9 m² admite unas 18 superficies de 15 m² con canto y paso (la parcela tiene 15 m de ancho: solo tres filas). Para 40 hacen falta dos campos, y el de abajo pierde el cielo."
+ },
+ {
+  "id": "U2",
+  "nombre": "Las terrazas",
+  "unidades": 33,
+  "en_terrazas": 23,
+  "con_cielo": 26,
+  "alturas": [
+   17.6,
+   18.7,
+   19.9,
+   21.0,
+   22.2,
+   23.4,
+   24.5,
+   25.7,
+   29.3
+  ],
+  "nota": "Diez terrazas escalonadas: cada una ve el cielo porque la siguiente está detrás y más alta. La parcela se estrecha al fondo y allí caben menos."
+ },
+ {
+  "id": "U3",
+  "nombre": "Los racimos de comisión",
+  "unidades": 40,
+  "con_cielo": 10,
+  "alturas": [
+   16.4,
+   19.5,
+   22.6,
+   25.7,
+   28.8,
+   31.9,
+   35.0,
+   38.1
+  ],
+  "racimos": 8,
+  "nota": "Un anillo de ocho alrededor de una comisión necesita unos 17 m de diámetro y la parcela tiene 15: los anillos pierden unidades en los bordes."
+ },
+ {
+  "id": "U4",
+  "nombre": "La torre de turnos",
+  "unidades": 20,
+  "personas": 40,
+  "con_cielo": 4,
+  "alturas": [
+   16.4,
+   19.7,
+   23.0,
+   26.299999999999997,
+   29.599999999999998
+  ],
+  "nota": "Veinte superficies, cuarenta personas, media parcela libre. Solo el último nivel ve el cielo en vertical; los demás, por la fachada. Choca con el mínimo de 15 m² por unidad privativa si la unidad es de una persona."
+ },
+ {
+  "id": "U5",
+  "nombre": "La plaza-acampada",
+  "unidades": 40,
+  "en_primera_plaza": 19,
+  "con_cielo": 2,
+  "alturas": [
+   22.6,
+   28.8,
+   35.0
+  ],
+  "docks_posibles": 19,
+  "nota": "Sin canto ni membrana fija caben algo más docks que superficies H3, pero tampoco 40: hace falta una segunda plaza. Cada tienda es de quien la trae. Es Sol literal, a +22,6 m."
+ }
+]

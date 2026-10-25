@@ -1,0 +1,23 @@
+# Cuerpos × unidades
+
+Cada celda: criterios cumplidos de 10 (tumbada · dos · seis sentadas · canto · cierre · sonido · temperatura · movilidad · vestirse dentro · perro). Reglas en `fuentes/matriz_cuerpos.py`; las medidas de los cuerpos son hipótesis.
+
+| cuerpo | exige | H1 | H2 | H3 | H4 | H5 | H6 |
+|---|---|---|---|---|---|---|---|
+| C01 alta y delgada | 2.17 × 0.76 m · canto 0.45–0.57 · cierre parcial · frio | **6** (dos, seis_sentadas, temperatura, vestirse_dentro) | **10** | **10** | **10** | **5** (dos, seis_sentadas, canto, temperatura, vestirse_dentro) | **8** (canto, vestirse_dentro) |
+| C02 baja y gorda | 1.81 × 0.92 m · canto 0.43–0.55 · cierre parcial · calor | **8** (seis_sentadas, vestirse_dentro) | **9** (temperatura) | **10** | **10** | **5** (seis_sentadas, canto, temperatura, movilidad, vestirse_dentro) | **8** (canto, vestirse_dentro) |
+| C03 gorda y alta | 2.07 × 1.0 m · canto 0.42–0.54 · cierre total · calor | **5** (dos, seis_sentadas, cierre, sonido, vestirse_dentro) | **9** (temperatura) | **9** (sonido) | **9** (sonido) | **4** (seis_sentadas, canto, cierre, sonido, temperatura, vestirse_dentro) | **7** (cierre, sonido, vestirse_dentro) |
+| C04 flaca y friolera | 1.89 × 0.7 m · canto 0.38–0.5 · cierre parcial · frio | **7** (seis_sentadas, temperatura, vestirse_dentro) | **10** | **10** | **10** | **6** (seis_sentadas, canto, temperatura, vestirse_dentro) | **9** (vestirse_dentro) |
+| C05 twink | 2.01 × 0.72 m · canto 0.41–0.53 · cierre total · media | **5** (dos, seis_sentadas, cierre, sonido, vestirse_dentro) | **10** | **9** (sonido) | **9** (sonido) | **5** (seis_sentadas, canto, cierre, sonido, vestirse_dentro) | **7** (cierre, sonido, vestirse_dentro) |
+| C06 peluda y calurosa | 1.95 × 0.8 m · canto 0.39–0.51 · cierre abierto · calor | **7** (dos, seis_sentadas, vestirse_dentro) | **9** (temperatura) | **10** | **10** | **6** (seis_sentadas, canto, temperatura, vestirse_dentro) | **9** (vestirse_dentro) |
+| C07 trans, en transición | 1.99 × 0.74 m · canto 0.4–0.52 · cierre total · media | **6** (dos, seis_sentadas, cierre, vestirse_dentro) | **10** | **10** | **10** | **6** (seis_sentadas, canto, cierre, vestirse_dentro) | **8** (cierre, vestirse_dentro) |
+| C08 con dolor crónico | 1.93 × 0.78 m · canto 0.43–0.55 · cierre parcial · frio | **6** (dos, seis_sentadas, temperatura, vestirse_dentro) | **10** | **10** | **10** | **5** (seis_sentadas, canto, temperatura, movilidad, vestirse_dentro) | **8** (canto, vestirse_dentro) |
+| C09 silla de ruedas | 1.85 × 0.76 m · canto 0.43–0.55 · cierre parcial · media | **8** (seis_sentadas, vestirse_dentro) | **9** (movilidad) | **10** | **10** | **7** (seis_sentadas, canto, vestirse_dentro) | **7** (canto, movilidad, vestirse_dentro) |
+| C10 muy musculada | 2.05 × 0.88 m · canto 0.42–0.54 · cierre parcial · calor | **6** (dos, seis_sentadas, sonido, vestirse_dentro) | **9** (temperatura) | **9** (sonido) | **9** (sonido) | **5** (seis_sentadas, canto, sonido, temperatura, vestirse_dentro) | **8** (sonido, vestirse_dentro) |
+| C11 pareja estable | 1.97 × 0.76 m · canto 0.4–0.52 · cierre total · media | **5** (dos, seis_sentadas, cierre, sonido, vestirse_dentro) | **10** | **9** (sonido) | **9** (sonido) | **5** (seis_sentadas, canto, cierre, sonido, vestirse_dentro) | **7** (cierre, sonido, vestirse_dentro) |
+| C12 con insomnio y ansiedad | 1.91 × 0.72 m · canto 0.38–0.5 · cierre total · frio | **4** (dos, seis_sentadas, cierre, sonido, temperatura, vestirse_dentro) | **10** | **10** | **10** | **4** (seis_sentadas, canto, cierre, sonido, temperatura, vestirse_dentro) | **8** (cierre, vestirse_dentro) |
+| C13 embarazada | 1.93 × 0.82 m · canto 0.43–0.55 · cierre parcial · calor | **7** (dos, seis_sentadas, vestirse_dentro) | **9** (temperatura) | **10** | **10** | **5** (seis_sentadas, canto, temperatura, movilidad, vestirse_dentro) | **8** (canto, vestirse_dentro) |
+| C14 muy baja | 1.73 × 0.68 m · canto 0.33–0.45 · cierre parcial · frio | **7** (seis_sentadas, temperatura, vestirse_dentro) | **10** | **10** | **10** | **6** (seis_sentadas, canto, temperatura, vestirse_dentro) | **9** (vestirse_dentro) |
+| C15 sorda | 1.95 × 0.74 m · canto 0.39–0.51 · cierre parcial · media | **7** (dos, seis_sentadas, vestirse_dentro) | **10** | **10** | **10** | **7** (seis_sentadas, canto, vestirse_dentro) | **9** (vestirse_dentro) |
+| C16 con perro | 1.99 × 0.76 m · canto 0.4–0.52 · cierre abierto · media | **6** (dos, seis_sentadas, vestirse_dentro, perro) | **10** | **10** | **10** | **6** (seis_sentadas, canto, vestirse_dentro, perro) | **9** (vestirse_dentro) |
+| **total** | | **100** / 160 | **154** / 160 | **156** / 160 | **156** / 160 | **87** / 160 | **129** / 160 |

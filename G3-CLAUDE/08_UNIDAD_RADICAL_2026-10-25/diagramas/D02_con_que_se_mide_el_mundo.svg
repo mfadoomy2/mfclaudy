@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1190.551181pt" height="841.889764pt" viewBox="0 0 1190.551181 841.889764" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T22:06:48.985557</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 841.889764 
+L 1190.551181 841.889764 
+L 1190.551181 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 332.40189 585.649134 
+L 808.860472 585.649134 
+L 808.860472 549.504 
+L 332.40189 549.504 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #c9c9c9; stroke: #c9c9c9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 332.40189 549.504 
+L 808.860472 549.504 
+L 808.860472 536.360315 
+L 332.40189 536.360315 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #f4a6c6; stroke: #f4a6c6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 299.542677 585.649134 
+L 332.40189 585.649134 
+L 332.40189 536.360315 
+L 299.542677 536.360315 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #2b2b2b; stroke: #2b2b2b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 261.206929 585.649134 
+L 299.542677 585.649134 
+L 299.542677 506.787024 
+L 261.206929 506.787024 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #2b2b2b; stroke: #2b2b2b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 808.860472 585.649134 
+L 841.719685 585.649134 
+L 841.719685 536.360315 
+L 808.860472 536.360315 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #2b2b2b; stroke: #2b2b2b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 841.719685 585.649134 
+L 880.055433 585.649134 
+L 880.055433 506.787024 
+L 841.719685 506.787024 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #2b2b2b; stroke: #2b2b2b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 455.076283 536.360315 
+L 538.319622 536.360315 
+Q 551.463307 536.360315 551.463307 523.21663 
+L 551.463307 523.21663 
+Q 551.463307 510.072945 538.319622 510.072945 
+L 455.076283 510.072945 
+Q 441.932598 510.072945 441.932598 523.21663 
+L 441.932598 523.21663 
+Q 441.932598 536.360315 455.076283 536.360315 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #d81b8a; stroke: #d81b8a; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 556.568405 526.83257 
+L 608.6626 479.926746 
+Q 619.244233 470.399 609.716488 459.817367 
+L 609.716488 459.817367 
+Q 600.188742 449.235734 589.607109 458.763479 
+L 537.512914 505.669303 
+Q 526.931281 515.197048 536.459026 525.778682 
+L 536.459026 525.778682 
+Q 545.986772 536.360315 556.568405 526.83257 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #d81b8a; stroke: #d81b8a; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 603.250605 515.256097 
+L 604.441828 515.811573 
+L 611.385279 500.921293 
+L 610.194057 500.365817 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #ffd23f; stroke: #ffd23f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 542.000281 540.346806 
+C 547.69946 546.045986 554.07615 551.024754 560.987421 555.171517 
+C 567.898691 559.318279 575.292518 562.60182 583.003173 564.948541 
+L 611.705197 470.64189 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #ffd23f; opacity: 0.25; stroke: #ffd23f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 493.412031 534.169701 
+L 529.557165 534.169701 
+L 529.557165 532.52674 
+L 493.412031 532.52674 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #2b2b2b; stroke: #2b2b2b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 493.412031 534.169701 
+L 495.054992 534.169701 
+L 495.054992 510.072945 
+L 493.412031 510.072945 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #f26a1b; stroke: #f26a1b; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 699.77333 654.568682 
+C 729.422581 612.225164 745.332661 561.764836 745.332661 510.072945 
+C 745.332661 458.381054 729.422581 407.920726 699.77333 365.577208 
+L 493.412031 510.072945 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #36c5d1; opacity: 0.18; stroke: #36c5d1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 611.705197 498.024567 
+C 618.967168 498.024567 625.932685 495.139355 631.067674 490.004366 
+C 636.202662 484.869378 639.087874 477.903861 639.087874 470.64189 
+C 639.087874 463.379919 636.202662 456.414402 631.067674 451.279413 
+C 625.932685 446.144424 618.967168 443.259213 611.705197 443.259213 
+C 604.443226 443.259213 597.477709 446.144424 592.34272 451.279413 
+C 587.207731 456.414402 584.32252 463.379919 584.32252 470.64189 
+C 584.32252 477.903861 587.207731 484.869378 592.34272 490.004366 
+C 597.477709 495.139355 604.443226 498.024567 611.705197 498.024567 
+L 611.705197 498.024567 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: none; stroke: #7b2cbf; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 611.705197 799.234016 
+C 698.848847 799.234016 782.435051 764.611476 844.054917 702.99161 
+C 905.674784 641.371744 940.297323 557.78554 940.297323 470.64189 
+C 940.297323 383.498239 905.674784 299.912035 844.054917 238.292169 
+C 782.435051 176.672303 698.848847 142.049764 611.705197 142.049764 
+C 524.561546 142.049764 440.975342 176.672303 379.355476 238.292169 
+C 317.73561 299.912035 283.113071 383.498239 283.113071 470.64189 
+C 283.113071 557.78554 317.73561 641.371744 379.355476 702.99161 
+C 440.975342 764.611476 524.561546 799.234016 611.705197 799.234016 
+L 611.705197 799.234016 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: none; stroke-dasharray: 0.9,1.485; stroke-dashoffset: 0; stroke: #7b2cbf; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 611.705197 1127.826142 
+C 785.992498 1127.826142 953.164906 1058.581063 1076.404638 935.341331 
+C 1199.64437 812.101598 1268.889449 644.929191 1268.889449 470.64189 
+C 1268.889449 296.354589 1199.64437 129.182181 1076.404638 5.942449 
+C 953.164906 -117.297284 785.992498 -186.542362 611.705197 -186.542362 
+C 437.417896 -186.542362 270.245488 -117.297284 147.005756 5.942449 
+C 23.766023 129.182181 -45.479055 296.354589 -45.479055 470.64189 
+C -45.479055 644.929191 23.766023 812.101598 147.005756 935.341331 
+C 270.245488 1058.581063 437.417896 1127.826142 611.705197 1127.826142 
+" clip-path="url(#p89ad0798f3)" style="fill: none; stroke-dasharray: 0.9,1.485; stroke-dashoffset: 0; stroke: #7b2cbf; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 255.730394 300.869291 
+L 463.83874 300.869291 
+L 463.83874 295.392756 
+L 255.730394 295.392756 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #ffd23f; opacity: 0.8; stroke: #ffd23f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 677.423622 300.869291 
+L 885.531969 300.869291 
+L 885.531969 295.392756 
+L 677.423622 295.392756 
+z
+" clip-path="url(#p89ad0798f3)" style="fill: #ffd23f; opacity: 0.8; stroke: #ffd23f; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 493.412031 510.072945 
+L 699.77333 365.577208 
+" clip-path="url(#p89ad0798f3)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #1f7a8c; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 493.412031 510.072945 
+L 699.77333 654.568682 
+" clip-path="url(#p89ad0798f3)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #1f7a8c; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 611.705197 470.64189 
+L 463.83874 300.869291 
+" clip-path="url(#p89ad0798f3)" style="fill: none; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #8a6d00; stroke-width: 0.7"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 611.705197 470.64189 
+L 677.423622 300.869291 
+" clip-path="url(#p89ad0798f3)" style="fill: none; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #8a6d00; stroke-width: 0.7"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; fill: #8a6d00" transform="translate(502.174488 564.696063)">móvil · 6,1" a 0,30 m</text>
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; fill: #8a6d00" transform="translate(502.174488 574.696063)">28° del campo visual</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #b04a10" x="403.59685" y="503.501102" transform="rotate(-0 403.59685 503.501102)">portátil · 13" a 0,55 m · 23°</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; fill: #1f7a8c" transform="translate(712.473449 309.347276)">la cámara: 70°</text>
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; fill: #1f7a8c" transform="translate(712.473449 319.347276)">lo que enseña a 2 m es 2,8 m de ancho:</text>
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; fill: #1f7a8c" transform="translate(712.473449 329.347276)">la membrana cerrada es el fondo</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #7b2cbf" x="631.420724" y="445.449827" transform="rotate(-0 631.420724 445.449827)">cascos · el silencio mide 0,25 m</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #7b2cbf" x="848.291528" y="228.579024" transform="rotate(-0 848.291528 228.579024)">voz al móvil · 3 m</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #7b2cbf" x="1084.877858" y="-8.007307" transform="rotate(-0 1084.877858 -8.007307)">altavoz pequeño · 6 m, atraviesa un tabique de 7 cm</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #8a6d00" x="474.791811" y="284.439685" transform="rotate(-0 474.791811 284.439685)">el cielo propio: hueco de 2,0 m a 2,6 m → 62° desde la cama</text>
+   </g>
+   <g id="patch_20">
+    <path d="M 806.186717 613.031811 
+Q 570.630591 613.031811 335.074465 613.031811 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 802.186717 611.031811 
+L 806.186717 613.031811 
+L 802.186717 615.031811 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 339.074465 615.031811 
+L 335.074465 613.031811 
+L 339.074465 611.031811 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="570.083528" y="631.652031" transform="rotate(-0 570.083528 631.652031)">4,35 m · 15 m² con 3,45 de fondo</text>
+   </g>
+   <g id="patch_21">
+    <path d="M 222.871181 509.455389 
+Q 222.871181 546.215229 222.871181 582.975068 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 220.871181 513.455389 
+L 222.871181 509.455389 
+L 224.871181 513.455389 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 224.871181 578.975068 
+L 222.871181 582.975068 
+L 220.871181 578.975068 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7px; font-family: 'Ibarra Real Nova'" transform="translate(201.536068 544.118079)">0,72</text>
+    <text style="font-size: 7px; font-family: 'Ibarra Real Nova'" transform="translate(200.150287 552.868079)">mesa</text>
+   </g>
+   <g id="patch_22">
+    <path d="M 222.871181 539.031689 
+Q 222.871181 561.004917 222.871181 582.978145 
+" style="fill: none; stroke: #999999; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 220.871181 543.031689 
+L 222.871181 539.031689 
+L 224.871181 543.031689 
+" style="fill: none; stroke: #999999; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 224.871181 578.978145 
+L 222.871181 582.978145 
+L 220.871181 578.978145 
+" style="fill: none; stroke: #999999; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7px; font-family: 'Ibarra Real Nova'; fill: #777777" transform="translate(201.529506 572.596063)">0,45</text>
+    <text style="font-size: 7px; font-family: 'Ibarra Real Nova'; fill: #777777" transform="translate(194.354506 581.346063)">asiento</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m94c6f86e00" d="M 0 2.236068 
+C 0.593012 2.236068 1.161816 2.000462 1.581139 1.581139 
+C 2.000462 1.161816 2.236068 0.593012 2.236068 0 
+C 2.236068 -0.593012 2.000462 -1.161816 1.581139 -1.581139 
+C 1.161816 -2.000462 0.593012 -2.236068 0 -2.236068 
+C -0.593012 -2.236068 -1.161816 -2.000462 -1.581139 -1.581139 
+C -2.000462 -1.161816 -2.236068 -0.593012 -2.236068 0 
+C -2.236068 0.593012 -2.000462 1.161816 -1.581139 1.581139 
+C -1.161816 2.000462 -0.593012 2.236068 0 2.236068 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#p89ad0798f3)">
+     <use xlink:href="#m94c6f86e00" x="611.705197" y="470.64189" style="stroke: #000000"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 13px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #222222" x="35.716535" y="41.816142" transform="rotate(-0 35.716535 41.816142)">D02 · Con qué se mide el mundo desde la cama</text>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #555555" x="35.716535" y="62.322835" transform="rotate(-0 35.716535 62.322835)">sección a escala: un cuerpo reclinado en la superficie y los instrumentos con los que hoy se concibe el exterior; ángulos y distancias medidos, no simbólicos</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p89ad0798f3">
+   <rect x="47.622047" y="213.244724" width="1095.307087" height="449.075906"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,1858 @@
+[
+ {
+  "cuerpo": "C01",
+  "nombre": "alta y delgada",
+  "estatura": 1.92,
+  "exige": {
+   "largo": 2.17,
+   "ancho": 0.76,
+   "dos": 1.32,
+   "canto": [
+    0.45,
+    0.57
+   ],
+   "cierre": "parcial",
+   "temperatura": "frio",
+   "libido": "media",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 6,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 5,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 8,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C02",
+  "nombre": "baja y gorda",
+  "estatura": 1.56,
+  "exige": {
+   "largo": 1.81,
+   "ancho": 0.92,
+   "dos": 1.64,
+   "canto": [
+    0.43,
+    0.55
+   ],
+   "cierre": "parcial",
+   "temperatura": "calor",
+   "libido": "media",
+   "movilidad": "dolor"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 8,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 5,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": false,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 8,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C03",
+  "nombre": "gorda y alta",
+  "estatura": 1.82,
+  "exige": {
+   "largo": 2.07,
+   "ancho": 1.0,
+   "dos": 1.8,
+   "canto": [
+    0.42,
+    0.54
+   ],
+   "cierre": "total",
+   "temperatura": "calor",
+   "libido": "alta",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 5,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 4,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C04",
+  "nombre": "flaca y friolera",
+  "estatura": 1.64,
+  "exige": {
+   "largo": 1.89,
+   "ancho": 0.7,
+   "dos": 1.2,
+   "canto": [
+    0.38,
+    0.5
+   ],
+   "cierre": "parcial",
+   "temperatura": "frio",
+   "libido": "baja",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 6,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C05",
+  "nombre": "twink",
+  "estatura": 1.76,
+  "exige": {
+   "largo": 2.01,
+   "ancho": 0.72,
+   "dos": 1.24,
+   "canto": [
+    0.41,
+    0.53
+   ],
+   "cierre": "total",
+   "temperatura": "media",
+   "libido": "alta",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 5,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 5,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C06",
+  "nombre": "peluda y calurosa",
+  "estatura": 1.7,
+  "exige": {
+   "largo": 1.95,
+   "ancho": 0.8,
+   "dos": 1.4,
+   "canto": [
+    0.39,
+    0.51
+   ],
+   "cierre": "abierto",
+   "temperatura": "calor",
+   "libido": "media",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 6,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C07",
+  "nombre": "trans, en transición",
+  "estatura": 1.74,
+  "exige": {
+   "largo": 1.99,
+   "ancho": 0.74,
+   "dos": 1.28,
+   "canto": [
+    0.4,
+    0.52
+   ],
+   "cierre": "total",
+   "temperatura": "media",
+   "libido": "media",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 6,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": false,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 6,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": false,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 8,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": false,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C08",
+  "nombre": "con dolor crónico",
+  "estatura": 1.68,
+  "exige": {
+   "largo": 1.93,
+   "ancho": 0.78,
+   "dos": 1.36,
+   "canto": [
+    0.43,
+    0.55
+   ],
+   "cierre": "parcial",
+   "temperatura": "frio",
+   "libido": "baja",
+   "movilidad": "dolor"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 6,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 5,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": false,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 8,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C09",
+  "nombre": "silla de ruedas",
+  "estatura": 1.6,
+  "exige": {
+   "largo": 1.85,
+   "ancho": 0.76,
+   "dos": 1.32,
+   "canto": [
+    0.43,
+    0.55
+   ],
+   "cierre": "parcial",
+   "temperatura": "media",
+   "libido": "media",
+   "movilidad": "reducida"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 8,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": false,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": false,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C10",
+  "nombre": "muy musculada",
+  "estatura": 1.8,
+  "exige": {
+   "largo": 2.05,
+   "ancho": 0.88,
+   "dos": 1.56,
+   "canto": [
+    0.42,
+    0.54
+   ],
+   "cierre": "parcial",
+   "temperatura": "calor",
+   "libido": "alta",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 6,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 5,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 8,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C11",
+  "nombre": "pareja estable",
+  "estatura": 1.72,
+  "exige": {
+   "largo": 1.97,
+   "ancho": 0.76,
+   "dos": 1.32,
+   "canto": [
+    0.4,
+    0.52
+   ],
+   "cierre": "total",
+   "temperatura": "media",
+   "libido": "alta",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 5,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 5,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C12",
+  "nombre": "con insomnio y ansiedad",
+  "estatura": 1.66,
+  "exige": {
+   "largo": 1.91,
+   "ancho": 0.72,
+   "dos": 1.24,
+   "canto": [
+    0.38,
+    0.5
+   ],
+   "cierre": "total",
+   "temperatura": "frio",
+   "libido": "baja",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 4,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 4,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": false,
+     "sonido": false,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 8,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": false,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C13",
+  "nombre": "embarazada",
+  "estatura": 1.68,
+  "exige": {
+   "largo": 1.93,
+   "ancho": 0.82,
+   "dos": 1.44,
+   "canto": [
+    0.43,
+    0.55
+   ],
+   "cierre": "parcial",
+   "temperatura": "calor",
+   "libido": "baja",
+   "movilidad": "dolor"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 5,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": false,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 8,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C14",
+  "nombre": "muy baja",
+  "estatura": 1.48,
+  "exige": {
+   "largo": 1.73,
+   "ancho": 0.68,
+   "dos": 1.16,
+   "canto": [
+    0.33,
+    0.45
+   ],
+   "cierre": "parcial",
+   "temperatura": "frio",
+   "libido": "media",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 6,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": false,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C15",
+  "nombre": "sorda",
+  "estatura": 1.7,
+  "exige": {
+   "largo": 1.95,
+   "ancho": 0.74,
+   "dos": 1.28,
+   "canto": [
+    0.39,
+    0.51
+   ],
+   "cierre": "parcial",
+   "temperatura": "media",
+   "libido": "media",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H2": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 7,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   },
+   "H6": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ },
+ {
+  "cuerpo": "C16",
+  "nombre": "con perro",
+  "estatura": 1.74,
+  "exige": {
+   "largo": 1.99,
+   "ancho": 0.76,
+   "dos": 1.32,
+   "canto": [
+    0.4,
+    0.52
+   ],
+   "cierre": "abierto",
+   "temperatura": "media",
+   "libido": "media",
+   "movilidad": "plena"
+  },
+  "unidades": {
+   "H1": {
+    "ok": 6,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": false,
+     "seis_sentadas": false,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": false
+    }
+   },
+   "H2": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H3": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H4": {
+    "ok": 10,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": true,
+     "perro": true
+    }
+   },
+   "H5": {
+    "ok": 6,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": false,
+     "canto": false,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": false
+    }
+   },
+   "H6": {
+    "ok": 9,
+    "de": 10,
+    "detalle": {
+     "tumbada": true,
+     "dos": true,
+     "seis_sentadas": true,
+     "canto": true,
+     "cierre": true,
+     "sonido": true,
+     "temperatura": true,
+     "movilidad": true,
+     "vestirse_dentro": false,
+     "perro": true
+    }
+   }
+  }
+ }
+]

@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1190.551181pt" height="841.889764pt" viewBox="0 0 1190.551181 841.889764" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-25T22:06:52.418306</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 841.889764 
+L 1190.551181 841.889764 
+L 1190.551181 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 71.433071 666.819582 
+L 666.708661 666.819582 
+L 666.708661 175.070181 
+L 71.433071 175.070181 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 71.433071 666.819582 
+L 330.248545 666.819582 
+L 330.248545 505.059911 
+L 71.433071 505.059911 
+L 71.433071 666.819582 
+z
+" clip-path="url(#p63990db818)" style="fill: none; stroke: #d81b8a; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 71.433071 666.819582 
+L 634.356727 666.819582 
+L 634.356727 220.362889 
+L 71.433071 220.362889 
+L 71.433071 666.819582 
+z
+" clip-path="url(#p63990db818)" style="fill: none; stroke: #f4a6c6; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="PathCollection_1"/>
+   <g id="PathCollection_2"/>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mfc5beb2bfb" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfc5beb2bfb" x="71.433071" y="666.819582" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="71.433071" y="681.419582" transform="rotate(-0 71.433071 681.419582)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mfc5beb2bfb" x="200.840808" y="666.819582" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="200.840808" y="681.419582" transform="rotate(-0 200.840808 681.419582)">1</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mfc5beb2bfb" x="330.248545" y="666.819582" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="330.248545" y="681.419582" transform="rotate(-0 330.248545 681.419582)">2</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mfc5beb2bfb" x="459.656282" y="666.819582" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="459.656282" y="681.419582" transform="rotate(-0 459.656282 681.419582)">3</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mfc5beb2bfb" x="589.064019" y="666.819582" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="589.064019" y="681.419582" transform="rotate(-0 589.064019 681.419582)">4</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="369.070866" y="695.419582" transform="rotate(-0 369.070866 695.419582)">m</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path id="md0ab8c0aa5" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#md0ab8c0aa5" x="71.433071" y="666.819582" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="64.433071" y="670.619582" transform="rotate(-0 64.433071 670.619582)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#md0ab8c0aa5" x="71.433071" y="602.115714" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="64.433071" y="605.915714" transform="rotate(-0 64.433071 605.915714)">0.5</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#md0ab8c0aa5" x="71.433071" y="537.411845" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="64.433071" y="541.211845" transform="rotate(-0 64.433071 541.211845)">1.0</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#md0ab8c0aa5" x="71.433071" y="472.707977" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="64.433071" y="476.507977" transform="rotate(-0 64.433071 476.507977)">1.5</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#md0ab8c0aa5" x="71.433071" y="408.004108" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="64.433071" y="411.804108" transform="rotate(-0 64.433071 411.804108)">2.0</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#md0ab8c0aa5" x="71.433071" y="343.30024" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="64.433071" y="347.10024" transform="rotate(-0 64.433071 347.10024)">2.5</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#md0ab8c0aa5" x="71.433071" y="278.596371" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="64.433071" y="282.396371" transform="rotate(-0 64.433071 282.396371)">3.0</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#md0ab8c0aa5" x="71.433071" y="213.892503" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: end" x="64.433071" y="217.692503" transform="rotate(-0 64.433071 217.692503)">3.5</text>
+     </g>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="47.128071" y="420.944882" transform="rotate(-90 47.128071 420.944882)">m</text>
+    </g>
+   </g>
+   <g id="patch_5">
+    <path d="M 71.433071 666.819582 
+L 71.433071 175.070181 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 71.433071 666.819582 
+L 666.708661 666.819582 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #d81b8a" x="77.903458" y="498.589524" transform="rotate(-0 77.903458 498.589524)">colchón 2,00 × 1,25</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #d81b8a" x="77.903458" y="213.892503" transform="rotate(-0 77.903458 213.892503)">superficie 4,35 × 3,45</text>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="mb98e32a9b7" d="M 0 3.872983 
+C 1.027127 3.872983 2.012324 3.464901 2.738613 2.738613 
+C 3.464901 2.012324 3.872983 1.027127 3.872983 0 
+C 3.872983 -1.027127 3.464901 -2.012324 2.738613 -2.738613 
+C 2.012324 -3.464901 1.027127 -3.872983 0 -3.872983 
+C -1.027127 -3.872983 -2.012324 -3.464901 -2.738613 -2.738613 
+C -3.464901 -2.012324 -3.872983 -1.027127 -3.872983 0 
+C -3.872983 1.027127 -3.464901 2.012324 -2.738613 2.738613 
+C -2.012324 3.464901 -1.027127 3.872983 0 3.872983 
+z
+" style="stroke: #1f7a8c"/>
+    </defs>
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="352.24786" y="568.469702" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <defs>
+     <path id="m4b41cdb7e8" d="M -3.872983 3.872983 
+L 3.872983 3.872983 
+L 3.872983 -3.872983 
+L -3.872983 -3.872983 
+z
+" style="stroke: #f26a1b"/>
+    </defs>
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="352.24786" y="496.001369" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="356.130092" y="564.58747" transform="rotate(-0 356.130092 564.58747)">C01</text>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="305.661075" y="547.764464" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="305.661075" y="454.590894" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="309.543307" y="543.882232" transform="rotate(-0 309.543307 543.882232)">C02</text>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="339.307087" y="537.411845" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="339.307087" y="433.885656" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="343.189319" y="533.529613" transform="rotate(-0 343.189319 533.529613)">C03</text>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="316.013694" y="576.234166" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="316.013694" y="511.530298" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="319.895926" y="572.351934" transform="rotate(-0 319.895926 572.351934)">C04</text>
+   </g>
+   <g id="PathCollection_11">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="331.542622" y="573.646012" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_12">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="331.542622" y="506.353988" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="335.424855" y="569.76378" transform="rotate(-0 335.424855 569.76378)">C05</text>
+   </g>
+   <g id="PathCollection_13">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="323.778158" y="563.293393" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_14">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="323.778158" y="485.64875" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="327.66039" y="559.411161" transform="rotate(-0 327.66039 559.411161)">C06</text>
+   </g>
+   <g id="PathCollection_15">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="328.954468" y="571.057857" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_16">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="328.954468" y="501.177679" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="332.8367" y="567.175625" transform="rotate(-0 332.8367 567.175625)">C07</text>
+   </g>
+   <g id="PathCollection_17">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="321.190003" y="565.881547" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_18">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="321.190003" y="490.82506" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="325.072236" y="561.999315" transform="rotate(-0 325.072236 561.999315)">C08</text>
+   </g>
+   <g id="PathCollection_19">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="310.837384" y="568.469702" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_20">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="310.837384" y="496.001369" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="314.719617" y="564.58747" transform="rotate(-0 314.719617 564.58747)">C09</text>
+   </g>
+   <g id="PathCollection_21">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="336.718932" y="552.940774" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_22">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="336.718932" y="464.943512" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="340.601164" y="549.058542" transform="rotate(-0 340.601164 549.058542)">C10</text>
+   </g>
+   <g id="PathCollection_23">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="326.366313" y="568.469702" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_24">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="326.366313" y="496.001369" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="330.248545" y="564.58747" transform="rotate(-0 330.248545 564.58747)">C11</text>
+   </g>
+   <g id="PathCollection_25">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="318.601849" y="573.646012" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_26">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="318.601849" y="506.353988" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="322.484081" y="569.76378" transform="rotate(-0 322.484081 569.76378)">C12</text>
+   </g>
+   <g id="PathCollection_27">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="321.190003" y="560.705238" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_28">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="321.190003" y="480.472441" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="325.072236" y="556.823006" transform="rotate(-0 325.072236 556.823006)">C13</text>
+   </g>
+   <g id="PathCollection_29">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="295.308456" y="578.822321" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_30">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="295.308456" y="516.706607" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="299.190688" y="574.940089" transform="rotate(-0 299.190688 574.940089)">C14</text>
+   </g>
+   <g id="PathCollection_31">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="323.778158" y="571.057857" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_32">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="323.778158" y="501.177679" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="327.66039" y="567.175625" transform="rotate(-0 327.66039 567.175625)">C15</text>
+   </g>
+   <g id="PathCollection_33">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#mb98e32a9b7" x="328.954468" y="568.469702" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+    </g>
+   </g>
+   <g id="PathCollection_34">
+    <g clip-path="url(#p63990db818)">
+     <use xlink:href="#m4b41cdb7e8" x="328.954468" y="496.001369" style="fill: #f26a1b; stroke: #f26a1b"/>
+    </g>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 6px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #1f7a8c" x="332.8367" y="564.58747" transform="rotate(-0 332.8367 564.58747)">C16</text>
+   </g>
+   <g id="legend_1">
+    <g id="PathCollection_35">
+     <g>
+      <use xlink:href="#mb98e32a9b7" x="555.461161" y="641.119582" style="fill: #1f7a8c; stroke: #1f7a8c"/>
+     </g>
+    </g>
+    <g id="text_34">
+     <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="569.861161" y="643.219582" transform="rotate(-0 569.861161 643.219582)">una tumbada: largo × ancho</text>
+    </g>
+    <g id="PathCollection_36">
+     <g>
+      <use xlink:href="#m4b41cdb7e8" x="555.461161" y="655.119582" style="fill: #f26a1b; stroke: #f26a1b"/>
+     </g>
+    </g>
+    <g id="text_35">
+     <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="569.861161" y="657.219582" transform="rotate(-0 569.861161 657.219582)">dos cuerpos: largo × ancho</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 738.141732 757.700787 
+L 1154.834646 757.700787 
+L 1154.834646 84.188976 
+L 738.141732 84.188976 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mfc5beb2bfb" x="738.141732" y="757.700787" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="738.141732" y="772.300787" transform="rotate(-0 738.141732 772.300787)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mfc5beb2bfb" x="825.866556" y="757.700787" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="825.866556" y="772.300787" transform="rotate(-0 825.866556 772.300787)">0.2</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mfc5beb2bfb" x="913.59138" y="757.700787" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="913.59138" y="772.300787" transform="rotate(-0 913.59138 772.300787)">0.4</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mfc5beb2bfb" x="1001.316204" y="757.700787" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="1001.316204" y="772.300787" transform="rotate(-0 1001.316204 772.300787)">0.6</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mfc5beb2bfb" x="1089.041028" y="757.700787" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="1089.041028" y="772.300787" transform="rotate(-0 1089.041028 772.300787)">0.8</text>
+     </g>
+    </g>
+    <g id="text_41">
+     <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: middle" x="946.488189" y="786.300787" transform="rotate(-0 946.488189 786.300787)">altura de asiento cómoda (m) · 0,26 × estatura; con dolor o silla, ≥ 0,48</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="line2d_19">
+    <path d="M 935.522586 719.214398 
+L 988.15748 719.214398 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 926.750104 680.728009 
+L 979.384998 680.728009 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 922.363862 642.24162 
+L 974.998757 642.24162 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 904.818898 603.755231 
+L 957.453792 603.755231 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 917.977621 565.268841 
+L 970.612516 565.268841 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 909.205139 526.782452 
+L 961.840033 526.782452 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 913.59138 488.296063 
+L 966.226274 488.296063 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 926.750104 449.809674 
+L 979.384998 449.809674 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 926.750104 411.323285 
+L 979.384998 411.323285 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 922.363862 372.836895 
+L 974.998757 372.836895 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 913.59138 334.350506 
+L 966.226274 334.350506 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 904.818898 295.864117 
+L 957.453792 295.864117 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 926.750104 257.377728 
+L 979.384998 257.377728 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 882.887692 218.891339 
+L 935.522586 218.891339 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 909.205139 180.404949 
+L 961.840033 180.404949 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 913.59138 141.91856 
+L 966.226274 141.91856 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #7b2cbf; stroke-width: 4"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 935.522586 757.700787 
+L 935.522586 84.188976 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #2b2b2b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 1053.951098 757.700787 
+L 1053.951098 84.188976 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #2b2b2b"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 790.776627 757.700787 
+L 790.776627 84.188976 
+" clip-path="url(#p20c6046442)" style="fill: none; stroke: #bbbbbb; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 738.141732 757.700787 
+L 1154.834646 757.700787 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="992.543722" y="721.651898" transform="rotate(-0 992.543722 721.651898)">C01 alta y delgada</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="983.771239" y="683.165509" transform="rotate(-0 983.771239 683.165509)">C02 baja y gorda</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="979.384998" y="644.67912" transform="rotate(-0 979.384998 644.67912)">C03 gorda y alta</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="961.840033" y="606.192731" transform="rotate(-0 961.840033 606.192731)">C04 flaca y friolera</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="974.998757" y="567.706341" transform="rotate(-0 974.998757 567.706341)">C05 twink</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="966.226274" y="529.219952" transform="rotate(-0 966.226274 529.219952)">C06 peluda y calurosa</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="970.612516" y="490.733563" transform="rotate(-0 970.612516 490.733563)">C07 trans, en transición</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="983.771239" y="452.247174" transform="rotate(-0 983.771239 452.247174)">C08 con dolor crónico</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="983.771239" y="413.760785" transform="rotate(-0 983.771239 413.760785)">C09 silla de ruedas</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="979.384998" y="375.274395" transform="rotate(-0 979.384998 375.274395)">C10 muy musculada</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="970.612516" y="336.788006" transform="rotate(-0 970.612516 336.788006)">C11 pareja estable</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="961.840033" y="298.301617" transform="rotate(-0 961.840033 298.301617)">C12 con insomnio y ansiedad</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="983.771239" y="259.815228" transform="rotate(-0 983.771239 259.815228)">C13 embarazada</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="939.908827" y="221.328839" transform="rotate(-0 939.908827 221.328839)">C14 muy baja</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="966.226274" y="182.842449" transform="rotate(-0 966.226274 182.842449)">C15 sorda</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.5px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="970.612516" y="144.35606" transform="rotate(-0 970.612516 144.35606)">C16 con perro</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="936.399834" y="122.675366" transform="rotate(-0 936.399834 122.675366)">canto bajo 0,45</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start" x="1054.828346" y="122.675366" transform="rotate(-0 1054.828346 122.675366)">canto alto 0,72</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #777777" x="791.653875" y="122.675366" transform="rotate(-0 791.653875 122.675366)">colchón en el suelo 0,12 (H5)</text>
+   </g>
+  </g>
+  <g id="text_61">
+   <text style="font-size: 13px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #222222" x="35.716535" y="41.816142" transform="rotate(-0 35.716535 41.816142)">D10 · Lo que cada cuerpo exige de la superficie</text>
+  </g>
+  <g id="text_62">
+   <text style="font-size: 8px; font-family: 'Ibarra Real Nova'; text-anchor: start; fill: #555555" x="35.716535" y="62.322835" transform="rotate(-0 35.716535 62.322835)">largo y ancho para tumbarse (estatura + 0,25; anchura + 0,30) y para dos cuerpos; el colchón de 1,25 × 2,00 del proyecto y la superficie de 3,45 × 4,35; altura de canto para sentarse y levantarse</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p63990db818">
+   <rect x="71.433071" y="175.070181" width="595.275591" height="491.749401"/>
+  </clipPath>
+  <clipPath id="p20c6046442">
+   <rect x="738.141732" y="84.188976" width="416.692913" height="673.511811"/>
+  </clipPath>
+ </defs>
+</svg>
