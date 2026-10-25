@@ -1,0 +1,56 @@
+{
+ "camera_id": "F1_INTERIOR_DOSEL",
+ "escena": "SOL_FINAL_V006.blend (v006 build 12)",
+ "location": [
+  -50.0,
+  12.0,
+  1.6
+ ],
+ "target": [
+  -47.0,
+  17.0,
+  10.0
+ ],
+ "matrix_world": [
+  [
+   0.857492983341217,
+   -0.4226474463939667,
+   -0.29338538646698,
+   -50.0
+  ],
+  [
+   -0.5144957900047302,
+   -0.7044124007225037,
+   -0.4889756441116333,
+   12.0
+  ],
+  [
+   0.0,
+   0.5702387094497681,
+   -0.8214790225028992,
+   1.600000023841858
+  ],
+  [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "fov_vertical_deg": 70.0,
+ "focal_equiv_35mm_sensor24": 17.14,
+ "sensor_fit": "VERTICAL",
+ "clip_start": 0.10000000149011612,
+ "clip_end": 1200.0,
+ "resolucion": [
+  1920,
+  1200
+ ],
+ "aspect": 1.6,
+ "dof": {
+  "activo": true,
+  "fstop": 8.0
+ },
+ "luz": "tarde PSA (SUN_03D.json) en beauty/clay/ao; passes de datos sin luz",
+ "nota": "matrix_world transforma camara->mundo (Blender, Z-up, -Z mirada). depth.png codifica 0-250 m lineal invertido (cerca=1)."
+}

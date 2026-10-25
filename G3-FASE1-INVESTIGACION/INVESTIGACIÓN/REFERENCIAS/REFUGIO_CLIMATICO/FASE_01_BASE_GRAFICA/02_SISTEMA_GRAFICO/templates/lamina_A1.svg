@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="841mm" height="594mm" viewBox="0 0 841 594" font-family="Arial">
+  <!-- PLANTILLA DE LAMINA A1 APAISADA · REFUGIO CLIMATICO PUERTA DEL SOL · segun 02_MANUAL_GRAFICO -->
+  <rect width="841" height="594" fill="#FFFFFF"/>
+  <!-- campo de dibujo -->
+  <rect x="20" y="20" width="641" height="554" fill="none" stroke="#B5B1A9" stroke-width="0.13"/>
+  <!-- filete de columna -->
+  <line x1="671" y1="20" x2="671" y2="574" stroke="#B5B1A9" stroke-width="0.10"/>
+  <!-- columna tecnica -->
+  <text x="679" y="34" font-size="3.0" fill="#2E6E6B" font-family="Bahnschrift" letter-spacing="1.4">FASE XX · SERIE</text>
+  <text x="679" y="46" font-size="8.5" fill="#33322E" font-family="Bahnschrift" font-weight="600" letter-spacing="0.5">REFUGIO CLIMÁTICO</text>
+  <text x="679" y="56" font-size="5.2" fill="#33322E" font-family="Bahnschrift" letter-spacing="0.8">PUERTA DEL SOL · MADRID</text>
+  <text x="679" y="70" font-size="5.4" fill="#2E6E6B" font-family="Bahnschrift" letter-spacing="1.2">P.XX — TÍTULO DEL PLANO</text>
+  <text x="679" y="77" font-size="2.6" fill="#8a877f">subtítulo · sistema · escala</text>
+  <text x="679" y="96" font-size="3.0" fill="#2E6E6B" font-family="Bahnschrift" letter-spacing="1.4">LEYENDA</text>
+  <text x="679" y="300" font-size="3.0" fill="#2E6E6B" font-family="Bahnschrift" letter-spacing="1.4">DATOS</text>
+  <!-- norte -->
+  <g transform="translate(689 522)">
+    <circle r="8" fill="none" stroke="#33322E" stroke-width="0.45"/>
+    <path d="M 0 6.5 L 0 -6.5 M 0 -6.5 L -2.4 -2.6 M 0 -6.5 L 2.4 -2.6" stroke="#33322E" stroke-width="0.45" fill="none"/>
+    <text x="10" y="-6" font-size="4" fill="#33322E" font-family="Bahnschrift">N</text>
+  </g>
+  <!-- escala grafica 1:500 -->
+  <g transform="translate(679 542)">
+    <line x1="0" y1="0" x2="80" y2="0" stroke="#33322E" stroke-width="0.4"/>
+    <rect x="0" y="-1.6" width="20" height="3.2" fill="#33322E"/>
+    <rect x="40" y="-1.6" width="20" height="3.2" fill="#33322E"/>
+    <text x="-1" y="7" font-size="2.6" fill="#33322E">0</text>
+    <text x="18" y="7" font-size="2.6" fill="#33322E">10</text>
+    <text x="38" y="7" font-size="2.6" fill="#33322E">20</text>
+    <text x="74" y="7" font-size="2.6" fill="#33322E">40 m</text>
+  </g>
+  <text x="679" y="568" font-size="2.6" fill="#8a877f">FASE XX · fecha · fuente: geometria_maestra.json (1 u = 1 m)</text>
+  <text x="807" y="568" font-size="5" fill="#33322E" font-family="Bahnschrift">P.XX</text>
+</svg>

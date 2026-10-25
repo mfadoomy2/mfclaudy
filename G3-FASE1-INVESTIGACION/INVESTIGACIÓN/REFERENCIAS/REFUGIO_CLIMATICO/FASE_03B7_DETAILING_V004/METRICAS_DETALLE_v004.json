@@ -1,0 +1,242 @@
+{
+ "v003": {
+  "objetos": 7997,
+  "tris": 531194,
+  "lineas": 207,
+  "familias": 30,
+  "por_capa": {
+   "00_CONTEXT": {
+    "n": 88,
+    "tris": 10344
+   },
+   "01_GROUND": {
+    "n": 1,
+    "tris": 12
+   },
+   "02_PRIMARY_STRUCTURE": {
+    "n": 170,
+    "tris": 33290
+   },
+   "03_SECONDARY_STRUCTURE": {
+    "n": 3769,
+    "tris": 270284
+   },
+   "04_MASTS": {
+    "n": 460,
+    "tris": 12264
+   },
+   "06_MEMBRANES": {
+    "n": 7,
+    "tris": 608
+   },
+   "07_CANOPIES": {
+    "n": 94,
+    "tris": 26320
+   },
+   "08_PINK_MODULES": {
+    "n": 96,
+    "tris": 18432
+   },
+   "09_PLANTERS": {
+    "n": 122,
+    "tris": 5748
+   },
+   "10_FURNITURE": {
+    "n": 101,
+    "tris": 1830
+   },
+   "11_WATER": {
+    "n": 107,
+    "tris": 2746
+   },
+   "12_MIST": {
+    "n": 50,
+    "tris": 2400
+   },
+   "13_PIPES": {
+    "n": 328,
+    "tris": 13484
+   },
+   "15_VEGETATION_FULL": {
+    "n": 2584,
+    "tris": 131832
+   },
+   "16_PEOPLE_PROXY": {
+    "n": 20,
+    "tris": 1600
+   }
+  }
+ },
+ "v004": {
+  "objetos": 16529,
+  "tris": 743150,
+  "lineas": 213,
+  "familias": 30,
+  "por_capa": {
+   "00_CONTEXT": {
+    "n": 163,
+    "tris": 13750
+   },
+   "01_GROUND": {
+    "n": 1,
+    "tris": 12
+   },
+   "02_PRIMARY_STRUCTURE": {
+    "n": 156,
+    "tris": 73940
+   },
+   "03_SECONDARY_STRUCTURE": {
+    "n": 4103,
+    "tris": 320892
+   },
+   "04_MASTS": {
+    "n": 666,
+    "tris": 21432
+   },
+   "05_CABLES": {
+    "n": 294,
+    "tris": 4752
+   },
+   "06_MEMBRANES": {
+    "n": 7,
+    "tris": 604
+   },
+   "07_CANOPIES": {
+    "n": 94,
+    "tris": 26320
+   },
+   "08_PINK_MODULES": {
+    "n": 102,
+    "tris": 18540
+   },
+   "09_PLANTERS": {
+    "n": 124,
+    "tris": 5676
+   },
+   "10_FURNITURE": {
+    "n": 129,
+    "tris": 2418
+   },
+   "11_WATER": {
+    "n": 113,
+    "tris": 2842
+   },
+   "12_MIST": {
+    "n": 332,
+    "tris": 9168
+   },
+   "13_PIPES": {
+    "n": 630,
+    "tris": 23372
+   },
+   "15_VEGETATION_FULL": {
+    "n": 6129,
+    "tris": 68460
+   },
+   "16_PEOPLE_PROXY": {
+    "n": 20,
+    "tris": 1600
+   },
+   "19_DETALLE": {
+    "n": 3466,
+    "tris": 149372
+   }
+  },
+  "por_familia_top40": {
+   "?": 4133,
+   "MAST": 2050,
+   "VEG2_TREPADORA": 1584,
+   "VEG2_COLGANTE": 1080,
+   "VEG2_BAJA": 816,
+   "STAIR_SB": 708,
+   "VEG2_HUERTO": 580,
+   "LEAF_OV": 561,
+   "LEAF_M2": 528,
+   "LEAF_MT": 495,
+   "VEG2_ARBOL_EX": 490,
+   "LEAF_M1": 462,
+   "VEG2_ARBOL_B": 385,
+   "VEG2_TROPICAL": 360,
+   "LEAF_L1": 350,
+   "LEAF_LT": 315,
+   "VEG2_ARBOL_A": 310,
+   "NEB_POST": 252,
+   "LEAF_S1": 186,
+   "LEAF_XL": 175,
+   "POD_TRAIN": 120,
+   "VEG2_ACUATICA": 120,
+   "LIFT_TOWER": 87,
+   "DROP_TANK": 78,
+   "NURSERY": 75,
+   "POD_S": 69,
+   "LEAF_S2": 64,
+   "POD_M": 48,
+   "TOTEM": 28,
+   "PERSON": 20
+  }
+ },
+ "delta": {
+  "objetos": 8532,
+  "tris": 211956,
+  "familias": 0
+ },
+ "piezas_por_bloque": {
+  "AQUATIC": 5,
+  "CLIMBER": 5,
+  "DROP_TANK": 13,
+  "LEAF_L1": 35,
+  "LEAF_LT": 35,
+  "LEAF_M1": 33,
+  "LEAF_M2": 33,
+  "LEAF_MT": 33,
+  "LEAF_OV": 33,
+  "LEAF_S1": 31,
+  "LEAF_S2": 32,
+  "LEAF_XL": 35,
+  "LIFT_TOWER": 29,
+  "MAST_1": 21,
+  "MAST_2": 23,
+  "MAST_3": 25,
+  "NEB_POST": 6,
+  "NURSERY": 25,
+  "PERSON": 1,
+  "POD_L": 24,
+  "POD_M": 24,
+  "POD_S": 23,
+  "POD_TRAIN": 12,
+  "SHRUB": 2,
+  "STAIR_SB": 118,
+  "TOTEM": 4,
+  "TREE_A": 7,
+  "TREE_B": 6,
+  "TREE_EX": 7,
+  "TROPICAL": 12,
+  "VEG2_ACUATICA": 10,
+  "VEG2_ARBOL_A": 31,
+  "VEG2_ARBOL_B": 35,
+  "VEG2_ARBOL_EX": 35,
+  "VEG2_BAJA": 24,
+  "VEG2_COLGANTE": 36,
+  "VEG2_HUERTO": 29,
+  "VEG2_TREPADORA": 36,
+  "VEG2_TROPICAL": 15
+ },
+ "conexiones_lod_bc": {
+  "PLETINA": 1468,
+  "JUNTA": 116,
+  "LUMINARIA": 42,
+  "MANGUITO": 42,
+  "SUMIDERO": 23,
+  "ALCORQUE": 22,
+  "MECHINAL": 21,
+  "REGISTRO": 19,
+  "PENDOLA": 12,
+  "VERJA": 11,
+  "GARGOLA": 6,
+  "APRON": 3,
+  "FASCIA": 2,
+  "GOTERON": 2,
+  "CANALETA": 2,
+  "LED": 1
+ }
+}

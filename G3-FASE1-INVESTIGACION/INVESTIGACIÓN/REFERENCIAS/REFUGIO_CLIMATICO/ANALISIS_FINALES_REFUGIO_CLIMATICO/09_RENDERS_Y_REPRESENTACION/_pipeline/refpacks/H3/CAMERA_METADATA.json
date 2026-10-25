@@ -1,0 +1,56 @@
+{
+ "camera_id": "H3",
+ "escena": "SOL_FINAL_V006.blend (v006 build 12)",
+ "location": [
+  24.0,
+  -10.0,
+  1.65
+ ],
+ "target": [
+  14.0,
+  -1.0,
+  1.2
+ ],
+ "matrix_world": [
+  [
+   0.6689647436141968,
+   -0.024847978726029396,
+   0.742878794670105,
+   24.0
+  ],
+  [
+   0.7432941794395447,
+   0.02236318029463291,
+   -0.6685909032821655,
+   -10.0
+  ],
+  [
+   0.0,
+   0.9994410872459412,
+   0.03342954069375992,
+   1.649999976158142
+  ],
+  [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "fov_vertical_deg": 66.0,
+ "focal_equiv_35mm_sensor24": 18.48,
+ "sensor_fit": "VERTICAL",
+ "clip_start": 0.10000000149011612,
+ "clip_end": 1200.0,
+ "resolucion": [
+  1920,
+  1200
+ ],
+ "aspect": 1.6,
+ "dof": {
+  "activo": true,
+  "fstop": 8.0
+ },
+ "luz": "tarde PSA (SUN_03D.json) en beauty/clay/ao; passes de datos sin luz",
+ "nota": "matrix_world transforma camara->mundo (Blender, Z-up, -Z mirada). depth.png codifica 0-250 m lineal invertido (cerca=1)."
+}

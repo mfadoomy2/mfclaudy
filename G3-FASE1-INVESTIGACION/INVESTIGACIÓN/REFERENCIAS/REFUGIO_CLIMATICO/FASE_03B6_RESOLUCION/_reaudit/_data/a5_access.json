@@ -1,0 +1,125 @@
+{
+ "rows": [
+  {
+   "id": "eje-mayor-alcala",
+   "long": 192.5,
+   "pend_pct": 0.0,
+   "w_min": 2.0,
+   "w_transv_min": 12.25,
+   "w_p05": 3.399459951170448,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "cambios_nivel": 0,
+   "bloqueos": 0,
+   "veredicto": "APTO"
+  },
+  {
+   "id": "preciados-carretas",
+   "long": 93.5,
+   "pend_pct": 0.0,
+   "w_min": 3.8078865529319543,
+   "w_transv_min": 7.5,
+   "w_p05": 5.067944851537014,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "cambios_nivel": 0,
+   "bloqueos": 0,
+   "veredicto": "APTO"
+  },
+  {
+   "id": "carmen-correos",
+   "long": 101.5,
+   "pend_pct": 0.0,
+   "w_min": 3.605551275463989,
+   "w_transv_min": 7.5,
+   "w_p05": 4.625854979253722,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "cambios_nivel": 0,
+   "bloqueos": 0,
+   "veredicto": "APTO"
+  },
+  {
+   "id": "montera-espozymina",
+   "long": 89.5,
+   "pend_pct": 0.0,
+   "w_min": 2.0,
+   "w_transv_min": 2.0,
+   "w_p05": 4.006349125738448,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "cambios_nivel": 0,
+   "bloqueos": 0,
+   "veredicto": "APTO"
+  },
+  {
+   "id": "arenal-alcala",
+   "long": 192.0,
+   "pend_pct": 0.0,
+   "w_min": 5.0990195135927845,
+   "w_transv_min": 32.5,
+   "w_p05": 8.055294535724686,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "cambios_nivel": 0,
+   "bloqueos": 0,
+   "veredicto": "APTO"
+  },
+  {
+   "id": "CINTA +6.00",
+   "long": 527.0,
+   "pend_pct": 0.0,
+   "w_min": 2.31,
+   "w_transv_min": 2.31,
+   "w_p05": 2.31,
+   "pct_w_ge_180": 100.0,
+   "pct_giro_ge_150": 100.0,
+   "bloqueos": 0,
+   "cambios_nivel": 1,
+   "veredicto": "APTO CON ASCENSOR (3 uds)"
+  }
+ ],
+ "edges": [
+  {
+   "tipo": "estanque",
+   "id": "E-1",
+   "x": -38,
+   "y": 13.0,
+   "borde": 0.6,
+   "proteccion": "bordillo 0.60 sin barandilla"
+  },
+  {
+   "tipo": "estanque",
+   "id": "E-2",
+   "x": -9,
+   "y": 21.0,
+   "borde": 0.6,
+   "proteccion": "bordillo 0.60 sin barandilla"
+  },
+  {
+   "tipo": "estanque",
+   "id": "E-3",
+   "x": 10.4,
+   "y": 20.4,
+   "borde": 0.6,
+   "proteccion": "bordillo 0.60 sin barandilla"
+  },
+  {
+   "tipo": "estanque",
+   "id": "E-4",
+   "x": 48,
+   "y": 1.0,
+   "borde": 0.6,
+   "proteccion": "bordillo 0.60 sin barandilla"
+  },
+  {
+   "tipo": "cinta",
+   "id": "RIBBON",
+   "x": -81.0,
+   "y": -7.0,
+   "borde": 6.0,
+   "proteccion": "barandilla 1.05 + travesano 0.55 + rodapie 0.10"
+  }
+ ],
+ "turn": 1.5
+}

@@ -1,0 +1,67 @@
+[
+ {
+  "id": "CL-001",
+  "sev": "YELLOW",
+  "cat": "INVIERNO",
+  "title": "El dosel bloquea el 43 % de la radiacion de invierno",
+  "magnitud": "21 dic: 2.32 -> 1.32 kWh/m2·dia sobre el suelo del ambito",
+  "causa": "El dosel es fijo: la lamina de microalgas y la membrana no son estacionales, a diferencia de un arbolado caduco.",
+  "estrategias": "Evaluar desmontaje estacional de una fraccion de discos · sustituir membrana por caduca en los discos sobre las zonas de estancia de invierno · aceptar y documentar la perdida.",
+  "x": null,
+  "y": null,
+  "metric": 43.1,
+  "tipo": ""
+ },
+ {
+  "id": "CL-002",
+  "sev": "RED",
+  "cat": "HOTSPOT",
+  "title": "Quedan 5707 m2 de suelo pisable en estres termico muy fuerte",
+  "magnitud": "17 zonas con UTCI>=38 C en E2 16:00; la mayor de 2636 m2 en (-22, -11) con UTCI 40.7",
+  "causa": "Zonas sin dosel, sin agua y sin nebulizacion: el proyecto no llega a ellas.",
+  "estrategias": "No corregir todavia; identificadas para decidir si se amplia dosel, se anaden puntos de niebla o se aceptan como zonas de paso.",
+  "x": -21.8,
+  "y": -11.2,
+  "metric": 5707.0,
+  "tipo": ""
+ },
+ {
+  "id": "CL-003",
+  "sev": "YELLOW",
+  "cat": "AGUA",
+  "title": "La mayor parte de la potencia evaporativa del agua esta en altura, no sobre el peaton",
+  "magnitud": "Balsas + laminas de microalgas: 1152.8 kW en altura frente a 213.9 kW a nivel de suelo (84 % del total)",
+  "causa": "La lamina de microalgas de los 67 discos suma 1108 m2, muy por encima de los 399 m2 de agua a nivel de suelo.",
+  "estrategias": "El agua en altura SI aporta: enfria la cara inferior del dosel y por tanto la carga radiante sobre el peaton. Pero no debe contabilizarse como enfriamiento del aire a nivel de calle.",
+  "x": null,
+  "y": null,
+  "metric": 1152.83,
+  "tipo": ""
+ },
+ {
+  "id": "CL-004",
+  "sev": "RED",
+  "cat": "CINTA",
+  "title": "El recorrido elevado es MAS calido que la plaza que sobrevuela",
+  "magnitud": "Cinta +6.00: solo 24 % del desarrollo en sombra - MRT 56.5 C - UTCI 37.9, frente a la plaza en estado B: MRT 54.6 C - UTCI 37.5. El viento ayuda (2.45 frente a 1.00 m/s) pero no compensa.",
+  "causa": "La cinta va a +6.00, por ENCIMA de la capa baja del dosel (discos a 4.2-5.6) y solo por debajo de la capa alta: en la mayor parte de su desarrollo esta al descubierto.",
+  "estrategias": "No corregir todavia. A valorar: discos propios sobre la cinta, bajar tramos bajo la capa media, o aceptarla como recorrido de manana y tarde y no de mediodia.",
+  "x": null,
+  "y": null,
+  "metric": 37.93387096774193,
+  "tipo": ""
+ },
+ {
+  "id": "CL-005",
+  "sev": "YELLOW",
+  "cat": "AGUA",
+  "title": "Las laminas finas se evaporan mas rapido de lo que su calado admite",
+  "magnitud": "LAMINA MICROALGAS DISCOS x94: 11.1 mm/dia = 37 % de su calado cada dia de verano. Evaporacion total 24.4 m3/dia frente a 99.8 m3 en los depositos de +10.50: 4.08 dias de autonomia sin reposicion.",
+  "causa": "Mucha superficie de agua con muy poco calado: la lamina de microalgas suma 1108 m2 a 3 cm.",
+  "estrategias": "Dimensionar reposicion continua o recirculacion. Es un requisito de instalacion, no un defecto geometrico, pero condiciona el funcionamiento climatico real del dosel.",
+  "x": null,
+  "y": null,
+  "metric": 37.1,
+  "tipo": ""
+ }
+]

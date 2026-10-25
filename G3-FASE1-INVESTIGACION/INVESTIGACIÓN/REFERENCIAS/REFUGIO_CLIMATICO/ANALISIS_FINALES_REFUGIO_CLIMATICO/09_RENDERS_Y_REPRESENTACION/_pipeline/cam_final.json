@@ -1,0 +1,77 @@
+[
+ {
+  "id": "F1_INTERIOR_DOSEL",
+  "fov": 70,
+  "cam": [
+   -50,
+   12,
+   1.6
+  ],
+  "tgt": [
+   -47,
+   17,
+   10.0
+  ],
+  "nota": "mirando hacia arriba dentro del dosel C1"
+ },
+ {
+  "id": "F2_HUERTO",
+  "fov": 60,
+  "cam": [
+   -54,
+   4,
+   1.5
+  ],
+  "tgt": [
+   -56.5,
+   6.2,
+   0.8
+  ],
+  "nota": "huerto con maiz por fases y linea de goteo"
+ },
+ {
+  "id": "F3_ATRIO_ESTACION",
+  "fov": 65,
+  "cam": [
+   50,
+   6,
+   1.65
+  ],
+  "tgt": [
+   57,
+   -2,
+   2.5
+  ],
+  "nota": "atrio del Metro con marquesina volada"
+ },
+ {
+  "id": "F4_CARLOS_III",
+  "fov": 55,
+  "cam": [
+   -22,
+   -8,
+   1.65
+  ],
+  "tgt": [
+   -28,
+   -14,
+   4.0
+  ],
+  "nota": "estatua con el refugio detras"
+ },
+ {
+  "id": "F5_DETALLE_NUDO",
+  "fov": 42,
+  "cam": [
+   -1.6,
+   3.2,
+   8.1
+  ],
+  "tgt": [
+   0.1,
+   5.1,
+   9.2
+  ],
+  "nota": "nudo mastil-hoja CERCANO: brazos, cables y borde de hoja llenando el encuadre"
+ }
+]

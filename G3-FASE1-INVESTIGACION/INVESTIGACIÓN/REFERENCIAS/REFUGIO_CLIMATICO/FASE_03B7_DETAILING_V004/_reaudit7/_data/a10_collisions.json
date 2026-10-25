@@ -1,0 +1,1514 @@
+{
+ "pairs": [
+  {
+   "a": "RIBBON",
+   "b": "STRUCTURE",
+   "voxels": 13873,
+   "vol": 110.98400000000002,
+   "intencionado": true
+  },
+  {
+   "a": "DETAIL",
+   "b": "RIBBON",
+   "voxels": 12186,
+   "vol": 97.48800000000003,
+   "intencionado": false
+  },
+  {
+   "a": "DETAIL",
+   "b": "STRUCTURE",
+   "voxels": 12121,
+   "vol": 96.96800000000002,
+   "intencionado": false
+  },
+  {
+   "a": "CANOPY",
+   "b": "STRUCTURE",
+   "voxels": 1653,
+   "vol": 13.224000000000004,
+   "intencionado": true
+  },
+  {
+   "a": "STRUCTURE",
+   "b": "WATER",
+   "voxels": 1016,
+   "vol": 8.128000000000002,
+   "intencionado": true
+  },
+  {
+   "a": "PLANTER",
+   "b": "VEGETATION",
+   "voxels": 617,
+   "vol": 4.936000000000001,
+   "intencionado": true
+  },
+  {
+   "a": "PLANTER",
+   "b": "WATER",
+   "voxels": 565,
+   "vol": 4.520000000000001,
+   "intencionado": true
+  },
+  {
+   "a": "STRUCTURE",
+   "b": "VEGETATION",
+   "voxels": 526,
+   "vol": 4.208000000000001,
+   "intencionado": true
+  },
+  {
+   "a": "DETAIL",
+   "b": "FURNITURE",
+   "voxels": 381,
+   "vol": 3.048000000000001,
+   "intencionado": false
+  },
+  {
+   "a": "VEGETATION",
+   "b": "WATER",
+   "voxels": 379,
+   "vol": 3.032000000000001,
+   "intencionado": true
+  },
+  {
+   "a": "PODS",
+   "b": "STRUCTURE",
+   "voxels": 357,
+   "vol": 2.8560000000000008,
+   "intencionado": true
+  },
+  {
+   "a": "DETAIL",
+   "b": "PLANTER",
+   "voxels": 296,
+   "vol": 2.3680000000000008,
+   "intencionado": false
+  },
+  {
+   "a": "DETAIL",
+   "b": "WATER",
+   "voxels": 207,
+   "vol": 1.6560000000000004,
+   "intencionado": false
+  },
+  {
+   "a": "CANOPY",
+   "b": "PODS",
+   "voxels": 152,
+   "vol": 1.2160000000000002,
+   "intencionado": false
+  },
+  {
+   "a": "DETAIL",
+   "b": "VEGETATION",
+   "voxels": 149,
+   "vol": 1.1920000000000004,
+   "intencionado": false
+  },
+  {
+   "a": "PODS",
+   "b": "VEGETATION",
+   "voxels": 126,
+   "vol": 1.0080000000000002,
+   "intencionado": false
+  },
+  {
+   "a": "PLANTER",
+   "b": "STRUCTURE",
+   "voxels": 116,
+   "vol": 0.9280000000000003,
+   "intencionado": true
+  },
+  {
+   "a": "FURNITURE",
+   "b": "VEGETATION",
+   "voxels": 103,
+   "vol": 0.8240000000000002,
+   "intencionado": true
+  },
+  {
+   "a": "CANOPY",
+   "b": "WATER",
+   "voxels": 86,
+   "vol": 0.6880000000000002,
+   "intencionado": true
+  },
+  {
+   "a": "CANOPY",
+   "b": "DETAIL",
+   "voxels": 50,
+   "vol": 0.4000000000000001,
+   "intencionado": false
+  },
+  {
+   "a": "FURNITURE",
+   "b": "WATER",
+   "voxels": 35,
+   "vol": 0.2800000000000001,
+   "intencionado": false
+  },
+  {
+   "a": "CANOPY",
+   "b": "RIBBON",
+   "voxels": 28,
+   "vol": 0.22400000000000006,
+   "intencionado": false
+  },
+  {
+   "a": "PODS",
+   "b": "WATER",
+   "voxels": 17,
+   "vol": 0.13600000000000004,
+   "intencionado": false
+  },
+  {
+   "a": "RIBBON",
+   "b": "WATER",
+   "voxels": 17,
+   "vol": 0.13600000000000004,
+   "intencionado": false
+  },
+  {
+   "a": "DETAIL",
+   "b": "PODS",
+   "voxels": 13,
+   "vol": 0.10400000000000002,
+   "intencionado": false
+  },
+  {
+   "a": "PODS",
+   "b": "RIBBON",
+   "voxels": 11,
+   "vol": 0.08800000000000002,
+   "intencionado": false
+  },
+  {
+   "a": "PLANTER",
+   "b": "RIBBON",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "intencionado": false
+  },
+  {
+   "a": "FURNITURE",
+   "b": "STRUCTURE",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "intencionado": true
+  },
+  {
+   "a": "CABLE",
+   "b": "STRUCTURE",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "intencionado": false
+  },
+  {
+   "a": "FURNITURE",
+   "b": "PLANTER",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "intencionado": false
+  },
+  {
+   "a": "RIBBON",
+   "b": "VEGETATION",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "intencionado": false
+  },
+  {
+   "a": "CANOPY",
+   "b": "VEGETATION",
+   "voxels": 3,
+   "vol": 0.024000000000000007,
+   "intencionado": false
+  },
+  {
+   "a": "CABLE",
+   "b": "WATER",
+   "voxels": 2,
+   "vol": 0.016000000000000004,
+   "intencionado": false
+  },
+  {
+   "a": "CANOPY",
+   "b": "PLANTER",
+   "voxels": 2,
+   "vol": 0.016000000000000004,
+   "intencionado": false
+  },
+  {
+   "a": "CABLE",
+   "b": "CANOPY",
+   "voxels": 1,
+   "vol": 0.008000000000000002,
+   "intencionado": false
+  },
+  {
+   "a": "PLANTER",
+   "b": "PODS",
+   "voxels": 1,
+   "vol": 0.008000000000000002,
+   "intencionado": false
+  }
+ ],
+ "hot": [
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "DECK_CANALETA",
+   "b": "MAST_3",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 35.42562392509958,
+   "y": -4.7628745192657576,
+   "z": 5.9975000000000005
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_HUERTO",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": -58.96019065996596,
+   "y": 11.031570713448007,
+   "z": 1.2999999999999998
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_HUERTO",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": -53.46019065996596,
+   "y": 15.231570713448008,
+   "z": 1.2999999999999998
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_BAJA",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -61.93810843566966,
+   "y": 9.339818634385082,
+   "z": 0.35900000000000004
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_HUERTO",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -59.11256403114767,
+   "y": 10.982761331617056,
+   "z": 0.6
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_HUERTO",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -59.11256403114767,
+   "y": 10.982761331617056,
+   "z": 0.6
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_HUERTO",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -59.036377345556815,
+   "y": 11.00716602253253,
+   "z": 0.95
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_HUERTO",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -53.73588641894877,
+   "y": 15.4,
+   "z": 0.13
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_HUERTO",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -53.61256403114767,
+   "y": 15.182761331617058,
+   "z": 0.6
+  },
+  {
+   "pair": "PODS×WATER",
+   "a": "POD_M",
+   "b": "NEB_POST",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -53.543580886662554,
+   "y": 21.76518875470815,
+   "z": 1.9249999999999998
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "BALPOST",
+   "b": "RIBNEB",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 34.463422533872844,
+   "y": -2.9417760315738315,
+   "z": 6.525
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -79.40924909260788,
+   "y": -4.399778210150384,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -68.19273141158581,
+   "y": 0.22253736591167034,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -64.99073939557309,
+   "y": -7.410506967392456,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -58.212298320299205,
+   "y": -8.396717469664097,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -54.190697320527875,
+   "y": -11.999893429212875,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -51.8082751760008,
+   "y": -12.176624170774517,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -51.78998695711455,
+   "y": 26.61784782903179,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -45.40125629745826,
+   "y": 24.810347763354958,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -42.80878864932249,
+   "y": -7.014907871585535,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -39.19034028746747,
+   "y": 24.399210983016115,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -10.996406468907374,
+   "y": 32.40953809458072,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -10.997357534571773,
+   "y": 32.40953809458072,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -11.007515048011882,
+   "y": 32.40953809458072,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -7.790758447885335,
+   "y": 0.1918190986735347,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -6.212485218558896,
+   "y": -1.4063076997738804,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -5.996741552114666,
+   "y": 1.786028425483967,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -4.597464146850373,
+   "y": 21.011520617408156,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -4.391573339280075,
+   "y": 29.405026493047718,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -3.012942926820364,
+   "y": 29.60546859196199,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -1.987948675264621,
+   "y": 23.61387490064802,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "RAIL_MANGUITO",
+   "b": "RIBBON_RAIL",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -1.387027582216248,
+   "y": 26.630333117034112,
+   "z": 7.05
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 3.8088652966196177,
+   "y": 29.610979180657957,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 5.215444410879308,
+   "y": 29.405006462910816,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 7.988894514624818,
+   "y": 23.613255374597724,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 13.401046145743834,
+   "y": 29.599401346641603,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 18.208665244055602,
+   "y": 23.595905357917577,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 24.006587700099114,
+   "y": 1.017623141221863,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 33.398126425766044,
+   "y": -5.811235875080225,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 36.19397828340493,
+   "y": 1.4007893393954969,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 38.20763296140982,
+   "y": 17.985544629565183,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 38.78514013295997,
+   "y": 7.415585292495171,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "RAIL_MANGUITO",
+   "b": "RIBBON_RAIL",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 40.77803944697217,
+   "y": 11.032898656056663,
+   "z": 7.05
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 43.17916381388229,
+   "y": 17.207498766580024,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 43.40163790589525,
+   "y": 10.189016234637876,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 54.41140224333866,
+   "y": 20.594687178270004,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 67.00960376239817,
+   "y": 17.789527310692506,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 71.19657644716638,
+   "y": 4.608308378717879,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 71.39067667276936,
+   "y": 11.416307654022479,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 71.80886046701785,
+   "y": 5.616670564026506,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 71.99182229422226,
+   "y": 1.6106396335709376,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×RIBBON",
+   "a": "BALPOST_PLETINA",
+   "b": "BALPOST",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 74.80237976502863,
+   "y": 10.391026370067138,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -82.15318809061019,
+   "y": -6.631551233819611,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -79.64446133090631,
+   "y": -6.183824364452894,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -71.5573247151612,
+   "y": 4.1938651758092025,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -65.03554336018611,
+   "y": -4.244592860111826,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -62.963383057988764,
+   "y": -8.749970229965434,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -51.02497491735176,
+   "y": -12.147244486702913,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -50.64663849977158,
+   "y": 24.348575074368846,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -34.55411852870079,
+   "y": 1.576982456329703,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -32.44838147129921,
+   "y": 0.4255175436702969,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -13.038358555802901,
+   "y": 27.450909658968992,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -9.766392711033161,
+   "y": 30.751216782131916,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 22.94956230964748,
+   "y": 23.361693090259273,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 24.34915603576222,
+   "y": 26.147035205883572,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 25.24787496553464,
+   "y": 10.587251237520682,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 33.4541931012402,
+   "y": -6.996406792613693,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 33.4541931012402,
+   "y": -6.996406792613693,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 33.45360022887019,
+   "y": -6.98390257535524,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 33.45360022887019,
+   "y": -6.98390257535524,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 33.4459131517546,
+   "y": -6.821775130735822,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 41.001988947104984,
+   "y": 10.227389696299637,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 41.18485986704003,
+   "y": 7.449588469583579,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 41.441920682980594,
+   "y": 13.360750084751206,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 55.17768776634367,
+   "y": 22.946545916038545,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 56.56201854602969,
+   "y": 22.74504063296593,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×STRUCTURE",
+   "a": "BALPOST_PLETINA",
+   "b": "DECK_FASCIA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": 69.36148633773412,
+   "y": -1.3480306711277505,
+   "z": 6.007999999999999
+  },
+  {
+   "pair": "DETAIL×VEGETATION",
+   "a": "MAST_1",
+   "b": "VEG2_TREPADORA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -12.599741502539251,
+   "y": 15.993840679389677,
+   "z": 0.0575
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_BAJA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -61.922626690131466,
+   "y": 8.833873982517002,
+   "z": 0.169
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_BAJA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -61.54703763353362,
+   "y": 9.417489398209986,
+   "z": 0.2915
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_BAJA",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -59.18489237545986,
+   "y": 11.645341918498698,
+   "z": 0.35900000000000004
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_HUERTO",
+   "voxels": 4,
+   "vol": 0.03200000000000001,
+   "x": -59.06795795212289,
+   "y": 11.2,
+   "z": 0.13
+  }
+ ],
+ "vs_circ": [
+  {
+   "fam": "STRUCTURE",
+   "celdas": 804,
+   "area": 50.25,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "CANOPY",
+   "celdas": 0,
+   "area": 0.0,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "VEGETATION",
+   "celdas": 3162,
+   "area": 197.625,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "PODS",
+   "celdas": 2100,
+   "area": 131.25,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "PLANTER",
+   "celdas": 4357,
+   "area": 272.3125,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "FURNITURE",
+   "celdas": 542,
+   "area": 33.875,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "WATER",
+   "celdas": 4926,
+   "area": 307.875,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "RIBBON",
+   "celdas": 0,
+   "area": 0.0,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "CABLE",
+   "celdas": 0,
+   "area": 0.0,
+   "nota": "muestras de cable < 3.0 m sobre suelo pisable"
+  }
+ ]
+}

@@ -1,0 +1,2069 @@
+{
+ "penetraciones": [
+  {
+   "edificio": 71,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_B",
+   "n_mallas": 10,
+   "n_pts": 424,
+   "max_dep": 10.57,
+   "ejemplo": [
+    58.0,
+    38.5,
+    5.8
+   ],
+   "z": [
+    0.0,
+    6.7
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "08_PINK_MODULES",
+   "fam": "POD_TRAIN",
+   "n_mallas": 10,
+   "n_pts": 973,
+   "max_dep": 10.09,
+   "ejemplo": [
+    -71.8,
+    21.8,
+    1.5
+   ],
+   "z": [
+    0.3,
+    2.7
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "13_PIPES",
+   "fam": "POD_TRAIN",
+   "n_mallas": 3,
+   "n_pts": 42,
+   "max_dep": 9.99,
+   "ejemplo": [
+    -71.0,
+    22.3,
+    1.5
+   ],
+   "z": [
+    1.4,
+    1.6
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "POD_TRAIN",
+   "n_mallas": 4,
+   "n_pts": 26,
+   "max_dep": 9.83,
+   "ejemplo": [
+    -72.2,
+    21.2,
+    0.0
+   ],
+   "z": [
+    0.0,
+    0.3
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "08_PINK_MODULES",
+   "fam": "",
+   "n_mallas": 2,
+   "n_pts": 324,
+   "max_dep": 9.14,
+   "ejemplo": [
+    -72.5,
+    20.0,
+    10.5
+   ],
+   "z": [
+    9.7,
+    11.3
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "",
+   "n_mallas": 160,
+   "n_pts": 2280,
+   "max_dep": 7.96,
+   "ejemplo": [
+    -72.6,
+    18.4,
+    8.8
+   ],
+   "z": [
+    2.2,
+    9.7
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "04_MASTS",
+   "fam": "MAST_2",
+   "n_mallas": 17,
+   "n_pts": 242,
+   "max_dep": 7.88,
+   "ejemplo": [
+    -68.1,
+    21.9,
+    5.8
+   ],
+   "z": [
+    0.0,
+    5.8
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_M2",
+   "n_mallas": 15,
+   "n_pts": 373,
+   "max_dep": 7.21,
+   "ejemplo": [
+    -63.8,
+    25.0,
+    8.3
+   ],
+   "z": [
+    7.3,
+    8.4
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_M2",
+   "n_mallas": 1,
+   "n_pts": 168,
+   "max_dep": 7.16,
+   "ejemplo": [
+    -63.7,
+    24.8,
+    8.3
+   ],
+   "z": [
+    7.8,
+    8.3
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "13_PIPES",
+   "fam": "",
+   "n_mallas": 4,
+   "n_pts": 54,
+   "max_dep": 6.85,
+   "ejemplo": [
+    -69.9,
+    19.1,
+    0.3
+   ],
+   "z": [
+    0.0,
+    7.3
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "02_PRIMARY_STRUCTURE",
+   "fam": "",
+   "n_mallas": 12,
+   "n_pts": 294,
+   "max_dep": 6.76,
+   "ejemplo": [
+    -64.9,
+    22.8,
+    6.0
+   ],
+   "z": [
+    0.0,
+    10.2
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "04_MASTS",
+   "fam": "MAST_1",
+   "n_mallas": 3,
+   "n_pts": 48,
+   "max_dep": 6.74,
+   "ejemplo": [
+    -72.5,
+    17.0,
+    5.4
+   ],
+   "z": [
+    0.0,
+    5.4
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "11_WATER",
+   "fam": "LEAF_M2",
+   "n_mallas": 1,
+   "n_pts": 25,
+   "max_dep": 6.69,
+   "ejemplo": [
+    -63.4,
+    25.2,
+    8.2
+   ],
+   "z": [
+    8.2,
+    8.2
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "04_MASTS",
+   "fam": "",
+   "n_mallas": 2,
+   "n_pts": 36,
+   "max_dep": 6.63,
+   "ejemplo": [
+    -72.1,
+    17.1,
+    0.0
+   ],
+   "z": [
+    0.0,
+    9.5
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "08_PINK_MODULES",
+   "fam": "POD_S",
+   "n_mallas": 10,
+   "n_pts": 858,
+   "max_dep": 6.4,
+   "ejemplo": [
+    -66.6,
+    21.2,
+    1.4
+   ],
+   "z": [
+    0.3,
+    2.7
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "POD_S",
+   "n_mallas": 12,
+   "n_pts": 156,
+   "max_dep": 6.33,
+   "ejemplo": [
+    -67.0,
+    20.8,
+    0.0
+   ],
+   "z": [
+    -0.0,
+    0.3
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "09_PLANTERS",
+   "fam": "MAST_2",
+   "n_mallas": 3,
+   "n_pts": 78,
+   "max_dep": 6.26,
+   "ejemplo": [
+    -68.3,
+    19.6,
+    0.0
+   ],
+   "z": [
+    0.0,
+    0.6
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "MAST_2",
+   "n_mallas": 3,
+   "n_pts": 126,
+   "max_dep": 5.97,
+   "ejemplo": [
+    -68.3,
+    19.3,
+    1.1
+   ],
+   "z": [
+    0.4,
+    1.5
+   ]
+  },
+  {
+   "edificio": 71,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_A",
+   "n_mallas": 13,
+   "n_pts": 490,
+   "max_dep": 5.93,
+   "ejemplo": [
+    53.4,
+    41.1,
+    4.3
+   ],
+   "z": [
+    0.0,
+    6.8
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_TREPADORA",
+   "n_mallas": 22,
+   "n_pts": 860,
+   "max_dep": 5.85,
+   "ejemplo": [
+    -62.7,
+    23.0,
+    3.1
+   ],
+   "z": [
+    -0.0,
+    3.6
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_COLGANTE",
+   "n_mallas": 48,
+   "n_pts": 1200,
+   "max_dep": 5.82,
+   "ejemplo": [
+    -65.9,
+    20.9,
+    9.3
+   ],
+   "z": [
+    7.2,
+    9.7
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_M1",
+   "n_mallas": 21,
+   "n_pts": 490,
+   "max_dep": 5.59,
+   "ejemplo": [
+    -69.1,
+    18.1,
+    8.3
+   ],
+   "z": [
+    7.3,
+    8.4
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_M1",
+   "n_mallas": 2,
+   "n_pts": 204,
+   "max_dep": 5.53,
+   "ejemplo": [
+    -69.2,
+    18.0,
+    8.3
+   ],
+   "z": [
+    7.9,
+    8.3
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "13_PIPES",
+   "fam": "MAST_2",
+   "n_mallas": 6,
+   "n_pts": 111,
+   "max_dep": 5.49,
+   "ejemplo": [
+    -68.0,
+    18.9,
+    4.0
+   ],
+   "z": [
+    0.5,
+    4.1
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "09_PLANTERS",
+   "fam": "MAST_1",
+   "n_mallas": 1,
+   "n_pts": 26,
+   "max_dep": 5.48,
+   "ejemplo": [
+    -73.5,
+    14.6,
+    0.0
+   ],
+   "z": [
+    0.0,
+    0.6
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "MAST_1",
+   "n_mallas": 1,
+   "n_pts": 42,
+   "max_dep": 5.18,
+   "ejemplo": [
+    -73.0,
+    14.6,
+    1.1
+   ],
+   "z": [
+    0.4,
+    1.5
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "11_WATER",
+   "fam": "LEAF_M1",
+   "n_mallas": 2,
+   "n_pts": 34,
+   "max_dep": 5.11,
+   "ejemplo": [
+    -69.0,
+    17.6,
+    8.2
+   ],
+   "z": [
+    8.2,
+    8.2
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_A",
+   "n_mallas": 20,
+   "n_pts": 841,
+   "max_dep": 5.02,
+   "ejemplo": [
+    -75.9,
+    16.3,
+    4.3
+   ],
+   "z": [
+    0.0,
+    6.8
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "13_PIPES",
+   "fam": "MAST_1",
+   "n_mallas": 2,
+   "n_pts": 37,
+   "max_dep": 4.84,
+   "ejemplo": [
+    -72.8,
+    14.3,
+    4.0
+   ],
+   "z": [
+    0.5,
+    4.1
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_OV",
+   "n_mallas": 14,
+   "n_pts": 279,
+   "max_dep": 4.32,
+   "ejemplo": [
+    -74.8,
+    12.5,
+    8.3
+   ],
+   "z": [
+    7.2,
+    8.4
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_OV",
+   "n_mallas": 1,
+   "n_pts": 154,
+   "max_dep": 4.26,
+   "ejemplo": [
+    -74.9,
+    12.4,
+    8.3
+   ],
+   "z": [
+    7.8,
+    8.3
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_M1",
+   "n_mallas": 14,
+   "n_pts": 302,
+   "max_dep": 4.14,
+   "ejemplo": [
+    -82.5,
+    8.5,
+    4.5
+   ],
+   "z": [
+    3.5,
+    4.6
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_M1",
+   "n_mallas": 1,
+   "n_pts": 162,
+   "max_dep": 4.04,
+   "ejemplo": [
+    -82.6,
+    8.3,
+    4.5
+   ],
+   "z": [
+    4.1,
+    4.5
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "11_WATER",
+   "fam": "LEAF_OV",
+   "n_mallas": 1,
+   "n_pts": 20,
+   "max_dep": 3.8,
+   "ejemplo": [
+    -75.4,
+    12.5,
+    8.2
+   ],
+   "z": [
+    8.2,
+    8.2
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "11_WATER",
+   "fam": "LEAF_M1",
+   "n_mallas": 1,
+   "n_pts": 25,
+   "max_dep": 3.76,
+   "ejemplo": [
+    -82.0,
+    8.1,
+    4.4
+   ],
+   "z": [
+    4.4,
+    4.4
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "",
+   "n_mallas": 96,
+   "n_pts": 1275,
+   "max_dep": 3.49,
+   "ejemplo": [
+    46.8,
+    -5.9,
+    6.0
+   ],
+   "z": [
+    6.0,
+    9.7
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LIFT_TOWER",
+   "n_mallas": 9,
+   "n_pts": 384,
+   "max_dep": 3.49,
+   "ejemplo": [
+    -75.0,
+    10.9,
+    6.0
+   ],
+   "z": [
+    0.0,
+    7.4
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_COLGANTE",
+   "n_mallas": 24,
+   "n_pts": 600,
+   "max_dep": 3.49,
+   "ejemplo": [
+    53.2,
+    -5.5,
+    9.0
+   ],
+   "z": [
+    7.2,
+    9.7
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "02_PRIMARY_STRUCTURE",
+   "fam": "",
+   "n_mallas": 6,
+   "n_pts": 138,
+   "max_dep": 3.35,
+   "ejemplo": [
+    53.2,
+    -5.4,
+    10.0
+   ],
+   "z": [
+    0.0,
+    10.2
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "08_PINK_MODULES",
+   "fam": "POD_M",
+   "n_mallas": 8,
+   "n_pts": 547,
+   "max_dep": 3.15,
+   "ejemplo": [
+    -64.8,
+    18.4,
+    1.9
+   ],
+   "z": [
+    0.3,
+    3.7
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "POD_M",
+   "n_mallas": 8,
+   "n_pts": 94,
+   "max_dep": 3.0,
+   "ejemplo": [
+    -65.4,
+    17.8,
+    0.0
+   ],
+   "z": [
+    -0.0,
+    0.3
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "04_MASTS",
+   "fam": "MAST_2",
+   "n_mallas": 5,
+   "n_pts": 76,
+   "max_dep": 2.66,
+   "ejemplo": [
+    44.7,
+    -5.1,
+    5.8
+   ],
+   "z": [
+    0.0,
+    5.8
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "08_PINK_MODULES",
+   "fam": "POD_TRAIN",
+   "n_mallas": 8,
+   "n_pts": 761,
+   "max_dep": 2.53,
+   "ejemplo": [
+    -80.8,
+    7.0,
+    1.5
+   ],
+   "z": [
+    0.3,
+    2.7
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "06_MEMBRANES",
+   "fam": "LIFT_TOWER",
+   "n_mallas": 1,
+   "n_pts": 38,
+   "max_dep": 2.43,
+   "ejemplo": [
+    -74.1,
+    10.1,
+    0.0
+   ],
+   "z": [
+    0.0,
+    7.4
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_M1",
+   "n_mallas": 8,
+   "n_pts": 142,
+   "max_dep": 2.32,
+   "ejemplo": [
+    51.1,
+    -4.5,
+    8.3
+   ],
+   "z": [
+    7.3,
+    8.4
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "09_PLANTERS",
+   "fam": "MAST_2",
+   "n_mallas": 1,
+   "n_pts": 26,
+   "max_dep": 2.31,
+   "ejemplo": [
+    47.3,
+    -4.6,
+    0.0
+   ],
+   "z": [
+    0.0,
+    0.6
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "09_PLANTERS",
+   "fam": "",
+   "n_mallas": 2,
+   "n_pts": 10,
+   "max_dep": 2.3,
+   "ejemplo": [
+    -58.9,
+    26.2,
+    0
+   ],
+   "z": [
+    0,
+    0.6
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_M1",
+   "n_mallas": 1,
+   "n_pts": 69,
+   "max_dep": 2.26,
+   "ejemplo": [
+    51.3,
+    -4.4,
+    8.3
+   ],
+   "z": [
+    8.0,
+    8.3
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "09_PLANTERS",
+   "fam": "",
+   "n_mallas": 1,
+   "n_pts": 10,
+   "max_dep": 2.23,
+   "ejemplo": [
+    -80.1,
+    8.4,
+    0
+   ],
+   "z": [
+    0,
+    0.6
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "08_PINK_MODULES",
+   "fam": "LIFT_TOWER",
+   "n_mallas": 2,
+   "n_pts": 114,
+   "max_dep": 2.17,
+   "ejemplo": [
+    -73.9,
+    9.9,
+    0.1
+   ],
+   "z": [
+    0.1,
+    3.3
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "02_PRIMARY_STRUCTURE",
+   "fam": "",
+   "n_mallas": 3,
+   "n_pts": 50,
+   "max_dep": 2.03,
+   "ejemplo": [
+    77.2,
+    -5.9,
+    8.5
+   ],
+   "z": [
+    6.0,
+    8.7
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "MAST_2",
+   "n_mallas": 1,
+   "n_pts": 42,
+   "max_dep": 2.01,
+   "ejemplo": [
+    47.2,
+    -4.4,
+    1.1
+   ],
+   "z": [
+    0.4,
+    1.5
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "04_MASTS",
+   "fam": "MAST_3",
+   "n_mallas": 2,
+   "n_pts": 21,
+   "max_dep": 2.0,
+   "ejemplo": [
+    76.5,
+    -1.2,
+    6.4
+   ],
+   "z": [
+    4.8,
+    6.4
+   ]
+  },
+  {
+   "edificio": 124,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_A",
+   "n_mallas": 6,
+   "n_pts": 151,
+   "max_dep": 2.0,
+   "ejemplo": [
+    31.2,
+    42.2,
+    4.3
+   ],
+   "z": [
+    2.7,
+    6.6
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "",
+   "n_mallas": 29,
+   "n_pts": 334,
+   "max_dep": 1.98,
+   "ejemplo": [
+    77.5,
+    -6.1,
+    8.2
+   ],
+   "z": [
+    6.0,
+    8.2
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "",
+   "n_mallas": 18,
+   "n_pts": 244,
+   "max_dep": 1.96,
+   "ejemplo": [
+    -79.5,
+    6.6,
+    6.0
+   ],
+   "z": [
+    6.0,
+    9.7
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "POD_TRAIN",
+   "n_mallas": 3,
+   "n_pts": 22,
+   "max_dep": 1.96,
+   "ejemplo": [
+    -81.1,
+    6.4,
+    0.0
+   ],
+   "z": [
+    0.0,
+    0.3
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "",
+   "n_mallas": 13,
+   "n_pts": 135,
+   "max_dep": 1.85,
+   "ejemplo": [
+    -33.5,
+    33.0,
+    7.7
+   ],
+   "z": [
+    6.0,
+    7.7
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "11_WATER",
+   "fam": "LEAF_M1",
+   "n_mallas": 1,
+   "n_pts": 12,
+   "max_dep": 1.85,
+   "ejemplo": [
+    51.2,
+    -4.0,
+    8.2
+   ],
+   "z": [
+    8.2,
+    8.2
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_TROPICAL",
+   "n_mallas": 11,
+   "n_pts": 248,
+   "max_dep": 1.8,
+   "ejemplo": [
+    -40.9,
+    29.8,
+    1.4
+   ],
+   "z": [
+    0.6,
+    2.4
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "09_PLANTERS",
+   "fam": "MAST_1",
+   "n_mallas": 1,
+   "n_pts": 26,
+   "max_dep": 1.75,
+   "ejemplo": [
+    77.0,
+    -5.8,
+    0.0
+   ],
+   "z": [
+    0.0,
+    0.6
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "13_PIPES",
+   "fam": "NEB_POST",
+   "n_mallas": 4,
+   "n_pts": 88,
+   "max_dep": 1.68,
+   "ejemplo": [
+    -61.5,
+    18.8,
+    4.0
+   ],
+   "z": [
+    0.0,
+    4.1
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "13_PIPES",
+   "fam": "MAST_2",
+   "n_mallas": 2,
+   "n_pts": 37,
+   "max_dep": 1.63,
+   "ejemplo": [
+    47.5,
+    -4.0,
+    4.0
+   ],
+   "z": [
+    0.5,
+    4.1
+   ]
+  },
+  {
+   "edificio": 71,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_TROPICAL",
+   "n_mallas": 6,
+   "n_pts": 183,
+   "max_dep": 1.63,
+   "ejemplo": [
+    66.1,
+    24.6,
+    1.4
+   ],
+   "z": [
+    1.3,
+    2.4
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "STAIR_SB",
+   "n_mallas": 24,
+   "n_pts": 120,
+   "max_dep": 1.53,
+   "ejemplo": [
+    41.8,
+    -8.0,
+    4.0
+   ],
+   "z": [
+    2.6,
+    7.0
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "MAST_1",
+   "n_mallas": 1,
+   "n_pts": 42,
+   "max_dep": 1.53,
+   "ejemplo": [
+    76.7,
+    -6.0,
+    1.1
+   ],
+   "z": [
+    0.4,
+    1.5
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_B",
+   "n_mallas": 5,
+   "n_pts": 99,
+   "max_dep": 1.46,
+   "ejemplo": [
+    -42.3,
+    31.3,
+    4.3
+   ],
+   "z": [
+    3.0,
+    6.5
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "06_MEMBRANES",
+   "fam": "",
+   "n_mallas": 1,
+   "n_pts": 2,
+   "max_dep": 1.35,
+   "ejemplo": [
+    47.0,
+    -3.7,
+    9.6
+   ],
+   "z": [
+    9.6,
+    9.6
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "13_PIPES",
+   "fam": "LIFT_TOWER",
+   "n_mallas": 1,
+   "n_pts": 14,
+   "max_dep": 1.33,
+   "ejemplo": [
+    -73.5,
+    9.1,
+    7.4
+   ],
+   "z": [
+    7.4,
+    8.0
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_MT",
+   "n_mallas": 4,
+   "n_pts": 73,
+   "max_dep": 1.31,
+   "ejemplo": [
+    75.9,
+    -0.3,
+    8.3
+   ],
+   "z": [
+    8.1,
+    8.5
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "02_PRIMARY_STRUCTURE",
+   "fam": "",
+   "n_mallas": 3,
+   "n_pts": 96,
+   "max_dep": 1.3,
+   "ejemplo": [
+    -33.3,
+    32.5,
+    8.0
+   ],
+   "z": [
+    7.8,
+    8.2
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_M2",
+   "n_mallas": 4,
+   "n_pts": 70,
+   "max_dep": 1.3,
+   "ejemplo": [
+    76.3,
+    -0.0,
+    4.5
+   ],
+   "z": [
+    4.4,
+    4.6
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_MT",
+   "n_mallas": 1,
+   "n_pts": 18,
+   "max_dep": 1.25,
+   "ejemplo": [
+    75.9,
+    -0.2,
+    8.3
+   ],
+   "z": [
+    8.1,
+    8.4
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_M2",
+   "n_mallas": 1,
+   "n_pts": 14,
+   "max_dep": 1.25,
+   "ejemplo": [
+    76.3,
+    0.1,
+    4.5
+   ],
+   "z": [
+    4.3,
+    4.5
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "02_PRIMARY_STRUCTURE",
+   "fam": "",
+   "n_mallas": 2,
+   "n_pts": 3,
+   "max_dep": 1.23,
+   "ejemplo": [
+    -79.8,
+    5.9,
+    5.8
+   ],
+   "z": [
+    5.8,
+    10.0
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_OV",
+   "n_mallas": 1,
+   "n_pts": 16,
+   "max_dep": 1.17,
+   "ejemplo": [
+    -41.2,
+    28.9,
+    8.3
+   ],
+   "z": [
+    8.1,
+    8.3
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "04_MASTS",
+   "fam": "MAST_1",
+   "n_mallas": 4,
+   "n_pts": 55,
+   "max_dep": 1.17,
+   "ejemplo": [
+    73.9,
+    -4.3,
+    5.4
+   ],
+   "z": [
+    0.0,
+    5.4
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_OV",
+   "n_mallas": 4,
+   "n_pts": 69,
+   "max_dep": 1.16,
+   "ejemplo": [
+    -41.1,
+    29.0,
+    8.3
+   ],
+   "z": [
+    8.2,
+    8.4
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "13_PIPES",
+   "fam": "MAST_1",
+   "n_mallas": 2,
+   "n_pts": 37,
+   "max_dep": 1.06,
+   "ejemplo": [
+    76.2,
+    -5.9,
+    4.0
+   ],
+   "z": [
+    0.5,
+    4.1
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_OV",
+   "n_mallas": 5,
+   "n_pts": 94,
+   "max_dep": 1.0,
+   "ejemplo": [
+    -80.4,
+    11.8,
+    8.3
+   ],
+   "z": [
+    8.2,
+    8.4
+   ]
+  },
+  {
+   "edificio": 109,
+   "name_b": "Estanco",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_M2",
+   "n_mallas": 3,
+   "n_pts": 55,
+   "max_dep": 0.95,
+   "ejemplo": [
+    -76.5,
+    -14.5,
+    4.5
+   ],
+   "z": [
+    4.4,
+    4.6
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_OV",
+   "n_mallas": 1,
+   "n_pts": 14,
+   "max_dep": 0.93,
+   "ejemplo": [
+    -80.4,
+    11.8,
+    8.3
+   ],
+   "z": [
+    8.2,
+    8.3
+   ]
+  },
+  {
+   "edificio": 109,
+   "name_b": "Estanco",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_M2",
+   "n_mallas": 1,
+   "n_pts": 8,
+   "max_dep": 0.9,
+   "ejemplo": [
+    -76.8,
+    -14.4,
+    4.5
+   ],
+   "z": [
+    4.4,
+    4.5
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "11_WATER",
+   "fam": "LEAF_OV",
+   "n_mallas": 1,
+   "n_pts": 5,
+   "max_dep": 0.84,
+   "ejemplo": [
+    -41.3,
+    28.5,
+    8.2
+   ],
+   "z": [
+    8.2,
+    8.2
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "11_WATER",
+   "fam": "LEAF_MT",
+   "n_mallas": 1,
+   "n_pts": 5,
+   "max_dep": 0.82,
+   "ejemplo": [
+    75.5,
+    0.1,
+    8.2
+   ],
+   "z": [
+    8.2,
+    8.2
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "LEAF_LT",
+   "n_mallas": 4,
+   "n_pts": 54,
+   "max_dep": 0.8,
+   "ejemplo": [
+    -25.8,
+    34.4,
+    5.1
+   ],
+   "z": [
+    4.9,
+    5.2
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_A",
+   "n_mallas": 3,
+   "n_pts": 33,
+   "max_dep": 0.8,
+   "ejemplo": [
+    -85.3,
+    4.7,
+    4.3
+   ],
+   "z": [
+    3.5,
+    5.7
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "03_SECONDARY_STRUCTURE",
+   "fam": "STAIR_SB",
+   "n_mallas": 1,
+   "n_pts": 4,
+   "max_dep": 0.77,
+   "ejemplo": [
+    77.2,
+    0.5,
+    6.0
+   ],
+   "z": [
+    6.0,
+    6.0
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "11_WATER",
+   "fam": "LEAF_M2",
+   "n_mallas": 1,
+   "n_pts": 5,
+   "max_dep": 0.76,
+   "ejemplo": [
+    76.1,
+    0.5,
+    4.4
+   ],
+   "z": [
+    4.4,
+    4.4
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "07_CANOPIES",
+   "fam": "LEAF_LT",
+   "n_mallas": 1,
+   "n_pts": 8,
+   "max_dep": 0.74,
+   "ejemplo": [
+    -25.7,
+    34.3,
+    5.1
+   ],
+   "z": [
+    4.9,
+    5.2
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "09_PLANTERS",
+   "fam": "",
+   "n_mallas": 1,
+   "n_pts": 2,
+   "max_dep": 0.73,
+   "ejemplo": [
+    -41.9,
+    28.7,
+    0
+   ],
+   "z": [
+    0,
+    0.6
+   ]
+  },
+  {
+   "edificio": 133,
+   "name_b": "El Corte Inglés",
+   "layer": "06_MEMBRANES",
+   "fam": "",
+   "n_mallas": 1,
+   "n_pts": 1,
+   "max_dep": 0.61,
+   "ejemplo": [
+    -76.5,
+    7.6,
+    9.6
+   ],
+   "z": [
+    9.6,
+    9.6
+   ]
+  },
+  {
+   "edificio": 129,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_EX",
+   "n_mallas": 1,
+   "n_pts": 7,
+   "max_dep": 0.6,
+   "ejemplo": [
+    -106.3,
+    -13.6,
+    6.1
+   ],
+   "z": [
+    5.4,
+    6.9
+   ]
+  },
+  {
+   "edificio": 71,
+   "name_b": "",
+   "layer": "09_PLANTERS",
+   "fam": "",
+   "n_mallas": 1,
+   "n_pts": 4,
+   "max_dep": 0.58,
+   "ejemplo": [
+    66.8,
+    22.9,
+    0
+   ],
+   "z": [
+    0,
+    0.6
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "11_WATER",
+   "fam": "",
+   "n_mallas": 1,
+   "n_pts": 5,
+   "max_dep": 0.57,
+   "ejemplo": [
+    38.1,
+    -3.4,
+    0.5
+   ],
+   "z": [
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "11_WATER",
+   "fam": "",
+   "n_mallas": 1,
+   "n_pts": 6,
+   "max_dep": 0.5,
+   "ejemplo": [
+    72.8,
+    -3.0,
+    7.6
+   ],
+   "z": [
+    7.6,
+    7.6
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "09_PLANTERS",
+   "fam": "MAST_3",
+   "n_mallas": 1,
+   "n_pts": 8,
+   "max_dep": 0.49,
+   "ejemplo": [
+    76.9,
+    0.8,
+    0.0
+   ],
+   "z": [
+    0.0,
+    0.6
+   ]
+  },
+  {
+   "edificio": 131,
+   "name_b": "",
+   "layer": "11_WATER",
+   "fam": "LEAF_OV",
+   "n_mallas": 1,
+   "n_pts": 5,
+   "max_dep": 0.47,
+   "ejemplo": [
+    -79.8,
+    11.7,
+    8.2
+   ],
+   "z": [
+    8.2,
+    8.2
+   ]
+  },
+  {
+   "edificio": 71,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_EX",
+   "n_mallas": 4,
+   "n_pts": 14,
+   "max_dep": 0.47,
+   "ejemplo": [
+    45.6,
+    36.6,
+    6.9
+   ],
+   "z": [
+    5.1,
+    7.6
+   ]
+  },
+  {
+   "edificio": 124,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_EX",
+   "n_mallas": 1,
+   "n_pts": 6,
+   "max_dep": 0.46,
+   "ejemplo": [
+    33.5,
+    43.7,
+    6.9
+   ],
+   "z": [
+    6.2,
+    7.6
+   ]
+  },
+  {
+   "edificio": 109,
+   "name_b": "Estanco",
+   "layer": "11_WATER",
+   "fam": "LEAF_M2",
+   "n_mallas": 1,
+   "n_pts": 3,
+   "max_dep": 0.43,
+   "ejemplo": [
+    -76.7,
+    -14.0,
+    4.4
+   ],
+   "z": [
+    4.4,
+    4.4
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "04_MASTS",
+   "fam": "MAST_3",
+   "n_mallas": 1,
+   "n_pts": 7,
+   "max_dep": 0.43,
+   "ejemplo": [
+    41.2,
+    -3.1,
+    6.4
+   ],
+   "z": [
+    6.4,
+    6.4
+   ]
+  },
+  {
+   "edificio": 75,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_EX",
+   "n_mallas": 1,
+   "n_pts": 6,
+   "max_dep": 0.33,
+   "ejemplo": [
+    55.2,
+    60.2,
+    6.7
+   ],
+   "z": [
+    5.8,
+    7.5
+   ]
+  },
+  {
+   "edificio": 70,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_A",
+   "n_mallas": 1,
+   "n_pts": 3,
+   "max_dep": 0.22,
+   "ejemplo": [
+    67.7,
+    22.6,
+    4.3
+   ],
+   "z": [
+    3.8,
+    4.8
+   ]
+  },
+  {
+   "edificio": 140,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_EX",
+   "n_mallas": 3,
+   "n_pts": 5,
+   "max_dep": 0.22,
+   "ejemplo": [
+    44.0,
+    67.2,
+    6.7
+   ],
+   "z": [
+    5.7,
+    7.5
+   ]
+  },
+  {
+   "edificio": 110,
+   "name_b": "Estanco",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "MAST_3",
+   "n_mallas": 1,
+   "n_pts": 6,
+   "max_dep": 0.21,
+   "ejemplo": [
+    77.0,
+    1.1,
+    1.1
+   ],
+   "z": [
+    0.5,
+    1.4
+   ]
+  },
+  {
+   "edificio": 1,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_EX",
+   "n_mallas": 1,
+   "n_pts": 1,
+   "max_dep": 0.15,
+   "ejemplo": [
+    38.4,
+    54.9,
+    5.7
+   ],
+   "z": [
+    5.7,
+    5.7
+   ]
+  },
+  {
+   "edificio": 117,
+   "name_b": "",
+   "layer": "11_WATER",
+   "fam": "LEAF_LT",
+   "n_mallas": 1,
+   "n_pts": 2,
+   "max_dep": 0.11,
+   "ejemplo": [
+    -25.9,
+    33.6,
+    4.8
+   ],
+   "z": [
+    4.8,
+    4.8
+   ]
+  },
+  {
+   "edificio": 74,
+   "name_b": "",
+   "layer": "15_VEGETATION_FULL",
+   "fam": "VEG2_ARBOL_EX",
+   "n_mallas": 1,
+   "n_pts": 2,
+   "max_dep": 0.09,
+   "ejemplo": [
+    35.8,
+    48.5,
+    6.9
+   ],
+   "z": [
+    6.9,
+    6.9
+   ]
+  },
+  {
+   "edificio": 106,
+   "name_b": "Estación de Cercanías",
+   "layer": "04_MASTS",
+   "fam": "STAIR_SB",
+   "n_mallas": 1,
+   "n_pts": 6,
+   "max_dep": 0.06,
+   "ejemplo": [
+    42.4,
+    -9.5,
+    0.0
+   ],
+   "z": [
+    0.0,
+    3.0
+   ]
+  }
+ ],
+ "bocas": [
+  {
+   "x": -79.34,
+   "y": 66.69,
+   "name": "Centro Comercial",
+   "d_cinta": 46.7,
+   "d_loop": 44.5,
+   "loop": "C1-L1"
+  },
+  {
+   "x": 57.01,
+   "y": -5.4,
+   "name": "Cercanías",
+   "d_cinta": 0.9,
+   "d_loop": 1.6,
+   "loop": "C3-L1"
+  },
+  {
+   "x": -3.34,
+   "y": -27.7,
+   "name": "Carretas",
+   "d_cinta": 23.8,
+   "d_loop": 22.3,
+   "loop": "C2-L3"
+  },
+  {
+   "x": 18.48,
+   "y": 25.11,
+   "name": "Carmen",
+   "d_cinta": 0.2,
+   "d_loop": 2.7,
+   "loop": "C2-L1"
+  },
+  {
+   "x": -84.16,
+   "y": -20.57,
+   "name": "Mayor",
+   "d_cinta": 13.9,
+   "d_loop": 11.0,
+   "loop": "C1-L2"
+  },
+  {
+   "x": 46.91,
+   "y": 18.85,
+   "name": "Alcalá",
+   "d_cinta": 0.5,
+   "d_loop": 0.8,
+   "loop": "C3-L1"
+  },
+  {
+   "x": 40.23,
+   "y": 12.0,
+   "name": "Alcalá",
+   "d_cinta": 0.9,
+   "d_loop": 1.3,
+   "loop": "C3-L1"
+  }
+ ],
+ "kioscos": [
+  {
+   "i": 74,
+   "area": 76.1,
+   "name": ""
+  },
+  {
+   "i": 109,
+   "area": 44.2,
+   "name": "Estanco"
+  },
+  {
+   "i": 110,
+   "area": 44.2,
+   "name": "Estanco"
+  },
+  {
+   "i": 111,
+   "area": 15.3,
+   "name": ""
+  },
+  {
+   "i": 123,
+   "area": 70.3,
+   "name": ""
+  }
+ ]
+}

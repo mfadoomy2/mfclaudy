@@ -1,0 +1,127 @@
+[   0.0s] A0 · reconstruyendo escena aprobada (full=True)
+[   0.5s]    objetos=6857 mallas=6672 curvas=185  rejilla=848x492 (0.25 m)
+[   2.3s]    banda cuerpo: 17796 celdas ocupadas (4.3 %)
+[  10.0s]    ambito PLAZA=11014 m2 · libre a nivel de cuerpo=9901 m2
+[  11.9s]    mapa de causa de obstruccion listo
+[  28.2s]    mapa de galibo listo (firme + vegetal)
+[  28.2s] A1 · red peatonal: ejes, anchuras, estrechamientos, cul-de-sac
+[  28.3s]    eje-mayor-alcala       L=188.0 m  ancho transv min=12.2 p05=17.4 p50= 36.8  (eje bloqueado en 0/377 est.)
+[  28.3s]    preciados-carretas     L= 93.5 m  ancho transv min= 0.0 p05=10.8 p50= 38.8  (eje bloqueado en 1/188 est.)
+[  28.3s]    carmen-correos         L=101.5 m  ancho transv min= 2.5 p05=10.0 p50= 43.5  (eje bloqueado en 0/204 est.)
+[  28.3s]    montera-espozymina     L= 89.0 m  ancho transv min= 0.0 p05= 8.0 p50= 47.5  (eje bloqueado en 3/179 est.)
+[  28.3s]    arenal-alcala          L=192.0 m  ancho transv min=32.5 p05=34.0 p50= 41.2  (eje bloqueado en 0/385 est.)
+[  28.3s]    estrechamientos detectados: 14 (holgura minima 0.00 m)
+[  28.4s]    pasos estrangulados <1.20 m de holgura (deduplicados a 2 m): 89
+[  28.4s]    componentes pisables: 21 · bolsas aisladas >8 m2: 1 (imputables al proyecto: 1; el resto son recintos del contexto urbano)
+[  28.4s]    ancho>=0.90 m ->  2 componentes >20 m2 en el ambito, mayor    9164 m2 (93 % del suelo libre)
+[  28.4s]    ancho>=1.20 m ->  3 componentes >20 m2 en el ambito, mayor    8656 m2 (88 % del suelo libre)
+[  28.4s]    ancho>=1.50 m ->  3 componentes >20 m2 en el ambito, mayor    8511 m2 (87 % del suelo libre)
+[  28.4s]    ancho>=1.80 m ->  3 componentes >20 m2 en el ambito, mayor    8200 m2 (84 % del suelo libre)
+[  28.4s]    ancho>=2.00 m ->  5 componentes >20 m2 en el ambito, mayor    8000 m2 (82 % del suelo libre)
+[  28.4s]    ancho>=2.50 m ->  2 componentes >20 m2 en el ambito, mayor    7623 m2 (78 % del suelo libre)
+[  28.4s]    ancho>=3.00 m ->  2 componentes >20 m2 en el ambito, mayor    7130 m2 (73 % del suelo libre)
+[  28.4s]    ancho>=4.00 m ->  3 componentes >20 m2 en el ambito, mayor    6338 m2 (66 % del suelo libre)
+[  28.4s]    calculando cuellos de botella entre accesos (barrido de umbral + componentes)
+[  28.7s]    cuello atravesando el ambito: min 10.75 m (eje-mayor-alcala·A → eje-mayor-alcala·B) · mediana 11.25 m
+[  28.7s]    par mas estrecho: eje-mayor-alcala·A → eje-mayor-alcala·B = 10.75 m · par mas holgado: carmen-correos·B → montera-espozymina·A = 40.00 m
+[  28.8s] A2 · galibos: CLEAR_HEIGHT_MAP
+[  28.8s]    suelo pisable bajo elemento: 3825 m2 (39 %) · galibo min 2.21 m · p05 3.31 m
+[  28.8s]    ELEMENTO FIRME  · galibo minimo 2.31 m · superficie <3.00 m: 3.2 m2 en 12 manchas >0.25 m2
+[  28.8s]    VEGETACION      · galibo minimo 2.21 m · superficie <2.50 m: 33.4 m2 en 29 manchas
+[  28.8s]    cables por debajo de 3.00 m sobre suelo pisable: 0 muestras
+[  28.8s] A3 · HEIGHT_SYSTEM vs geometria construida
+[  28.8s]    H_SEATING          decl   0.45  constr   0.45  OK
+[  28.8s]    H_PLANTER          decl   0.60  constr   0.60  OK
+[  28.8s]    H_POND_CURB        decl   0.60  constr   0.60  OK
+[  28.8s]    H_BENCH_BACK       decl   0.85  constr    —    no construido
+[  28.8s]    H_RAIL             decl   1.05  constr   1.05  OK
+[  28.8s]    H_GROUND_TANK      decl   1.35  constr   2.25  FUERA
+[  28.8s]    H_TOTEM            decl   1.35  constr   1.48  OK
+[  28.8s]    H_BRANCH_START     decl   3.00  constr   3.00  OK
+[  28.8s]    H_NURSERY_TOWER    decl   3.00  constr   3.32  FUERA
+[  28.8s]    H_CLEAR_MIN        decl   3.00  constr   2.31  FUERA
+[  28.8s]    H_MISTING          decl   4.00  constr   4.00  OK
+[  28.8s]    H_LOW_CANOPY       decl   5.00  constr   5.00  OK
+[  28.8s]    H_RIBBON           decl   6.00  constr   6.00  OK
+[  28.8s]    H_MID_CANOPY       decl   6.75  constr   6.30  OK
+[  28.8s]    H_HIGH_CANOPY      decl   8.50  constr   8.50  OK
+[  28.8s]    H_TANK_ELEV        decl  10.50  constr  10.50  OK
+[  28.8s]    H_TANK_TOWER       decl   5.75  constr    —    no construido
+[  28.8s]    H_DOME_APEX        decl   8.00  constr   8.00  OK
+[  28.8s]    H_TREE_NEW         decl   5.00  constr   6.37  OK
+[  28.8s]    H_TREE_EXIST       decl   7.00  constr   8.51  FUERA
+[  28.8s]    H_LOW_VEGETATION   decl   1.20  constr   1.41  OK
+[  28.8s]    H_LOGISTIC_RAIL    decl   7.50  constr    —    no construido
+[  28.8s]    discos fuera de la familia 5.0/6.75/8.5 (±0.30): 32 de 67
+[  28.8s] A4 · cinta elevada: perfil, pendientes, escaleras, accesos
+[  28.8s]    escalera (-84,-5): CH=0.385 H=0.424  91% (42°)  distancia coronacion→cinta 0.7 m
+[  28.8s]    escalera (-38,19): CH=0.385 H=0.424  91% (42°)  distancia coronacion→cinta 0.9 m
+[  28.8s]    escalera (4,29): CH=0.385 H=0.424  91% (42°)  distancia coronacion→cinta 0.8 m
+[  28.8s]    escalera (26,15): CH=0.385 H=0.424  91% (42°)  distancia coronacion→cinta 2.9 m
+[  28.8s]    escalera (44,-6): CH=0.385 H=0.424  91% (42°)  distancia coronacion→cinta 1.7 m
+[  28.8s]    escalera (80,2): CH=0.385 H=0.424  91% (42°)  distancia coronacion→cinta 1.2 m
+[  28.8s]    cinta L=519 m · z cte +6.00 (pendiente 0.0 %) · ancho util 2.31 m · 40 soportes · radio min 4.7 m
+[  28.8s] A5 · precheck de accesibilidad geometrica
+[  28.8s]    eje-mayor-alcala       APTO          holgura min  1.80 m · p05  2.83 m · 100 % de la traza >=1.80 m · 0 estaciones bloqueadas
+[  28.8s]    preciados-carretas     CONDICIONADO  holgura min  0.00 m · p05  4.00 m ·  98 % de la traza >=1.80 m · 1 estaciones bloqueadas
+[  28.8s]    carmen-correos         CONDICIONADO  holgura min  0.50 m · p05  3.69 m ·  98 % de la traza >=1.80 m · 0 estaciones bloqueadas
+[  28.8s]    montera-espozymina     NO APTO       holgura min  0.00 m · p05  1.49 m ·  94 % de la traza >=1.80 m · 3 estaciones bloqueadas
+[  28.8s]    arenal-alcala          APTO          holgura min  5.10 m · p05  8.06 m · 100 % de la traza >=1.80 m · 0 estaciones bloqueadas
+[  28.8s] A6 · clearances de accesos de metro / cercanias
+[  28.8s]    Centro Comercial ( -79.34,  66.69) ambito=NO   SUELO d= 40.30 m [VEG2_ARBOL_A    ] n<5.5=  0 [] | AEREO d=39.96 m z=2.9 galibo=cielo
+[  28.8s]    Cercanías        (  57.01,  -5.40) ambito=si   SUELO d=  1.57 m [RIB_SUP         ] n<5.5=  5 ['RIBBON', 'VEGETATION', 'WATER'] | AEREO d= 0.12 m z=9.7 galibo=6.00
+[  28.9s]    Carretas         (  -3.34, -27.70) ambito=NO   SUELO d= 16.71 m [VEG2_ARBOL_A    ] n<5.5=  0 [] | AEREO d=16.48 m z=3.6 galibo=cielo
+[  28.9s]    Carmen           (  18.48,  25.11) ambito=si   SUELO d=  2.95 m [RIB_SUP         ] n<5.5=  6 ['PLANTER', 'RIBBON', 'VEGETATION', 'WATER'] | AEREO d= 0.65 m z=10.6 galibo=6.00
+[  28.9s]    Mayor            ( -84.16, -20.57) ambito=NO   SUELO d= 12.80 m [PLANTER_1       ] n<5.5=  0 [] | AEREO d= 8.85 m z=4.4 galibo=cielo
+[  28.9s]    Alcalá           (  46.91,  18.85) ambito=si   SUELO d=  4.21 m [NEB_POST        ] n<5.5=  4 ['PODS', 'RIBBON', 'WATER'] | AEREO d= 0.49 m z=9.7 galibo=6.00
+[  28.9s]    Alcalá           (  40.23,  12.00) ambito=si   SUELO d=  3.02 m [NEB_POST        ] n<5.5=  2 ['RIBBON', 'WATER'] | AEREO d= 0.09 m z=9.7 galibo=6.00
+[  28.9s] A7 · visibilidad de Real Casa de Correos / torre / reloj
+[  29.0s]    voxel 0.5 m listo: 61364/6675456 ocupados
+[  29.0s]    puntos de observacion a 1.65 m: 2474
+[  29.1s]    RELOJ    visible desde el 38.6 % de los puntos
+[  29.1s]    TORRE    visible desde el 41.6 % de los puntos
+[  29.1s]    CORREOS  visible desde el 44.6 % de los puntos
+[  29.1s] A8 · densidad por sectores y delta E02
+[  33.1s]    reconstruyendo MASTER (full=False) para el delta E02
+[  34.0s]    MASTER: 3475 mallas · ocupacion 9.0 % (FULL 10.1 %)
+[  34.0s]    36 sectores de 20x20 m · ocupacion media 8.9 % · max 20.8 % en (18,25)
+[  34.0s] A9 · accesibilidad de mantenimiento
+[  34.0s]    133 componentes auditados · 56 sin acceso suficiente
+[  34.0s]      BAJANTE/RISER            6 componentes ·   1 sin acceso (holgura mediana 3.92 m)
+[  34.0s]      BOMBEO                   3 componentes ·   0 sin acceso (holgura mediana 2.50 m)
+[  34.0s]      CANOPY / BAJANTE        67 componentes ·  37 sin acceso (holgura mediana 2.00 m)
+[  34.0s]      DEPOSITO +10.5           6 componentes ·   1 sin acceso (holgura mediana 3.92 m)
+[  34.0s]      DEPOSITO DE SUELO        6 componentes ·   6 sin acceso (holgura mediana 0.71 m)
+[  34.0s]      NEBULIZADOR +4.0        42 componentes ·   8 sin acceso (holgura mediana 5.78 m)
+[  34.0s]      VIVERO                   3 componentes ·   3 sin acceso (holgura mediana 0.71 m)
+[  34.0s] A10 · colisiones sistematicas entre familias
+[  34.3s]    PLANTER      x VEGETATION      1529 voxeles ( 12.23 m3)  contacto intencionado
+[  34.3s]    STRUCTURE    x VEGETATION      1120 voxeles (  8.96 m3)  contacto intencionado
+[  34.3s]    STRUCTURE    x WATER            767 voxeles (  6.14 m3)  contacto intencionado
+[  34.3s]    VEGETATION   x WATER            717 voxeles (  5.74 m3)  contacto intencionado
+[  34.3s]    CANOPY       x STRUCTURE        636 voxeles (  5.09 m3)  contacto intencionado
+[  34.3s]    PLANTER      x WATER            547 voxeles (  4.38 m3)  contacto intencionado
+[  34.3s]    PODS         x VEGETATION       479 voxeles (  3.83 m3)  *** REVISAR ***
+[  34.3s]    PODS         x STRUCTURE        434 voxeles (  3.47 m3)  contacto intencionado
+[  34.3s]    FURNITURE    x VEGETATION       379 voxeles (  3.03 m3)  contacto intencionado
+[  34.3s]    PLANTER      x PODS             174 voxeles (  1.39 m3)  *** REVISAR ***
+[  34.3s]    CANOPY       x VEGETATION       161 voxeles (  1.29 m3)  *** REVISAR ***
+[  34.3s]    CANOPY       x RIBBON           145 voxeles (  1.16 m3)  *** REVISAR ***
+[  34.3s]    FURNITURE    x PLANTER          129 voxeles (  1.03 m3)  *** REVISAR ***
+[  34.3s]    RIBBON       x VEGETATION       105 voxeles (  0.84 m3)  *** REVISAR ***
+[  34.3s]    CANOPY       x WATER             95 voxeles (  0.76 m3)  contacto intencionado
+[  34.3s]    PLANTER      x STRUCTURE         92 voxeles (  0.74 m3)  contacto intencionado
+[  34.3s]    RIBBON       x STRUCTURE         87 voxeles (  0.70 m3)  contacto intencionado
+[  34.3s]    FURNITURE    x WATER             74 voxeles (  0.59 m3)  *** REVISAR ***
+[  34.3s]    FURNITURE    x PODS              72 voxeles (  0.58 m3)  *** REVISAR ***
+[  34.3s]    PODS         x WATER             42 voxeles (  0.34 m3)  *** REVISAR ***
+[  34.3s]    RIBBON       x WATER             35 voxeles (  0.28 m3)  *** REVISAR ***
+[  34.3s]    PLANTER      x RIBBON            33 voxeles (  0.26 m3)  *** REVISAR ***
+[  34.3s]    FURNITURE    x STRUCTURE          2 voxeles (  0.02 m3)  contacto intencionado
+[  34.3s]    PODS         x RIBBON             1 voxeles (  0.01 m3)  *** REVISAR ***
+[  34.3s]    colisiones objeto-objeto no intencionadas: 220 (top 30 listadas)
+[  34.3s] A11 · validacion con persona de referencia (1.70 m)
+[  34.3s]    32 puntos rojos con coordenada (17 de paso medidos in situ · 15 de objeto medidos en su entorno)
+[  34.3s]    no admite el cuerpo (0.55 m): 15 · la cabeza (1.85 m): 0 · silla (0.80 m): 15 · cruce (1.80 m): 17
+[  34.3s] INCIDENCIAS: 73 (RED 36 · YELLOW 22 · GREEN 15)
+[  34.3s] OK · datos en _data/

@@ -1,0 +1,173 @@
+{
+ "band": 5.5,
+ "zobst": 2.5,
+ "rows": [
+  {
+   "name": "Centro Comercial",
+   "x": -79.34,
+   "y": 66.69,
+   "en_ambito": false,
+   "d_suelo": 46.73,
+   "elem_suelo": "MAST_3",
+   "d_aereo": 44.95,
+   "elem_aereo": "TANK",
+   "z_aereo": 9.66,
+   "n_banda_suelo": 0,
+   "n_banda_aereo": 0,
+   "familias": [],
+   "familias_aereas": [],
+   "libre_min": 11.25,
+   "libre_medio": 17.99,
+   "galibo": null,
+   "invasores": []
+  },
+  {
+   "name": "Cercanías",
+   "x": 57.01,
+   "y": -5.4,
+   "en_ambito": true,
+   "d_suelo": 5.77,
+   "elem_suelo": "POD_TRAIN",
+   "d_aereo": 0.25,
+   "elem_aereo": "SAT_C3-L1",
+   "z_aereo": 9.55,
+   "n_banda_suelo": 0,
+   "n_banda_aereo": 81,
+   "familias": [],
+   "familias_aereas": [
+    "CANOPY",
+    "DETAIL",
+    "RIBBON",
+    "STRUCTURE"
+   ],
+   "libre_min": 5.75,
+   "libre_medio": 13.91,
+   "galibo": 5.78,
+   "invasores": []
+  },
+  {
+   "name": "Carretas",
+   "x": -3.34,
+   "y": -27.7,
+   "en_ambito": false,
+   "d_suelo": 24.57,
+   "elem_suelo": "MAIN",
+   "d_aereo": 22.46,
+   "elem_aereo": "DECK_FASCIA",
+   "z_aereo": 5.72,
+   "n_banda_suelo": 0,
+   "n_banda_aereo": 0,
+   "familias": [],
+   "familias_aereas": [],
+   "libre_min": 17.5,
+   "libre_medio": 19.73,
+   "galibo": null,
+   "invasores": []
+  },
+  {
+   "name": "Carmen",
+   "x": 18.48,
+   "y": 25.11,
+   "en_ambito": true,
+   "d_suelo": 5.72,
+   "elem_suelo": "CURB_E-3",
+   "d_aereo": 0.66,
+   "elem_aereo": "SAT_C2-L1",
+   "z_aereo": 10.55,
+   "n_banda_suelo": 0,
+   "n_banda_aereo": 207,
+   "familias": [],
+   "familias_aereas": [
+    "CANOPY",
+    "DETAIL",
+    "RIBBON",
+    "STRUCTURE",
+    "VEGETATION"
+   ],
+   "libre_min": 5.75,
+   "libre_medio": 11.45,
+   "galibo": 5.78,
+   "invasores": []
+  },
+  {
+   "name": "Mayor",
+   "x": -84.16,
+   "y": -20.57,
+   "en_ambito": true,
+   "d_suelo": 12.63,
+   "elem_suelo": "STAIR_SB",
+   "d_aereo": 10.91,
+   "elem_aereo": "SAT_C1-L2",
+   "z_aereo": 7.55,
+   "n_banda_suelo": 0,
+   "n_banda_aereo": 0,
+   "familias": [],
+   "familias_aereas": [],
+   "libre_min": 12.75,
+   "libre_medio": 19.59,
+   "galibo": null,
+   "invasores": []
+  },
+  {
+   "name": "Alcalá",
+   "x": 46.91,
+   "y": 18.85,
+   "en_ambito": true,
+   "d_suelo": 4.75,
+   "elem_suelo": "LAB02",
+   "d_aereo": 0.3,
+   "elem_aereo": "SAT_C3-L1",
+   "z_aereo": 9.55,
+   "n_banda_suelo": 1,
+   "n_banda_aereo": 186,
+   "familias": [
+    "PODS"
+   ],
+   "familias_aereas": [
+    "CANOPY",
+    "DETAIL",
+    "RIBBON",
+    "STRUCTURE",
+    "VEGETATION",
+    "WATER"
+   ],
+   "libre_min": 6.75,
+   "libre_medio": 16.62,
+   "galibo": 5.78,
+   "invasores": [
+    [
+     "LAB02",
+     "PODS",
+     4.75,
+     0.0
+    ]
+   ]
+  },
+  {
+   "name": "Alcalá",
+   "x": 40.23,
+   "y": 12.0,
+   "en_ambito": true,
+   "d_suelo": 5.9,
+   "elem_suelo": "NEB_POST",
+   "d_aereo": 0.13,
+   "elem_aereo": "DECK_CANALETA",
+   "z_aereo": 5.99,
+   "n_banda_suelo": 0,
+   "n_banda_aereo": 287,
+   "familias": [],
+   "familias_aereas": [
+    "CANOPY",
+    "DETAIL",
+    "RIBBON",
+    "STRUCTURE",
+    "VEGETATION",
+    "WATER"
+   ],
+   "libre_min": 6.25,
+   "libre_medio": 15.52,
+   "galibo": 5.78,
+   "invasores": []
+  }
+ ]
+}

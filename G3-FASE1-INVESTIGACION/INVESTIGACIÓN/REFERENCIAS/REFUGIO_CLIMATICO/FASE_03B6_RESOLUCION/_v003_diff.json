@@ -1,0 +1,506 @@
+{
+ "base": "geometria_maestra_v002.json",
+ "fecha": "2026-08-11",
+ "cambios": [
+  {
+   "causa": "CR-8",
+   "que": "conos visuales + ventanas de invierno",
+   "detalle": "9 conos al reloj (semiancho 6 m) y 2 ventanas sin sombra nueva"
+  },
+  {
+   "causa": "CR-3c",
+   "que": "discos elevados a +8.30 sobre la cinta",
+   "detalle": [
+    {
+     "i": 17,
+     "xy": [
+      4.14,
+      17.85
+     ],
+     "cota": [
+      6.7,
+      8.3
+     ]
+    },
+    {
+     "i": 29,
+     "xy": [
+      -5.75,
+      15.43
+     ],
+     "cota": [
+      6.1,
+      8.3
+     ]
+    },
+    {
+     "i": 36,
+     "xy": [
+      50.99,
+      6.38
+     ],
+     "cota": [
+      6.7,
+      8.3
+     ]
+    },
+    {
+     "i": 42,
+     "xy": [
+      47.82,
+      9.22
+     ],
+     "cota": [
+      5.4,
+      8.3
+     ]
+    },
+    {
+     "i": 44,
+     "xy": [
+      70.32,
+      2.0
+     ],
+     "cota": [
+      6.5,
+      8.3
+     ]
+    },
+    {
+     "i": 46,
+     "xy": [
+      74.16,
+      1.48
+     ],
+     "cota": [
+      6.2,
+      8.3
+     ]
+    },
+    {
+     "i": 47,
+     "xy": [
+      67.27,
+      -0.74
+     ],
+     "cota": [
+      6.3,
+      8.3
+     ]
+    }
+   ]
+  },
+  {
+   "causa": "CR-3c",
+   "que": "discos nuevos de sombra de cinta a +8.3 alternados",
+   "detalle": {
+    "n": 23,
+    "xy": [
+     [
+      -77.62,
+      12.13
+     ],
+     [
+      -67.75,
+      16.24
+     ],
+     [
+      -61.38,
+      26.06
+     ],
+     [
+      -50.4,
+      24.76
+     ],
+     [
+      -40.58,
+      26.55
+     ],
+     [
+      -35.9,
+      16.09
+     ],
+     [
+      -38.97,
+      -8.74
+     ],
+     [
+      -49.64,
+      -8.47
+     ],
+     [
+      -72.54,
+      2.61
+     ],
+     [
+      -58.07,
+      18.14
+     ],
+     [
+      -22.94,
+      27.45
+     ],
+     [
+      -12.5,
+      26.48
+     ],
+     [
+      6.72,
+      32.7
+     ],
+     [
+      24.24,
+      11.49
+     ],
+     [
+      36.61,
+      21.64
+     ],
+     [
+      37.14,
+      11.33
+     ],
+     [
+      40.28,
+      1.39
+     ],
+     [
+      72.71,
+      15.04
+     ],
+     [
+      61.61,
+      16.75
+     ],
+     [
+      52.52,
+      23.1
+     ],
+     [
+      46.25,
+      14.49
+     ],
+     [
+      51.08,
+      -2.12
+     ],
+     [
+      61.71,
+      -1.03
+     ]
+    ]
+   }
+  },
+  {
+   "causa": "CR-4",
+   "que": "candidato descartado por cono/ventana",
+   "detalle": {
+    "xy": [
+     -12,
+     2
+    ],
+    "motivo": "CL-HOT-010 istmo"
+   }
+  },
+  {
+   "causa": "CR-4",
+   "que": "candidato descartado por cono/ventana",
+   "detalle": {
+    "xy": [
+     3,
+     26
+    ],
+    "motivo": "CL-HOT-021 C2N"
+   }
+  },
+  {
+   "causa": "CR-4",
+   "que": "candidato descartado por cono/ventana",
+   "detalle": {
+    "xy": [
+     -36,
+     35
+    ],
+    "motivo": "CL-HOT-024"
+   }
+  },
+  {
+   "causa": "CR-4",
+   "que": "candidato descartado por cono/ventana",
+   "detalle": {
+    "xy": [
+     -4,
+     37
+    ],
+    "motivo": "CL-HOT-023"
+   }
+  },
+  {
+   "causa": "CR-4",
+   "que": "candidato descartado por cono/ventana",
+   "detalle": {
+    "xy": [
+     -18,
+     -12
+    ],
+    "motivo": "eje oeste 1"
+   }
+  },
+  {
+   "causa": "CR-4",
+   "que": "candidato descartado por cono/ventana",
+   "detalle": {
+    "xy": [
+     -52,
+     -13
+    ],
+    "motivo": "eje oeste 3"
+   }
+  },
+  {
+   "causa": "CR-4",
+   "que": "discos de sombra de corredor a +5.0 (mastil fuera de eje)",
+   "detalle": {
+    "n": 4,
+    "xy": [
+     [
+      -18,
+      17
+     ],
+     [
+      -25,
+      31
+     ],
+     [
+      -42,
+      17
+     ],
+     [
+      -42,
+      -12
+     ]
+    ]
+   }
+  },
+  {
+   "causa": "CR-4",
+   "que": "arboles de sombra en paseo norte (caducos)",
+   "detalle": [
+    [
+     33,
+     40.5
+    ],
+    [
+     45,
+     43.5
+    ],
+    [
+     51,
+     41.5
+    ],
+    [
+     57,
+     39.5
+    ]
+   ]
+  },
+  {
+   "causa": "CR-2",
+   "que": "puertas por retirada de capsulas (posiciones aprobadas intactas)",
+   "detalle": {
+    "T-O": {
+     "capsulas": 7,
+     "retiradas": [
+      [
+       -75.2,
+       15.3
+      ],
+      [
+       -80.1,
+       1.8
+      ],
+      [
+       -79.5,
+       -2.6
+      ]
+     ]
+    },
+    "T-SE": {
+     "capsulas": 8,
+     "retiradas": [
+      [
+       58.5,
+       8.6
+      ],
+      [
+       56.8,
+       2.4
+      ],
+      [
+       68.7,
+       -9.4
+      ],
+      [
+       76.0,
+       -8.8
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "causa": "CR-9",
+   "que": "eje por el sur de la estatua + vertice de montera librando la cuba",
+   "detalle": null
+  },
+  {
+   "causa": "CR-7",
+   "que": "nebulizadores fuera de banda de boca (5.95) y fuera de eje de corredor (2.8)",
+   "detalle": [
+    [
+     -60.93,
+     -9.61
+    ],
+    [
+     -51.42,
+     -14.44
+    ],
+    [
+     -42.57,
+     -8.34
+    ],
+    [
+     21.21,
+     19.83
+    ],
+    [
+     12.55,
+     25.62
+    ],
+    [
+     52.65,
+     17.29
+    ],
+    [
+     45.62,
+     13.04
+    ],
+    [
+     46.07,
+     13.13
+    ],
+    [
+     45.27,
+     8.84
+    ],
+    [
+     44.92,
+     6.28
+    ],
+    [
+     46.12,
+     1.7
+    ],
+    [
+     53.13,
+     -0.89
+    ],
+    [
+     61.3,
+     -1.28
+    ]
+   ]
+  },
+  {
+   "causa": "CR-7",
+   "que": "estanque E-3 desplazado (bordillo a 4.92 m de boca Carmen)",
+   "detalle": {
+    "de": [
+     11,
+     21
+    ],
+    "a": [
+     10.4,
+     20.4
+    ]
+   }
+  },
+  {
+   "causa": "CR-6",
+   "que": "depositos-gota re-espaciados a 3.05 m entre centros (paso libre ~1.45 > 0.90)",
+   "detalle": [
+    [
+     -44.33,
+     16.56
+    ],
+    [
+     -42.5,
+     19.0
+    ],
+    [
+     -40.67,
+     21.44
+    ],
+    [
+     9.78,
+     3.17
+    ],
+    [
+     12.22,
+     1.33
+    ],
+    [
+     54,
+     16.5
+    ]
+   ]
+  },
+  {
+   "causa": "CR-6",
+   "que": "reserva tecnica: 3 registros + recirculacion por cluster + viveros reubicados",
+   "detalle": [
+    [
+     -69.5,
+     15.5
+    ],
+    [
+     12.5,
+     31.5
+    ],
+    [
+     78.0,
+     12.0
+    ]
+   ]
+  },
+  {
+   "causa": "CR-9",
+   "que": "estatua consolidada (pedestal 4.4x2.6x2.4 + volumen ecuestre, respeto r=8)",
+   "detalle": {
+    "xy": [
+     -28.0,
+     -14.0
+    ],
+    "g": "G2+",
+    "fuente": "0F53E6F0 (DEC-0006); pendiente plano municipal",
+    "pedestal": [
+     4.4,
+     2.6,
+     2.4
+    ],
+    "volumen_ecuestre_h": 4.2,
+    "respeto_r": 8.0
+   }
+  },
+  {
+   "causa": "CR-3e",
+   "que": "balsa B-C3b elevada (tocaba la barandilla +7.05)",
+   "detalle": {
+    "cota": [
+     7.0,
+     7.6
+    ]
+   }
+  }
+ ]
+}

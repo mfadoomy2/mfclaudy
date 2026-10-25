@@ -1,0 +1,130 @@
+{
+ "chk1_corredores": [
+  {
+   "id": "eje-mayor-alcala",
+   "paso_min_m": 3.9,
+   "ok": true,
+   "punto": [
+    -58.0,
+    -12.0
+   ],
+   "culpable": "soporte-cinta(-58,-10)"
+  },
+  {
+   "id": "preciados-carretas",
+   "paso_min_m": 5.74,
+   "ok": true,
+   "punto": [
+    -24.2,
+    24.0
+   ],
+   "culpable": "soporte-cinta(-21,25)"
+  },
+  {
+   "id": "carmen-correos",
+   "paso_min_m": 5.21,
+   "ok": true,
+   "punto": [
+    -18.8,
+    0.0
+   ],
+   "culpable": "estanque(-25,-2)"
+  },
+  {
+   "id": "montera-espozymina",
+   "paso_min_m": 3.68,
+   "ok": true,
+   "punto": [
+    43.1,
+    0.0
+   ],
+   "culpable": "estanque(48,1)"
+  },
+  {
+   "id": "arenal-alcala",
+   "paso_min_m": 6.83,
+   "ok": true,
+   "punto": [
+    -75.8,
+    24.0
+   ],
+   "culpable": "capsula-tren(-72,19)"
+  }
+ ],
+ "chk2_galibo": [],
+ "chk3_metro": [
+  {
+   "boca": "Centro Comercial",
+   "pos": [
+    -79.34,
+    66.69
+   ],
+   "invasores": [],
+   "ok": true
+  },
+  {
+   "boca": "Cercan\u00edas",
+   "pos": [
+    57.01,
+    -5.4
+   ],
+   "invasores": [],
+   "ok": true
+  },
+  {
+   "boca": "Carretas",
+   "pos": [
+    -3.34,
+    -27.7
+   ],
+   "invasores": [],
+   "ok": true
+  },
+  {
+   "boca": "Carmen",
+   "pos": [
+    18.48,
+    25.11
+   ],
+   "invasores": [],
+   "ok": true
+  },
+  {
+   "boca": "Mayor",
+   "pos": [
+    -84.16,
+    -20.57
+   ],
+   "invasores": [],
+   "ok": true
+  },
+  {
+   "boca": "Alcal\u00e1",
+   "pos": [
+    46.91,
+    18.85
+   ],
+   "invasores": [],
+   "ok": true
+  },
+  {
+   "boca": "Alcal\u00e1",
+   "pos": [
+    40.23,
+    12.0
+   ],
+   "invasores": [],
+   "ok": true
+  }
+ ],
+ "chk4_soportes": {
+  "total": 40,
+  "junto_corredor": 0
+ },
+ "chk5_ocupacion": {
+  "area_obstaculos_m2": 1157,
+  "plaza_m2": 10957,
+  "porcentaje": 10.6
+ },
+ "chk1b_esbeltos": []
+}

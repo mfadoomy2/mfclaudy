@@ -1,0 +1,181 @@
+{
+ "stats": {
+  "area_cubierta": 4058.1875,
+  "area_libre": 10359.6875,
+  "pct_cubierta": 39.17287562969443,
+  "minimo": 2.1685744048670195,
+  "p01": 3.0639181792040167,
+  "p05": 4.359061415458669,
+  "p50": 5.78,
+  "minimo_firme": 2.798930980731404,
+  "p05_firme": 4.3762,
+  "area_firme_bajo3": 0.5625,
+  "area_veg_bajo250": 3.375,
+  "minimo_veg": 2.1685744048670195
+ },
+ "low": [
+  {
+   "x": -8.375,
+   "y": 26.125,
+   "h": 2.3092865065075365,
+   "area": 0.3125,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 58.625,
+   "y": 22.125,
+   "h": 2.3098149218098425,
+   "area": 0.25,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": -17.125,
+   "y": 15.625,
+   "h": 2.3173608526262397,
+   "area": 0.375,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 19.625,
+   "y": -6.875,
+   "h": 2.3335891760538594,
+   "area": 0.3125,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 18.875,
+   "y": -3.625,
+   "h": 2.339260594649663,
+   "area": 0.3125,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 32.125,
+   "y": 12.875,
+   "h": 2.3513593418863343,
+   "area": 0.25,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": -9.375,
+   "y": 29.375,
+   "h": 2.3626057115911463,
+   "area": 0.25,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 57.625,
+   "y": 25.375,
+   "h": 2.3647734970030494,
+   "area": 0.3125,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": -14.375,
+   "y": 16.375,
+   "h": 2.3838011124832836,
+   "area": 0.25,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 65.625,
+   "y": -6.125,
+   "h": 2.38777359616484,
+   "area": 0.3125,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  }
+ ],
+ "low_firme": [],
+ "low_veg": [
+  {
+   "x": -8.375,
+   "y": 26.125,
+   "h": 2.3092865065075365,
+   "area": 0.3125,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 58.625,
+   "y": 22.125,
+   "h": 2.3098149218098425,
+   "area": 0.25,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": -17.125,
+   "y": 15.625,
+   "h": 2.3173608526262397,
+   "area": 0.375,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 19.625,
+   "y": -6.875,
+   "h": 2.3335891760538594,
+   "area": 0.3125,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 18.875,
+   "y": -3.625,
+   "h": 2.339260594649663,
+   "area": 0.3125,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 32.125,
+   "y": 12.875,
+   "h": 2.3513593418863343,
+   "area": 0.25,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": -9.375,
+   "y": 29.375,
+   "h": 2.3626057115911463,
+   "area": 0.25,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 57.625,
+   "y": 25.375,
+   "h": 2.3647734970030494,
+   "area": 0.3125,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": -14.375,
+   "y": 16.375,
+   "h": 2.3838011124832836,
+   "area": 0.25,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  },
+  {
+   "x": 65.625,
+   "y": -6.125,
+   "h": 2.38777359616484,
+   "area": 0.3125,
+   "obj": "VEG2_TROPICAL",
+   "fam": "VEGETATION"
+  }
+ ]
+}

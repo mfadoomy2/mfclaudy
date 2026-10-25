@@ -1,0 +1,92 @@
+{
+ "kpis": [
+  {
+   "nombre": "EFICIENCIA ESPACIAL DEL REFUGIO",
+   "formula": "m² de refugio efectivo / m² de suelo ocupado por el proyecto",
+   "valor": "4.2",
+   "unidad": "m²/m²",
+   "nivel": "A",
+   "lectura": "cada metro de suelo que el proyecto ocupa produce ~4 m² de refugio: la sombra trabaja en voladizo, no en planta"
+  },
+  {
+   "nombre": "COBERTURA REAL DE TRÁNSITO (sombra × flujo)",
+   "formula": "Σ (peso de flujo por eje × sombra media sobre su traza)",
+   "valor": "23.3 % (antes 1.9 %)",
+   "unidad": "% del flujo",
+   "nivel": "B",
+   "lectura": "el peatón MEDIO en tránsito camina en sombra el 23.3 % de su cruce (antes 1.9 %): ×12 — la cara amable de D-015; los ejes no están sombreados del todo, pero tampoco a cero"
+  },
+  {
+   "nombre": "EFICIENCIA HÍDRICA SOCIAL",
+   "formula": "litros de agua totales / persona-hora protegida (BASE)",
+   "valor": "13.9",
+   "unidad": "L/p·h",
+   "nivel": "C",
+   "lectura": "13,9 L por persona-hora protegida — una cisterna y media; en HIGH baja a 3,1 L: el agua rinde más cuanta más gente protege"
+  },
+  {
+   "nombre": "EFICIENCIA DE MANTENIMIENTO",
+   "formula": "personas-hora protegidas/año (BASE) / horas anuales de conservación",
+   "valor": "33",
+   "unidad": "p·h por hora de trabajo",
+   "nivel": "C",
+   "lectura": "cada hora de cuadrilla compra ~33 personas-hora de confort: la conservación no es gasto muerto, es producción de refugio"
+  },
+  {
+   "nombre": "VISIBILIDAD EFECTIVA DEL RELOJ",
+   "formula": "visibilidad ponderada por potencial de estancia (vis × IPE)",
+   "valor": "33.6 % (41,5 % por superficie)",
+   "unidad": "%",
+   "nivel": "B",
+   "lectura": "la métrica clásica sobreestima la experiencia real del patrimonio: D-003 nace de este indicador"
+  },
+  {
+   "nombre": "COSTE POR PERSONA-HORA (25 AÑOS)",
+   "formula": "(CAPEX + 25·OPEX+fondo) / p·h acumuladas",
+   "valor": "4,9 (1,1–29)",
+   "unidad": "€/p·h",
+   "nivel": "C",
+   "lectura": "el indicador de decisión municipal: umbral propuesto 8 €/p·h con regla de validación en piloto"
+  },
+  {
+   "nombre": "ROBUSTEZ AL FALLO",
+   "formula": "fracción del ΔUTCI que sobrevive al peor fallo combinado",
+   "valor": "~66",
+   "unidad": "%",
+   "nivel": "B",
+   "lectura": "ningún modo de fallo devuelve la plaza al estado actual (D-009)"
+  }
+ ],
+ "cobertura_detalle": [
+  {
+   "eje": "eje-mayor-alcala",
+   "sombra_media_B": 0.086,
+   "sombra_media_A": 0.02,
+   "peso_flujo": 0.19
+  },
+  {
+   "eje": "preciados-carretas",
+   "sombra_media_B": 0.313,
+   "sombra_media_A": 0.004,
+   "peso_flujo": 0.267
+  },
+  {
+   "eje": "carmen-correos",
+   "sombra_media_B": 0.374,
+   "sombra_media_A": 0.006,
+   "peso_flujo": 0.191
+  },
+  {
+   "eje": "montera-espozymina",
+   "sombra_media_B": 0.388,
+   "sombra_media_A": 0.061,
+   "peso_flujo": 0.085
+  },
+  {
+   "eje": "arenal-alcala",
+   "sombra_media_B": 0.109,
+   "sombra_media_A": 0.029,
+   "peso_flujo": 0.267
+  }
+ ]
+}

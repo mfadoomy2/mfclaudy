@@ -1,0 +1,120 @@
+{
+ "base": "geometria_maestra_v003.json",
+ "fecha": "2026-08-11",
+ "cambios": [
+  {
+   "causa": "A/B",
+   "que": "urbano_v004: 33 edificios-guard + 3 kioscos + estacion 106",
+   "detalle": null
+  },
+  {
+   "causa": "A1b",
+   "que": "ejes declarados: 8 puntos re-proyectados fuera de la Estacion+2.0",
+   "detalle": null
+  },
+  {
+   "causa": "A2",
+   "que": "arboles nuevos fuera de edificios (busqueda en abanico S/SO)",
+   "detalle": [
+    {
+     "de": [
+      -78,
+      15.0
+     ],
+     "a": [
+      -72,
+      6.0
+     ],
+     "edificio": 133
+    },
+    {
+     "de": [
+      -74,
+      23.0
+     ],
+     "a": [
+      -68,
+      9.5
+     ],
+     "edificio": 133
+    },
+    {
+     "de": [
+      -60,
+      29.0
+     ],
+     "a": [
+      -54,
+      27.5
+     ],
+     "edificio": 133
+    },
+    {
+     "de": [
+      -44,
+      29.0
+     ],
+     "a": [
+      -44,
+      27.5
+     ],
+     "edificio": null
+    },
+    {
+     "de": [
+      -84,
+      3.0
+     ],
+     "a": [
+      -84,
+      1.5
+     ],
+     "edificio": null
+    },
+    {
+     "de": [
+      33,
+      40.5
+     ],
+     "a": [
+      35,
+      39.0
+     ],
+     "edificio": null
+    },
+    {
+     "de": [
+      51,
+      41.5
+     ],
+     "a": [
+      45,
+      40.0
+     ],
+     "edificio": 71
+    },
+    {
+     "de": [
+      57,
+      39.5
+     ],
+     "a": [
+      53,
+      27.5
+     ],
+     "edificio": 71
+    }
+   ]
+  },
+  {
+   "causa": "A1",
+   "que": "T-O retirado de datos (4 caps): renace como tren-portico sobre el arco aplanado",
+   "detalle": null
+  },
+  {
+   "causa": "B",
+   "que": "atrio_v004: estacion (anillo+belvedere+senaletica) + Carmen (media luna) + aprons",
+   "detalle": null
+  }
+ ]
+}

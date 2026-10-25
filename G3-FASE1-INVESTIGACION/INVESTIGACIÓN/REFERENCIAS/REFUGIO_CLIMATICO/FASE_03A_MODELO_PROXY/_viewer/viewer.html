@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>html,body{margin:0;padding:0;overflow:hidden;background:#fff}</style>
+<script src="three.min.js"></script>
+<script src="scene.js"></script>
+</head>
+<body>
+<script>
+// Visor clay del proxy. Camara via query: ?cx=&cy=&cz=&tx=&ty=&tz=&fov=&ortho=&w=&h=
+const q = new URLSearchParams(location.search);
+const W = parseInt(q.get('w') || '1600'), Hpx = parseInt(q.get('h') || '1000');
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0xffffff);
+scene.fog = new THREE.Fog(0xffffff, 60, 340);
+
+let cam;
+if (q.get('ortho')) {
+  const s = parseFloat(q.get('ortho'));
+  cam = new THREE.OrthographicCamera(-s, s, s * Hpx / W, -s * Hpx / W, -500, 800);
+} else {
+  cam = new THREE.PerspectiveCamera(parseFloat(q.get('fov') || '62'), W / Hpx, 0.1, 800);
+}
+// proyecto: +X este, +Y norte, +Z arriba -> three: usamos Z-up directamente
+cam.up.set(0, 0, 1);
+cam.position.set(parseFloat(q.get('cx') || '0'), parseFloat(q.get('cy') || '-60'), parseFloat(q.get('cz') || '1.65'));
+cam.lookAt(parseFloat(q.get('tx') || '0'), parseFloat(q.get('ty') || '0'), parseFloat(q.get('tz') || '1.65'));
+
+scene.add(new THREE.HemisphereLight(0xffffff, 0xd8d4cc, 0.95));
+const sun = new THREE.DirectionalLight(0xfff4e0, 0.85);
+sun.position.set(120, -80, 160);
+scene.add(sun);
+const fill = new THREE.DirectionalLight(0xe8f0ff, 0.25);
+fill.position.set(-100, 60, 80);
+scene.add(fill);
+
+for (const o of SCENE_MESHES) {
+  const g = new THREE.BufferGeometry();
+  const pos = new Float32Array(o.V.length * 3);
+  o.V.forEach((v, i) => { pos[3*i] = v[0]; pos[3*i+1] = v[1]; pos[3*i+2] = v[2]; });
+  g.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+  const idx = new Uint32Array(o.F.length * 3);
+  o.F.forEach((f, i) => { idx[3*i] = f[0]; idx[3*i+1] = f[1]; idx[3*i+2] = f[2]; });
+  g.setIndex(new THREE.BufferAttribute(idx, 1));
+  g.computeVertexNormals();
+  const col = new THREE.Color(o.color[0]/255, o.color[1]/255, o.color[2]/255);
+  // clay: blanquear 45% el tinte de familia
+  col.lerp(new THREE.Color(0xffffff), 0.45);
+  const mat = new THREE.MeshStandardMaterial({color: col, roughness: 0.9, metalness: 0.0,
+    transparent: o.opacity < 1, opacity: Math.min(1, o.opacity + 0.15), side: THREE.DoubleSide});
+  scene.add(new THREE.Mesh(g, mat));
+}
+for (const l of SCENE_LINES) {
+  const pts = [];
+  for (let i = 0; i < l.pts.length - 1; i++) {
+    pts.push(new THREE.Vector3(...l.pts[i]), new THREE.Vector3(...l.pts[i+1]));
+  }
+  const g = new THREE.BufferGeometry().setFromPoints(pts);
+  const col = new THREE.Color(l.color[0]/255, l.color[1]/255, l.color[2]/255);
+  col.lerp(new THREE.Color(0xffffff), 0.3);
+  scene.add(new THREE.LineSegments(g, new THREE.LineBasicMaterial({color: col})));
+}
+
+const renderer = new THREE.WebGLRenderer({antialias: true, preserveDrawingBuffer: true});
+renderer.setSize(W, Hpx);
+document.body.appendChild(renderer.domElement);
+renderer.render(scene, cam);
+document.title = 'RENDER_DONE';
+</script>
+</body>
+</html>

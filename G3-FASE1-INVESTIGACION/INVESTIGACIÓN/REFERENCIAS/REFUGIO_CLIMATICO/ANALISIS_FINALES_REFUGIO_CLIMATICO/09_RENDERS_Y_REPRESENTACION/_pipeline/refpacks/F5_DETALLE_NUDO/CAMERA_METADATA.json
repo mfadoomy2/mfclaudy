@@ -1,0 +1,56 @@
+{
+ "camera_id": "F5_DETALLE_NUDO",
+ "escena": "SOL_FINAL_V006.blend (v006 build 12)",
+ "location": [
+  -1.6,
+  3.2,
+  8.1
+ ],
+ "target": [
+  0.1,
+  5.1,
+  9.2
+ ],
+ "matrix_world": [
+  [
+   0.7452412843704224,
+   -0.26415425539016724,
+   -0.6122401356697083,
+   -1.600000023841858
+  ],
+  [
+   -0.6667948961257935,
+   -0.2952311933040619,
+   -0.6842682957649231,
+   3.200000047683716
+  ],
+  [
+   0.0,
+   0.9181835651397705,
+   -0.3961551785469055,
+   8.100000381469727
+  ],
+  [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "fov_vertical_deg": 42.0,
+ "focal_equiv_35mm_sensor24": 31.26,
+ "sensor_fit": "VERTICAL",
+ "clip_start": 0.10000000149011612,
+ "clip_end": 1200.0,
+ "resolucion": [
+  1920,
+  1200
+ ],
+ "aspect": 1.6,
+ "dof": {
+  "activo": true,
+  "fstop": 8.0
+ },
+ "luz": "tarde PSA (SUN_03D.json) en beauty/clay/ao; passes de datos sin luz",
+ "nota": "matrix_world transforma camara->mundo (Blender, Z-up, -Z mirada). depth.png codifica 0-250 m lineal invertido (cerca=1)."
+}

@@ -1,0 +1,24 @@
+{
+  "nota": "Paleta curada FASE 01. Cada color esta anclado a muestras reales (extract_palette.py + sample_accents.py). CMYK aproximado por conversion directa, ajustar en preimpresion.",
+  "colores": [
+    {"rol": "BLANCO BASE",        "hex": "#FFFFFF", "rgb": [255,255,255], "cmyk": [0,0,0,0],    "uso": "fondo de lamina, espacio, vacio", "opacidad": 1.0, "fuente": "fondo comun de todas las referencias"},
+    {"rol": "GRIS PIEDRA",        "hex": "#EDEAE4", "rgb": [237,234,228], "cmyk": [0,1,4,7],    "uso": "relleno de contexto edificado existente", "opacidad": 1.0, "fuente": "granito de plaza #C7B6AB (0F53E6F0) aclarado para atenuar contexto"},
+    {"rol": "GRIS CONTEXTO",      "hex": "#B5B1A9", "rgb": [181,177,169], "cmyk": [0,2,7,29],   "uso": "linea de contexto, existente, tramas urbanas", "opacidad": 1.0, "fuente": "k-means global #AFADA3/#999991"},
+    {"rol": "GRIS TECNICO",       "hex": "#33322E", "rgb": [51,50,46],    "cmyk": [0,2,10,80],  "uso": "texto, cotas, datos, simbolos tecnicos", "opacidad": 1.0, "fuente": "acentos oscuros #252317/#423F2E neutralizados"},
+    {"rol": "TURQUESA ESTRUCTURA","hex": "#3E969B", "rgb": [62,150,155],  "cmyk": [60,3,0,39],  "uso": "loops, anillos, estructura primaria propuesta", "opacidad": 0.95, "fuente": "membrana HR01 acento #3E969B (muestreo directo)"},
+    {"rol": "TURQUESA PROFUNDO",  "hex": "#2E6E6B", "rgb": [46,110,107],  "cmyk": [58,0,3,57],  "uso": "cinta-recorrido, enfasis estructural, titulos de familia", "opacidad": 1.0, "fuente": "pista HR01 acento #336D70"},
+    {"rol": "VERDE LIMA",         "hex": "#C3D48A", "rgb": [195,212,138], "cmyk": [8,0,35,17],  "uso": "discos-canopy, superficies vegetales elevadas", "opacidad": 0.55, "fuente": "dibujo matriz #B3C1A8 + balsa HR01 #97963C"},
+    {"rol": "VERDE AGUA",         "hex": "#8FC7AE", "rgb": [143,199,174], "cmyk": [28,0,13,22], "uso": "balsas, estanques, agua con biologia", "opacidad": 0.55, "fuente": "dibujo matriz #89A68E + acrilico maqueta HR02"},
+    {"rol": "VERDE VEGETAL",      "hex": "#6F8F53", "rgb": [111,143,83],  "cmyk": [22,0,42,44], "uso": "arbolado, vegetacion en suelo, jardineras", "opacidad": 0.85, "fuente": "HR01 #4E502D aclarado / dosel real #A4A873"},
+    {"rol": "VERDE MICROALGAS",   "hex": "#6E7A45", "rgb": [110,122,69],  "cmyk": [10,0,43,52], "uso": "laminas profundas de cultivo, biomasa", "opacidad": 0.7,  "fuente": "balsa real 0F53E6F0 #7E7C52/#998A34"},
+    {"rol": "ROSA CHICLE",        "hex": "#E794AC", "rgb": [231,148,172], "cmyk": [0,36,26,9],  "uso": "capsulas neumaticas, hinchables, programa", "opacidad": 0.65, "fuente": "capsulas HR01 mediana #E59FA9 / HR11 #D393A6"},
+    {"rol": "ROSA INTENSO",       "hex": "#D6577F", "rgb": [214,87,127],  "cmyk": [0,59,41,16], "uso": "red hidraulica, depositos, acentos de dato", "opacidad": 0.9,  "fuente": "acento saturado HR01 #E53763 rebajado con HR11 #C76A88"},
+    {"rol": "COBRE",              "hex": "#B08968", "rgb": [176,137,104], "cmyk": [0,22,41,31], "uso": "madera, bancos, acentos calidos, detalles de union", "opacidad": 0.9, "fuente": "k-means #88774E + disco real #BB9B6B"}
+  ],
+  "certezas": {
+    "G1": "linea continua, opacidad plena",
+    "G2": "linea continua, opacidad 85%",
+    "G3": "linea discontinua 2.2/1.6",
+    "G4": "linea punteada 0.5/1.2 + nota al margen"
+  }
+}

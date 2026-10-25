@@ -1,0 +1,56 @@
+{
+ "camera_id": "F3_ATRIO_ESTACION",
+ "escena": "SOL_FINAL_V006.blend (v006 build 12)",
+ "location": [
+  50.0,
+  6.0,
+  1.65
+ ],
+ "target": [
+  57.0,
+  -2.0,
+  2.5
+ ],
+ "matrix_world": [
+  [
+   -0.7525767683982849,
+   -0.052487339824438095,
+   -0.6564094424247742,
+   50.0
+  ],
+  [
+   -0.6585046648979187,
+   0.059985529631376266,
+   0.7501822113990784,
+   6.0
+  ],
+  [
+   -3.725290742551124e-09,
+   0.9968183636665344,
+   -0.07970686256885529,
+   1.649999976158142
+  ],
+  [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "fov_vertical_deg": 65.0,
+ "focal_equiv_35mm_sensor24": 18.84,
+ "sensor_fit": "VERTICAL",
+ "clip_start": 0.10000000149011612,
+ "clip_end": 1200.0,
+ "resolucion": [
+  1920,
+  1200
+ ],
+ "aspect": 1.6,
+ "dof": {
+  "activo": true,
+  "fstop": 8.0
+ },
+ "luz": "tarde PSA (SUN_03D.json) en beauty/clay/ao; passes de datos sin luz",
+ "nota": "matrix_world transforma camara->mundo (Blender, Z-up, -Z mirada). depth.png codifica 0-250 m lineal invertido (cerca=1)."
+}

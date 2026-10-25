@@ -1,0 +1,88 @@
+{
+ "penetraciones": [],
+ "bocas": [
+  {
+   "x": -79.34,
+   "y": 66.69,
+   "name": "Centro Comercial",
+   "d_cinta": 46.7,
+   "d_loop": 44.5,
+   "loop": "C1-L1"
+  },
+  {
+   "x": 57.01,
+   "y": -5.4,
+   "name": "Cercanías",
+   "d_cinta": 0.9,
+   "d_loop": 1.6,
+   "loop": "C3-L1"
+  },
+  {
+   "x": -3.34,
+   "y": -27.7,
+   "name": "Carretas",
+   "d_cinta": 23.8,
+   "d_loop": 22.3,
+   "loop": "C2-L3"
+  },
+  {
+   "x": 18.48,
+   "y": 25.11,
+   "name": "Carmen",
+   "d_cinta": 0.2,
+   "d_loop": 2.7,
+   "loop": "C2-L1"
+  },
+  {
+   "x": -84.16,
+   "y": -20.57,
+   "name": "Mayor",
+   "d_cinta": 13.9,
+   "d_loop": 11.0,
+   "loop": "C1-L2"
+  },
+  {
+   "x": 46.91,
+   "y": 18.85,
+   "name": "Alcalá",
+   "d_cinta": 0.5,
+   "d_loop": 0.8,
+   "loop": "C3-L1"
+  },
+  {
+   "x": 40.23,
+   "y": 12.0,
+   "name": "Alcalá",
+   "d_cinta": 0.9,
+   "d_loop": 1.3,
+   "loop": "C3-L1"
+  }
+ ],
+ "kioscos": [
+  {
+   "i": 74,
+   "area": 76.1,
+   "name": ""
+  },
+  {
+   "i": 109,
+   "area": 44.2,
+   "name": "Estanco"
+  },
+  {
+   "i": 110,
+   "area": 44.2,
+   "name": "Estanco"
+  },
+  {
+   "i": 111,
+   "area": 15.3,
+   "name": ""
+  },
+  {
+   "i": 123,
+   "area": 70.3,
+   "name": ""
+  }
+ ]
+}

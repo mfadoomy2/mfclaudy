@@ -1,0 +1,105 @@
+{
+ "metro_clima": {
+  "bocas": [
+   {
+    "boca": "Cercanías",
+    "d_refugio_m": 3.0,
+    "sombra_salida_30m": 0.46
+   },
+   {
+    "boca": "Carmen",
+    "d_refugio_m": 0.0,
+    "sombra_salida_30m": 0.53
+   },
+   {
+    "boca": "Mayor",
+    "d_refugio_m": 14.0,
+    "sombra_salida_30m": 0.19
+   },
+   {
+    "boca": "Alcalá",
+    "d_refugio_m": 0.0,
+    "sombra_salida_30m": 0.5
+   },
+   {
+    "boca": "Alcalá",
+    "d_refugio_m": 0.0,
+    "sombra_salida_30m": 0.48
+   }
+  ],
+  "dato_flujo": "73 M viajeros/ano por la estacion de Sol (F-01)",
+  "lectura": "distancia geodesica de cada boca al primer REFUGIO EFECTIVO y sombra critica media del entorno de salida (30 m)"
+ },
+ "visuales_flujo": {
+  "pct_flujo_con_vista_reloj": 48.9,
+  "detalle": [
+   {
+    "eje": "eje-mayor-alcala",
+    "pct_traza_con_reloj": 84.5,
+    "peso_flujo": 0.19
+   },
+   {
+    "eje": "preciados-carretas",
+    "pct_traza_con_reloj": 72.9,
+    "peso_flujo": 0.267
+   },
+   {
+    "eje": "carmen-correos",
+    "pct_traza_con_reloj": 40.7,
+    "peso_flujo": 0.191
+   },
+   {
+    "eje": "montera-espozymina",
+    "pct_traza_con_reloj": 49.2,
+    "peso_flujo": 0.085
+   },
+   {
+    "eje": "arenal-alcala",
+    "pct_traza_con_reloj": 5.5,
+    "peso_flujo": 0.267
+   }
+  ],
+  "comparacion": {
+   "por_superficie": 41.5,
+   "por_estancia": 25.5,
+   "por_flujo": 48.9
+  },
+  "lectura": "fraccion del FLUJO peatonal (ponderado por eje) que conserva la vista del reloj a lo largo de su traza — la tercera metrica de visibilidad"
+ },
+ "beneficio_complejidad": [
+  {
+   "mecanismo": "Sombra estructural",
+   "aporte_dUTCI_pct": 85,
+   "dependencias": 0,
+   "frecuencia_mant": "anual (inspeccion)",
+   "indice": "maximo beneficio, cero dependencia: el nucleo antifragil"
+  },
+  {
+   "mecanismo": "Agua laminas/splash",
+   "aporte_dUTCI_pct": 8,
+   "dependencias": 2,
+   "frecuencia_mant": "mensual",
+   "indice": "beneficio medio, dependencia red+bombas"
+  },
+  {
+   "mecanismo": "Nebulizacion",
+   "aporte_dUTCI_pct": 5,
+   "dependencias": 3,
+   "frecuencia_mant": "trimestral (cal)",
+   "indice": "beneficio condicional, dependencia maxima (agua+bomba AP+meteo)"
+  },
+  {
+   "mecanismo": "Vegetacion",
+   "aporte_dUTCI_pct": 2,
+   "dependencias": 2,
+   "frecuencia_mant": "continua (jardineria)",
+   "indice": "beneficio termico menor, retorno ecologico/social dominante"
+  }
+ ],
+ "verano_invierno": {
+  "correlacion": 0.71,
+  "n_celdas": 39308,
+  "m2_excepcion": 271.0,
+  "lectura": "correlacion celda a celda entre sombra estival ganada y fraccion de sol invernal perdida: el trade-off es fuerte y lineal (r=0.71). Las excepciones (mucha sombra de verano, poca perdida de invierno: 271 m2) son celdas bajo hojas ALTAS con sol invernal rasante lateral — la geometria que conviene replicar."
+ }
+}

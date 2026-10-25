@@ -1,0 +1,2507 @@
+{
+ "nota": "entradas duplicadas: build master (hasta idx 91) + build full",
+ "ajustes": [
+  {
+   "tag": "RIBBON",
+   "regla": "radio-final",
+   "r_min": 4.75
+  },
+  {
+   "tag": "CINTA",
+   "regla": "suavizado+balsas+fachadas",
+   "radio_min": 4.75
+  },
+  {
+   "tag": "STAIR@-84,-5",
+   "regla": "anclaje-relajado",
+   "de": [
+    -84,
+    -5.0
+   ],
+   "a": [
+    -80.8,
+    -5.5
+   ],
+   "lado": 1
+  },
+  {
+   "tag": "STAIR@-38,19",
+   "regla": "anclaje-deslizado",
+   "de": [
+    -38,
+    19.0
+   ],
+   "a": [
+    -36.3,
+    20.3
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@26,15",
+   "regla": "anclaje-deslizado",
+   "de": [
+    26,
+    15.0
+   ],
+   "a": [
+    26.4,
+    15.2
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@44,-6",
+   "regla": "anclaje-deslizado",
+   "de": [
+    44,
+    -6.0
+   ],
+   "a": [
+    34.5,
+    -2.9
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@80,2",
+   "regla": "anclaje-deslizado",
+   "de": [
+    80,
+    2.0
+   ],
+   "a": [
+    81.3,
+    2.5
+   ],
+   "lado": 1
+  },
+  {
+   "tag": "LIFT@-75,10",
+   "regla": "anclaje-deslizado",
+   "de": [
+    -75,
+    10
+   ],
+   "a": [
+    -70.2,
+    6.2
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "LIFT@72,8",
+   "regla": "anclaje-deslizado",
+   "de": [
+    72,
+    8
+   ],
+   "a": [
+    73.9,
+    7.7
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro/edificio-salto",
+   "xy": [
+    21.9,
+    22.7
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro/edificio-salto",
+   "xy": [
+    20.1,
+    25.1
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro/edificio-salto",
+   "xy": [
+    60.1,
+    -5.4
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro/edificio-salto",
+   "xy": [
+    48.9,
+    20.6
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro/edificio-salto",
+   "xy": [
+    60.1,
+    -3.0
+   ]
+  },
+  {
+   "tag": "DISC_49",
+   "regla": "edge-guard",
+   "de": [
+    -76.67,
+    -11.83
+   ],
+   "a": [
+    -69.22,
+    -16.72
+   ]
+  },
+  {
+   "tag": "DISC_52",
+   "regla": "edge-guard",
+   "de": [
+    -81.49,
+    6.31
+   ],
+   "a": [
+    -51.58,
+    22.76
+   ]
+  },
+  {
+   "tag": "DISC_57",
+   "regla": "edge-guard",
+   "de": [
+    75.86,
+    2.62
+   ],
+   "a": [
+    69.13,
+    -3.83
+   ]
+  },
+  {
+   "tag": "DISC_67",
+   "regla": "edge-guard",
+   "de": [
+    -77.62,
+    12.13
+   ],
+   "a": [
+    -52.05,
+    25.03
+   ]
+  },
+  {
+   "tag": "DISC_68",
+   "regla": "edge-guard",
+   "de": [
+    -67.75,
+    16.24
+   ],
+   "a": [
+    -51.7,
+    24.33
+   ]
+  },
+  {
+   "tag": "DISC_69",
+   "regla": "edge-guard",
+   "de": [
+    -61.38,
+    26.06
+   ],
+   "a": [
+    -55.56,
+    16.68
+   ]
+  },
+  {
+   "tag": "DISC_71",
+   "regla": "edge-guard",
+   "de": [
+    -40.58,
+    26.55
+   ],
+   "a": [
+    -11.19,
+    33.35
+   ]
+  },
+  {
+   "tag": "DISC_76",
+   "regla": "edge-guard",
+   "de": [
+    -58.07,
+    18.14
+   ],
+   "a": [
+    -51.04,
+    23.03
+   ]
+  },
+  {
+   "tag": "DISC_88",
+   "regla": "edge-guard",
+   "de": [
+    51.08,
+    -2.12
+   ],
+   "a": [
+    34.21,
+    -2.96
+   ]
+  },
+  {
+   "tag": "DISC_91",
+   "regla": "edge-guard",
+   "de": [
+    -25,
+    31
+   ],
+   "a": [
+    -11.09,
+    33.17
+   ]
+  },
+  {
+   "tag": "TREN_PORTICO",
+   "regla": "A1",
+   "capsulas": 6,
+   "arco_m": 68.6
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -40.48,
+    24.64
+   ],
+   "a": [
+    -11.22,
+    33.39
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    -11.22,
+    33.39
+   ],
+   "a": [
+    -11.65,
+    32.27
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -54.6,
+    24.97
+   ],
+   "a": [
+    -52.28,
+    18.78
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -61.64,
+    22.68
+   ],
+   "a": [
+    -53.1,
+    26.99
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -67.89,
+    18.96
+   ],
+   "a": [
+    -52.87,
+    26.54
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "sin-sitio-descartado",
+   "de": [
+    -67.9,
+    19.0
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -72.86,
+    14.11
+   ],
+   "a": [
+    -51.93,
+    24.67
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "sin-sitio-descartado",
+   "de": [
+    -72.9,
+    14.1
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -76.14,
+    8.52
+   ],
+   "a": [
+    -51.09,
+    23.0
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    -51.09,
+    23.0
+   ],
+   "a": [
+    -47.68,
+    21.85
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -77.47,
+    2.65
+   ],
+   "a": [
+    -51.09,
+    23.0
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "sin-sitio-descartado",
+   "de": [
+    -77.5,
+    2.6
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    -69.46,
+    -12.04
+   ],
+   "a": [
+    -69.03,
+    -10.92
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    -42.36,
+    -12.68
+   ],
+   "a": [
+    -43.46,
+    -13.16
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    25.41,
+    21.26
+   ],
+   "a": [
+    24.29,
+    21.69
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    20.77,
+    16.76
+   ],
+   "a": [
+    21.25,
+    15.66
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    70.1,
+    16.21
+   ],
+   "a": [
+    72.74,
+    15.27
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    64.67,
+    19.85
+   ],
+   "a": [
+    40.52,
+    32.27
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    40.52,
+    32.27
+   ],
+   "a": [
+    41.98,
+    29.88
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    41.9,
+    -0.21
+   ],
+   "a": [
+    34.26,
+    -2.95
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    47.33,
+    -3.85
+   ],
+   "a": [
+    34.34,
+    -4.47
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    34.34,
+    -4.47
+   ],
+   "a": [
+    33.64,
+    -6.34
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    80.46,
+    -1.4
+   ],
+   "a": [
+    68.58,
+    -3.85
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    74.56,
+    9.84
+   ],
+   "a": [
+    76.38,
+    10.67
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    61.12,
+    8.12
+   ],
+   "a": [
+    60.69,
+    7.0
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    69.08,
+    -7.02
+   ],
+   "a": [
+    68.65,
+    -8.14
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    76.23,
+    -6.11
+   ],
+   "a": [
+    68.72,
+    -2.79
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "sin-sitio-descartado",
+   "de": [
+    76.2,
+    -6.1
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    -59.48,
+    9.32
+   ],
+   "a": [
+    -57.61,
+    8.62
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    14.1,
+    17.29
+   ],
+   "a": [
+    13.67,
+    16.17
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    11.94,
+    4.67
+   ],
+   "a": [
+    11.46,
+    5.77
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    17.25,
+    3.19
+   ],
+   "a": [
+    17.73,
+    2.09
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    56.63,
+    1.87
+   ],
+   "a": [
+    55.53,
+    1.39
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    67.49,
+    1.97
+   ],
+   "a": [
+    67.01,
+    3.07
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    73.33,
+    4.18
+   ],
+   "a": [
+    75.86,
+    5.38
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    77.06,
+    1.62
+   ],
+   "a": [
+    68.58,
+    -3.85
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    68.58,
+    -3.85
+   ],
+   "a": [
+    65.17,
+    -2.69
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    34.2,
+    -3.0
+   ],
+   "a": [
+    35.36,
+    0.41
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    -60.47,
+    18.77
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    -66.72,
+    19.72
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    69.74,
+    15.93
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    67.48,
+    18.45
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    67.43,
+    18.5
+   ]
+  },
+  {
+   "tag": "CAP/R-C1",
+   "regla": "edificio-retirada",
+   "xy": [
+    -64,
+    17.0
+   ]
+  },
+  {
+   "tag": "CAP/R-C1",
+   "regla": "edificio-retirada",
+   "xy": [
+    -61,
+    18.5
+   ]
+  },
+  {
+   "tag": "CAP/R-C1",
+   "regla": "edificio-retirada",
+   "xy": [
+    -66.5,
+    19.5
+   ]
+  },
+  {
+   "tag": "NEB_POST",
+   "regla": "edificio",
+   "de": [
+    -61.45,
+    18.74
+   ],
+   "a": [
+    -53.93,
+    22.53
+   ]
+  },
+  {
+   "tag": "NEB_POST",
+   "regla": "edificio",
+   "de": [
+    -68.6,
+    13.09
+   ],
+   "a": [
+    -53.54,
+    21.77
+   ]
+  },
+  {
+   "tag": "NEB_POST",
+   "regla": "edificio",
+   "de": [
+    48.89,
+    -1.72
+   ],
+   "a": [
+    35.86,
+    -2.88
+   ]
+  },
+  {
+   "tag": "NEB_POST",
+   "regla": "edificio",
+   "de": [
+    53.13,
+    -0.89
+   ],
+   "a": [
+    35.86,
+    -2.88
+   ]
+  },
+  {
+   "tag": "TANK",
+   "regla": "edge-guard",
+   "de": [
+    -72.0,
+    17.0
+   ],
+   "a": [
+    -52.92,
+    26.63
+   ]
+  },
+  {
+   "tag": "TANK",
+   "regla": "edge-guard",
+   "de": [
+    -69.4,
+    26.63
+   ],
+   "a": [
+    -60.45,
+    13.72
+   ]
+  },
+  {
+   "tag": "BENCH_0",
+   "regla": "corte-mastil",
+   "quitados": 7
+  },
+  {
+   "tag": "BENCH_1",
+   "regla": "corte-mastil",
+   "quitados": 2
+  },
+  {
+   "tag": "BENCH_2",
+   "regla": "corte-mastil",
+   "quitados": 4
+  },
+  {
+   "tag": "BENCH_3",
+   "regla": "corte-mastil",
+   "quitados": 9
+  },
+  {
+   "tag": "BENCH_4",
+   "regla": "corte-mastil",
+   "quitados": 11
+  },
+  {
+   "tag": "PLANTER_2",
+   "regla": "puerta",
+   "quitados": 2
+  },
+  {
+   "tag": "PLANTER_5",
+   "regla": "puerta",
+   "quitados": 2
+  },
+  {
+   "tag": "PLANTER_7",
+   "regla": "puerta",
+   "quitados": 1
+  },
+  {
+   "tag": "REGISTRO",
+   "regla": "edge-guard",
+   "de": [
+    -69.5,
+    15.5
+   ],
+   "a": [
+    -53.77,
+    23.43
+   ]
+  },
+  {
+   "tag": "REGISTRO",
+   "regla": "tren-reubicado",
+   "a": [
+    -53.8,
+    26.6
+   ]
+  },
+  {
+   "tag": "RECIRC",
+   "regla": "edge-guard",
+   "de": [
+    -69.5,
+    15.5
+   ],
+   "a": [
+    -53.95,
+    23.34
+   ]
+  },
+  {
+   "tag": "RECIRC",
+   "regla": "edge-guard",
+   "de": [
+    -62,
+    16
+   ],
+   "a": [
+    -53.23,
+    21.92
+   ]
+  },
+  {
+   "tag": "SENAL",
+   "regla": "balsa",
+   "a": [
+    50.52,
+    3.56
+   ]
+  },
+  {
+   "tag": "SENAL",
+   "regla": "balsa",
+   "a": [
+    14.54,
+    19.76
+   ]
+  },
+  {
+   "tag": "RIBBON",
+   "regla": "radio-final",
+   "r_min": 4.75
+  },
+  {
+   "tag": "CINTA",
+   "regla": "suavizado+balsas+fachadas",
+   "radio_min": 4.75
+  },
+  {
+   "tag": "STAIR@-84,-5",
+   "regla": "anclaje-relajado",
+   "de": [
+    -84,
+    -5.0
+   ],
+   "a": [
+    -80.8,
+    -5.5
+   ],
+   "lado": 1
+  },
+  {
+   "tag": "STAIR@-38,19",
+   "regla": "anclaje-deslizado",
+   "de": [
+    -38,
+    19.0
+   ],
+   "a": [
+    -36.3,
+    20.3
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@26,15",
+   "regla": "anclaje-deslizado",
+   "de": [
+    26,
+    15.0
+   ],
+   "a": [
+    26.4,
+    15.2
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@44,-6",
+   "regla": "anclaje-deslizado",
+   "de": [
+    44,
+    -6.0
+   ],
+   "a": [
+    34.5,
+    -2.9
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@80,2",
+   "regla": "anclaje-deslizado",
+   "de": [
+    80,
+    2.0
+   ],
+   "a": [
+    81.3,
+    2.5
+   ],
+   "lado": 1
+  },
+  {
+   "tag": "LIFT@-75,10",
+   "regla": "anclaje-deslizado",
+   "de": [
+    -75,
+    10
+   ],
+   "a": [
+    -70.2,
+    6.2
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "LIFT@72,8",
+   "regla": "anclaje-deslizado",
+   "de": [
+    72,
+    8
+   ],
+   "a": [
+    73.9,
+    7.7
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro/edificio-salto",
+   "xy": [
+    21.9,
+    22.7
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro/edificio-salto",
+   "xy": [
+    20.1,
+    25.1
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro/edificio-salto",
+   "xy": [
+    60.1,
+    -5.4
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro/edificio-salto",
+   "xy": [
+    48.9,
+    20.6
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro/edificio-salto",
+   "xy": [
+    60.1,
+    -3.0
+   ]
+  },
+  {
+   "tag": "TREN_PORTICO",
+   "regla": "A1",
+   "capsulas": 6,
+   "arco_m": 68.6
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -40.48,
+    24.64
+   ],
+   "a": [
+    -11.22,
+    33.39
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    -11.22,
+    33.39
+   ],
+   "a": [
+    -11.65,
+    32.27
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -54.6,
+    24.97
+   ],
+   "a": [
+    -52.28,
+    18.78
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -61.64,
+    22.68
+   ],
+   "a": [
+    -53.1,
+    26.99
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -67.89,
+    18.96
+   ],
+   "a": [
+    -52.87,
+    26.54
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "sin-sitio-descartado",
+   "de": [
+    -67.9,
+    19.0
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -72.86,
+    14.11
+   ],
+   "a": [
+    -51.93,
+    24.67
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "sin-sitio-descartado",
+   "de": [
+    -72.9,
+    14.1
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -76.14,
+    8.52
+   ],
+   "a": [
+    -51.09,
+    23.0
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    -51.09,
+    23.0
+   ],
+   "a": [
+    -47.68,
+    21.85
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    -77.47,
+    2.65
+   ],
+   "a": [
+    -51.09,
+    23.0
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "sin-sitio-descartado",
+   "de": [
+    -77.5,
+    2.6
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    -69.46,
+    -12.04
+   ],
+   "a": [
+    -69.03,
+    -10.92
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    -42.36,
+    -12.68
+   ],
+   "a": [
+    -43.46,
+    -13.16
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    25.41,
+    21.26
+   ],
+   "a": [
+    24.29,
+    21.69
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    20.77,
+    16.76
+   ],
+   "a": [
+    21.25,
+    15.66
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    70.1,
+    16.21
+   ],
+   "a": [
+    72.74,
+    15.27
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    64.67,
+    19.85
+   ],
+   "a": [
+    40.52,
+    32.27
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    40.52,
+    32.27
+   ],
+   "a": [
+    41.98,
+    29.88
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    41.9,
+    -0.21
+   ],
+   "a": [
+    34.26,
+    -2.95
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    47.33,
+    -3.85
+   ],
+   "a": [
+    34.34,
+    -4.47
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    34.34,
+    -4.47
+   ],
+   "a": [
+    33.64,
+    -6.34
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    80.46,
+    -1.4
+   ],
+   "a": [
+    68.58,
+    -3.85
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    74.56,
+    9.84
+   ],
+   "a": [
+    76.38,
+    10.67
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    61.12,
+    8.12
+   ],
+   "a": [
+    60.69,
+    7.0
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    69.08,
+    -7.02
+   ],
+   "a": [
+    68.65,
+    -8.14
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    76.23,
+    -6.11
+   ],
+   "a": [
+    68.72,
+    -2.79
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "sin-sitio-descartado",
+   "de": [
+    76.2,
+    -6.1
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    -59.48,
+    9.32
+   ],
+   "a": [
+    -57.61,
+    8.62
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    14.1,
+    17.29
+   ],
+   "a": [
+    13.67,
+    16.17
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    11.94,
+    4.67
+   ],
+   "a": [
+    11.46,
+    5.77
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    17.25,
+    3.19
+   ],
+   "a": [
+    17.73,
+    2.09
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    56.63,
+    1.87
+   ],
+   "a": [
+    55.53,
+    1.39
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    67.49,
+    1.97
+   ],
+   "a": [
+    67.01,
+    3.07
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    73.33,
+    4.18
+   ],
+   "a": [
+    75.86,
+    5.38
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "edge-guard",
+   "de": [
+    77.06,
+    1.62
+   ],
+   "a": [
+    68.58,
+    -3.85
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    68.58,
+    -3.85
+   ],
+   "a": [
+    65.17,
+    -2.69
+   ]
+  },
+  {
+   "tag": "MAST",
+   "regla": "eje/carmen/tren-reubicado",
+   "de": [
+    34.2,
+    -3.0
+   ],
+   "a": [
+    35.36,
+    0.41
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    -60.47,
+    18.77
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    -66.72,
+    19.72
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    69.74,
+    15.93
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    67.48,
+    18.45
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    67.43,
+    18.5
+   ]
+  },
+  {
+   "tag": "CAP/R-C1",
+   "regla": "edificio-retirada",
+   "xy": [
+    -64,
+    17.0
+   ]
+  },
+  {
+   "tag": "CAP/R-C1",
+   "regla": "edificio-retirada",
+   "xy": [
+    -61,
+    18.5
+   ]
+  },
+  {
+   "tag": "CAP/R-C1",
+   "regla": "edificio-retirada",
+   "xy": [
+    -66.5,
+    19.5
+   ]
+  },
+  {
+   "tag": "NEB_POST",
+   "regla": "edificio",
+   "de": [
+    -61.45,
+    18.74
+   ],
+   "a": [
+    -53.93,
+    22.53
+   ]
+  },
+  {
+   "tag": "NEB_POST",
+   "regla": "edificio",
+   "de": [
+    -68.6,
+    13.09
+   ],
+   "a": [
+    -53.54,
+    21.77
+   ]
+  },
+  {
+   "tag": "NEB_POST",
+   "regla": "edificio",
+   "de": [
+    48.89,
+    -1.72
+   ],
+   "a": [
+    35.86,
+    -2.88
+   ]
+  },
+  {
+   "tag": "NEB_POST",
+   "regla": "edificio",
+   "de": [
+    53.13,
+    -0.89
+   ],
+   "a": [
+    35.86,
+    -2.88
+   ]
+  },
+  {
+   "tag": "TANK",
+   "regla": "edge-guard",
+   "de": [
+    -72.0,
+    17.0
+   ],
+   "a": [
+    -52.92,
+    26.63
+   ]
+  },
+  {
+   "tag": "TANK",
+   "regla": "edge-guard",
+   "de": [
+    -69.4,
+    26.63
+   ],
+   "a": [
+    -60.45,
+    13.72
+   ]
+  },
+  {
+   "tag": "BENCH_0",
+   "regla": "corte-mastil",
+   "quitados": 7
+  },
+  {
+   "tag": "BENCH_1",
+   "regla": "corte-mastil",
+   "quitados": 2
+  },
+  {
+   "tag": "BENCH_2",
+   "regla": "corte-mastil",
+   "quitados": 4
+  },
+  {
+   "tag": "BENCH_3",
+   "regla": "corte-mastil",
+   "quitados": 9
+  },
+  {
+   "tag": "BENCH_4",
+   "regla": "corte-mastil",
+   "quitados": 11
+  },
+  {
+   "tag": "PLANTER_2",
+   "regla": "puerta",
+   "quitados": 2
+  },
+  {
+   "tag": "PLANTER_5",
+   "regla": "puerta",
+   "quitados": 2
+  },
+  {
+   "tag": "PLANTER_VEG",
+   "regla": "capsula/ascensor",
+   "xy": [
+    69.0,
+    21.8
+   ]
+  },
+  {
+   "tag": "PLANTER_VEG",
+   "regla": "capsula/ascensor",
+   "xy": [
+    63.4,
+    23.4
+   ]
+  },
+  {
+   "tag": "PLANTER_7",
+   "regla": "puerta",
+   "quitados": 1
+  },
+  {
+   "tag": "PLANTER_VEG",
+   "regla": "capsula/ascensor",
+   "xy": [
+    69.7,
+    -2.8
+   ]
+  },
+  {
+   "tag": "REGISTRO",
+   "regla": "edge-guard",
+   "de": [
+    -69.5,
+    15.5
+   ],
+   "a": [
+    -53.77,
+    23.43
+   ]
+  },
+  {
+   "tag": "REGISTRO",
+   "regla": "tren-reubicado",
+   "a": [
+    -53.8,
+    26.6
+   ]
+  },
+  {
+   "tag": "RECIRC",
+   "regla": "edge-guard",
+   "de": [
+    -69.5,
+    15.5
+   ],
+   "a": [
+    -53.95,
+    23.34
+   ]
+  },
+  {
+   "tag": "RECIRC",
+   "regla": "edge-guard",
+   "de": [
+    -62,
+    16
+   ],
+   "a": [
+    -53.23,
+    21.92
+   ]
+  },
+  {
+   "tag": "SENAL",
+   "regla": "balsa",
+   "a": [
+    50.52,
+    3.56
+   ]
+  },
+  {
+   "tag": "SENAL",
+   "regla": "balsa",
+   "a": [
+    14.54,
+    19.76
+   ]
+  },
+  {
+   "tag": "ARBOL_0",
+   "regla": "cinta",
+   "a": [
+    -69.4,
+    2.55
+   ]
+  },
+  {
+   "tag": "ARBOL_0",
+   "regla": "cinta",
+   "a": [
+    -64.9,
+    3.46
+   ]
+  },
+  {
+   "tag": "ARBOL_0",
+   "regla": "disco-bajo",
+   "a": [
+    -65.67,
+    3.78
+   ]
+  },
+  {
+   "tag": "ARBOL_0",
+   "regla": "disco-bajo",
+   "a": [
+    -66.49,
+    3.2
+   ]
+  },
+  {
+   "tag": "ARBOL_0",
+   "regla": "cinta",
+   "a": [
+    -64.92,
+    3.52
+   ]
+  },
+  {
+   "tag": "ARBOL_0",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_1",
+   "regla": "cinta",
+   "a": [
+    -65.17,
+    5.74
+   ]
+  },
+  {
+   "tag": "ARBOL_1",
+   "regla": "disco-bajo",
+   "a": [
+    -67.35,
+    5.54
+   ]
+  },
+  {
+   "tag": "ARBOL_1",
+   "regla": "cinta",
+   "a": [
+    -65.36,
+    3.29
+   ]
+  },
+  {
+   "tag": "ARBOL_1",
+   "regla": "disco-bajo",
+   "a": [
+    -65.8,
+    3.44
+   ]
+  },
+  {
+   "tag": "ARBOL_1",
+   "regla": "disco-bajo",
+   "a": [
+    -66.35,
+    3.01
+   ]
+  },
+  {
+   "tag": "ARBOL_1",
+   "regla": "cinta",
+   "a": [
+    -64.88,
+    3.35
+   ]
+  },
+  {
+   "tag": "ARBOL_1",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_2",
+   "regla": "cinta",
+   "a": [
+    -58.68,
+    28.78
+   ]
+  },
+  {
+   "tag": "ARBOL_2",
+   "regla": "edge-guard",
+   "de": [
+    -58.68,
+    28.78
+   ],
+   "a": [
+    -51.97,
+    17.96
+   ]
+  },
+  {
+   "tag": "ARBOL_2",
+   "regla": "cinta",
+   "a": [
+    -50.31,
+    14.01
+   ]
+  },
+  {
+   "tag": "ARBOL_3",
+   "regla": "cinta",
+   "a": [
+    -44.91,
+    31.64
+   ]
+  },
+  {
+   "tag": "ARBOL_3",
+   "regla": "edge-guard",
+   "de": [
+    -44.91,
+    31.64
+   ],
+   "a": [
+    -10.78,
+    32.65
+   ]
+  },
+  {
+   "tag": "ARBOL_3",
+   "regla": "disco-bajo",
+   "a": [
+    -8.27,
+    28.33
+   ]
+  },
+  {
+   "tag": "ARBOL_3",
+   "regla": "cinta",
+   "a": [
+    -7.4,
+    24.57
+   ]
+  },
+  {
+   "tag": "ARBOL_3",
+   "regla": "cinta",
+   "a": [
+    -9.07,
+    25.97
+   ]
+  },
+  {
+   "tag": "ARBOL_3",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_4",
+   "regla": "cinta",
+   "a": [
+    -21.54,
+    36.06
+   ]
+  },
+  {
+   "tag": "ARBOL_4",
+   "regla": "edge-guard",
+   "de": [
+    -21.54,
+    36.06
+   ],
+   "a": [
+    -10.78,
+    32.65
+   ]
+  },
+  {
+   "tag": "ARBOL_4",
+   "regla": "disco-bajo",
+   "a": [
+    -8.27,
+    28.33
+   ]
+  },
+  {
+   "tag": "ARBOL_4",
+   "regla": "cinta",
+   "a": [
+    -7.4,
+    24.57
+   ]
+  },
+  {
+   "tag": "ARBOL_4",
+   "regla": "cinta",
+   "a": [
+    -9.07,
+    25.97
+   ]
+  },
+  {
+   "tag": "ARBOL_4",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_5",
+   "regla": "disco-bajo",
+   "a": [
+    -6.26,
+    35.15
+   ]
+  },
+  {
+   "tag": "ARBOL_5",
+   "regla": "disco-bajo",
+   "a": [
+    -5.91,
+    35.3
+   ]
+  },
+  {
+   "tag": "ARBOL_5",
+   "regla": "cinta",
+   "a": [
+    -5.99,
+    35.78
+   ]
+  },
+  {
+   "tag": "ARBOL_6",
+   "regla": "disco-bajo",
+   "a": [
+    20.52,
+    33.25
+   ]
+  },
+  {
+   "tag": "ARBOL_6",
+   "regla": "edge-guard",
+   "de": [
+    20.52,
+    33.25
+   ],
+   "a": [
+    1.55,
+    33.61
+   ]
+  },
+  {
+   "tag": "ARBOL_6",
+   "regla": "disco-bajo",
+   "a": [
+    2.59,
+    33.84
+   ]
+  },
+  {
+   "tag": "ARBOL_6",
+   "regla": "cinta",
+   "a": [
+    2.78,
+    36.31
+   ]
+  },
+  {
+   "tag": "ARBOL_6",
+   "regla": "edge-guard",
+   "de": [
+    2.78,
+    36.31
+   ],
+   "a": [
+    1.55,
+    33.61
+   ]
+  },
+  {
+   "tag": "ARBOL_6",
+   "regla": "disco-bajo",
+   "a": [
+    2.59,
+    33.84
+   ]
+  },
+  {
+   "tag": "ARBOL_6",
+   "regla": "cinta",
+   "a": [
+    2.78,
+    36.31
+   ]
+  },
+  {
+   "tag": "ARBOL_6",
+   "regla": "edge-guard",
+   "de": [
+    2.78,
+    36.31
+   ],
+   "a": [
+    1.55,
+    33.61
+   ]
+  },
+  {
+   "tag": "ARBOL_6",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_7",
+   "regla": "cinta",
+   "a": [
+    34.96,
+    26.61
+   ]
+  },
+  {
+   "tag": "ARBOL_8",
+   "regla": "cinta",
+   "a": [
+    66.07,
+    23.08
+   ]
+  },
+  {
+   "tag": "ARBOL_8",
+   "regla": "edge-guard",
+   "de": [
+    66.07,
+    23.08
+   ],
+   "a": [
+    41.59,
+    29.09
+   ]
+  },
+  {
+   "tag": "ARBOL_8",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_9",
+   "regla": "cinta",
+   "a": [
+    76.55,
+    15.47
+   ]
+  },
+  {
+   "tag": "ARBOL_10",
+   "regla": "cinta",
+   "a": [
+    -85.14,
+    1.71
+   ]
+  },
+  {
+   "tag": "ARBOL_10",
+   "regla": "edge-guard",
+   "de": [
+    -85.14,
+    1.71
+   ],
+   "a": [
+    -50.32,
+    23.39
+   ]
+  },
+  {
+   "tag": "ARBOL_10",
+   "regla": "disco-bajo",
+   "a": [
+    -47.29,
+    24.92
+   ]
+  },
+  {
+   "tag": "ARBOL_10",
+   "regla": "cinta",
+   "a": [
+    -46.05,
+    20.35
+   ]
+  },
+  {
+   "tag": "ARBOL_10",
+   "regla": "disco-bajo",
+   "a": [
+    -46.31,
+    20.57
+   ]
+  },
+  {
+   "tag": "ARBOL_10",
+   "regla": "cinta",
+   "a": [
+    -46.24,
+    20.3
+   ]
+  },
+  {
+   "tag": "ARBOL_10",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_11",
+   "regla": "estatua",
+   "de": [
+    -30,
+    -7.0
+   ],
+   "a": [
+    -30.25,
+    -6.12
+   ]
+  },
+  {
+   "tag": "ARBOL_12",
+   "regla": "corredor-descartado",
+   "de": [
+    -18,
+    -16
+   ]
+  },
+  {
+   "tag": "ARBOL_13",
+   "regla": "corredor-descartado",
+   "de": [
+    34,
+    -11.0
+   ]
+  },
+  {
+   "tag": "ARBOL_14",
+   "regla": "edge-guard",
+   "de": [
+    44,
+    -13.0
+   ],
+   "a": [
+    33.74,
+    -9.95
+   ]
+  },
+  {
+   "tag": "ARBOL_14",
+   "regla": "cinta",
+   "a": [
+    32.42,
+    -12.76
+   ]
+  },
+  {
+   "tag": "ARBOL_14",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_15",
+   "regla": "cupula",
+   "a": [
+    29.82,
+    11.48
+   ]
+  },
+  {
+   "tag": "ARBOL_15",
+   "regla": "cinta",
+   "a": [
+    31.9,
+    11.36
+   ]
+  },
+  {
+   "tag": "ARBOL_15",
+   "regla": "disco-bajo",
+   "a": [
+    31.35,
+    11.54
+   ]
+  },
+  {
+   "tag": "ARBOL_15",
+   "regla": "cinta",
+   "a": [
+    31.9,
+    11.51
+   ]
+  },
+  {
+   "tag": "ARBOL_15",
+   "regla": "disco-bajo",
+   "a": [
+    31.4,
+    11.69
+   ]
+  },
+  {
+   "tag": "ARBOL_15",
+   "regla": "cinta",
+   "a": [
+    31.91,
+    11.67
+   ]
+  },
+  {
+   "tag": "ARBOL_15",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_17",
+   "regla": "disco-bajo",
+   "a": [
+    -58.24,
+    -16.76
+   ]
+  },
+  {
+   "tag": "ARBOL_18",
+   "regla": "edge-guard",
+   "de": [
+    35,
+    39.0
+   ],
+   "a": [
+    1.55,
+    33.61
+   ]
+  },
+  {
+   "tag": "ARBOL_18",
+   "regla": "disco-bajo",
+   "a": [
+    2.59,
+    33.84
+   ]
+  },
+  {
+   "tag": "ARBOL_18",
+   "regla": "cinta",
+   "a": [
+    2.78,
+    36.31
+   ]
+  },
+  {
+   "tag": "ARBOL_18",
+   "regla": "edge-guard",
+   "de": [
+    2.78,
+    36.31
+   ],
+   "a": [
+    1.55,
+    33.61
+   ]
+  },
+  {
+   "tag": "ARBOL_18",
+   "regla": "disco-bajo",
+   "a": [
+    2.59,
+    33.84
+   ]
+  },
+  {
+   "tag": "ARBOL_18",
+   "regla": "cinta",
+   "a": [
+    2.78,
+    36.31
+   ]
+  },
+  {
+   "tag": "ARBOL_18",
+   "regla": "edge-guard",
+   "de": [
+    2.78,
+    36.31
+   ],
+   "a": [
+    1.55,
+    33.61
+   ]
+  },
+  {
+   "tag": "ARBOL_18",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_19",
+   "regla": "edge-guard",
+   "de": [
+    45,
+    43.5
+   ],
+   "a": [
+    41.16,
+    29.44
+   ]
+  },
+  {
+   "tag": "ARBOL_19",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_20",
+   "regla": "edge-guard",
+   "de": [
+    45,
+    40.0
+   ],
+   "a": [
+    41.16,
+    29.44
+   ]
+  },
+  {
+   "tag": "ARBOL_20",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "ARBOL_21",
+   "regla": "edge-guard",
+   "de": [
+    53,
+    27.5
+   ],
+   "a": [
+    41.59,
+    29.09
+   ]
+  },
+  {
+   "tag": "ARBOL_21",
+   "regla": "sin-convergencia-descartado"
+  },
+  {
+   "tag": "TREPADORA_2",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_4",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_6",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_20",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_22",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_28",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_30",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_32",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_34",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_40",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_46",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_50",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_52",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_54",
+   "regla": "cinta-omitida"
+  },
+  {
+   "tag": "TREPADORA_78",
+   "regla": "cinta-omitida"
+  }
+ ]
+}

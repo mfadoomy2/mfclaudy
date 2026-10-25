@@ -1,0 +1,85 @@
+[   0.5s] 7 · masas de agua: superficie, volumen, evaporacion y potencia latente
+[   0.5s]    14 masas · superficie total 1912 m2 (17.4 % del ambito) · 1722 L/h · 1156.8 kW latentes
+[   0.5s]    a nivel de suelo: 399 m2 · 318 L/h · 213.9 kW   |   en altura: 1514 m2 · 1403 L/h · 942.9 kW
+[   0.5s]    CIERRE DE MASA: 20.7 m3/dia de evaporacion frente a 99.8 m3 almacenados en los depositos de +10.50 -> autonomia 4.82 dias sin reposicion de red
+[   0.5s]    lamina que antes se agota: LAMINA MICROALGAS DISCOS x67 -> 11.1 mm/dia = 37 % de su calado cada dia
+[   0.5s] 8 · vegetacion: sombra y evapotranspiracion
+[   0.5s]    arbolado: 32 ejemplares · proyeccion de copa 547 m2 (5.0 % del ambito) · 284 L/h · 190.5 kW
+[   0.5s]    otras masas vegetales (huerto, tropicales, bajas, colgantes, trepadoras): 198 instancias
+[   0.5s] 9 · nebulizacion: escenarios bajo / nominal / maximo
+[   0.5s]    BAJO     q=3.0 L/h·boq  eta=0.20  ->  126 L/h  84.7 kW  dT psicrom 3.56 K  dT por balance de masa 0.13 K
+[   0.5s]    NOMINAL  q=5.0 L/h·boq  eta=0.35  ->  210 L/h  141.1 kW  dT psicrom 6.23 K  dT por balance de masa 0.22 K
+[   0.5s]    MAXIMO   q=8.0 L/h·boq  eta=0.50  ->  336 L/h  225.8 kW  dT psicrom 8.90 K  dT por balance de masa 0.35 K
+[   0.5s] 10 · efecto a escala plaza sobre la temperatura del AIRE (no confundir con MRT)
+[   0.5s]    calor sensible del pavimento: A 2097 kW · B 1310 kW · reduccion 787 kW
+[   0.5s]    flujo de aire sobre la plaza 1165 kg/s (u=1.00 m/s, seccion 100x10 m)
+[   0.5s]    -> descenso de temperatura del AIRE por menor calor sensible: 0.67 K
+[   0.5s]    -> descenso adicional por calor latente de agua+vegetacion a nivel de suelo: 0.35 K
+[   0.5s] 11 · indice de refugio climatico (formula documentada)
+[   0.5s]    SIN MEJORA           5792 m2 (52.6 %)   con nebulizacion:   5300 m2 (48.1 %)
+[   0.5s]    MEJORA LEVE          1026 m2 ( 9.3 %)   con nebulizacion:   1024 m2 ( 9.3 %)
+[   0.5s]    MEJORA MODERADA       190 m2 ( 1.7 %)   con nebulizacion:    133 m2 ( 1.2 %)
+[   0.5s]    REFUGIO EFECTIVO     4010 m2 (36.4 %)   con nebulizacion:   4563 m2 (41.4 %)
+[   0.5s] 12 · fichas climaticas por zona de programa
+[   0.6s]    BANCOS (estancia)      263 m2 · sombra  0.5→69.5 % · MRT 65.5→47.4 (-18.1) · UTCI 40.0→35.7 (-4.37)
+[   0.6s]    HUERTO C1              312 m2 · sombra  0.5→81.9 % · MRT 64.6→41.0 (-23.6) · UTCI 39.8→34.3 (-5.59)
+[   0.6s]    SPLASH PAD             218 m2 · sombra  0.0→64.3 % · MRT 54.8→47.5 (-7.2) · UTCI 37.5→35.7 (-1.76)
+[   0.6s]    CUPULA-PERGOLA         135 m2 · sombra  1.3→47.9 % · MRT 63.9→50.6 (-13.3) · UTCI 39.7→36.6 (-3.16)
+[   0.6s]    VIVEROS C3              82 m2 · sombra  0.0→85.3 % · MRT 67.4→37.9 (-29.4) · UTCI 40.6→33.6 (-7.00)
+[   0.6s]    BAJO DOSEL            1033 m2 · sombra  0.8→84.9 % · MRT 65.2→40.3 (-24.9) · UTCI 40.0→34.0 (-5.99)
+[   0.6s]    ESTANQUES              494 m2 · sombra  1.1→69.4 % · MRT 53.9→43.6 (-10.3) · UTCI 37.3→34.9 (-2.47)
+[   0.6s]    CORREDORES            2197 m2 · sombra  4.2→21.5 % · MRT 65.9→61.4 (-4.5) · UTCI 40.2→39.1 (-1.07)
+[   0.6s]    BAJO NEBULIZACION     1172 m2 · sombra  1.2→60.0 % · MRT 64.9→49.1 (-15.9) · UTCI 40.0→36.1 (-3.86)
+[   0.6s] 13 · recorrido elevado +6.00
+[   1.7s]    cinta: sombra (tau<0.5) 21 % del desarrollo · MRT medio 57.7 C (plaza B 53.7) · UTCI medio 38.2 (plaza B 37.3)
+[   1.7s]    viento a +7.10 m: 2.45 m/s frente a 1.00 m/s a nivel de suelo
+[   1.7s] 14 · hotspots y coolspots
+[   1.7s]    hotspots (UTCI>=38 en suelo pisable): 24 zonas, 4884 m2 en total
+[   1.7s]    coolspots (refugio efectivo): 6 zonas, 3088 m2 en total
+[   1.7s] 15 · metricas de resultado
+[   1.7s]    area_ambito              11020.0
+[   1.7s]    area_pisable             9889.0
+[   1.7s]    sombra_crit_A            5.3
+[   1.7s]    sombra_crit_B            45.3
+[   1.7s]    sombra_crit_A_pisable    5.8
+[   1.7s]    sombra_crit_B_pisable    40.5
+[   1.7s]    m2_sombra_extra          4407.0
+[   1.7s]    rad_A                    648.0
+[   1.7s]    rad_B                    364.7
+[   1.7s]    rad_red_pct              43.7
+[   1.7s]    rad_red_max_pct          100.0
+[   1.7s]    sunh_A                   1206.0
+[   1.7s]    sunh_B                   635.0
+[   1.7s]    MRT_A                    64.5
+[   1.7s]    MRT_B                    53.7
+[   1.7s]    dMRT                     -10.84
+[   1.7s]    dMRT_refugio             -27.55
+[   1.7s]    dMRT_max                 -38.7
+[   1.7s]    UTCI_A                   39.9
+[   1.7s]    UTCI_B                   37.3
+[   1.7s]    dUTCI                    -2.6
+[   1.7s]    dUTCI_neb                -3.34
+[   1.7s]    dUTCI_max                -9.3
+[   1.7s]    m2_refugio               4010.0
+[   1.7s]    m2_refugio_neb           4563.0
+[   1.7s]    m2_mejora                5226.0
+[   1.7s]    pct_beneficiada          47.4
+[   1.7s]    agua_L_h                 1722.0
+[   1.7s]    agua_kW                  1156.8
+[   1.7s]    agua_suelo_kW            213.9
+[   1.7s]    veg_L_h                  284.0
+[   1.7s]    veg_kW                   190.5
+[   1.7s]    neb_L_h                  210.0
+[   1.7s]    neb_kW                   141.1
+[   1.7s]    dTa_aire                 1.02
+[   1.7s]    win_A                    2.34
+[   1.7s]    win_B                    1.21
+[   1.7s]    win_perdida_pct          48.2
+[   1.7s]    hot_m2                   4884.0
+[   1.7s]    cool_m2                  3088.0
+C:\Users\iraxx_c0wouln\OneDrive\Documentos\iraxxxdios_ARQUITECTURA\xxxmiguelxxx\Monteserin\REFUGIO_CLIMATICO\FASE_03B5B_CLIMA\clima_core.py:404: ResourceWarning: unclosed file <_io.TextIOWrapper name='C:\\Users\\iraxx_c0wouln\\OneDrive\\Documentos\\iraxxxdios_ARQUITECTURA\\xxxmiguelxxx\\Monteserin\\REFUGIO_CLIMATICO\\FASE_03B5B_CLIMA\\_data\\cinta.json' mode='r' encoding='utf-8'>
+  return json.load(open(os.path.join(DATA, name), encoding='utf-8'))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+[   1.7s] incidencias generadas: 6
+[   1.7s] OK fase 2/2
+EXIT=0

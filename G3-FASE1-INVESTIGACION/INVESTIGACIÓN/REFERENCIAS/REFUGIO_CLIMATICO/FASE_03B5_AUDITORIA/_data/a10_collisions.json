@@ -1,0 +1,1430 @@
+{
+ "pairs": [
+  {
+   "a": "PLANTER",
+   "b": "VEGETATION",
+   "voxels": 1529,
+   "vol": 12.232000000000003,
+   "intencionado": true
+  },
+  {
+   "a": "STRUCTURE",
+   "b": "VEGETATION",
+   "voxels": 1120,
+   "vol": 8.960000000000003,
+   "intencionado": true
+  },
+  {
+   "a": "STRUCTURE",
+   "b": "WATER",
+   "voxels": 767,
+   "vol": 6.136000000000002,
+   "intencionado": true
+  },
+  {
+   "a": "VEGETATION",
+   "b": "WATER",
+   "voxels": 717,
+   "vol": 5.7360000000000015,
+   "intencionado": true
+  },
+  {
+   "a": "CANOPY",
+   "b": "STRUCTURE",
+   "voxels": 636,
+   "vol": 5.088000000000001,
+   "intencionado": true
+  },
+  {
+   "a": "PLANTER",
+   "b": "WATER",
+   "voxels": 547,
+   "vol": 4.376000000000001,
+   "intencionado": true
+  },
+  {
+   "a": "PODS",
+   "b": "VEGETATION",
+   "voxels": 479,
+   "vol": 3.8320000000000007,
+   "intencionado": false
+  },
+  {
+   "a": "PODS",
+   "b": "STRUCTURE",
+   "voxels": 434,
+   "vol": 3.472000000000001,
+   "intencionado": true
+  },
+  {
+   "a": "FURNITURE",
+   "b": "VEGETATION",
+   "voxels": 379,
+   "vol": 3.032000000000001,
+   "intencionado": true
+  },
+  {
+   "a": "PLANTER",
+   "b": "PODS",
+   "voxels": 174,
+   "vol": 1.3920000000000003,
+   "intencionado": false
+  },
+  {
+   "a": "CANOPY",
+   "b": "VEGETATION",
+   "voxels": 161,
+   "vol": 1.2880000000000003,
+   "intencionado": false
+  },
+  {
+   "a": "CANOPY",
+   "b": "RIBBON",
+   "voxels": 145,
+   "vol": 1.1600000000000004,
+   "intencionado": false
+  },
+  {
+   "a": "FURNITURE",
+   "b": "PLANTER",
+   "voxels": 129,
+   "vol": 1.0320000000000003,
+   "intencionado": false
+  },
+  {
+   "a": "RIBBON",
+   "b": "VEGETATION",
+   "voxels": 105,
+   "vol": 0.8400000000000002,
+   "intencionado": false
+  },
+  {
+   "a": "CANOPY",
+   "b": "WATER",
+   "voxels": 95,
+   "vol": 0.7600000000000002,
+   "intencionado": true
+  },
+  {
+   "a": "PLANTER",
+   "b": "STRUCTURE",
+   "voxels": 92,
+   "vol": 0.7360000000000002,
+   "intencionado": true
+  },
+  {
+   "a": "RIBBON",
+   "b": "STRUCTURE",
+   "voxels": 87,
+   "vol": 0.6960000000000002,
+   "intencionado": true
+  },
+  {
+   "a": "FURNITURE",
+   "b": "WATER",
+   "voxels": 74,
+   "vol": 0.5920000000000002,
+   "intencionado": false
+  },
+  {
+   "a": "FURNITURE",
+   "b": "PODS",
+   "voxels": 72,
+   "vol": 0.5760000000000002,
+   "intencionado": false
+  },
+  {
+   "a": "PODS",
+   "b": "WATER",
+   "voxels": 42,
+   "vol": 0.3360000000000001,
+   "intencionado": false
+  },
+  {
+   "a": "RIBBON",
+   "b": "WATER",
+   "voxels": 35,
+   "vol": 0.2800000000000001,
+   "intencionado": false
+  },
+  {
+   "a": "PLANTER",
+   "b": "RIBBON",
+   "voxels": 33,
+   "vol": 0.26400000000000007,
+   "intencionado": false
+  },
+  {
+   "a": "FURNITURE",
+   "b": "STRUCTURE",
+   "voxels": 2,
+   "vol": 0.016000000000000004,
+   "intencionado": true
+  },
+  {
+   "a": "PODS",
+   "b": "RIBBON",
+   "voxels": 1,
+   "vol": 0.008000000000000002,
+   "intencionado": false
+  }
+ ],
+ "hot": [
+  {
+   "pair": "CANOPY×RIBBON",
+   "a": "LEAF_OV",
+   "b": "RIBBON_DECK",
+   "voxels": 38,
+   "vol": 0.30400000000000005,
+   "x": 67.27,
+   "y": -0.7399999999999998,
+   "z": 5.890000000000001
+  },
+  {
+   "pair": "FURNITURE×PLANTER",
+   "a": "BENCH_0",
+   "b": "MAST_3",
+   "voxels": 37,
+   "vol": 0.2960000000000001,
+   "x": 7.56,
+   "y": 6.5057160454592005,
+   "z": 0.225
+  },
+  {
+   "pair": "FURNITURE×PLANTER",
+   "a": "BENCH_2",
+   "b": "MAST_2",
+   "voxels": 28,
+   "vol": 0.22400000000000006,
+   "x": -0.26000000000000006,
+   "y": 4.54,
+   "z": 0.225
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_S",
+   "b": "MAST_2",
+   "voxels": 27,
+   "vol": 0.21600000000000005,
+   "x": 69.9452849907311,
+   "y": 16.207702113463597,
+   "z": 0.95
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M2",
+   "b": "VEG2_ARBOL_A",
+   "voxels": 27,
+   "vol": 0.21600000000000005,
+   "x": 22.708397207006172,
+   "y": 29.66421656055113,
+   "z": 4.266
+  },
+  {
+   "pair": "CANOPY×RIBBON",
+   "a": "LEAF_L1",
+   "b": "RIBBON_DECK",
+   "voxels": 27,
+   "vol": 0.21600000000000005,
+   "x": 70.32,
+   "y": 2.0,
+   "z": 5.962
+  },
+  {
+   "pair": "CANOPY×RIBBON",
+   "a": "LEAF_LT",
+   "b": "RIBBON_DECK",
+   "voxels": 25,
+   "vol": 0.20000000000000004,
+   "x": -5.75,
+   "y": 15.43,
+   "z": 5.890000000000001
+  },
+  {
+   "pair": "CANOPY×RIBBON",
+   "a": "LEAF_OV",
+   "b": "RIBBON_DECK",
+   "voxels": 22,
+   "vol": 0.17600000000000005,
+   "x": 67.27,
+   "y": -0.7400000000000001,
+   "z": 6.07865
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "MAST_3",
+   "voxels": 21,
+   "vol": 0.16800000000000004,
+   "x": 56.6384593208717,
+   "y": 1.8524150651392852,
+   "z": 0.95
+  },
+  {
+   "pair": "FURNITURE×PLANTER",
+   "a": "BENCH_3",
+   "b": "MAST_3",
+   "voxels": 21,
+   "vol": 0.16800000000000004,
+   "x": -59.48,
+   "y": 9.32,
+   "z": 0.225
+  },
+  {
+   "pair": "FURNITURE×PLANTER",
+   "a": "BENCH_2",
+   "b": "MAST_1",
+   "voxels": 18,
+   "vol": 0.14400000000000004,
+   "x": 6.47,
+   "y": 2.3694616879829207,
+   "z": 0.225
+  },
+  {
+   "pair": "FURNITURE×WATER",
+   "a": "BENCH_0",
+   "b": "MAIN",
+   "voxels": 18,
+   "vol": 0.14400000000000004,
+   "x": 6.368678022009508,
+   "y": 8.887193948205912,
+   "z": 0.305
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "MAST_1",
+   "voxels": 17,
+   "vol": 0.13600000000000004,
+   "x": 76.23460754719062,
+   "y": -6.3493850370145655,
+   "z": 0.95
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 16,
+   "vol": 0.12800000000000003,
+   "x": 63.884099063952426,
+   "y": -7.694337873111177,
+   "z": 2.3200000000000003
+  },
+  {
+   "pair": "RIBBON×WATER",
+   "a": "RIBBON_RAIL",
+   "b": "BASIN_B-C3b",
+   "voxels": 16,
+   "vol": 0.12800000000000003,
+   "x": 68.0,
+   "y": 0.9999999999999996,
+   "z": 7.00551442841485
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "MAST_3",
+   "voxels": 15,
+   "vol": 0.12000000000000002,
+   "x": 59.10225661316315,
+   "y": 2.27751941187417,
+   "z": 0.95
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_2",
+   "b": "POD_S",
+   "voxels": 15,
+   "vol": 0.12000000000000002,
+   "x": 69.80856090549786,
+   "y": 16.163560905497853,
+   "z": 0.42500000000000004
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M2",
+   "b": "VEG2_ARBOL_A",
+   "voxels": 15,
+   "vol": 0.12000000000000002,
+   "x": 23.489312320179657,
+   "y": 31.006366592139912,
+   "z": 4.266
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M2",
+   "b": "VEG2_ARBOL_A",
+   "voxels": 14,
+   "vol": 0.11200000000000003,
+   "x": 21.254714700368098,
+   "y": 29.913494436557173,
+   "z": 4.266
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_S",
+   "b": "VEG2_TREPADORA",
+   "voxels": 13,
+   "vol": 0.10400000000000002,
+   "x": 69.85458368834611,
+   "y": 16.54837085272554,
+   "z": 1.3448275862068966
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_1",
+   "b": "POD_TRAIN",
+   "voxels": 13,
+   "vol": 0.10400000000000002,
+   "x": 76.23,
+   "y": -6.485435093073348,
+   "z": 0.42500000000000004
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_S",
+   "b": "VEG2_TREPADORA",
+   "voxels": 12,
+   "vol": 0.09600000000000003,
+   "x": 70.09228769049538,
+   "y": 16.211497314025046,
+   "z": 1.4249999999999998
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_3",
+   "b": "POD_TRAIN",
+   "voxels": 12,
+   "vol": 0.09600000000000003,
+   "x": 58.94557071092219,
+   "y": 2.27,
+   "z": 0.42500000000000004
+  },
+  {
+   "pair": "FURNITURE×PLANTER",
+   "a": "BENCH_1",
+   "b": "MAST_3",
+   "voxels": 12,
+   "vol": 0.09600000000000003,
+   "x": 11.347073004132994,
+   "y": 4.67,
+   "z": 0.225
+  },
+  {
+   "pair": "FURNITURE×PODS",
+   "a": "NURSERY",
+   "b": "POD_TRAIN",
+   "voxels": 12,
+   "vol": 0.09600000000000003,
+   "x": 61.0,
+   "y": 12.0,
+   "z": 2.245
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_BAJA",
+   "voxels": 11,
+   "vol": 0.08800000000000002,
+   "x": -80.1729567196934,
+   "y": 4.599041283012577,
+   "z": 0.8400000000000001
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 11,
+   "vol": 0.08800000000000002,
+   "x": -80.06118368215348,
+   "y": -2.551528439865036,
+   "z": 1.42
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_S",
+   "b": "MAST_2",
+   "voxels": 11,
+   "vol": 0.08800000000000002,
+   "x": 69.96289863612677,
+   "y": 15.797612712429688,
+   "z": 0.95
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "DOME_SHELL",
+   "b": "VEG2_ARBOL_B",
+   "voxels": 11,
+   "vol": 0.08800000000000002,
+   "x": 31.349111069517484,
+   "y": 8.115055023322318,
+   "z": 4.485959453453649
+  },
+  {
+   "pair": "CANOPY×RIBBON",
+   "a": "LEAF_MT",
+   "b": "RIBBON_DECK",
+   "voxels": 11,
+   "vol": 0.08800000000000002,
+   "x": 74.16,
+   "y": 1.4799999999999998,
+   "z": 5.890000000000001
+  },
+  {
+   "pair": "FURNITURE×WATER",
+   "a": "BENCH_1",
+   "b": "MAIN",
+   "voxels": 11,
+   "vol": 0.08800000000000002,
+   "x": 6.692732349521284,
+   "y": 7.341910659969438,
+   "z": 0.305
+  },
+  {
+   "pair": "FURNITURE×WATER",
+   "a": "BENCH_2",
+   "b": "MAIN",
+   "voxels": 11,
+   "vol": 0.08800000000000002,
+   "x": 5.464400501394991,
+   "y": 5.206452116499685,
+   "z": 0.305
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TREPADORA",
+   "voxels": 10,
+   "vol": 0.08000000000000002,
+   "x": -77.70702254930049,
+   "y": 3.039165449763858,
+   "z": 1.8620689655172415
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 10,
+   "vol": 0.08000000000000002,
+   "x": -76.46736979895849,
+   "y": 11.361051913838025,
+   "z": 1.42
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 10,
+   "vol": 0.08000000000000002,
+   "x": 63.78,
+   "y": -6.32,
+   "z": 0.8499999999999999
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TREPADORA",
+   "voxels": 10,
+   "vol": 0.08000000000000002,
+   "x": 68.75237994024995,
+   "y": -7.27959409941171,
+   "z": 1.8620689655172415
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "PLANTER_1",
+   "b": "POD_TRAIN",
+   "voxels": 10,
+   "vol": 0.08000000000000002,
+   "x": -79.14313772184644,
+   "y": 6.440000000000001,
+   "z": 0.45
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_1",
+   "b": "POD_TRAIN",
+   "voxels": 10,
+   "vol": 0.08000000000000002,
+   "x": -77.88346421416604,
+   "y": 2.65,
+   "z": 0.42500000000000004
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M1",
+   "b": "VEG2_ARBOL_A",
+   "voxels": 10,
+   "vol": 0.08000000000000002,
+   "x": -82.90707077208282,
+   "y": 4.572804863831614,
+   "z": 4.293
+  },
+  {
+   "pair": "FURNITURE×PLANTER",
+   "a": "TOTEM",
+   "b": "MAST_3",
+   "voxels": 10,
+   "vol": 0.08000000000000002,
+   "x": 73.948154238788,
+   "y": 4.0,
+   "z": 0.275
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIB_CAP",
+   "b": "VEG2_COLGANTE",
+   "voxels": 10,
+   "vol": 0.08000000000000002,
+   "x": 25.170360624694048,
+   "y": 24.714387687568703,
+   "z": 5.645
+  },
+  {
+   "pair": "FURNITURE×PODS",
+   "a": "NURSERY",
+   "b": "POD_TRAIN",
+   "voxels": 10,
+   "vol": 0.08000000000000002,
+   "x": 61.0,
+   "y": 12.0,
+   "z": 0.745
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "x": -80.80255200526604,
+   "y": -3.5220355646545,
+   "z": 1.87
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "MAST_1",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "x": -77.72418308365334,
+   "y": 2.646833673139591,
+   "z": 0.95
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "x": -77.7,
+   "y": 12.2,
+   "z": 0.8499999999999999
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "MAST_3",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "x": 56.33649901181721,
+   "y": 1.8524150651392852,
+   "z": 0.95
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "MAST_2",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "x": 69.0942239192627,
+   "y": -7.180517260795206,
+   "z": 0.95
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_S",
+   "b": "VEG2_TREPADORA",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "x": 69.82406551471756,
+   "y": 15.896018854336898,
+   "z": 2.3728329895411493
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_3",
+   "b": "POD_TRAIN",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "x": 56.63,
+   "y": 1.87,
+   "z": 0.42500000000000004
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_2",
+   "b": "POD_TRAIN",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "x": 68.67957413822728,
+   "y": -7.592654858088414,
+   "z": 0.16
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M2",
+   "b": "VEG2_ARBOL_A",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "x": 22.306735993717922,
+   "y": 30.37046105818417,
+   "z": 4.266
+  },
+  {
+   "pair": "CANOPY×RIBBON",
+   "a": "LEAF_LT",
+   "b": "RIBBON_DECK",
+   "voxels": 9,
+   "vol": 0.07200000000000002,
+   "x": -5.75,
+   "y": 15.43,
+   "z": 5.9258
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_BAJA",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": -80.29757073598736,
+   "y": 4.61019683195863,
+   "z": 0.8400000000000001
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": -77.2265243768154,
+   "y": 13.157578733807384,
+   "z": 1.87
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": -76.27807867419635,
+   "y": 12.832320957878176,
+   "z": 1.42
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_S",
+   "b": "MAST_1",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": -67.49028632544167,
+   "y": 18.957672225365457,
+   "z": 0.95
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "PLANTER_1",
+   "b": "POD_TRAIN",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": -78.1054828119561,
+   "y": 10.538294110866556,
+   "z": 0.45
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_3",
+   "b": "POD_TRAIN",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": 58.59858870234925,
+   "y": 2.4372109479845383,
+   "z": 0.16
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_1",
+   "b": "LAB02",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": 64.67,
+   "y": 19.414750090569967,
+   "z": 0.275
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M2",
+   "b": "VEG2_ARBOL_A",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": 22.708397207006172,
+   "y": 29.66421656055113,
+   "z": 4.3762
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIB_SUP",
+   "b": "VEG2_TREPADORA",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": -47.34,
+   "y": 25.567528967356523,
+   "z": 1.5059417860520712
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIB_CAP",
+   "b": "VEG2_COLGANTE",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": 25.373653157444835,
+   "y": 24.835358695993918,
+   "z": 5.645
+  },
+  {
+   "pair": "FURNITURE×PODS",
+   "a": "NURSERY",
+   "b": "POD_M",
+   "voxels": 8,
+   "vol": 0.06400000000000002,
+   "x": 66.83675955546744,
+   "y": 14.211755526939617,
+   "z": 2.995
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TREPADORA",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": -77.60148359807309,
+   "y": 2.6553240143796932,
+   "z": 1.5
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "MAST_1",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": -77.03913718302621,
+   "y": -3.0334458098794883,
+   "z": 0.95
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "NURSERY",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 60.81836493963334,
+   "y": 12.73458110771988,
+   "z": 2.41
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TREPADORA",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 68.6726749737538,
+   "y": -7.013933798013554,
+   "z": 1.3448275862068966
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_S",
+   "b": "VEG2_TREPADORA",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 69.82406551471756,
+   "y": 15.797612712429688,
+   "z": 2.3793103448275863
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_S",
+   "b": "VEG2_TREPADORA",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 69.68245665396638,
+   "y": 16.22953341196652,
+   "z": 1.8620689655172415
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "PLANTER_1",
+   "b": "POD_TRAIN",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": -79.34051730942376,
+   "y": 1.8400000000000003,
+   "z": 0.45
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_3",
+   "b": "POD_TRAIN",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 56.21758610518625,
+   "y": 1.8743148162624,
+   "z": 0.4025
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "DOME_SHELL",
+   "b": "VEG2_ARBOL_B",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 28.77538551874128,
+   "y": 8.013181276797983,
+   "z": 4.335813464218082
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIB_CAP",
+   "b": "VEG2_COLGANTE",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 25.126726603824586,
+   "y": 24.644463139320024,
+   "z": 5.401441791014735
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIB_CAP",
+   "b": "VEG2_COLGANTE",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 25.34382320258166,
+   "y": 24.843995003467775,
+   "z": 5.318698287628672
+  },
+  {
+   "pair": "FURNITURE×PODS",
+   "a": "NURSERY",
+   "b": "POD_M",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 66.83675955546744,
+   "y": 14.211755526939617,
+   "z": 1.495
+  },
+  {
+   "pair": "FURNITURE×PODS",
+   "a": "NURSERY",
+   "b": "POD_M",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 66.83675955546744,
+   "y": 14.211755526939617,
+   "z": 2.245
+  },
+  {
+   "pair": "PLANTER×RIBBON",
+   "a": "MAST_1",
+   "b": "RIB_SUP",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": -61.94,
+   "y": 23.11,
+   "z": 0.275
+  },
+  {
+   "pair": "PLANTER×RIBBON",
+   "a": "MAST_3",
+   "b": "STEP",
+   "voxels": 7,
+   "vol": 0.056000000000000015,
+   "x": 77.24486666666667,
+   "y": 2.185654238788003,
+   "z": 0.4103333333333333
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_BAJA",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": -80.4356581548629,
+   "y": 4.400374725049511,
+   "z": 0.9359999999999999
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": -78.77740185179485,
+   "y": -2.7033985053756497,
+   "z": 1.42
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 63.05548574362916,
+   "y": -7.239334523973588,
+   "z": 1.87
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 65.01263020104152,
+   "y": -7.158948086161972,
+   "z": 1.42
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "MAST_2",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 68.83635910005106,
+   "y": -7.37920169532267,
+   "z": 0.95
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_3",
+   "b": "POD_TRAIN",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 58.64727356157259,
+   "y": 2.366098679694934,
+   "z": 0.4025
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_2",
+   "b": "POD_S",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 69.54386166198714,
+   "y": 16.29230860784928,
+   "z": 0.4131865440932372
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "DOME_SHELL",
+   "b": "VEG2_ARBOL_B",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 30.201439711286092,
+   "y": 7.50801760447188,
+   "z": 4.830105988601304
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M1",
+   "b": "VEG2_COLGANTE",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 68.14018716893878,
+   "y": -3.611057331447207,
+   "z": 4.418989758980967
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M1",
+   "b": "VEG2_COLGANTE",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 68.66495350063494,
+   "y": -3.6255633182368836,
+   "z": 4.351294862886018
+  },
+  {
+   "pair": "CANOPY×RIBBON",
+   "a": "LEAF_MT",
+   "b": "RIBBON_DECK",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 74.16021316385735,
+   "y": 1.4802967344268867,
+   "z": 5.986664398667555
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIB_SUP",
+   "b": "MAST_1",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": -47.34,
+   "y": 25.56,
+   "z": 0.95
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "BALPOST",
+   "b": "VEG2_ARBOL_B",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": -43.79981243130358,
+   "y": 27.62046247250959,
+   "z": 6.2925180932039515
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIBBON_DECK",
+   "b": "VEG2_ARBOL_A",
+   "voxels": 6,
+   "vol": 0.048000000000000015,
+   "x": 64.0,
+   "y": 19.0,
+   "z": 5.890000000000001
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -79.74121273173286,
+   "y": -5.699151811642986,
+   "z": 1.42
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -78.68921722105785,
+   "y": 11.280665476026412,
+   "z": 1.87
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TREPADORA",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -77.86925150943063,
+   "y": 2.7737830045578455,
+   "z": 2.3793103448275863
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -77.92997744104724,
+   "y": 12.597597060999018,
+   "z": 1.475
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "VEG2_TROPICAL",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -76.27807867419635,
+   "y": 12.639851810164044,
+   "z": 1.42
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "TANK",
+   "b": "VEG2_COLGANTE",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -70.00745251468908,
+   "y": 17.458932333936666,
+   "z": 9.70145670496981
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "NURSERY",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 60.93196598697989,
+   "y": 12.247657292280781,
+   "z": 2.41
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "NURSERY",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 61.04556703432643,
+   "y": 11.760733476841683,
+   "z": 2.41
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_TRAIN",
+   "b": "NURSERY",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 61.15916808167297,
+   "y": 11.273809661402584,
+   "z": 1.66
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_M",
+   "b": "NURSERY",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 66.84249792172852,
+   "y": 13.790900239319258,
+   "z": 1.66
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_M",
+   "b": "NURSERY",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 66.84249792172852,
+   "y": 13.790900239319258,
+   "z": 2.41
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_M",
+   "b": "NURSERY",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 67.15330290586385,
+   "y": 14.182563694133,
+   "z": 2.41
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_M",
+   "b": "NURSERY",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 67.46026797695723,
+   "y": 14.574227148946742,
+   "z": 1.66
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_M",
+   "b": "NURSERY",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 67.59748620424432,
+   "y": 14.574227148946742,
+   "z": 1.66
+  },
+  {
+   "pair": "PODS×VEGETATION",
+   "a": "POD_S",
+   "b": "MAST_2",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 69.68058574722039,
+   "y": 16.252534537587948,
+   "z": 0.95
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "PLANTER_1",
+   "b": "POD_TRAIN",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -79.02521501025358,
+   "y": -2.63,
+   "z": 0.45
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "PLANTER_1",
+   "b": "POD_TRAIN",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -78.44826548613312,
+   "y": -6.81,
+   "z": 0.45
+  },
+  {
+   "pair": "PLANTER×PODS",
+   "a": "MAST_2",
+   "b": "POD_S",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 69.82617455089351,
+   "y": 15.797612712429688,
+   "z": 0.4131865440932372
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M2",
+   "b": "VEG2_ARBOL_A",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 21.0833434349309,
+   "y": 31.269670008606624,
+   "z": 4.5
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M2",
+   "b": "VEG2_ARBOL_A",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 23.489312320179657,
+   "y": 31.039365469650576,
+   "z": 4.5
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "DOME_SHELL",
+   "b": "VEG2_ARBOL_B",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 30.0,
+   "y": 7.830055191194386,
+   "z": 4.946999999999999
+  },
+  {
+   "pair": "CANOPY×VEGETATION",
+   "a": "LEAF_M1",
+   "b": "VEG2_COLGANTE",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 68.46122595683707,
+   "y": -3.3246800058054546,
+   "z": 4.447183138730978
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIBBON_DECK",
+   "b": "VEG2_ARBOL_B",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -44.0,
+   "y": 29.0,
+   "z": 5.890000000000001
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIB_SUP",
+   "b": "VEG2_COLGANTE",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 25.23536062469405,
+   "y": 24.73478472174709,
+   "z": 5.645
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIB_CAP",
+   "b": "VEG2_COLGANTE",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 25.181599894116083,
+   "y": 24.995163893189137,
+   "z": 5.645
+  },
+  {
+   "pair": "RIBBON×VEGETATION",
+   "a": "RIB_SUP",
+   "b": "VEG2_COLGANTE",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 25.341675154026667,
+   "y": 24.790088470034217,
+   "z": 5.645
+  },
+  {
+   "pair": "FURNITURE×PODS",
+   "a": "NURSERY",
+   "b": "POD_M",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": 66.17053287058486,
+   "y": 13.511913149541307,
+   "z": 1.65
+  },
+  {
+   "pair": "PODS×WATER",
+   "a": "POD_M",
+   "b": "MAIN",
+   "voxels": 5,
+   "vol": 0.04000000000000001,
+   "x": -63.0,
+   "y": 14.2,
+   "z": 0.39
+  }
+ ],
+ "vs_circ": [
+  {
+   "fam": "STRUCTURE",
+   "celdas": 0,
+   "area": 0.0,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "CANOPY",
+   "celdas": 0,
+   "area": 0.0,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "VEGETATION",
+   "celdas": 3833,
+   "area": 239.5625,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "PODS",
+   "celdas": 3364,
+   "area": 210.25,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "PLANTER",
+   "celdas": 7449,
+   "area": 465.5625,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "FURNITURE",
+   "celdas": 805,
+   "area": 50.3125,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "WATER",
+   "celdas": 4866,
+   "area": 304.125,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "RIBBON",
+   "celdas": 348,
+   "area": 21.75,
+   "nota": "huella en la banda de cuerpo dentro del ambito"
+  },
+  {
+   "fam": "CABLE",
+   "celdas": 0,
+   "area": 0.0,
+   "nota": "muestras de cable < 3.0 m sobre suelo pisable"
+  }
+ ]
+}

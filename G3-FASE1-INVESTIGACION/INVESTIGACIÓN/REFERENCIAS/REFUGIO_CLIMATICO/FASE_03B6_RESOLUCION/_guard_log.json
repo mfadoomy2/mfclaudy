@@ -1,0 +1,571 @@
+{
+ "nota": "entradas duplicadas: build master (hasta idx 26) + build full",
+ "ajustes": [
+  {
+   "tag": "CINTA",
+   "regla": "suavizado+balsas",
+   "radio_min": 4.75
+  },
+  {
+   "tag": "STAIR@-38,19",
+   "regla": "anclaje-deslizado",
+   "de": [
+    -38,
+    19.0
+   ],
+   "a": [
+    -36.3,
+    20.3
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@4,29",
+   "regla": "anclaje-deslizado",
+   "de": [
+    4,
+    29.0
+   ],
+   "a": [
+    4.0,
+    30.8
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@26,15",
+   "regla": "anclaje-deslizado",
+   "de": [
+    26,
+    15.0
+   ],
+   "a": [
+    26.4,
+    15.2
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@44,-6",
+   "regla": "anclaje-deslizado",
+   "de": [
+    44,
+    -6.0
+   ],
+   "a": [
+    46.1,
+    -7.0
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "LIFT@-75,10",
+   "regla": "anclaje-deslizado",
+   "de": [
+    -75,
+    10
+   ],
+   "a": [
+    -75.8,
+    10.7
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "LIFT@72,8",
+   "regla": "anclaje-deslizado",
+   "de": [
+    72,
+    8
+   ],
+   "a": [
+    73.9,
+    7.7
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro-salto",
+   "xy": [
+    21.9,
+    22.7
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro-salto",
+   "xy": [
+    20.1,
+    25.1
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro-salto",
+   "xy": [
+    52.8,
+    -7.0
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro-salto",
+   "xy": [
+    48.9,
+    20.6
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro-salto",
+   "xy": [
+    56.6,
+    -2.0
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    -60.47,
+    18.77
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    -66.72,
+    19.72
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    69.74,
+    15.93
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    67.48,
+    18.45
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    67.43,
+    18.5
+   ]
+  },
+  {
+   "tag": "POD/R-C1",
+   "regla": "mastil",
+   "a": [
+    -66.01,
+    20.19
+   ]
+  },
+  {
+   "tag": "POD/R-C3",
+   "regla": "mastil",
+   "a": [
+    68.23,
+    14.79
+   ]
+  },
+  {
+   "tag": "BENCH_0",
+   "regla": "corte-mastil",
+   "quitados": 6
+  },
+  {
+   "tag": "BENCH_1",
+   "regla": "corte-mastil",
+   "quitados": 3
+  },
+  {
+   "tag": "BENCH_2",
+   "regla": "corte-mastil",
+   "quitados": 4
+  },
+  {
+   "tag": "BENCH_3",
+   "regla": "corte-mastil",
+   "quitados": 2
+  },
+  {
+   "tag": "PLANTER_2",
+   "regla": "puerta",
+   "quitados": 2
+  },
+  {
+   "tag": "PLANTER_5",
+   "regla": "puerta",
+   "quitados": 2
+  },
+  {
+   "tag": "TOTEM",
+   "regla": "mastil",
+   "a": [
+    74.78,
+    3.79
+   ]
+  },
+  {
+   "tag": "CINTA",
+   "regla": "suavizado+balsas",
+   "radio_min": 4.75
+  },
+  {
+   "tag": "STAIR@-38,19",
+   "regla": "anclaje-deslizado",
+   "de": [
+    -38,
+    19.0
+   ],
+   "a": [
+    -36.3,
+    20.3
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@4,29",
+   "regla": "anclaje-deslizado",
+   "de": [
+    4,
+    29.0
+   ],
+   "a": [
+    4.0,
+    30.8
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@26,15",
+   "regla": "anclaje-deslizado",
+   "de": [
+    26,
+    15.0
+   ],
+   "a": [
+    26.4,
+    15.2
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "STAIR@44,-6",
+   "regla": "anclaje-deslizado",
+   "de": [
+    44,
+    -6.0
+   ],
+   "a": [
+    46.1,
+    -7.0
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "LIFT@-75,10",
+   "regla": "anclaje-deslizado",
+   "de": [
+    -75,
+    10
+   ],
+   "a": [
+    -75.8,
+    10.7
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "LIFT@72,8",
+   "regla": "anclaje-deslizado",
+   "de": [
+    72,
+    8
+   ],
+   "a": [
+    73.9,
+    7.7
+   ],
+   "lado": -1
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro-salto",
+   "xy": [
+    21.9,
+    22.7
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro-salto",
+   "xy": [
+    20.1,
+    25.1
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro-salto",
+   "xy": [
+    52.8,
+    -7.0
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro-salto",
+   "xy": [
+    48.9,
+    20.6
+   ]
+  },
+  {
+   "tag": "RIB_SUP",
+   "regla": "metro-salto",
+   "xy": [
+    56.6,
+    -2.0
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    -60.47,
+    18.77
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    -66.72,
+    19.72
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    69.74,
+    15.93
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    67.48,
+    18.45
+   ]
+  },
+  {
+   "tag": "POD_GAP",
+   "regla": "anti-trampa 0.90",
+   "a": [
+    67.43,
+    18.5
+   ]
+  },
+  {
+   "tag": "POD/R-C1",
+   "regla": "mastil",
+   "a": [
+    -66.01,
+    20.19
+   ]
+  },
+  {
+   "tag": "POD/R-C3",
+   "regla": "mastil",
+   "a": [
+    68.23,
+    14.79
+   ]
+  },
+  {
+   "tag": "BENCH_0",
+   "regla": "corte-mastil",
+   "quitados": 6
+  },
+  {
+   "tag": "BENCH_1",
+   "regla": "corte-mastil",
+   "quitados": 3
+  },
+  {
+   "tag": "BENCH_2",
+   "regla": "corte-mastil",
+   "quitados": 4
+  },
+  {
+   "tag": "BENCH_3",
+   "regla": "corte-mastil",
+   "quitados": 2
+  },
+  {
+   "tag": "PLANTER_VEG",
+   "regla": "capsula/ascensor",
+   "xy": [
+    -77.7,
+    12.2
+   ]
+  },
+  {
+   "tag": "PLANTER_VEG",
+   "regla": "capsula/ascensor",
+   "xy": [
+    -80.3,
+    4.1
+   ]
+  },
+  {
+   "tag": "PLANTER_2",
+   "regla": "puerta",
+   "quitados": 2
+  },
+  {
+   "tag": "PLANTER_5",
+   "regla": "puerta",
+   "quitados": 2
+  },
+  {
+   "tag": "PLANTER_VEG",
+   "regla": "capsula/ascensor",
+   "xy": [
+    63.8,
+    -6.3
+   ]
+  },
+  {
+   "tag": "TOTEM",
+   "regla": "mastil",
+   "a": [
+    74.78,
+    3.79
+   ]
+  },
+  {
+   "tag": "ARBOL_1",
+   "regla": "corredor-descartado",
+   "de": [
+    -74,
+    23.0
+   ]
+  },
+  {
+   "tag": "ARBOL_3",
+   "regla": "cinta",
+   "a": [
+    -44.25,
+    30.27
+   ]
+  },
+  {
+   "tag": "ARBOL_4",
+   "regla": "disco-bajo",
+   "a": [
+    -19.4,
+    31.0
+   ]
+  },
+  {
+   "tag": "ARBOL_5",
+   "regla": "disco-bajo",
+   "a": [
+    -6.26,
+    35.15
+   ]
+  },
+  {
+   "tag": "ARBOL_6",
+   "regla": "disco-bajo",
+   "a": [
+    20.52,
+    33.25
+   ]
+  },
+  {
+   "tag": "ARBOL_7",
+   "regla": "cinta",
+   "a": [
+    34.21,
+    25.35
+   ]
+  },
+  {
+   "tag": "ARBOL_8",
+   "regla": "cinta",
+   "a": [
+    65.41,
+    21.78
+   ]
+  },
+  {
+   "tag": "ARBOL_10",
+   "regla": "disco-bajo",
+   "a": [
+    -84.39,
+    2.49
+   ]
+  },
+  {
+   "tag": "ARBOL_11",
+   "regla": "estatua",
+   "de": [
+    -30,
+    -7.0
+   ],
+   "a": [
+    -30.25,
+    -6.12
+   ]
+  },
+  {
+   "tag": "ARBOL_12",
+   "regla": "corredor-descartado",
+   "de": [
+    -18,
+    -16
+   ]
+  },
+  {
+   "tag": "ARBOL_15",
+   "regla": "cupula",
+   "a": [
+    29.82,
+    11.48
+   ]
+  },
+  {
+   "tag": "ARBOL_15",
+   "regla": "cinta",
+   "a": [
+    30.44,
+    11.44
+   ]
+  },
+  {
+   "tag": "ARBOL_17",
+   "regla": "disco-bajo",
+   "a": [
+    -58.24,
+    -16.76
+   ]
+  }
+ ]
+}

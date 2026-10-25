@@ -1,0 +1,53 @@
+[   0.0s] TMY cargado: 8760 horas
+[   0.6s] escena 6672 mallas · 394610 triangulos · rejilla 424x246 a 0.50 m
+[   0.6s] ambito 44080 celdas = 11020 m2 (03B.5: 11.014 m2) · suelo pisable 9889 m2
+[   0.6s] 1 · factor de vision de cielo y transmision difusa (145 direcciones)
+[   0.6s]    61 direcciones de cielo, suma de pesos 1.0000
+[   3.6s]    estado A @grd: SVF(onda larga) 0.925 · DTF(difusa) 0.940 · frac dosel 0.000 · opaco 0.028 · vegetal 0.047
+[   6.6s]    estado A @ped: SVF(onda larga) 0.925 · DTF(difusa) 0.941 · frac dosel 0.000 · opaco 0.025 · vegetal 0.050
+[   8.9s]    estado B @grd: SVF(onda larga) 0.461 · DTF(difusa) 0.522 · frac dosel 0.108 · opaco 0.320 · vegetal 0.111
+[  11.3s]    estado B @ped: SVF(onda larga) 0.494 · DTF(difusa) 0.563 · frac dosel 0.127 · opaco 0.254 · vegetal 0.125
+[  11.3s] 2 · horas de sol y sombra
+[  11.3s]    ventana critica 93 dias · geometria solar muestreada en 31 dias (cada 3)
+[  12.6s]    ... 15 posiciones solares calculadas
+[  18.9s]    ... 90 posiciones solares calculadas
+[  20.2s]    ... 105 posiciones solares calculadas
+[  26.7s]    ... 180 posiciones solares calculadas
+[  27.9s]    ... 194 posiciones solares calculadas
+[  35.5s]    ... 278 posiciones solares calculadas
+[  43.8s]    ... 369 posiciones solares calculadas
+[  49.8s]    431 posiciones solares × 2 estados
+[  49.9s]    estado A: horas de sol medias 1206 h en la ventana (13.0 h/dia) · en 12-18 local 528 h
+[  49.9s]    estado B: horas de sol medias 635 h en la ventana (6.8 h/dia) · en 12-18 local 305 h
+[  49.9s] 3 · radiacion solar incidente acumulada sobre el suelo
+[  50.0s]    estado A 648 kWh/m2 · estado B 365 kWh/m2 · reduccion media 43.7 % (283 kWh/m2)
+[  50.0s]    invierno: 21 de diciembre
+[  50.9s]    21-dic: A 2.34 kWh/m2·dia · B 1.21 · perdida 48 %
+[  50.9s] 4 · rendimiento de cada disco de dosel
+[  51.6s]    67 discos · sombra proyectada total 639901 m2·h · eficiencia (m2h/m2 disco) mediana 558 · min 555 · max 562
+[  51.6s] 5 · balance de superficie, MRT y UTCI por escenario
+[  52.5s]    superficie: granito 40684 · agua 1095 · vegetal 2301 · humeda(splash/estanque) 2024 celdas
+[  52.6s]    E1 14:00 Ta 27.6 elev 70.0 | A: Ts 51.9 Tmrt 61.1 | B: Ts 43.5 Tmrt 50.0 | dosel 28.4 C (seco seria 40.5, la lamina de algas lo enfria 12.1 K)
+[  52.7s]    E1 16:00 Ta 29.2 elev 56.1 | A: Ts 49.1 Tmrt 60.9 | B: Ts 41.6 Tmrt 49.4 | dosel 29.2 C (seco seria 39.9, la lamina de algas lo enfria 10.7 K)
+[  52.9s]    E1 18:00 Ta 29.5 elev 34.0 | A: Ts 39.6 Tmrt 53.5 | B: Ts 35.5 Tmrt 43.7 | dosel 28.4 C (seco seria 35.4, la lamina de algas lo enfria 7.0 K)
+[  53.0s]    E2 14:00 Ta 33.0 elev 70.0 | A: Ts 58.1 Tmrt 64.1 | B: Ts 49.6 Tmrt 54.0 | dosel 32.9 C (seco seria 46.4, la lamina de algas lo enfria 13.5 K)
+[  53.2s]    E2 16:00 Ta 34.7 elev 56.1 | A: Ts 54.7 Tmrt 64.5 | B: Ts 47.2 Tmrt 53.7 | dosel 33.8 C (seco seria 45.5, la lamina de algas lo enfria 11.6 K)
+[  53.4s]    E2 18:00 Ta 35.0 elev 34.0 | A: Ts 45.5 Tmrt 59.6 | B: Ts 41.1 Tmrt 49.4 | dosel 33.2 C (seco seria 41.1, la lamina de algas lo enfria 7.8 K)
+[  53.5s]    E3 14:00 Ta 38.0 elev 70.0 | A: Ts 63.9 Tmrt 66.9 | B: Ts 55.2 Tmrt 57.7 | dosel 37.6 C (seco seria 53.1, la lamina de algas lo enfria 15.4 K)
+[  53.6s]    E3 16:00 Ta 40.1 elev 56.1 | A: Ts 57.2 Tmrt 65.8 | B: Ts 50.8 Tmrt 56.5 | dosel 38.2 C (seco seria 49.2, la lamina de algas lo enfria 11.0 K)
+[  53.8s]    E3 18:00 Ta 38.5 elev 34.0 | A: Ts 46.9 Tmrt 60.3 | B: Ts 43.4 Tmrt 51.2 | dosel 36.0 C (seco seria 43.2, la lamina de algas lo enfria 7.2 K)
+[  53.8s] 6 · UTCI (polinomio oficial Brode et al. 2012, via pythermalcomfort)
+[  53.8s]    E1 16:00  UTCI  A 34.6  B 31.6  delta -2.99 K
+[  53.8s]    E2 16:00  UTCI  A 39.9  B 37.3  delta -2.60 K
+[  53.8s]    E3 16:00  UTCI  A 44.6  B 42.5  delta -2.05 K
+[  53.8s]    E4 · nebulizacion activa: enfriamiento evaporativo local por saturacion adiabatica
+[  53.9s]    deriva de la nube 13.4 m (u=1.00 m/s, viento SO) · cobertura>0.3: 2054 m2 · Twb 16.9 C · dT max 6.23 K · RH pasa de 15% a 31%
+[  53.9s]    UTCI E2/16h  B sin niebla 37.3  ->  con niebla 36.5  (delta -3.06 K en zona cubierta)
+C:\Users\iraxx_c0wouln\OneDrive\Documentos\iraxxxdios_ARQUITECTURA\xxxmiguelxxx\Monteserin\REFUGIO_CLIMATICO\FASE_03B5B_CLIMA\clima_core.py:397: ResourceWarning: unclosed file <_io.TextIOWrapper name='C:\\Users\\iraxx_c0wouln\\OneDrive\\Documentos\\iraxxxdios_ARQUITECTURA\\xxxmiguelxxx\\Monteserin\\REFUGIO_CLIMATICO\\FASE_03B5B_CLIMA\\_data\\escena_meta.json' mode='w' encoding='utf-8'>
+  json.dump(obj, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1,
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+C:\Users\iraxx_c0wouln\OneDrive\Documentos\iraxxxdios_ARQUITECTURA\xxxmiguelxxx\Monteserin\REFUGIO_CLIMATICO\FASE_03B5B_CLIMA\clima_core.py:397: ResourceWarning: unclosed file <_io.TextIOWrapper name='C:\\Users\\iraxx_c0wouln\\OneDrive\\Documentos\\iraxxxdios_ARQUITECTURA\\xxxmiguelxxx\\Monteserin\\REFUGIO_CLIMATICO\\FASE_03B5B_CLIMA\\_data\\mist.json' mode='w' encoding='utf-8'>
+  json.dump(obj, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1,
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+[  53.9s] OK fase 1/2 — campos base escritos en _data/
+EXIT=0

@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Manual Gráfico — Refugio Climático Puerta del Sol</title>
+<style>
+  @page { size: A4 landscape; margin: 0; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  :root{
+    --turq:#3E969B; --turqd:#2E6E6B; --lima:#C3D48A; --vagua:#8FC7AE; --vveg:#6F8F53;
+    --valga:#6E7A45; --rosa:#E794AC; --rosai:#D6577F; --cobre:#B08968;
+    --gpiedra:#EDEAE4; --gctx:#B5B1A9; --gtec:#33322E;
+  }
+  body { font-family: Arial, Helvetica, sans-serif; color: var(--gtec); }
+  .page { width: 297mm; height: 209.5mm; padding: 14mm 16mm; page-break-after: always; position: relative; overflow: hidden; background:#fff; }
+  .folio { position:absolute; bottom:8mm; right:16mm; font-size:7pt; letter-spacing:1px; color:#8a877f; }
+  .kicker { font-family: Bahnschrift, 'Arial Narrow', Arial; font-weight:300; letter-spacing:4px; font-size:8.5pt; color:var(--turqd); text-transform:uppercase; margin-bottom:3mm;}
+  h1 { font-family: Bahnschrift, Arial; font-weight:600; font-size:34pt; letter-spacing:0.5px; line-height:1.06; }
+  h2 { font-family: Bahnschrift, Arial; font-weight:300; font-size:19pt; letter-spacing:1px; margin-bottom:6mm; }
+  h3 { font-family: Bahnschrift, Arial; font-weight:400; font-size:10pt; letter-spacing:1.5px; text-transform:uppercase; margin:4mm 0 2mm; color:var(--turqd);}
+  p, li { font-size:8.6pt; line-height:1.5; }
+  .cols2 { column-count:2; column-gap:10mm; }
+  .cols3 { column-count:3; column-gap:8mm; }
+  table { border-collapse: collapse; width:100%; font-size:8pt; }
+  th { text-align:left; font-family:Bahnschrift, Arial; font-weight:400; letter-spacing:1px; font-size:7.5pt; text-transform:uppercase; color:var(--turqd); border-bottom:0.4pt solid var(--gctx); padding:1.5mm 2mm;}
+  td { border-bottom:0.25pt solid #DDD9D0; padding:1.6mm 2mm; vertical-align:top;}
+  .mono { font-family: Consolas, monospace; font-size:7.6pt; }
+  .rule { height:0.5pt; background:var(--gctx); margin:5mm 0; }
+  .tag { display:inline-block; border:0.5pt solid var(--gctx); padding:0.5mm 2mm; font-size:7pt; letter-spacing:1px; margin-right:2mm; }
+</style>
+</head>
+<body>
+
+<!-- ================= P1 PORTADA ================= -->
+<div class="page">
+  <div style="position:absolute; inset:0; overflow:hidden;">
+    <svg width="100%" height="100%" viewBox="0 0 297 210" preserveAspectRatio="none" style="position:absolute;inset:0;">
+      <ellipse cx="70" cy="105" rx="46" ry="34" fill="none" stroke="#3E969B" stroke-width="1.1" opacity="0.9" transform="rotate(14 70 105)"/>
+      <ellipse cx="150" cy="98" rx="36" ry="28" fill="none" stroke="#3E969B" stroke-width="1.4" opacity="0.9"/>
+      <ellipse cx="150" cy="98" rx="24" ry="18" fill="none" stroke="#3E969B" stroke-width="0.8" opacity="0.9"/>
+      <ellipse cx="222" cy="108" rx="30" ry="23" fill="none" stroke="#3E969B" stroke-width="1.1" opacity="0.9" transform="rotate(-10 222 108)"/>
+      <path d="M 18 120 C 40 70, 95 150, 128 92 S 200 140, 236 96 S 272 120, 284 104" fill="none" stroke="#2E6E6B" stroke-width="2.2" stroke-linecap="round" opacity="0.85"/>
+      <circle cx="62" cy="98" r="9" fill="#C3D48A" opacity="0.5"/>
+      <circle cx="86" cy="116" r="6" fill="#C3D48A" opacity="0.5"/>
+      <circle cx="148" cy="92" r="10" fill="#C3D48A" opacity="0.5"/>
+      <circle cx="163" cy="110" r="6.5" fill="#8FC7AE" opacity="0.5"/>
+      <circle cx="222" cy="104" r="8" fill="#8FC7AE" opacity="0.5"/>
+      <g fill="#E794AC" opacity="0.65">
+        <ellipse cx="30" cy="96" rx="4.5" ry="2.6" transform="rotate(70 30 96)"/>
+        <ellipse cx="33" cy="104" rx="4.5" ry="2.6" transform="rotate(78 33 104)"/>
+        <ellipse cx="37" cy="112" rx="4.5" ry="2.6" transform="rotate(86 37 112)"/>
+        <ellipse cx="243" cy="122" rx="4.2" ry="2.4" transform="rotate(-60 243 122)"/>
+        <ellipse cx="249" cy="116" rx="4.2" ry="2.4" transform="rotate(-45 249 116)"/>
+        <ellipse cx="253" cy="108" rx="4.2" ry="2.4" transform="rotate(-25 253 108)"/>
+      </g>
+      <g fill="#D6577F"><circle cx="120" cy="80" r="1"/><circle cx="132" cy="122" r="1"/><circle cx="205" cy="90" r="1"/><circle cx="70" cy="130" r="1"/></g>
+    </svg>
+  </div>
+  <div style="position:relative; margin-top:18mm;">
+    <div class="kicker">Fase 01 · Base geométrica y sistema gráfico</div>
+    <h1>REFUGIO CLIMÁTICO<br>PUERTA DEL SOL</h1>
+    <p style="margin-top:4mm; font-size:10pt; letter-spacing:2px; color:var(--turqd);">MANUAL GRÁFICO · CONSTITUCIÓN VISUAL DEL PROYECTO</p>
+  </div>
+  <div style="position:absolute; bottom:14mm; left:16mm; font-size:7.5pt; color:#8a877f;">
+    Madrid · 07-2026 · documento 02 · toda la documentación posterior obedece a este manual
+  </div>
+  <div class="folio">02 · MANUAL GRÁFICO · 01</div>
+</div>
+
+<!-- ================= P2 IDENTIDAD ================= -->
+<div class="page">
+  <div class="kicker">01 · Identidad</div>
+  <h2>De dónde nace este lenguaje</h2>
+  <div class="cols2">
+    <p>Todo el sistema gráfico deriva del propio proyecto: del dibujo matriz <b>00_DIBUJO 03</b> (tinta y acuarela, 07-2026) y de sus mutaciones — maquetas de acrílico translúcido, redes tensadas, hinchables rosa chicle, balsas de microalgas, cobre y líneas filiformes. La documentación técnica debe parecer <b>inevitablemente</b> de este proyecto: rigurosa como un plano institucional, delicada como la maqueta transparente fotografiada en cenital.</p>
+    <p style="margin-top:3mm;">El lenguaje se sitúa a medio camino entre: <b>A</b> plano institucional preciso · <b>B</b> dibujo técnico experimental · <b>C</b> maqueta transparente cenital · <b>D</b> diagrama de sistemas ambientales · <b>E</b> atlas botánico/biológico · <b>F</b> cartografía de concurso europeo.</p>
+    <h3>Principios</h3>
+    <p>1 · Fidelidad al proyecto &nbsp; 2 · Coherencia geométrica &nbsp; 3 · Arquitectura real y dibujable &nbsp; 4 · Información &nbsp; 5 · Legibilidad &nbsp; 6 · Sistema &nbsp; 7 · Belleza. <i>Nunca se sacrifica 1–5 para que una lámina quede espectacular: el resultado es bello porque está bien construido, jerarquizado y dibujado.</i></p>
+    <h3>Materia del proyecto (familias)</h3>
+    <p>Loops estructurales · cinta-recorrido · discos-canopy de microalgas · cápsulas neumáticas · depósitos de agua · red hidráulica vista · balsas y estanques · jardineras-banco · mástiles ramificados · vegetación · nebulización · lámina de agua jugable.</p>
+  </div>
+  <div class="rule"></div>
+  <h3>Lo que este manual prohíbe</h3>
+  <p class="cols3" style="font-size:8pt;">
+    Diagramas corporativos y estética de consultora · plantillas PowerPoint · iconos genéricos de stock · colores saturados arbitrarios · degradados tecnológicos azules · infografía comercial · panel de Pinterest · sombras portadas/3D gratuitas · rellenos negros masivos · más de dos familias tipográficas · llenar la página porque hay espacio: <b>el aire es parte del sistema</b>.
+  </p>
+  <div class="folio">02 · MANUAL GRÁFICO · 02</div>
+</div>
+
+<!-- ================= P3 PALETA ================= -->
+<div class="page">
+  <div class="kicker">02 · Color</div>
+  <h2>Paleta — extraída de las referencias, no elegida</h2>
+  <table>
+    <tr><th style="width:26mm;">Muestra</th><th>Rol</th><th>HEX</th><th>RGB</th><th>CMYK aprox.</th><th>Uso</th><th>Opacidad</th><th>Anclaje en referencia</th></tr>
+    <tr><td style="background:#FFFFFF; border:0.3pt solid #ccc;"></td><td><b>BLANCO BASE</b></td><td class="mono">#FFFFFF</td><td class="mono">255·255·255</td><td class="mono">0/0/0/0</td><td>fondo, espacio, vacío</td><td>—</td><td>fondo común de todas las referencias</td></tr>
+    <tr><td style="background:#EDEAE4;"></td><td><b>GRIS PIEDRA</b></td><td class="mono">#EDEAE4</td><td class="mono">237·234·228</td><td class="mono">0/1/4/7</td><td>relleno contexto edificado</td><td>100 %</td><td>granito de plaza #C7B6AB aclarado (0F53E6F0)</td></tr>
+    <tr><td style="background:#B5B1A9;"></td><td><b>GRIS CONTEXTO</b></td><td class="mono">#B5B1A9</td><td class="mono">181·177·169</td><td class="mono">0/2/7/29</td><td>línea de lo existente</td><td>100 %</td><td>k-means global #AFADA3 / #999991</td></tr>
+    <tr><td style="background:#33322E;"></td><td><b>GRIS TÉCNICO</b></td><td class="mono">#33322E</td><td class="mono">51·50·46</td><td class="mono">0/2/10/80</td><td>texto, cotas, datos</td><td>100 %</td><td>oscuros #252317/#423F2E neutralizados</td></tr>
+    <tr><td style="background:#3E969B;"></td><td><b>TURQUESA ESTRUCTURA</b></td><td class="mono">#3E969B</td><td class="mono">62·150·155</td><td class="mono">60/3/0/39</td><td>loops, estructura primaria</td><td>95 %</td><td>muestreo directo membrana/pista HR01</td></tr>
+    <tr><td style="background:#2E6E6B;"></td><td><b>TURQUESA PROFUNDO</b></td><td class="mono">#2E6E6B</td><td class="mono">46·110·107</td><td class="mono">58/0/3/57</td><td>cinta-recorrido, énfasis</td><td>100 %</td><td>acento pista #336D70 (HR01)</td></tr>
+    <tr><td style="background:#C3D48A;"></td><td><b>VERDE LIMA</b></td><td class="mono">#C3D48A</td><td class="mono">195·212·138</td><td class="mono">8/0/35/17</td><td>discos-canopy, verde elevado</td><td>55 %</td><td>dibujo #B3C1A8 + balsa HR01 #97963C</td></tr>
+    <tr><td style="background:#8FC7AE;"></td><td><b>VERDE AGUA</b></td><td class="mono">#8FC7AE</td><td class="mono">143·199·174</td><td class="mono">28/0/13/22</td><td>balsas, estanques, agua viva</td><td>55 %</td><td>dibujo #89A68E + acrílico HR02</td></tr>
+    <tr><td style="background:#6F8F53;"></td><td><b>VERDE VEGETAL</b></td><td class="mono">#6F8F53</td><td class="mono">111·143·83</td><td class="mono">22/0/42/44</td><td>arbolado, vegetación en suelo</td><td>85 %</td><td>HR01 #4E502D · dosel real #A4A873</td></tr>
+    <tr><td style="background:#6E7A45;"></td><td><b>VERDE MICROALGAS</b></td><td class="mono">#6E7A45</td><td class="mono">110·122·69</td><td class="mono">10/0/43/52</td><td>láminas de cultivo profundas</td><td>70 %</td><td>balsa real #7E7C52/#998A34 (0F53E6F0)</td></tr>
+    <tr><td style="background:#E794AC;"></td><td><b>ROSA CHICLE</b></td><td class="mono">#E794AC</td><td class="mono">231·148·172</td><td class="mono">0/36/26/9</td><td>cápsulas, hinchables, programa</td><td>65 %</td><td>cápsulas HR01 #E59FA9 · HR11 #D393A6</td></tr>
+    <tr><td style="background:#D6577F;"></td><td><b>ROSA INTENSO</b></td><td class="mono">#D6577F</td><td class="mono">214·87·127</td><td class="mono">0/59/41/16</td><td>red hidráulica, depósitos, datos clave</td><td>90 %</td><td>acento saturado HR01 #E53763 rebajado</td></tr>
+    <tr><td style="background:#B08968;"></td><td><b>COBRE</b></td><td class="mono">#B08968</td><td class="mono">176·137·104</td><td class="mono">0/22/41/31</td><td>madera, bancos, uniones</td><td>90 %</td><td>k-means #88774E + disco real #BB9B6B</td></tr>
+  </table>
+  <p style="margin-top:3mm; font-size:7.5pt; color:#8a877f;">Regla: máximo un acento saturado dominante por lámina (rosa intenso <i>o</i> turquesa profundo). El resto trabaja en capas translúcidas. CMYK orientativo: verificar en preimpresión.</p>
+  <div class="folio">02 · MANUAL GRÁFICO · 03</div>
+</div>
+
+<!-- ================= P4 LINEA Y CERTEZA ================= -->
+<div class="page">
+  <div class="kicker">03 · Línea</div>
+  <h2>Jerarquía de grosores y certeza geométrica</h2>
+  <div style="display:flex; gap:12mm;">
+    <div style="flex:1.2;">
+      <h3>Grosores (impreso A1 · 1:500)</h3>
+      <table>
+        <tr><th>mm</th><th>Uso</th><th>Especimen</th></tr>
+        <tr><td class="mono">0.08</td><td>tramas, contexto lejano, cables y tensores</td><td><svg width="220" height="8"><line x1="0" y1="4" x2="220" y2="4" stroke="#33322E" stroke-width="0.3"/></svg></td></tr>
+        <tr><td class="mono">0.10</td><td>información secundaria, vegetación menuda</td><td><svg width="220" height="8"><line x1="0" y1="4" x2="220" y2="4" stroke="#33322E" stroke-width="0.38"/></svg></td></tr>
+        <tr><td class="mono">0.13</td><td>componentes: discos, cápsulas, jardineras</td><td><svg width="220" height="8"><line x1="0" y1="4" x2="220" y2="4" stroke="#33322E" stroke-width="0.5"/></svg></td></tr>
+        <tr><td class="mono">0.18</td><td>geometría general de propuesta</td><td><svg width="220" height="8"><line x1="0" y1="4" x2="220" y2="4" stroke="#33322E" stroke-width="0.68"/></svg></td></tr>
+        <tr><td class="mono">0.25</td><td>estructura principal: loops, anillos</td><td><svg width="220" height="8"><line x1="0" y1="4" x2="220" y2="4" stroke="#33322E" stroke-width="0.95"/></svg></td></tr>
+        <tr><td class="mono">0.35</td><td>cinta-recorrido, elementos seccionados</td><td><svg width="220" height="8"><line x1="0" y1="4" x2="220" y2="4" stroke="#33322E" stroke-width="1.32"/></svg></td></tr>
+        <tr><td class="mono">0.50</td><td>cortes estructurales de primer orden, marco</td><td><svg width="220" height="8"><line x1="0" y1="4" x2="220" y2="4" stroke="#33322E" stroke-width="1.9"/></svg></td></tr>
+      </table>
+      <p style="margin-top:2.5mm; font-size:7.6pt;">Escalado: A1 ×1.0 · A2 ×0.85 · A3 ×0.7 · pantalla: 1&nbsp;mm ≈ 3.78&nbsp;px a 96&nbsp;dpi. El master SVG trabaja en metros: a 1:500 sobre A1, 1&nbsp;m = 2&nbsp;mm de papel; los grosores de este manual ya están definidos en unidades de papel y se convierten al exportar.</p>
+    </div>
+    <div style="flex:1;">
+      <h3>Certeza geométrica (obligatorio en toda lámina)</h3>
+      <table>
+        <tr><th>Clase</th><th>Significado</th><th>Grafismo</th></tr>
+        <tr><td><b>G1</b></td><td>confirmado en varias referencias</td><td><svg width="150" height="8"><line x1="0" y1="4" x2="150" y2="4" stroke="#2E6E6B" stroke-width="1.4"/></svg></td></tr>
+        <tr><td><b>G2</b></td><td>muy probable, coherente entre imágenes</td><td><svg width="150" height="8"><line x1="0" y1="4" x2="150" y2="4" stroke="#2E6E6B" stroke-width="1.4" opacity="0.85"/></svg></td></tr>
+        <tr><td><b>G3</b></td><td>inferido, necesario para completar</td><td><svg width="150" height="8"><line x1="0" y1="4" x2="150" y2="4" stroke="#2E6E6B" stroke-width="1.4" stroke-dasharray="4.4 3.2"/></svg></td></tr>
+        <tr><td><b>G4</b></td><td>desconocido / reserva de categoría</td><td><svg width="150" height="8"><line x1="0" y1="4" x2="150" y2="4" stroke="#2E6E6B" stroke-width="1.4" stroke-dasharray="1 2.4"/></svg></td></tr>
+      </table>
+      <p style="margin-top:2.5mm; font-size:7.6pt;">La clase de certeza nunca se oculta: un plano bello con geometría inventada silenciosamente es un plano falso. G3/G4 pueden agruparse en leyenda («elementos inferidos») cuando granularlos ensucie la lámina.</p>
+      <h3 style="margin-top:6mm;">Reglas de dibujo</h3>
+      <p style="font-size:8pt;">Curvas siempre continuas y tensas (sin polilíneas facetadas visibles) · los loops nunca se interrumpen: pasan por encima/debajo con puente de opacidad · norte SIEMPRE arriba en plantas · lo existente nunca compite en peso con lo propuesto · cada familia conserva su color en TODA la colección.</p>
+    </div>
+  </div>
+  <div class="folio">02 · MANUAL GRÁFICO · 04</div>
+</div>
+
+<!-- ================= P5 TIPOGRAFIA ================= -->
+<div class="page">
+  <div class="kicker">04 · Tipografía</div>
+  <h2>Sistema tipográfico</h2>
+  <div style="display:flex; gap:12mm;">
+    <div style="flex:1.3;">
+      <table>
+        <tr><th>Rol</th><th>Fuente</th><th>Cuerpo/interlínea</th><th>Especimen</th></tr>
+        <tr><td>Título principal</td><td>Bahnschrift SemiBold</td><td>28–40 pt · track +1 %</td><td style="font-family:Bahnschrift; font-weight:600; font-size:17pt;">REFUGIO CLIMÁTICO</td></tr>
+        <tr><td>Título de plano</td><td>Bahnschrift Light, versal</td><td>14–18 pt · track +6 %</td><td style="font-family:Bahnschrift; font-weight:300; font-size:12pt; letter-spacing:2px;">PLANTA GENERAL 1:500</td></tr>
+        <tr><td>Subtítulo</td><td>Bahnschrift Light</td><td>10–12 pt · track +3 %</td><td style="font-family:Bahnschrift; font-weight:300; font-size:10pt; letter-spacing:1px;">Sistema de agua y sombra</td></tr>
+        <tr><td>Texto corrido</td><td>Arial Regular</td><td>8.5 / 12 pt</td><td style="font-size:8.5pt;">El dosel filtra la radiación mediante láminas de cultivo.</td></tr>
+        <tr><td>Anotación</td><td>Arial Regular</td><td>7 / 9.5 pt</td><td style="font-size:7pt;">jardinera-banco de borde curvo</td></tr>
+        <tr><td>Dato numérico</td><td>Bahnschrift Regular</td><td>9–11 pt tabular</td><td style="font-family:Bahnschrift; font-size:10pt;">2.450.000 L/año · 10.957 m²</td></tr>
+        <tr><td>Cota</td><td>Consolas</td><td>6.5 pt</td><td class="mono" style="font-size:6.5pt;">12.50   +4.80   Ø6.00</td></tr>
+        <tr><td>Leyenda</td><td>Arial Regular</td><td>7.5 / 10 pt</td><td style="font-size:7.5pt;">■ balsa de microalgas &nbsp; ● árbol existente</td></tr>
+      </table>
+      <p style="margin-top:3mm; font-size:7.6pt;">Equivalencias libres (si el documento sale del entorno Windows): Bahnschrift → <b>Archivo</b> / Inter · Arial → <b>Inter</b> / Helvetica · Consolas → <b>IBM Plex Mono</b>. Nunca más de estas dos familias + mono por lámina.</p>
+    </div>
+    <div style="flex:1;">
+      <h3>Reglas</h3>
+      <p style="font-size:8.2pt;">Los títulos no gritan: el protagonista es el dibujo. Texto siempre en gris técnico #33322E, nunca negro puro salvo impresión 1-tinta. Los números clave del proyecto (agua, superficie, temperatura) pueden usar ROSA INTENSO como única excepción de color tipográfico. Sin cursivas ornamentales; la cursiva solo para citas de fuentes. Rótulos en planta: horizontales o siguiendo la curva de la familia (nunca inclinaciones arbitrarias). Idioma: castellano; unidades SI con punto de millar (10.957 m²).</p>
+      <h3 style="margin-top:5mm;">Micro-composición</h3>
+      <p style="font-size:8.2pt;">Kicker en versalitas espaciadas turquesa profundo sobre cada bloque · numeración de lámina abajo-derecha 7 pt · créditos y fecha abajo-izquierda 7.5 pt · llamadas con línea fina 0.10 y punto de 0.8 mm, texto siempre fuera de la mancha del dibujo.</p>
+    </div>
+  </div>
+  <div class="folio">02 · MANUAL GRÁFICO · 05</div>
+</div>
+
+<!-- ================= P6 TRAMAS ================= -->
+<div class="page">
+  <div class="kicker">05 · Tramas y transparencias</div>
+  <h2>Cómo se representa cada sistema</h2>
+  <table>
+    <tr><th style="width:34mm;">Sistema</th><th style="width:56mm;">Especimen</th><th>Regla</th></tr>
+    <tr><td>Vegetación</td>
+        <td><svg width="150" height="14"><defs><pattern id="pv" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.9" fill="#6F8F53"/><circle cx="5" cy="5" r="0.6" fill="#6F8F53"/></pattern></defs><rect width="150" height="14" fill="url(#pv)" opacity="0.7"/></svg></td>
+        <td>campo de puntos en 3 densidades (baja/media/alta); copas de árbol como círculo 0.13 sin relleno + punto central</td></tr>
+    <tr><td>Agua</td>
+        <td><svg width="150" height="14"><g stroke="#8FC7AE" stroke-width="0.5"><line x1="0" y1="3" x2="150" y2="3"/><line x1="0" y1="7" x2="150" y2="7"/><line x1="0" y1="11" x2="150" y2="11"/></g></svg></td>
+        <td>rayado horizontal fino 0.10 a 1.2 mm + relleno VERDE AGUA 45–55 %; lámina jugable con borde punteado</td></tr>
+    <tr><td>Sombra proyectada</td>
+        <td><svg width="150" height="14"><rect width="150" height="14" fill="#33322E" opacity="0.12"/></svg></td>
+        <td>campo gris 10–14 % SIN borde; nunca negro al 30 %</td></tr>
+    <tr><td>Radiación / temperatura</td>
+        <td><svg width="150" height="14"><defs><linearGradient id="gr"><stop offset="0" stop-color="#D6577F" stop-opacity="0.75"/><stop offset="1" stop-color="#D6577F" stop-opacity="0.05"/></linearGradient></defs><rect width="150" height="14" fill="url(#gr)"/></svg></td>
+        <td>gradaciones controladas del ROSA INTENSO (nunca arcoíris); isolíneas 0.10 con valor</td></tr>
+    <tr><td>Existente</td>
+        <td><svg width="150" height="14"><rect x="4" y="2" width="60" height="10" fill="#EDEAE4" stroke="#B5B1A9" stroke-width="0.5"/><rect x="80" y="2" width="60" height="10" fill="none" stroke="#B5B1A9" stroke-width="0.5"/></svg></td>
+        <td>gris piedra + línea gris contexto; jamás color de familia</td></tr>
+    <tr><td>Propuesto elevado</td>
+        <td><svg width="150" height="14"><ellipse cx="40" cy="7" rx="30" ry="5" fill="#C3D48A" opacity="0.55"/><ellipse cx="100" cy="7" rx="30" ry="5" fill="none" stroke="#3E969B" stroke-width="0.8" stroke-dasharray="3 2"/></svg></td>
+        <td>relleno translúcido 50–65 % si es superficie; proyección de lo que vuela: discontinua 2.2/1.6</td></tr>
+    <tr><td>Tensores / cables</td>
+        <td><svg width="150" height="14"><g stroke="#33322E" stroke-width="0.3"><line x1="10" y1="12" x2="70" y2="2"/><line x1="30" y1="12" x2="80" y2="3"/><line x1="55" y1="12" x2="95" y2="4"/></g></svg></td>
+        <td>0.08 continua gris técnico; en haces radiales desde mástil</td></tr>
+    <tr><td>Instalaciones / red rosa</td>
+        <td><svg width="150" height="14"><path d="M 5 10 C 40 2 80 14 145 5" fill="none" stroke="#D6577F" stroke-width="1.1"/><circle cx="46" cy="7" r="1.2" fill="#D6577F"/><circle cx="96" cy="9" r="1.2" fill="#D6577F"/></svg></td>
+        <td>ROSA INTENSO 0.13–0.25 con nodos-punto (boquillas, goteros); reserva Fase 02: bombeo/drenaje/sensores</td></tr>
+    <tr><td>Área de influencia</td>
+        <td><svg width="150" height="14"><ellipse cx="75" cy="7" rx="60" ry="6" fill="#3E969B" opacity="0.10" stroke="#3E969B" stroke-width="0.4" stroke-dasharray="2 1.6"/></svg></td>
+        <td>halo del color de familia 8–12 % + borde discontinuo fino</td></tr>
+    <tr><td>Dato cuantitativo espacial</td>
+        <td><svg width="150" height="14"><circle cx="30" cy="7" r="5.5" fill="none" stroke="#D6577F" stroke-width="0.8"/><circle cx="30" cy="7" r="2.2" fill="#D6577F"/><text x="42" y="9.5" font-family="Bahnschrift" font-size="7" fill="#33322E">1.250 L/día</text></svg></td>
+        <td>círculos proporcionales rosa + cifra Bahnschrift; nunca 3D ni iconos</td></tr>
+  </table>
+  <p style="margin-top:2.5mm; font-size:7.6pt;">Principio: <b>capas translúcidas superpuestas</b> — como el acrílico de las maquetas. El blanco del papel atraviesa todo; si una zona se ennegrece, sobran capas, no falta color.</p>
+  <div class="folio">02 · MANUAL GRÁFICO · 06</div>
+</div>
+
+<!-- ================= P7 SIMBOLOGIA ================= -->
+<div class="page">
+  <div class="kicker">06 · Simbología</div>
+  <h2>Catálogo de símbolos</h2>
+  <img src="simbolos/simbolos.svg" style="width:100%; margin-top:2mm;">
+  <p style="font-size:7.6pt; margin-top:2mm;">Archivo editable: <span class="mono">02_SISTEMA_GRAFICO/simbolos/simbolos.svg</span>. Los símbolos se dibujan a línea (0.10–0.13), sin rellenos negros salvo evacuación. Tamaño mínimo impreso 2.5 mm. No se admite iconografía externa.</p>
+  <div class="folio">02 · MANUAL GRÁFICO · 07</div>
+</div>
+
+<!-- ================= P8 RETICULA ================= -->
+<div class="page">
+  <div class="kicker">07 · Lámina</div>
+  <h2>Retícula editorial</h2>
+  <div style="display:flex; gap:10mm;">
+    <div style="flex:1.5;">
+      <svg width="100%" viewBox="0 0 297 195" style="border:0.3pt solid #ccc;">
+        <rect x="0" y="0" width="297" height="195" fill="#fff"/>
+        <rect x="10" y="10" width="277" height="175" fill="none" stroke="#B5B1A9" stroke-width="0.3"/>
+        <rect x="10" y="10" width="212" height="175" fill="#F6F5F1"/>
+        <text x="116" y="100" font-size="9" fill="#8a877f" text-anchor="middle" font-family="Bahnschrift">CAMPO DE DIBUJO</text>
+        <line x1="228" y1="10" x2="228" y2="185" stroke="#B5B1A9" stroke-width="0.3"/>
+        <text x="234" y="22" font-size="6" fill="#2E6E6B" font-family="Bahnschrift" letter-spacing="1">KICKER · FASE</text>
+        <text x="234" y="32" font-size="9" fill="#33322E" font-family="Bahnschrift">TÍTULO DE PLANO</text>
+        <text x="234" y="38" font-size="5" fill="#8a877f">subtítulo / sistema</text>
+        <rect x="234" y="46" width="47" height="40" fill="none" stroke="#B5B1A9" stroke-width="0.25"/>
+        <text x="236" y="52" font-size="4.5" fill="#8a877f">LEYENDA</text>
+        <rect x="234" y="92" width="47" height="28" fill="none" stroke="#B5B1A9" stroke-width="0.25"/>
+        <text x="236" y="98" font-size="4.5" fill="#8a877f">DATOS CLAVE</text>
+        <rect x="234" y="126" width="47" height="26" fill="none" stroke="#B5B1A9" stroke-width="0.25"/>
+        <text x="236" y="132" font-size="4.5" fill="#8a877f">DIAGRAMA SECUNDARIO</text>
+        <circle cx="240" cy="166" r="5" fill="none" stroke="#33322E" stroke-width="0.4"/>
+        <path d="M 240 170 L 240 162 M 240 162 L 238.5 164.5 M 240 162 L 241.5 164.5" stroke="#33322E" stroke-width="0.4" fill="none"/>
+        <rect x="250" y="163" width="8" height="2.4" fill="#33322E"/><rect x="258" y="163" width="8" height="2.4" fill="none" stroke="#33322E" stroke-width="0.3"/>
+        <text x="250" y="172" font-size="4" fill="#33322E">0    20   40 m</text>
+        <text x="234" y="181" font-size="4.5" fill="#8a877f">CRÉDITOS · FECHA · ESCALA</text>
+        <text x="279" y="181" font-size="5" fill="#33322E" font-family="Bahnschrift">P.01</text>
+      </svg>
+    </div>
+    <div style="flex:1;">
+      <h3>Especificación A1 apaisado (594×841)</h3>
+      <p style="font-size:8.2pt; line-height:1.65;">
+      Márgenes 20 mm perimetrales · campo de dibujo ≈ 610×554 mm a la izquierda · columna técnica derecha de 150 mm separada por filete 0.10 · en la columna, de arriba a abajo: kicker de fase, título del plano (versal Bahnschrift Light), subtítulo, leyenda, datos clave, diagrama secundario opcional, norte + escala gráfica, créditos · numeración P.XX abajo-derecha · el plano NUNCA invade la columna; el aire de la columna no se rellena.
+      </p>
+      <h3>Formatos</h3>
+      <p style="font-size:8.2pt;">Principal: <b>A1 apaisado</b> (concurso/ayuntamiento) · reducción directa a A3 para memoria (grosores ×0.7) · pantalla: misma lámina exportada a 150 dpi. Serie: P.01, P.02… (planos) · D.01… (diagramas) · S.01… (secciones).</p>
+      <h3>Nomenclatura de archivos</h3>
+      <p class="mono" style="font-size:7pt;">P01_PLANTA_GENERAL_500.svg/pdf<br>P02_AXONOMETRIA_MAESTRA.svg/pdf<br>capas: CONTEXTO / ESTRUCTURA_PRINCIPAL / ESTRUCTURA_LIGERA / CIRCULACION / PAISAJE / PROGRAMA / AGUA_CLIMA / INSTALACIONES</p>
+    </div>
+  </div>
+  <div class="folio">02 · MANUAL GRÁFICO · 08</div>
+</div>
+
+<!-- ================= P9 APLICACION ================= -->
+<div class="page">
+  <div class="kicker">08 · Aplicación</div>
+  <h2>La planta maestra como piedra de toque</h2>
+  <div style="display:flex; gap:8mm; align-items:flex-start;">
+    <img src="../01_BASE_GEOMETRICA/planta_maestra/preview_planta.png" style="width:170mm; border:0.3pt solid #ddd;">
+    <div>
+      <h3>Checklist antes de emitir cualquier lámina</h3>
+      <p style="font-size:8.2pt; line-height:1.8;">
+      □ norte arriba y escala gráfica presentes<br>
+      □ existente en grises / propuesta en familias<br>
+      □ certezas G1–G4 aplicadas y honestas<br>
+      □ un solo acento saturado dominante<br>
+      □ transparencias suman, no ennegrecen<br>
+      □ textos fuera de la mancha del dibujo<br>
+      □ monumentos y claros respetados<br>
+      □ leyenda completa, símbolos del catálogo<br>
+      □ misma paleta/tipografía que el resto de la colección<br>
+      □ ¿parece inevitablemente de ESTE proyecto?
+      </p>
+    </div>
+  </div>
+  <div class="folio">02 · MANUAL GRÁFICO · 09</div>
+</div>
+
+<!-- ================= P10 FUENTES ================= -->
+<div class="page">
+  <div class="kicker">09 · Trazabilidad</div>
+  <h2>Fuentes del sistema y archivos</h2>
+  <div class="cols2">
+    <h3>Base geométrica</h3>
+    <p class="mono" style="font-size:7.4pt; line-height:1.7;">
+    01_BASE_GEOMETRICA/planta_maestra/geometria_maestra.json — fuente de verdad (1 u = 1 m)<br>
+    01_BASE_GEOMETRICA/planta_maestra/planta_maestra.svg — master por capas<br>
+    01_BASE_GEOMETRICA/planta_maestra/master_geometry.py — generador paramétrico<br>
+    01_BASE_GEOMETRICA/planta_maestra/contexto_sol.json — contexto OSM real proyectado<br>
+    01_BASE_GEOMETRICA/modelo_3d/refugio_fase01.obj — 3D esquemático por familias (Z arriba)<br>
+    01_BASE_GEOMETRICA/validacion/ — overlays y panel de composición</p>
+    <h3>Sistema gráfico</h3>
+    <p class="mono" style="font-size:7.4pt; line-height:1.7;">
+    02_SISTEMA_GRAFICO/paleta/paleta.json — paleta curada con anclajes<br>
+    02_SISTEMA_GRAFICO/paleta/extract_palette.py · sample_accents.py — extracción reproducible<br>
+    02_SISTEMA_GRAFICO/simbolos/simbolos.svg — catálogo editable<br>
+    02_SISTEMA_GRAFICO/manual_grafico.html — este documento (fuente editable)</p>
+    <h3>Referencias que gobiernan el lenguaje</h3>
+    <p style="font-size:8pt;">Dibujo matriz 00_DIBUJO 03 (composición, verdes, delicadeza de línea) · HR01 (turquesa, trenes rosas, balsas lima) · HR02–HR07 (maquetas translúcidas: capas y tensores) · 0F53E6F0 (implantación real, granito, microalgas profundas) · A2BD2AAA/B5C822AC (dosel lenticular en Sol) · láminas técnicas del linaje portuario (modelo de leyenda e iconos rosas).</p>
+    <h3>Decisiones e incertidumbres</h3>
+    <p style="font-size:8pt;">Ver <span class="mono">05_LOG/decisiones.md</span> y <span class="mono">05_LOG/incertidumbres.md</span>. Ninguna incertidumbre se resuelve silenciosamente: se dibuja como G3/G4 o se anota.</p>
+  </div>
+  <div class="folio">02 · MANUAL GRÁFICO · 10</div>
+</div>
+
+</body>
+</html>

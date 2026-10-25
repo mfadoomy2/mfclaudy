@@ -1,0 +1,27 @@
+{
+  "_nota": "Overrides de Fase 03A derivados de la validacion de transitabilidad. NO modifican geometria_maestra.json (aprobada): son propuesta v1.1 pendiente de OK del autor. proxy_build.py y validate_transit.py los aplican.",
+  "corridors": {
+    "eje-mayor-alcala": [[-95, -10], [-78, -15], [-58, -12], [-38, -11], [-20, -11], [20, -14], [50, -16], [66, -18], [78, -15], [86, -4]],
+    "preciados-carretas": [[-33, 50], [-26, 30], [-20, 10], [-12, -10], [2, -16], [7, -30]],
+    "carmen-correos": [[6, 64], [-4, 44], [-18, 28], [-22, 8], [-14, -12], [-6, -26]],
+    "montera-espozymina": [[44, 55], [40, 40], [40, 14], [43.5, -2], [36, -14], [26, -28]],
+    "arenal-alcala": null
+  },
+  "metro_exclusion_radius": 5.5,
+  "planter_trim": { "7": [0.0, 0.64], "2": [0.0, 0.5], "1": [0.0, 0.8] },
+  "tree_moves": [[[-18, -11], [-18, -16]], [[-46, -13], [-46, -17]], [[-58, -13], [-58, -17]]],
+  "pond_moves": { "E-3": [11, 21] },
+  "capsule_rules": { "T-O_cy_min": -8, "T-SE_cx_max": 78 },
+  "lab_shift": [8.83, -4.93],
+  "razones": {
+    "eje-mayor-alcala": "el tren de capsulas T-SE (borde sur de C3) invadia el eje historico; el eje se retraza 4-6 m al sur, dentro de la banda libre real frente a Correos y la Carrera",
+    "preciados-carretas": "la orla de jardineras del anillo C2 cortaba la diagonal; se pasa por el istmo O (hueco proyectado)",
+    "carmen-correos": "la diagonal atravesaba el nucleo denso de C2; se desvia por el hueco entre C2 y la cupula (paso 5.2 m)",
+    "montera-espozymina": "la CUPULA (13 m de diametro en 30.5,2) tapona el canal C2-C3: la diagonal se lleva al este de la cupula y se abre una PUERTA en la orla de jardineras SW de C3-L1 (planter_trim idx 7). HALLAZGO CLAVE para revision: o la cupula se desplaza ~6 m al sur-este en v1.1, o se asume este rodeo",
+    "carmen-correos": "actualizado: la diagonal atraviesa el istmo OESTE (bajo el lazo C2-L3, entre mastiles, paso proyectado)",
+    "metro": "se retiran del proxy los obstaculos (capsulas/jardineras/bancos/arboles nuevos/mastiles) a menos de 5.5 m de bocas de Metro/Cercanias; pendiente decidir su reubicacion en planta v1.1",
+    "tren_T-O": "la cola sur del tren oeste invadia el eje Mayor-Alcala: se retiran las capsulas con cy<-8 (3 ud, propuesta v1.1)",
+    "estanque_E-3": "estaba a <7 m de la boca de metro de Carmen: se desplaza a (11,21)",
+    "LAB02": "posicion G3 inferida chocaba con las bocas de Alcala: se reubica bajo el gran loop C3-L1 (centroide ~52,11), protegido bajo la balsa elevada B-C3a"
+  }
+}

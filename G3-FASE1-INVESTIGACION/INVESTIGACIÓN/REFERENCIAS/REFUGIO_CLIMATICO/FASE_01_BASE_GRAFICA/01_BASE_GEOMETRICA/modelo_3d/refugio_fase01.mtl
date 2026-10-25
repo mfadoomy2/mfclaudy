@@ -1,0 +1,56 @@
+newmtl 00_SUELO_PLAZA
+Kd 0.96 0.95 0.93
+d 0.9
+
+newmtl 01_CONTEXTO_EDIFICIOS
+Kd 0.90 0.89 0.86
+d 0.9
+
+newmtl 02_LOOPS
+Kd 0.18 0.66 0.64
+d 0.9
+
+newmtl 03_CINTA
+Kd 0.10 0.50 0.48
+d 0.9
+
+newmtl 04_MASTILES
+Kd 0.55 0.55 0.55
+d 0.9
+
+newmtl 05_DISCOS
+Kd 0.77 0.88 0.55
+d 0.9
+
+newmtl 06_BALSAS
+Kd 0.55 0.81 0.64
+d 0.9
+
+newmtl 06_ESTANQUES
+Kd 0.39 0.73 0.56
+d 0.9
+
+newmtl 07_CAPSULAS
+Kd 0.95 0.48 0.71
+d 0.9
+
+newmtl 08_DEPOSITOS
+Kd 0.93 0.37 0.63
+d 0.9
+
+newmtl 09_PROGRAMA
+Kd 0.66 0.47 0.29
+d 0.9
+
+newmtl 10_ARBOLES_EXIST
+Kd 0.62 0.73 0.56
+d 0.9
+
+newmtl 10_ARBOLES_NUEVOS
+Kd 0.37 0.61 0.33
+d 0.9
+
+newmtl 11_RED_AGUA
+Kd 0.94 0.44 0.68
+d 0.9
+

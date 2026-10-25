@@ -1,0 +1,284 @@
+{
+ "band": 5.5,
+ "zobst": 2.5,
+ "rows": [
+  {
+   "name": "Centro Comercial",
+   "x": -79.34,
+   "y": 66.69,
+   "en_ambito": false,
+   "d_suelo": 40.3,
+   "elem_suelo": "VEG2_ARBOL_A",
+   "d_aereo": 39.96,
+   "elem_aereo": "VEG2_ARBOL_A",
+   "z_aereo": 2.95,
+   "n_banda_suelo": 0,
+   "n_banda_aereo": 0,
+   "familias": [],
+   "familias_aereas": [],
+   "libre_min": 11.25,
+   "libre_medio": 17.99,
+   "galibo": null,
+   "invasores": []
+  },
+  {
+   "name": "Cercanías",
+   "x": 57.01,
+   "y": -5.4,
+   "en_ambito": true,
+   "d_suelo": 1.57,
+   "elem_suelo": "RIB_SUP",
+   "d_aereo": 0.12,
+   "elem_aereo": "PRIMARY_C3-L1",
+   "z_aereo": 9.7,
+   "n_banda_suelo": 5,
+   "n_banda_aereo": 62,
+   "familias": [
+    "RIBBON",
+    "VEGETATION",
+    "WATER"
+   ],
+   "familias_aereas": [
+    "RIBBON",
+    "STRUCTURE",
+    "VEGETATION",
+    "WATER"
+   ],
+   "libre_min": 5.75,
+   "libre_medio": 14.16,
+   "galibo": 6.0,
+   "invasores": [
+    [
+     "RIB_SUP",
+     "RIBBON",
+     1.57,
+     0.0
+    ],
+    [
+     "RIB_SUP",
+     "RIBBON",
+     3.08,
+     0.0
+    ],
+    [
+     "NEB_POST",
+     "WATER",
+     3.43,
+     0.0
+    ],
+    [
+     "VEG2_TROPICAL",
+     "VEGETATION",
+     4.96,
+     1.32
+    ],
+    [
+     "NEB_POST",
+     "WATER",
+     5.3,
+     0.0
+    ]
+   ]
+  },
+  {
+   "name": "Carretas",
+   "x": -3.34,
+   "y": -27.7,
+   "en_ambito": false,
+   "d_suelo": 16.71,
+   "elem_suelo": "VEG2_ARBOL_A",
+   "d_aereo": 16.48,
+   "elem_aereo": "VEG2_ARBOL_A",
+   "z_aereo": 3.63,
+   "n_banda_suelo": 0,
+   "n_banda_aereo": 0,
+   "familias": [],
+   "familias_aereas": [],
+   "libre_min": 17.5,
+   "libre_medio": 19.73,
+   "galibo": null,
+   "invasores": []
+  },
+  {
+   "name": "Carmen",
+   "x": 18.48,
+   "y": 25.11,
+   "en_ambito": true,
+   "d_suelo": 2.95,
+   "elem_suelo": "RIB_SUP",
+   "d_aereo": 0.65,
+   "elem_aereo": "SAT_C2-L1",
+   "z_aereo": 10.55,
+   "n_banda_suelo": 6,
+   "n_banda_aereo": 53,
+   "familias": [
+    "PLANTER",
+    "RIBBON",
+    "VEGETATION",
+    "WATER"
+   ],
+   "familias_aereas": [
+    "CANOPY",
+    "RIBBON",
+    "STRUCTURE",
+    "VEGETATION",
+    "WATER"
+   ],
+   "libre_min": 3.25,
+   "libre_medio": 6.96,
+   "galibo": 6.0,
+   "invasores": [
+    [
+     "RIB_SUP",
+     "RIBBON",
+     2.95,
+     0.0
+    ],
+    [
+     "NEB_POST",
+     "WATER",
+     3.48,
+     0.0
+    ],
+    [
+     "VEG2_ARBOL_A",
+     "VEGETATION",
+     4.76,
+     2.17
+    ],
+    [
+     "NEB_POST",
+     "WATER",
+     4.83,
+     0.0
+    ],
+    [
+     "CURB_E-3",
+     "PLANTER",
+     4.92,
+     0.0
+    ],
+    [
+     "POND_E-3",
+     "WATER",
+     5.06,
+     0.48
+    ]
+   ]
+  },
+  {
+   "name": "Mayor",
+   "x": -84.16,
+   "y": -20.57,
+   "en_ambito": false,
+   "d_suelo": 12.8,
+   "elem_suelo": "PLANTER_1",
+   "d_aereo": 8.85,
+   "elem_aereo": "LEAF_M2",
+   "z_aereo": 4.44,
+   "n_banda_suelo": 0,
+   "n_banda_aereo": 0,
+   "familias": [],
+   "familias_aereas": [],
+   "libre_min": 13.0,
+   "libre_medio": 19.15,
+   "galibo": null,
+   "invasores": []
+  },
+  {
+   "name": "Alcalá",
+   "x": 46.91,
+   "y": 18.85,
+   "en_ambito": true,
+   "d_suelo": 4.21,
+   "elem_suelo": "NEB_POST",
+   "d_aereo": 0.49,
+   "elem_aereo": "PRIMARY_C3-L1",
+   "z_aereo": 9.7,
+   "n_banda_suelo": 4,
+   "n_banda_aereo": 84,
+   "familias": [
+    "PODS",
+    "RIBBON",
+    "WATER"
+   ],
+   "familias_aereas": [
+    "CANOPY",
+    "RIBBON",
+    "STRUCTURE",
+    "VEGETATION",
+    "WATER"
+   ],
+   "libre_min": 6.75,
+   "libre_medio": 16.43,
+   "galibo": 6.0,
+   "invasores": [
+    [
+     "NEB_POST",
+     "WATER",
+     4.21,
+     0.0
+    ],
+    [
+     "NEB_POST",
+     "WATER",
+     4.34,
+     0.0
+    ],
+    [
+     "RIB_SUP",
+     "RIBBON",
+     4.66,
+     0.0
+    ],
+    [
+     "LAB02",
+     "PODS",
+     4.75,
+     0.0
+    ]
+   ]
+  },
+  {
+   "name": "Alcalá",
+   "x": 40.23,
+   "y": 12.0,
+   "en_ambito": true,
+   "d_suelo": 3.02,
+   "elem_suelo": "NEB_POST",
+   "d_aereo": 0.09,
+   "elem_aereo": "PRIMARY_C3-L1",
+   "z_aereo": 9.7,
+   "n_banda_suelo": 2,
+   "n_banda_aereo": 110,
+   "familias": [
+    "RIBBON",
+    "WATER"
+   ],
+   "familias_aereas": [
+    "CANOPY",
+    "RIBBON",
+    "STRUCTURE",
+    "VEGETATION",
+    "WATER"
+   ],
+   "libre_min": 6.5,
+   "libre_medio": 15.49,
+   "galibo": 6.0,
+   "invasores": [
+    [
+     "NEB_POST",
+     "WATER",
+     3.02,
+     0.0
+    ],
+    [
+     "RIB_SUP",
+     "RIBBON",
+     4.65,
+     0.0
+    ]
+   ]
+  }
+ ]
+}

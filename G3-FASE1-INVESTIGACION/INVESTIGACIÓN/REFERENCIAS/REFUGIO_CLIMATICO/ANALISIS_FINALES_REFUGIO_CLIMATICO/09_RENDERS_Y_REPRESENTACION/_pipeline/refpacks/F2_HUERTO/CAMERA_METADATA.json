@@ -1,0 +1,56 @@
+{
+ "camera_id": "F2_HUERTO",
+ "escena": "SOL_FINAL_V006.blend (v006 build 12)",
+ "location": [
+  -54.0,
+  4.0,
+  1.5
+ ],
+ "target": [
+  -56.5,
+  6.2,
+  0.8
+ ],
+ "matrix_world": [
+  [
+   0.6606279015541077,
+   -0.15442515909671783,
+   0.7346588969230652,
+   -54.0
+  ],
+  [
+   0.7507135272026062,
+   0.13589413464069366,
+   -0.6464998126029968,
+   4.0
+  ],
+  [
+   0.0,
+   0.9786141514778137,
+   0.2057044953107834,
+   1.5
+  ],
+  [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "fov_vertical_deg": 60.0,
+ "focal_equiv_35mm_sensor24": 20.78,
+ "sensor_fit": "VERTICAL",
+ "clip_start": 0.10000000149011612,
+ "clip_end": 1200.0,
+ "resolucion": [
+  1920,
+  1200
+ ],
+ "aspect": 1.6,
+ "dof": {
+  "activo": true,
+  "fstop": 8.0
+ },
+ "luz": "tarde PSA (SUN_03D.json) en beauty/clay/ao; passes de datos sin luz",
+ "nota": "matrix_world transforma camara->mundo (Blender, Z-up, -Z mirada). depth.png codifica 0-250 m lineal invertido (cerca=1)."
+}
