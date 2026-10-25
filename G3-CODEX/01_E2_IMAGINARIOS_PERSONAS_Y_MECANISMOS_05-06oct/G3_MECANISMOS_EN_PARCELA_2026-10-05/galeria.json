@@ -1,0 +1,121 @@
+[
+  {
+    "file": "dibujos/11_habitacion_bisagra.png",
+    "title": "Habitación bisagra",
+    "description": "Cuatro ámbitos privados conservan su puerta. El común cambia mediante particiones con giro y almacenamiento previstos.",
+    "base": null,
+    "kind": "Interpretación generada"
+  },
+  {
+    "file": "dibujos/16_en_el_frente_real.png",
+    "title": "En el frente real",
+    "description": "Fotomontaje sobre la fotografía del solar: intervención entre el vecino amarillo bajo y el vecino rojo alto. Interpretación, no levantamiento.",
+    "base": null,
+    "kind": "Interpretación generada"
+  },
+  {
+    "file": "dibujos/10_D_casa_reparable.png",
+    "title": "D · Soporte y relevo",
+    "description": "Estructura duradera, componentes sustituibles y acceso de mantenimiento. Apropiarse de la casa incluye poder repararla.",
+    "base": "06_D_soporte_y_relevo.png",
+    "kind": "Interpretación generada"
+  },
+  {
+    "file": "dibujos/09_C_suelo_desocupado.png",
+    "title": "C · Dos apoyos",
+    "description": "Cuerpos habitados sobre un suelo compartido. La luz estructural y el coste son preguntas abiertas.",
+    "base": "05_C_dos_apoyos.png",
+    "kind": "Interpretación generada"
+  },
+  {
+    "file": "dibujos/08_B_seccion_entrelazada.png",
+    "title": "B · Sección entrelazada",
+    "description": "Privacidad y comunes se cruzan en sección. El dibujo generado cambia niveles respecto al tanteo: contrastar con la base.",
+    "base": "04_B_seccion_trenzada.png",
+    "kind": "Interpretación generada"
+  },
+  {
+    "file": "dibujos/07_A_costillas_habitadas.png",
+    "title": "A · Costillas y vacíos",
+    "description": "Cuerpos transversales y ranuras de cielo. Un borde grueso concentra soporte, mantenimiento y servicios.",
+    "base": "03_A_costillas_y_vacios.png",
+    "kind": "Interpretación generada"
+  },
+  {
+    "file": "dibujos/12_condensador_tres_estados.png",
+    "title": "Condensador de tres estados",
+    "description": "Paneles, bancos y mesas tienen posiciones de uso y de recogida. La misma superficie admite varias relaciones.",
+    "base": null,
+    "kind": "Interpretación generada"
+  },
+  {
+    "file": "dibujos/13_metabolismo_del_rastro.png",
+    "title": "Metabolismo del Rastro",
+    "description": "Recibir → revisar → reparar → guardar → instalar → devolver. El ciclo material también organiza el programa.",
+    "base": null,
+    "kind": "Interpretación generada"
+  },
+  {
+    "file": "dibujos/14_luz_como_bien_comun.png",
+    "title": "Luz como bien común",
+    "description": "Cubierta compartida y dispositivos estacionales. Hipótesis para ensayar; no simulación solar validada.",
+    "base": null,
+    "kind": "Interpretación generada"
+  },
+  {
+    "file": "dibujos/15_cuerpos_turnos_y_programa.png",
+    "title": "Cuerpos, turnos y programa",
+    "description": "Llegar, producir y descansar tienen exigencias distintas. Cuerpos ficticios; situaciones inspiradas en el MD.",
+    "base": null,
+    "kind": "Interpretación generada"
+  },
+  {
+    "file": "17_programa_y_habitantes.png",
+    "title": "Personas → conflictos → espacios",
+    "description": "Seis perfiles del MD, traducidos en necesidades. Presupuesto propuesto: 40 plazas / 1.500 m². No es un censo.",
+    "base": null,
+    "kind": "Dibujo geométrico / datos"
+  },
+  {
+    "file": "01_parcela_real.png",
+    "title": "Parcela real",
+    "description": "Huella catastral y plantas extraídas del modelo urbano original. Nueva obra limitada al polígono del solar.",
+    "base": null,
+    "kind": "Dibujo geométrico / datos"
+  },
+  {
+    "file": "02_contexto_3d.png",
+    "title": "Contexto 3D original",
+    "description": "Modelo urbano existente. Nave de la parcela retirada para ensayar el solar libre; terreno simplificado a cota de referencia.",
+    "base": null,
+    "kind": "Dibujo geométrico / datos"
+  },
+  {
+    "file": "03_A_costillas_y_vacios.png",
+    "title": "Base geométrica A",
+    "description": "1.378 m² brutos esquemáticos. Requiere ajuste de cabida. Sin superficie fuera de la parcela.",
+    "base": null,
+    "kind": "Dibujo geométrico / datos"
+  },
+  {
+    "file": "04_B_seccion_trenzada.png",
+    "title": "Base geométrica B",
+    "description": "1.374 m² brutos esquemáticos. Requiere ajuste de cabida. Sin superficie fuera de la parcela.",
+    "base": null,
+    "kind": "Dibujo geométrico / datos"
+  },
+  {
+    "file": "05_C_dos_apoyos.png",
+    "title": "Base geométrica C",
+    "description": "1.487 m² brutos esquemáticos. Cuerpos apoyados y terreno compartido. Sin superficie fuera de la parcela.",
+    "base": null,
+    "kind": "Dibujo geométrico / datos"
+  },
+  {
+    "file": "06_D_soporte_y_relevo.png",
+    "title": "Base geométrica D",
+    "description": "1.534 m² brutos esquemáticos. Soporte y ocupaciones provisionales. Sin superficie fuera de la parcela.",
+    "base": null,
+    "kind": "Dibujo geométrico / datos"
+  }
+]

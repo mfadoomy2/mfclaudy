@@ -1,0 +1,104 @@
+{
+  "plazas_hipotesis": 40,
+  "superficie_construida_objetivo": 1500,
+  "desglose": [
+    {
+      "uso": "40 habitaciones × 16 m²",
+      "m2": 640,
+      "categoria": "privado"
+    },
+    {
+      "uso": "Baños y apoyos de aseo",
+      "m2": 80,
+      "categoria": "privado"
+    },
+    {
+      "uso": "Cocina + comer",
+      "m2": 100,
+      "categoria": "común"
+    },
+    {
+      "uso": "Taller seco / textil",
+      "m2": 75,
+      "categoria": "común"
+    },
+    {
+      "uso": "Sonido / cabinas",
+      "m2": 40,
+      "categoria": "común"
+    },
+    {
+      "uso": "Sala transformable / asamblea",
+      "m2": 80,
+      "categoria": "común"
+    },
+    {
+      "uso": "Acogida / cuidados",
+      "m2": 25,
+      "categoria": "común"
+    },
+    {
+      "uso": "Lavandería",
+      "m2": 30,
+      "categoria": "común"
+    },
+    {
+      "uso": "Materiales / herramientas",
+      "m2": 35,
+      "categoria": "común"
+    },
+    {
+      "uso": "Baja estimulación",
+      "m2": 25,
+      "categoria": "común"
+    },
+    {
+      "uso": "Biblioteca / trabajo",
+      "m2": 30,
+      "categoria": "común"
+    },
+    {
+      "uso": "Circulación y núcleos",
+      "m2": 220,
+      "categoria": "infraestructura"
+    },
+    {
+      "uso": "Reserva estructura / cerramientos",
+      "m2": 120,
+      "categoria": "infraestructura"
+    }
+  ],
+  "perfiles_md": [
+    [
+      "IRENE · 23",
+      "Antropología + técnica de sonido",
+      "Cabina aislada / estudio / sueño"
+    ],
+    [
+      "LAURA · 24",
+      "ONG / turnos de siete horas",
+      "Llegada discreta / cuidados / cocina"
+    ],
+    [
+      "ANDREA · 24",
+      "Artista / Bellas Artes",
+      "Taller / guardar obra / vivir fuera del taller"
+    ],
+    [
+      "JAIRO · 26",
+      "Telecomunicación / presión de venta",
+      "Permanencia / mesa / proximidad"
+    ],
+    [
+      "ARIEL · 25",
+      "Inicio de vida laboral / Arganda",
+      "Acogida / cuarto propio / relevo"
+    ],
+    [
+      "IONA · 21",
+      "Estudiante / vive con su abuela",
+      "Autonomía / estudiar / sostener vínculos"
+    ]
+  ],
+  "naturaleza": "Programa propuesto; testimonios cualitativos del MD, no censo. No comprobacion normativa."
+}

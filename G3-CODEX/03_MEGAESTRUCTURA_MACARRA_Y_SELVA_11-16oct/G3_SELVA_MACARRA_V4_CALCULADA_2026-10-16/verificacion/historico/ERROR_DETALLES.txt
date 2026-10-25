@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Volumes/T7/G3 Proyectos/G3 CLAUDE/03_MEGAESTRUCTURA_MACARRA_Y_SELVA_11-16oct/G3_SELVA_MACARRA_V4_CALCULADA_2026-10-16/fuentes/modelar_detalles.py", line 221, in <module>
+    out=basefile();pp=next(d for d in source.AllInstanceDefinitions if d.Name=='PABELLON_4_REFUGIOS')
+  File "/Volumes/T7/G3 Proyectos/G3 CLAUDE/03_MEGAESTRUCTURA_MACARRA_Y_SELVA_11-16oct/G3_SELVA_MACARRA_V4_CALCULADA_2026-10-16/fuentes/modelar_detalles.py", line 212, in basefile
+    for l in source.AllLayers:out.AllLayers.Add(l.Duplicate())
+AttributeError: 'Layer' object has no attribute 'Duplicate'

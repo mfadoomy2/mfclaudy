@@ -1,0 +1,2413 @@
+{
+  "path": "/Users/adam/Downloads/G3_conjunto_opciones_1.3dm",
+  "units": "UnitSystem.Meters",
+  "objects": 4044,
+  "types": {
+    "Mesh": 3931,
+    "PolylineCurve": 8,
+    "TextDot": 105
+  },
+  "layers": {
+    "A · Estantería contra la medianera::Contexto": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        -13.5,
+        -32.07899856567383,
+        -9.604000091552734
+      ],
+      "max": [
+        89.69999694824219,
+        47.20000076293945,
+        49.95800018310547
+      ],
+      "names": [
+        "edificio 40028002",
+        "edificio 40028003",
+        "edificio 40028004",
+        "edificio 40028005"
+      ]
+    },
+    "A · Estantería contra la medianera::Parcela": {
+      "n": 1,
+      "types": {
+        "PolylineCurve": 1
+      },
+      "min": [
+        12.070000000006985,
+        -7.5,
+        0.05
+      ],
+      "max": [
+        61.54999999998836,
+        12.669999999925494,
+        0.05
+      ],
+      "names": [
+        "parcela Ribera de Curtidores 31 · 651 m²"
+      ]
+    },
+    "A · Estantería contra la medianera::Unidades · bandas oscuras": {
+      "n": 160,
+      "types": {
+        "Mesh": 160
+      },
+      "min": [
+        13.120002746582031,
+        -7.30075740814209,
+        4.5
+      ],
+      "max": [
+        55.959999084472656,
+        6.679999828338623,
+        34.45000076293945
+      ],
+      "names": [
+        "A01 · bandeja",
+        "A01 · zuncho del altillo",
+        "A01 · cubierta y alero",
+        "A01 · bandeja del ala"
+      ]
+    },
+    "A · Estantería contra la medianera::Unidades · cuerpo de bloque de vidrio": {
+      "n": 64,
+      "types": {
+        "Mesh": 64
+      },
+      "min": [
+        14.25,
+        -7.220757484436035,
+        4.659999847412109
+      ],
+      "max": [
+        55.900001525878906,
+        5.550000190734863,
+        34.040000915527344
+      ],
+      "names": [
+        "A01 · unidad A01 · bloque de vidrio",
+        "A01 · ala semicircular",
+        "A02 · unidad A02 · bloque de vidrio",
+        "A02 · ala semicircular"
+      ]
+    },
+    "A · Estantería contra la medianera::Unidades · balcón y barandilla": {
+      "n": 64,
+      "types": {
+        "Mesh": 64
+      },
+      "min": [
+        13.199999809265137,
+        -3.671584129333496,
+        4.679999828338623
+      ],
+      "max": [
+        53.54999923706055,
+        6.599999904632568,
+        29.899999618530273
+      ],
+      "names": [
+        "A01 · balcón curvo",
+        "A01 · barandilla 1,10",
+        "A02 · balcón curvo",
+        "A02 · barandilla 1,10"
+      ]
+    },
+    "A · Estantería contra la medianera::Unidades · caja de color (baño-cápsula)": {
+      "n": 32,
+      "types": {
+        "Mesh": 32
+      },
+      "min": [
+        14.399999618530273,
+        -7.0707573890686035,
+        4.800000190734863
+      ],
+      "max": [
+        50.849998474121094,
+        2.6500000953674316,
+        31.200000762939453
+      ],
+      "names": [
+        "A01 · baño-cápsula",
+        "A02 · baño-cápsula",
+        "A03 · baño-cápsula",
+        "A04 · baño-cápsula"
+      ]
+    },
+    "A · Estantería contra la medianera::Circulación · núcleo protegido (escalera + ascensor)": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        28.600000381469727,
+        1.399999976158142,
+        0.0
+      ],
+      "max": [
+        34.400001525878906,
+        6.199999809265137,
+        35.70000076293945
+      ],
+      "names": [
+        "núcleo: escalera protegida (DB SI 3) + ascensor accesible (DB SUA 9)"
+      ]
+    },
+    "A · Estantería contra la medianera::Común · salas en altura": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        14.399999618530273,
+        2.200000047683716,
+        4.75
+      ],
+      "max": [
+        27.600000381469727,
+        6.900000095367432,
+        19.5
+      ],
+      "names": [
+        "cocina-salón común",
+        "cocina-salón común",
+        "cocina-salón común"
+      ]
+    },
+    "A · Estantería contra la medianera::Común · terrazas, patios y pasarelas": {
+      "n": 9,
+      "types": {
+        "Mesh": 9
+      },
+      "min": [
+        14.199999809265137,
+        -2.0,
+        4.5
+      ],
+      "max": [
+        55.79999923706055,
+        6.949999809265137,
+        16.75
+      ],
+      "names": [
+        "forjado de la sala común",
+        "patio en altura con jardinera",
+        "galería de acceso 1,60",
+        "forjado de la sala común"
+      ]
+    },
+    "A · Estantería contra la medianera::Estructura": {
+      "n": 66,
+      "types": {
+        "Mesh": 66
+      },
+      "min": [
+        13.824999809265137,
+        -7.571022033691406,
+        0.0
+      ],
+      "max": [
+        56.17499923706055,
+        6.574999809265137,
+        34.900001525878906
+      ],
+      "names": [
+        "pilar",
+        "pilar",
+        "pilar",
+        "viga"
+      ]
+    },
+    "A · Estantería contra la medianera::Común · escaleras abiertas": {
+      "n": 152,
+      "types": {
+        "Mesh": 152
+      },
+      "min": [
+        21.547212600708008,
+        -0.20000000298023224,
+        4.616666793823242
+      ],
+      "max": [
+        27.05278778076172,
+        2.4000000953674316,
+        29.521482467651367
+      ],
+      "names": [
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)"
+      ]
+    },
+    "A · Estantería contra la medianera::Suelo · pasaje y plaza públicos": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        12.5100736618042,
+        -2.0,
+        0.0
+      ],
+      "max": [
+        54.0,
+        2.0,
+        0.029999999329447746
+      ],
+      "names": [
+        "pasaje del Rastro (calle cubierta, abierta al barrio)"
+      ]
+    },
+    "A · Estantería contra la medianera::Suelo · patio-huerto": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        54.20000076293945,
+        -6.252593994140625,
+        0.0
+      ],
+      "max": [
+        61.54999923706055,
+        2.749713182449341,
+        0.25
+      ],
+      "names": [
+        "patio-huerto trasero (árboles, huerto colectivo)"
+      ]
+    },
+    "A · Estantería contra la medianera::Suelo · programa social": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        14.399999618530273,
+        -7.199999809265137,
+        0.0
+      ],
+      "max": [
+        53.599998474121094,
+        10.600000381469727,
+        4.0
+      ],
+      "names": [
+        "cantina-comedor popular",
+        "taller de reparación y reutilización",
+        "lavandería abierta",
+        "sala de asamblea / estudio 24 h"
+      ]
+    },
+    "A · Estantería contra la medianera::Etiquetas": {
+      "n": 13,
+      "types": {
+        "TextDot": 13
+      },
+      "min": [
+        17.499999999999993,
+        -14.0,
+        0.0
+      ],
+      "max": [
+        57.8067311589635,
+        7.486115393683799,
+        36.5
+      ],
+      "names": [
+        "núcleo",
+        "cocina-salón común",
+        "cocina-salón común",
+        "cocina-salón común"
+      ]
+    },
+    "B · Peine en desfase::Contexto": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        116.5,
+        -32.07899856567383,
+        -9.604000091552734
+      ],
+      "max": [
+        219.6999969482422,
+        47.20000076293945,
+        49.95800018310547
+      ],
+      "names": [
+        "edificio 40028002",
+        "edificio 40028003",
+        "edificio 40028004",
+        "edificio 40028005"
+      ]
+    },
+    "B · Peine en desfase::Parcela": {
+      "n": 1,
+      "types": {
+        "PolylineCurve": 1
+      },
+      "min": [
+        142.07000000000698,
+        -7.5,
+        0.05
+      ],
+      "max": [
+        191.54999999998836,
+        12.669999999925494,
+        0.05
+      ],
+      "names": [
+        "parcela Ribera de Curtidores 31 · 651 m²"
+      ]
+    },
+    "B · Peine en desfase::Unidades · bandas oscuras": {
+      "n": 140,
+      "types": {
+        "Mesh": 140
+      },
+      "min": [
+        143.52000427246094,
+        -7.479997158050537,
+        4.5
+      ],
+      "max": [
+        189.67999267578125,
+        7.360000133514404,
+        34.45000076293945
+      ],
+      "names": [
+        "B01 · bandeja",
+        "B01 · zuncho del altillo",
+        "B01 · cubierta y alero",
+        "B01 · bandeja del ala"
+      ]
+    },
+    "B · Peine en desfase::Unidades · cuerpo de bloque de vidrio": {
+      "n": 56,
+      "types": {
+        "Mesh": 56
+      },
+      "min": [
+        144.64999389648438,
+        -6.349999904632568,
+        4.659999847412109
+      ],
+      "max": [
+        189.60000610351562,
+        7.300000190734863,
+        34.040000915527344
+      ],
+      "names": [
+        "B01 · unidad B01 · bloque de vidrio",
+        "B01 · ala semicircular",
+        "B02 · unidad B02 · bloque de vidrio",
+        "B02 · ala semicircular"
+      ]
+    },
+    "B · Peine en desfase::Unidades · balcón y barandilla": {
+      "n": 56,
+      "types": {
+        "Mesh": 56
+      },
+      "min": [
+        143.60000610351562,
+        -7.400000095367432,
+        4.679999828338623
+      ],
+      "max": [
+        186.0508270263672,
+        4.949999809265137,
+        29.899999618530273
+      ],
+      "names": [
+        "B01 · balcón curvo",
+        "B01 · barandilla 1,10",
+        "B02 · balcón curvo",
+        "B02 · barandilla 1,10"
+      ]
+    },
+    "B · Peine en desfase::Unidades · caja de color (baño-cápsula)": {
+      "n": 28,
+      "types": {
+        "Mesh": 28
+      },
+      "min": [
+        147.5500030517578,
+        -6.199999809265137,
+        4.800000190734863
+      ],
+      "max": [
+        189.4499969482422,
+        2.25,
+        31.200000762939453
+      ],
+      "names": [
+        "B01 · baño-cápsula",
+        "B02 · baño-cápsula",
+        "B03 · baño-cápsula",
+        "B04 · baño-cápsula"
+      ]
+    },
+    "B · Peine en desfase::Circulación · núcleo protegido (escalera + ascensor)": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        165.5,
+        0.4000000059604645,
+        0.0
+      ],
+      "max": [
+        170.5,
+        4.800000190734863,
+        35.70000076293945
+      ],
+      "names": [
+        "núcleo: escalera protegida (DB SI 3) + ascensor accesible (DB SUA 9)"
+      ]
+    },
+    "B · Peine en desfase::Común · terrazas, patios y pasarelas": {
+      "n": 18,
+      "types": {
+        "Mesh": 18
+      },
+      "min": [
+        143.60000610351562,
+        -7.099999904632568,
+        4.199999809265137
+      ],
+      "max": [
+        185.1999969482422,
+        5.900000095367432,
+        28.75
+      ],
+      "names": [
+        "vacío-terraza compartida entre filas",
+        "vacío-terraza compartida entre filas",
+        "vacío-terraza compartida entre filas",
+        "vacío-terraza compartida entre filas"
+      ]
+    },
+    "B · Peine en desfase::Común · escaleras abiertas": {
+      "n": 171,
+      "types": {
+        "Mesh": 171
+      },
+      "min": [
+        143.98721313476562,
+        -1.2000000476837158,
+        4.616666793823242
+      ],
+      "max": [
+        159.602783203125,
+        1.225000023841858,
+        32.521480560302734
+      ],
+      "names": [
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)"
+      ]
+    },
+    "B · Peine en desfase::Suelo · pasaje y plaza públicos": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        142.5749053955078,
+        -1.2000000476837158,
+        0.0
+      ],
+      "max": [
+        185.0,
+        1.2000000476837158,
+        0.029999999329447746
+      ],
+      "names": [
+        "pasaje del Rastro (calle cubierta, abierta al barrio)"
+      ]
+    },
+    "B · Peine en desfase::Suelo · patio-huerto": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        177.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        191.48245239257812,
+        2.845757484436035,
+        0.25
+      ],
+      "names": [
+        "patio-huerto trasero (árboles, huerto colectivo)"
+      ]
+    },
+    "B · Peine en desfase::Suelo · programa social": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        143.60000610351562,
+        -7.199999809265137,
+        0.0
+      ],
+      "max": [
+        184.60000610351562,
+        7.0,
+        4.0
+      ],
+      "names": [
+        "cantina-comedor popular",
+        "taller de reparación y reutilización",
+        "sala de asamblea / estudio 24 h",
+        "lavandería abierta"
+      ]
+    },
+    "B · Peine en desfase::Etiquetas": {
+      "n": 10,
+      "types": {
+        "TextDot": 10
+      },
+      "min": [
+        149.1,
+        -14.0,
+        0.0
+      ],
+      "max": [
+        184.20562129309144,
+        4.299999999999999,
+        36.5
+      ],
+      "names": [
+        "núcleo",
+        "PASAJE DEL RASTRO",
+        "PATIO-HUERTO",
+        "CANTINA-COMEDOR POPULAR"
+      ]
+    },
+    "C · Apilado cruzado::Contexto": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        246.5,
+        -32.07899856567383,
+        -9.604000091552734
+      ],
+      "max": [
+        349.70001220703125,
+        47.20000076293945,
+        49.95800018310547
+      ],
+      "names": [
+        "edificio 40028002",
+        "edificio 40028003",
+        "edificio 40028004",
+        "edificio 40028005"
+      ]
+    },
+    "C · Apilado cruzado::Parcela": {
+      "n": 1,
+      "types": {
+        "PolylineCurve": 1
+      },
+      "min": [
+        272.070000000007,
+        -7.5,
+        0.05
+      ],
+      "max": [
+        321.54999999998836,
+        12.669999999925494,
+        0.05
+      ],
+      "names": [
+        "parcela Ribera de Curtidores 31 · 651 m²"
+      ]
+    },
+    "C · Apilado cruzado::Unidades · bandas oscuras": {
+      "n": 135,
+      "types": {
+        "Mesh": 135
+      },
+      "min": [
+        273.32000732421875,
+        -7.479997158050537,
+        4.5
+      ],
+      "max": [
+        318.760009765625,
+        10.930000305175781,
+        34.45000076293945
+      ],
+      "names": [
+        "C01 · bandeja",
+        "C01 · zuncho del altillo",
+        "C01 · cubierta y alero",
+        "C01 · bandeja del ala"
+      ]
+    },
+    "C · Apilado cruzado::Unidades · cuerpo de bloque de vidrio": {
+      "n": 54,
+      "types": {
+        "Mesh": 54
+      },
+      "min": [
+        274.45001220703125,
+        -7.369549751281738,
+        4.659999847412109
+      ],
+      "max": [
+        318.70001220703125,
+        9.800000190734863,
+        34.040000915527344
+      ],
+      "names": [
+        "C01 · unidad C01 · bloque de vidrio",
+        "C01 · ala semicircular",
+        "C02 · unidad C02 · bloque de vidrio",
+        "C02 · ala semicircular"
+      ]
+    },
+    "C · Apilado cruzado::Unidades · balcón y barandilla": {
+      "n": 54,
+      "types": {
+        "Mesh": 54
+      },
+      "min": [
+        273.3999938964844,
+        -7.400000095367432,
+        4.679999828338623
+      ],
+      "max": [
+        317.3500061035156,
+        10.850000381469727,
+        29.899999618530273
+      ],
+      "names": [
+        "C01 · balcón curvo",
+        "C01 · barandilla 1,10",
+        "C02 · balcón curvo",
+        "C02 · barandilla 1,10"
+      ]
+    },
+    "C · Apilado cruzado::Unidades · caja de color (baño-cápsula)": {
+      "n": 27,
+      "types": {
+        "Mesh": 27
+      },
+      "min": [
+        274.6000061035156,
+        -7.219549655914307,
+        4.800000190734863
+      ],
+      "max": [
+        313.6499938964844,
+        6.900000095367432,
+        31.200000762939453
+      ],
+      "names": [
+        "C01 · baño-cápsula",
+        "C02 · baño-cápsula",
+        "C03 · baño-cápsula",
+        "C04 · baño-cápsula"
+      ]
+    },
+    "C · Apilado cruzado::Circulación · núcleo protegido (escalera + ascensor)": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        293.0,
+        -7.199999809265137,
+        0.0
+      ],
+      "max": [
+        298.3999938964844,
+        -2.200000047683716,
+        35.70000076293945
+      ],
+      "names": [
+        "núcleo: escalera protegida (DB SI 3) + ascensor accesible (DB SUA 9)"
+      ]
+    },
+    "C · Apilado cruzado::Común · terrazas, patios y pasarelas": {
+      "n": 9,
+      "types": {
+        "Mesh": 9
+      },
+      "min": [
+        280.79998779296875,
+        -1.399999976158142,
+        4.199999809265137
+      ],
+      "max": [
+        310.0,
+        4.650000095367432,
+        28.450000762939453
+      ],
+      "names": [
+        "pasarela de cruce",
+        "forjado de la sala común",
+        "pasarela de cruce",
+        "forjado de la sala común"
+      ]
+    },
+    "C · Apilado cruzado::Común · escaleras abiertas": {
+      "n": 76,
+      "types": {
+        "Mesh": 76
+      },
+      "min": [
+        285.94720458984375,
+        0.2750000059604645,
+        4.616666793823242
+      ],
+      "max": [
+        299.05279541015625,
+        1.524999976158142,
+        26.521482467651367
+      ],
+      "names": [
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)"
+      ]
+    },
+    "C · Apilado cruzado::Común · salas en altura": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        291.20001220703125,
+        1.0,
+        4.75
+      ],
+      "max": [
+        306.0,
+        4.599999904632568,
+        25.5
+      ],
+      "names": [
+        "sala común",
+        "sala común",
+        "sala común",
+        "sala común"
+      ]
+    },
+    "C · Apilado cruzado::Suelo · pasaje y plaza públicos": {
+      "n": 2,
+      "types": {
+        "Mesh": 2
+      },
+      "min": [
+        272.54248046875,
+        -1.600000023841858,
+        0.0
+      ],
+      "max": [
+        321.0,
+        12.670000076293945,
+        0.029999999329447746
+      ],
+      "names": [
+        "pasaje del Rastro (calle cubierta, abierta al barrio)",
+        "plaza-mercado"
+      ]
+    },
+    "C · Apilado cruzado::Suelo · programa social": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        274.0,
+        -7.199999809265137,
+        0.0
+      ],
+      "max": [
+        320.79998779296875,
+        7.0,
+        4.0
+      ],
+      "names": [
+        "cantina-comedor popular",
+        "taller de reparación y reutilización",
+        "sala de asamblea / estudio 24 h",
+        "lavandería abierta"
+      ]
+    },
+    "C · Apilado cruzado::Etiquetas": {
+      "n": 14,
+      "types": {
+        "TextDot": 14
+      },
+      "min": [
+        276.8,
+        -14.0,
+        0.0
+      ],
+      "max": [
+        317.94627536900526,
+        6.047599226095427,
+        36.5
+      ],
+      "names": [
+        "núcleo",
+        "sala común",
+        "sala común",
+        "sala común"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Contexto": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        376.5,
+        -32.07899856567383,
+        -9.604000091552734
+      ],
+      "max": [
+        479.70001220703125,
+        47.20000076293945,
+        49.95800018310547
+      ],
+      "names": [
+        "edificio 40028002",
+        "edificio 40028003",
+        "edificio 40028004",
+        "edificio 40028005"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Parcela": {
+      "n": 1,
+      "types": {
+        "PolylineCurve": 1
+      },
+      "min": [
+        402.070000000007,
+        -7.5,
+        0.05
+      ],
+      "max": [
+        451.54999999998836,
+        12.669999999925494,
+        0.05
+      ],
+      "names": [
+        "parcela Ribera de Curtidores 31 · 651 m²"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Unidades · bandas oscuras": {
+      "n": 125,
+      "types": {
+        "Mesh": 125
+      },
+      "min": [
+        403.9200134277344,
+        -7.479997158050537,
+        4.5
+      ],
+      "max": [
+        449.7799987792969,
+        7.360000133514404,
+        37.45000076293945
+      ],
+      "names": [
+        "D01 · bandeja",
+        "D01 · zuncho del altillo",
+        "D01 · cubierta y alero",
+        "D01 · bandeja del ala"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Unidades · cuerpo de bloque de vidrio": {
+      "n": 50,
+      "types": {
+        "Mesh": 50
+      },
+      "min": [
+        404.0,
+        -6.349999904632568,
+        4.659999847412109
+      ],
+      "max": [
+        448.6499938964844,
+        7.300000190734863,
+        37.040000915527344
+      ],
+      "names": [
+        "D01 · unidad D01 · bloque de vidrio",
+        "D01 · ala semicircular",
+        "D02 · unidad D02 · bloque de vidrio",
+        "D02 · ala semicircular"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Unidades · balcón y barandilla": {
+      "n": 50,
+      "types": {
+        "Mesh": 50
+      },
+      "min": [
+        407.5491638183594,
+        -7.400000095367432,
+        4.679999828338623
+      ],
+      "max": [
+        449.70001220703125,
+        4.949999809265137,
+        32.900001525878906
+      ],
+      "names": [
+        "D01 · balcón curvo",
+        "D01 · barandilla 1,10",
+        "D02 · balcón curvo",
+        "D02 · barandilla 1,10"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Unidades · caja de color (baño-cápsula)": {
+      "n": 25,
+      "types": {
+        "Mesh": 25
+      },
+      "min": [
+        404.1499938964844,
+        -6.199999809265137,
+        4.800000190734863
+      ],
+      "max": [
+        448.5,
+        2.25,
+        34.20000076293945
+      ],
+      "names": [
+        "D01 · baño-cápsula",
+        "D02 · baño-cápsula",
+        "D03 · baño-cápsula",
+        "D04 · baño-cápsula"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Circulación · núcleo protegido (escalera + ascensor)": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        421.6000061035156,
+        -7.199999809265137,
+        0.0
+      ],
+      "max": [
+        426.79998779296875,
+        -2.200000047683716,
+        32.70000076293945
+      ],
+      "names": [
+        "núcleo: escalera protegida (DB SI 3) + ascensor accesible (DB SUA 9)"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Común · terrazas, patios y pasarelas": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        409.79998779296875,
+        -7.099999904632568,
+        4.5
+      ],
+      "max": [
+        438.29998779296875,
+        6.300000190734863,
+        25.75
+      ],
+      "names": [
+        "patio del racimo (terraza en altura)",
+        "forjado de la sala común",
+        "patio del racimo (terraza en altura)",
+        "forjado de la sala común"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Común · salas en altura": {
+      "n": 8,
+      "types": {
+        "Mesh": 8
+      },
+      "min": [
+        410.6000061035156,
+        -2.200000047683716,
+        4.75
+      ],
+      "max": [
+        437.5,
+        1.7999999523162842,
+        28.5
+      ],
+      "names": [
+        "cocina del racimo (4)",
+        "cocina del racimo (4)",
+        "cocina del racimo (4)",
+        "cocina del racimo (4)"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Común · escaleras abiertas": {
+      "n": 152,
+      "types": {
+        "Mesh": 152
+      },
+      "min": [
+        410.1872253417969,
+        2.0,
+        4.616666793823242
+      ],
+      "max": [
+        437.852783203125,
+        3.2249999046325684,
+        29.521482467651367
+      ],
+      "names": [
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Suelo · pasaje y plaza públicos": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        402.5262756347656,
+        -1.7999999523162842,
+        0.0
+      ],
+      "max": [
+        448.0,
+        1.7999999523162842,
+        0.029999999329447746
+      ],
+      "names": [
+        "pasaje del Rastro (calle cubierta, abierta al barrio)"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Suelo · patio-huerto": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        443.6000061035156,
+        -6.3012285232543945,
+        0.0
+      ],
+      "max": [
+        451.54998779296875,
+        -1.7999999523162842,
+        0.25
+      ],
+      "names": [
+        "patio-huerto trasero (árboles, huerto colectivo)"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Suelo · programa social": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        404.0,
+        -7.199999809265137,
+        0.0
+      ],
+      "max": [
+        443.0,
+        8.800000190734863,
+        4.0
+      ],
+      "names": [
+        "cantina-comedor popular",
+        "taller de reparación y reutilización",
+        "sala de asamblea / estudio 24 h",
+        "lavandería abierta"
+      ]
+    },
+    "D · Racimos de cuatro con patio::Etiquetas": {
+      "n": 18,
+      "types": {
+        "TextDot": 18
+      },
+      "min": [
+        406.65,
+        -14.0,
+        0.0
+      ],
+      "max": [
+        447.46234927047294,
+        5.444479242871792,
+        33.5
+      ],
+      "names": [
+        "núcleo",
+        "cocina del racimo (4)",
+        "cocina del racimo (4)",
+        "cocina del racimo (4)"
+      ]
+    },
+    "E · Linterna::Contexto": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        506.5,
+        -32.07899856567383,
+        -9.604000091552734
+      ],
+      "max": [
+        609.7000122070312,
+        47.20000076293945,
+        49.95800018310547
+      ],
+      "names": [
+        "edificio 40028002",
+        "edificio 40028003",
+        "edificio 40028004",
+        "edificio 40028005"
+      ]
+    },
+    "E · Linterna::Parcela": {
+      "n": 1,
+      "types": {
+        "PolylineCurve": 1
+      },
+      "min": [
+        532.070000000007,
+        -7.5,
+        0.05
+      ],
+      "max": [
+        581.5499999999884,
+        12.669999999925494,
+        0.05
+      ],
+      "names": [
+        "parcela Ribera de Curtidores 31 · 651 m²"
+      ]
+    },
+    "E · Linterna::Unidades · bandas oscuras": {
+      "n": 167,
+      "types": {
+        "Mesh": 167
+      },
+      "min": [
+        533.0399780273438,
+        -7.599999904632568,
+        4.300000190734863
+      ],
+      "max": [
+        570.9000244140625,
+        5.880000114440918,
+        35.29999923706055
+      ],
+      "names": [
+        "E01 · bandeja",
+        "E01 · zuncho del altillo",
+        "E01 · cubierta y alero",
+        "E01 · bandeja del ala"
+      ]
+    },
+    "E · Linterna::Unidades · cuerpo de bloque de vidrio": {
+      "n": 64,
+      "types": {
+        "Mesh": 64
+      },
+      "min": [
+        533.0999755859375,
+        -7.219549655914307,
+        4.659999847412109
+      ],
+      "max": [
+        569.0999755859375,
+        4.75,
+        34.040000915527344
+      ],
+      "names": [
+        "E01 · unidad E01 · bloque de vidrio",
+        "E01 · ala semicircular",
+        "E02 · unidad E02 · bloque de vidrio",
+        "E02 · ala semicircular"
+      ]
+    },
+    "E · Linterna::Unidades · balcón y barandilla": {
+      "n": 64,
+      "types": {
+        "Mesh": 64
+      },
+      "min": [
+        533.4000244140625,
+        -3.6703760623931885,
+        4.679999828338623
+      ],
+      "max": [
+        566.75,
+        5.800000190734863,
+        29.899999618530273
+      ],
+      "names": [
+        "E01 · balcón curvo",
+        "E01 · barandilla 1,10",
+        "E02 · balcón curvo",
+        "E02 · barandilla 1,10"
+      ]
+    },
+    "E · Linterna::Unidades · caja de color (baño-cápsula)": {
+      "n": 32,
+      "types": {
+        "Mesh": 32
+      },
+      "min": [
+        534.5999755859375,
+        -7.069549560546875,
+        4.800000190734863
+      ],
+      "max": [
+        564.0499877929688,
+        1.850000023841858,
+        31.200000762939453
+      ],
+      "names": [
+        "E01 · baño-cápsula",
+        "E02 · baño-cápsula",
+        "E03 · baño-cápsula",
+        "E04 · baño-cápsula"
+      ]
+    },
+    "E · Linterna::Circulación · núcleo protegido (escalera + ascensor)": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        551.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        556.0,
+        4.599999904632568,
+        35.70000076293945
+      ],
+      "names": [
+        "núcleo: escalera protegida (DB SI 3) + ascensor accesible (DB SUA 9)"
+      ]
+    },
+    "E · Linterna::Envolvente · piel de bloque de vidrio": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        534.2000122070312,
+        -7.300000190734863,
+        4.5
+      ],
+      "max": [
+        570.5999755859375,
+        5.199999809265137,
+        34.900001525878906
+      ],
+      "names": [
+        "piel continua de bloque de vidrio (linterna)"
+      ]
+    },
+    "E · Linterna::Estructura": {
+      "n": 9,
+      "types": {
+        "Mesh": 9
+      },
+      "min": [
+        535.75,
+        -6.25,
+        0.0
+      ],
+      "max": [
+        568.25,
+        3.75,
+        4.5
+      ],
+      "names": [
+        "pilotis Ø500",
+        "pilotis Ø500",
+        "pilotis Ø500",
+        "pilotis Ø500"
+      ]
+    },
+    "E · Linterna::Común · escaleras abiertas": {
+      "n": 190,
+      "types": {
+        "Mesh": 190
+      },
+      "min": [
+        556.9871826171875,
+        -0.30000001192092896,
+        4.616666793823242
+      ],
+      "max": [
+        566.6527709960938,
+        2.325000047683716,
+        35.521480560302734
+      ],
+      "names": [
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)"
+      ]
+    },
+    "E · Linterna::Común · terrazas, patios y pasarelas": {
+      "n": 8,
+      "types": {
+        "Mesh": 8
+      },
+      "min": [
+        534.5999755859375,
+        -1.7000000476837158,
+        4.5
+      ],
+      "max": [
+        569.7999877929688,
+        3.450000047683716,
+        31.75
+      ],
+      "names": [
+        "pasarela del vacío interior",
+        "forjado de la sala común",
+        "pasarela del vacío interior",
+        "pasarela del vacío interior"
+      ]
+    },
+    "E · Linterna::Común · salas en altura": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        558.0,
+        0.20000000298023224,
+        7.75
+      ],
+      "max": [
+        566.0,
+        3.4000000953674316,
+        34.5
+      ],
+      "names": [
+        "sala común en el vacío",
+        "sala común en el vacío",
+        "sala común en el vacío"
+      ]
+    },
+    "E · Linterna::Suelo · pasaje y plaza públicos": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        532.54248046875,
+        -2.0,
+        0.0
+      ],
+      "max": [
+        570.4000244140625,
+        7.199999809265137,
+        0.029999999329447746
+      ],
+      "names": [
+        "plaza-mercado"
+      ]
+    },
+    "E · Linterna::Suelo · programa social": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        534.4000244140625,
+        -7.199999809265137,
+        0.0
+      ],
+      "max": [
+        580.7999877929688,
+        7.400000095367432,
+        4.0
+      ],
+      "names": [
+        "cantina-comedor popular",
+        "sala de asamblea / estudio 24 h",
+        "taller de reparación y reutilización",
+        "lavandería abierta"
+      ]
+    },
+    "E · Linterna::Etiquetas": {
+      "n": 12,
+      "types": {
+        "TextDot": 12
+      },
+      "min": [
+        537.1,
+        -14.0,
+        0.0
+      ],
+      "max": [
+        575.7422186000684,
+        4.6000000000000005,
+        36.5
+      ],
+      "names": [
+        "núcleo",
+        "sala común en el vacío",
+        "sala común en el vacío",
+        "sala común en el vacío"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Contexto": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        636.5,
+        -32.07899856567383,
+        -9.604000091552734
+      ],
+      "max": [
+        739.7000122070312,
+        47.20000076293945,
+        49.95800018310547
+      ],
+      "names": [
+        "edificio 40028002",
+        "edificio 40028003",
+        "edificio 40028004",
+        "edificio 40028005"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Parcela": {
+      "n": 1,
+      "types": {
+        "PolylineCurve": 1
+      },
+      "min": [
+        662.070000000007,
+        -7.5,
+        0.05
+      ],
+      "max": [
+        711.5499999999884,
+        12.669999999925494,
+        0.05
+      ],
+      "names": [
+        "parcela Ribera de Curtidores 31 · 651 m²"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Unidades · bandas oscuras": {
+      "n": 160,
+      "types": {
+        "Mesh": 160
+      },
+      "min": [
+        662.6317749023438,
+        -7.4507575035095215,
+        4.5
+      ],
+      "max": [
+        708.72021484375,
+        10.250160217285156,
+        37.45000076293945
+      ],
+      "names": [
+        "F01 · bandeja",
+        "F01 · zuncho del altillo",
+        "F01 · cubierta y alero",
+        "F01 · bandeja del ala"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Unidades · cuerpo de bloque de vidrio": {
+      "n": 64,
+      "types": {
+        "Mesh": 64
+      },
+      "min": [
+        663.7617797851562,
+        -7.370757579803467,
+        4.659999847412109
+      ],
+      "max": [
+        708.6602172851562,
+        9.120160102844238,
+        37.040000915527344
+      ],
+      "names": [
+        "F01 · unidad F01 · bloque de vidrio",
+        "F01 · ala semicircular",
+        "F02 · unidad F02 · bloque de vidrio",
+        "F02 · ala semicircular"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Unidades · balcón y barandilla": {
+      "n": 64,
+      "types": {
+        "Mesh": 64
+      },
+      "min": [
+        662.7117919921875,
+        -3.8215839862823486,
+        4.679999828338623
+      ],
+      "max": [
+        707.7350463867188,
+        10.170160293579102,
+        32.900001525878906
+      ],
+      "names": [
+        "F01 · balcón curvo",
+        "F01 · barandilla 1,10",
+        "F02 · balcón curvo",
+        "F02 · barandilla 1,10"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Unidades · caja de color (baño-cápsula)": {
+      "n": 32,
+      "types": {
+        "Mesh": 32
+      },
+      "min": [
+        664.2434692382812,
+        -7.220757484436035,
+        4.800000190734863
+      ],
+      "max": [
+        706.5350341796875,
+        6.220160007476807,
+        34.20000076293945
+      ],
+      "names": [
+        "F01 · baño-cápsula",
+        "F02 · baño-cápsula",
+        "F03 · baño-cápsula",
+        "F04 · baño-cápsula"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Circulación · núcleo protegido (escalera + ascensor)": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        680.0,
+        -1.399999976158142,
+        0.0
+      ],
+      "max": [
+        685.2000122070312,
+        3.5999999046325684,
+        32.70000076293945
+      ],
+      "names": [
+        "núcleo: escalera protegida (DB SI 3) + ascensor accesible (DB SUA 9)"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Estructura": {
+      "n": 17,
+      "types": {
+        "Mesh": 17
+      },
+      "min": [
+        670.9199829101562,
+        -2.0799999237060547,
+        0.0
+      ],
+      "max": [
+        695.0800170898438,
+        4.079999923706055,
+        35.0
+      ],
+      "names": [
+        "montante de madera 160",
+        "montante de madera 160",
+        "montante de madera 160",
+        "montante de madera 160"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Común · terrazas, patios y pasarelas": {
+      "n": 13,
+      "types": {
+        "Mesh": 13
+      },
+      "min": [
+        671.0,
+        -2.0,
+        4.5
+      ],
+      "max": [
+        692.0,
+        4.0,
+        31.75
+      ],
+      "names": [
+        "plataforma del andamio",
+        "plataforma del andamio",
+        "plataforma del andamio",
+        "forjado de la sala común"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Común · escaleras abiertas": {
+      "n": 190,
+      "types": {
+        "Mesh": 190
+      },
+      "min": [
+        670.7872314453125,
+        -2.0250000953674316,
+        4.616666793823242
+      ],
+      "max": [
+        692.2127685546875,
+        4.025000095367432,
+        35.521480560302734
+      ],
+      "names": [
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Común · salas en altura": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        684.0,
+        -1.600000023841858,
+        10.75
+      ],
+      "max": [
+        689.0,
+        1.399999976158142,
+        31.5
+      ],
+      "names": [
+        "sala común colgada",
+        "sala común colgada",
+        "sala común colgada"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Suelo · pasaje y plaza públicos": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        662.5,
+        -2.4000000953674316,
+        0.0
+      ],
+      "max": [
+        709.0,
+        11.0,
+        0.029999999329447746
+      ],
+      "names": [
+        "plaza-mercado"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Suelo · programa social": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        663.7999877929688,
+        -7.199999809265137,
+        0.0
+      ],
+      "max": [
+        708.2000122070312,
+        7.0,
+        4.0
+      ],
+      "names": [
+        "cantina-comedor popular",
+        "taller de reparación y reutilización",
+        "sala de asamblea / estudio 24 h",
+        "lavandería abierta"
+      ]
+    },
+    "F · Andamio común con cápsulas enganchadas::Etiquetas": {
+      "n": 12,
+      "types": {
+        "TextDot": 12
+      },
+      "min": [
+        666.8,
+        -14.0,
+        0.0
+      ],
+      "max": [
+        705.133071352823,
+        5.000000000000001,
+        33.5
+      ],
+      "names": [
+        "núcleo",
+        "sala común colgada",
+        "sala común colgada",
+        "sala común colgada"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Contexto": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        766.5,
+        -32.07899856567383,
+        -9.604000091552734
+      ],
+      "max": [
+        869.7000122070312,
+        47.20000076293945,
+        49.95800018310547
+      ],
+      "names": [
+        "edificio 40028002",
+        "edificio 40028003",
+        "edificio 40028004",
+        "edificio 40028005"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Parcela": {
+      "n": 1,
+      "types": {
+        "PolylineCurve": 1
+      },
+      "min": [
+        792.070000000007,
+        -7.5,
+        0.05
+      ],
+      "max": [
+        841.5499999999884,
+        12.669999999925494,
+        0.05
+      ],
+      "names": [
+        "parcela Ribera de Curtidores 31 · 651 m²"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Unidades · bandas oscuras": {
+      "n": 160,
+      "types": {
+        "Mesh": 160
+      },
+      "min": [
+        792.9199829101562,
+        -7.44882345199585,
+        4.5
+      ],
+      "max": [
+        839.6300048828125,
+        6.479997158050537,
+        34.45000076293945
+      ],
+      "names": [
+        "G01 · bandeja",
+        "G01 · zuncho del altillo",
+        "G01 · cubierta y alero",
+        "G01 · bandeja del ala"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Unidades · cuerpo de bloque de vidrio": {
+      "n": 64,
+      "types": {
+        "Mesh": 64
+      },
+      "min": [
+        794.0499877929688,
+        -7.368823528289795,
+        4.659999847412109
+      ],
+      "max": [
+        838.5,
+        5.349999904632568,
+        34.040000915527344
+      ],
+      "names": [
+        "G01 · unidad G01 · bloque de vidrio",
+        "G01 · ala semicircular",
+        "G02 · unidad G02 · bloque de vidrio",
+        "G02 · ala semicircular"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Unidades · balcón y barandilla": {
+      "n": 64,
+      "types": {
+        "Mesh": 64
+      },
+      "min": [
+        793.0,
+        -3.8196499347686768,
+        4.679999828338623
+      ],
+      "max": [
+        839.5499877929688,
+        6.400000095367432,
+        29.899999618530273
+      ],
+      "names": [
+        "G01 · balcón curvo",
+        "G01 · barandilla 1,10",
+        "G02 · balcón curvo",
+        "G02 · barandilla 1,10"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Unidades · caja de color (baño-cápsula)": {
+      "n": 32,
+      "types": {
+        "Mesh": 32
+      },
+      "min": [
+        796.9500122070312,
+        -7.218823432922363,
+        4.800000190734863
+      ],
+      "max": [
+        838.3499755859375,
+        5.199999809265137,
+        31.200000762939453
+      ],
+      "names": [
+        "G01 · baño-cápsula",
+        "G02 · baño-cápsula",
+        "G03 · baño-cápsula",
+        "G04 · baño-cápsula"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Circulación · núcleo protegido (escalera + ascensor)": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        814.0,
+        1.0,
+        0.0
+      ],
+      "max": [
+        819.0,
+        5.599999904632568,
+        35.70000076293945
+      ],
+      "names": [
+        "núcleo: escalera protegida (DB SI 3) + ascensor accesible (DB SUA 9)"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Común · terrazas, patios y pasarelas": {
+      "n": 10,
+      "types": {
+        "Mesh": 10
+      },
+      "min": [
+        793.7999877929688,
+        -2.299999952316284,
+        4.5
+      ],
+      "max": [
+        840.5,
+        5.650000095367432,
+        28.75
+      ],
+      "names": [
+        "calle en el aire 3,00 (galería-salón)",
+        "forjado de la sala común",
+        "calle en el aire 3,00 (galería-salón)",
+        "forjado de la sala común"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Común · salas en altura": {
+      "n": 5,
+      "types": {
+        "Mesh": 5
+      },
+      "min": [
+        794.0,
+        1.0,
+        4.75
+      ],
+      "max": [
+        826.5,
+        5.599999904632568,
+        31.5
+      ],
+      "names": [
+        "sala común de nivel",
+        "sala común de nivel",
+        "sala común de nivel",
+        "sala común de nivel"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Estructura": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        800.8250122070312,
+        0.5249999761581421,
+        0.0
+      ],
+      "max": [
+        835.9249877929688,
+        0.875,
+        34.5
+      ],
+      "names": [
+        "pilar",
+        "pilar",
+        "pilar",
+        "pilar"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Despliegue · toldos y puestos plegables": {
+      "n": 8,
+      "types": {
+        "Mesh": 8
+      },
+      "min": [
+        802.0,
+        0.8999999761581421,
+        0.0
+      ],
+      "max": [
+        823.5,
+        10.935159683227539,
+        3.75
+      ],
+      "names": [
+        "toldo plegable (abierto)",
+        "puesto plegable (mostrador)",
+        "toldo plegable (abierto)",
+        "puesto plegable (mostrador)"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Suelo · pasaje y plaza públicos": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        792.5,
+        -2.4000000953674316,
+        0.0
+      ],
+      "max": [
+        841.0,
+        12.670000076293945,
+        0.029999999329447746
+      ],
+      "names": [
+        "plaza-mercado"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Suelo · programa social": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        793.7999877929688,
+        -7.199999809265137,
+        0.0
+      ],
+      "max": [
+        840.7999877929688,
+        6.599999904632568,
+        4.0
+      ],
+      "names": [
+        "cantina-comedor popular",
+        "taller de reparación y reutilización",
+        "lavandería abierta",
+        "sala de asamblea / estudio 24 h"
+      ]
+    },
+    "G · Muro habitado y plaza desplegable::Etiquetas": {
+      "n": 14,
+      "types": {
+        "TextDot": 14
+      },
+      "min": [
+        796.4,
+        -14.0,
+        0.0
+      ],
+      "max": [
+        838.0417266291596,
+        3.999999999999998,
+        36.5
+      ],
+      "names": [
+        "núcleo",
+        "sala común de nivel",
+        "sala común de nivel",
+        "sala común de nivel"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Contexto": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        896.5,
+        -32.07899856567383,
+        -9.604000091552734
+      ],
+      "max": [
+        999.7000122070312,
+        47.20000076293945,
+        49.95800018310547
+      ],
+      "names": [
+        "edificio 40028002",
+        "edificio 40028003",
+        "edificio 40028004",
+        "edificio 40028005"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Parcela": {
+      "n": 1,
+      "types": {
+        "PolylineCurve": 1
+      },
+      "min": [
+        922.070000000007,
+        -7.5,
+        0.05
+      ],
+      "max": [
+        971.5499999999884,
+        12.669999999925494,
+        0.05
+      ],
+      "names": [
+        "parcela Ribera de Curtidores 31 · 651 m²"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Unidades · bandas oscuras": {
+      "n": 160,
+      "types": {
+        "Mesh": 160
+      },
+      "min": [
+        923.1199951171875,
+        -7.30075740814209,
+        4.5
+      ],
+      "max": [
+        965.9600219726562,
+        6.679999828338623,
+        37.45000076293945
+      ],
+      "names": [
+        "H01 · bandeja",
+        "H01 · zuncho del altillo",
+        "H01 · cubierta y alero",
+        "H01 · bandeja del ala"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Unidades · cuerpo de bloque de vidrio": {
+      "n": 64,
+      "types": {
+        "Mesh": 64
+      },
+      "min": [
+        924.25,
+        -7.220757484436035,
+        4.659999847412109
+      ],
+      "max": [
+        965.9000244140625,
+        5.550000190734863,
+        37.040000915527344
+      ],
+      "names": [
+        "H01 · unidad H01 · bloque de vidrio",
+        "H01 · ala semicircular",
+        "H02 · unidad H02 · bloque de vidrio",
+        "H02 · ala semicircular"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Unidades · balcón y barandilla": {
+      "n": 64,
+      "types": {
+        "Mesh": 64
+      },
+      "min": [
+        923.2000122070312,
+        -3.671584129333496,
+        4.679999828338623
+      ],
+      "max": [
+        963.5499877929688,
+        6.599999904632568,
+        32.900001525878906
+      ],
+      "names": [
+        "H01 · balcón curvo",
+        "H01 · barandilla 1,10",
+        "H02 · balcón curvo",
+        "H02 · barandilla 1,10"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Unidades · caja de color (baño-cápsula)": {
+      "n": 32,
+      "types": {
+        "Mesh": 32
+      },
+      "min": [
+        924.4000244140625,
+        -7.0707573890686035,
+        4.800000190734863
+      ],
+      "max": [
+        960.8499755859375,
+        2.6500000953674316,
+        34.20000076293945
+      ],
+      "names": [
+        "H01 · baño-cápsula",
+        "H02 · baño-cápsula",
+        "H03 · baño-cápsula",
+        "H04 · baño-cápsula"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Circulación · núcleo protegido (escalera + ascensor)": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        938.5999755859375,
+        1.399999976158142,
+        0.0
+      ],
+      "max": [
+        944.4000244140625,
+        6.199999809265137,
+        38.70000076293945
+      ],
+      "names": [
+        "núcleo: escalera protegida (DB SI 3) + ascensor accesible (DB SUA 9)"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Estructura": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        923.8250122070312,
+        -7.571022033691406,
+        0.0
+      ],
+      "max": [
+        966.1749877929688,
+        -0.02500000037252903,
+        37.900001525878906
+      ],
+      "names": [
+        "pilar",
+        "pilar",
+        "pilar",
+        "pilar"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Común · terrazas, patios y pasarelas": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        924.2000122070312,
+        -2.0,
+        4.5
+      ],
+      "max": [
+        965.7999877929688,
+        6.800000190734863,
+        31.75
+      ],
+      "names": [
+        "galería de bahía",
+        "galería de bahía",
+        "forjado de la sala común",
+        "galería de bahía"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Común · escaleras abiertas": {
+      "n": 190,
+      "types": {
+        "Mesh": 190
+      },
+      "min": [
+        931.1871948242188,
+        -0.20000000298023224,
+        4.616666793823242
+      ],
+      "max": [
+        943.2528076171875,
+        2.424999952316284,
+        35.521480560302734
+      ],
+      "names": [
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)",
+        "escalera abierta (uso general: C 0,175 / H 0,28)"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Común · salas en altura": {
+      "n": 2,
+      "types": {
+        "Mesh": 2
+      },
+      "min": [
+        945.5999755859375,
+        0.6000000238418579,
+        7.75
+      ],
+      "max": [
+        951.4000244140625,
+        4.599999904632568,
+        19.5
+      ],
+      "names": [
+        "sala común en el vacío",
+        "sala común en el vacío"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Suelo · pasaje y plaza públicos": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        922.5,
+        -2.0,
+        0.0
+      ],
+      "max": [
+        964.0,
+        2.200000047683716,
+        0.029999999329447746
+      ],
+      "names": [
+        "pasaje del Rastro (calle cubierta, abierta al barrio)"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Suelo · patio-huerto": {
+      "n": 1,
+      "types": {
+        "Mesh": 1
+      },
+      "min": [
+        964.2000122070312,
+        -6.252593994140625,
+        0.0
+      ],
+      "max": [
+        971.5499877929688,
+        2.749713182449341,
+        0.25
+      ],
+      "names": [
+        "patio-huerto trasero (árboles, huerto colectivo)"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Suelo · programa social": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        924.4000244140625,
+        -7.199999809265137,
+        0.0
+      ],
+      "max": [
+        963.5999755859375,
+        10.0,
+        4.0
+      ],
+      "names": [
+        "cantina-comedor popular",
+        "taller de reparación y reutilización",
+        "lavandería abierta",
+        "sala de asamblea / estudio 24 h"
+      ]
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado::Etiquetas": {
+      "n": 12,
+      "types": {
+        "TextDot": 12
+      },
+      "min": [
+        927.5,
+        -14.0,
+        0.0
+      ],
+      "max": [
+        967.8067311589635,
+        6.3,
+        39.5
+      ],
+      "names": [
+        "núcleo",
+        "sala común en el vacío",
+        "sala común en el vacío",
+        "PASAJE DEL RASTRO"
+      ]
+    }
+  },
+  "views": [
+    "Perspective",
+    "Top",
+    "Front",
+    "Right"
+  ]
+}

@@ -1,0 +1,95 @@
+[
+  {
+    "file": "D01_NUDO_RAMIFICADO_1a1.3dm",
+    "objects": 62,
+    "types": {
+      "Brep": 62
+    },
+    "invalid": [],
+    "units": "UnitSystem.Meters",
+    "layers": 2,
+    "definitions": 0,
+    "named_views": [],
+    "people_instances": 0,
+    "pavilions": 0
+  },
+  {
+    "file": "D02_ENVOLVENTE_Y_BANDEJA_1a1.3dm",
+    "objects": 32,
+    "types": {
+      "Brep": 32
+    },
+    "invalid": [],
+    "units": "UnitSystem.Meters",
+    "layers": 4,
+    "definitions": 0,
+    "named_views": [],
+    "people_instances": 0,
+    "pavilions": 0
+  },
+  {
+    "file": "D03_ASCENSOR_COMPLETO.3dm",
+    "objects": 86,
+    "types": {
+      "Brep": 86
+    },
+    "invalid": [],
+    "units": "UnitSystem.Meters",
+    "layers": 33,
+    "definitions": 0,
+    "named_views": [],
+    "people_instances": 0,
+    "pavilions": 0
+  },
+  {
+    "file": "PREVIA_SOLIDA_MALLAS.3dm",
+    "objects": 63,
+    "types": {
+      "Mesh": 63
+    },
+    "invalid": [],
+    "units": "UnitSystem.Meters",
+    "layers": 63,
+    "definitions": 0,
+    "named_views": [],
+    "people_instances": 0,
+    "pavilions": 0
+  },
+  {
+    "file": "SELVA_MACARRA_V4_FINAL.3dm",
+    "objects": 11176,
+    "types": {
+      "Brep": 11036,
+      "InstanceReference": 124,
+      "Mesh": 16
+    },
+    "invalid": [],
+    "units": "UnitSystem.Meters",
+    "layers": 33,
+    "definitions": 16,
+    "named_views": [
+      "01_MACARRA_AXONOMETRIA",
+      "Perspective",
+      "02_FRENTE_ZIGZAG",
+      "03_ARBOL_Y_NUDOS",
+      "04_ASCENSOR",
+      "05_PLANTA"
+    ],
+    "people_instances": 40,
+    "pavilions": 10
+  },
+  {
+    "file": "UNIDAD_GRAN_BOVEDA_EDITABLE.3dm",
+    "objects": 262,
+    "types": {
+      "Brep": 262
+    },
+    "invalid": [],
+    "units": "UnitSystem.Meters",
+    "layers": 33,
+    "definitions": 0,
+    "named_views": [],
+    "people_instances": 0,
+    "pavilions": 0
+  }
+]

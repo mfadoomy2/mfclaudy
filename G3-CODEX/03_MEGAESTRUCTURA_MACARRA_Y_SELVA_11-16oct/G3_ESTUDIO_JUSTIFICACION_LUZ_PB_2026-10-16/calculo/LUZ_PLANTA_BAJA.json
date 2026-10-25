@@ -1,0 +1,203 @@
+{
+  "method": "Metrica exterior de cielo, no iluminancia interior; misma geometria V5.",
+  "rows": [
+    {
+      "bay": "A",
+      "face": "sur",
+      "dx": -2.8,
+      "point": [
+        20.599999999999998,
+        -1.8800000000000001,
+        1.35
+      ],
+      "sky_percent": 0.0
+    },
+    {
+      "bay": "A",
+      "face": "sur",
+      "dx": 0,
+      "point": [
+        23.4,
+        -1.8800000000000001,
+        1.35
+      ],
+      "sky_percent": 0.0
+    },
+    {
+      "bay": "A",
+      "face": "sur",
+      "dx": 2.8,
+      "point": [
+        26.2,
+        -1.8800000000000001,
+        1.35
+      ],
+      "sky_percent": 0.0
+    },
+    {
+      "bay": "A",
+      "face": "norte",
+      "dx": -2.8,
+      "point": [
+        20.599999999999998,
+        4.08,
+        1.35
+      ],
+      "sky_percent": 2.478
+    },
+    {
+      "bay": "A",
+      "face": "norte",
+      "dx": 0,
+      "point": [
+        23.4,
+        4.08,
+        1.35
+      ],
+      "sky_percent": 0.674
+    },
+    {
+      "bay": "A",
+      "face": "norte",
+      "dx": 2.8,
+      "point": [
+        26.2,
+        4.08,
+        1.35
+      ],
+      "sky_percent": 0.184
+    },
+    {
+      "bay": "B",
+      "face": "sur",
+      "dx": -2.8,
+      "point": [
+        33.2,
+        -3.38,
+        1.35
+      ],
+      "sky_percent": 0.145
+    },
+    {
+      "bay": "B",
+      "face": "sur",
+      "dx": 0,
+      "point": [
+        36.0,
+        -3.38,
+        1.35
+      ],
+      "sky_percent": 0.249
+    },
+    {
+      "bay": "B",
+      "face": "sur",
+      "dx": 2.8,
+      "point": [
+        38.8,
+        -3.38,
+        1.35
+      ],
+      "sky_percent": 0.11
+    },
+    {
+      "bay": "B",
+      "face": "norte",
+      "dx": -2.8,
+      "point": [
+        33.2,
+        2.58,
+        1.35
+      ],
+      "sky_percent": 3.478
+    },
+    {
+      "bay": "B",
+      "face": "norte",
+      "dx": 0,
+      "point": [
+        36.0,
+        2.58,
+        1.35
+      ],
+      "sky_percent": 0.742
+    },
+    {
+      "bay": "B",
+      "face": "norte",
+      "dx": 2.8,
+      "point": [
+        38.8,
+        2.58,
+        1.35
+      ],
+      "sky_percent": 1.408
+    },
+    {
+      "bay": "C",
+      "face": "sur",
+      "dx": -2.8,
+      "point": [
+        45.800000000000004,
+        -4.48,
+        1.35
+      ],
+      "sky_percent": 0.0
+    },
+    {
+      "bay": "C",
+      "face": "sur",
+      "dx": 0,
+      "point": [
+        48.6,
+        -4.48,
+        1.35
+      ],
+      "sky_percent": 0.0
+    },
+    {
+      "bay": "C",
+      "face": "sur",
+      "dx": 2.8,
+      "point": [
+        51.4,
+        -4.48,
+        1.35
+      ],
+      "sky_percent": 0.0
+    },
+    {
+      "bay": "C",
+      "face": "norte",
+      "dx": -2.8,
+      "point": [
+        45.800000000000004,
+        1.4799999999999995,
+        1.35
+      ],
+      "sky_percent": 4.603
+    },
+    {
+      "bay": "C",
+      "face": "norte",
+      "dx": 0,
+      "point": [
+        48.6,
+        1.4799999999999995,
+        1.35
+      ],
+      "sky_percent": 3.843
+    },
+    {
+      "bay": "C",
+      "face": "norte",
+      "dx": 2.8,
+      "point": [
+        51.4,
+        1.4799999999999995,
+        1.35
+      ],
+      "sky_percent": 3.261
+    }
+  ]
+}

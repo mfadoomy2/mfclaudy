@@ -1,0 +1,534 @@
+{
+  "resumen": {
+    "privado_bruto": 1016.8513866445633,
+    "galerias_abiertas": 373.67999999999995,
+    "comun_cerrado_bruto": 195.83999999999992,
+    "nucleo_bruto": 187.05000000000007,
+    "pb_programa_bruto": 196.79999999999998
+  },
+  "unidades": [
+    {
+      "id": "S101",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 1",
+      "x": 14.0,
+      "z": 4.5,
+      "area_bruta": 28.855447660882376,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        16.7,
+        0,
+        4.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 19.100000000000005
+    },
+    {
+      "id": "S102",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 1",
+      "x": 18.95,
+      "z": 4.5,
+      "area_bruta": 28.855447660882376,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        21.65,
+        0,
+        4.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 14.150000000000004
+    },
+    {
+      "id": "S103",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 1",
+      "x": 23.9,
+      "z": 4.5,
+      "area_bruta": 28.855447660882376,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        26.599999999999998,
+        0,
+        4.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 9.200000000000005
+    },
+    {
+      "id": "S104",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 1",
+      "x": 28.85,
+      "z": 4.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        31.55,
+        0,
+        4.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 4.250000000000002
+    },
+    {
+      "id": "S105",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 1",
+      "x": 33.8,
+      "z": 4.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        36.5,
+        0,
+        4.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 4.899999999999997
+    },
+    {
+      "id": "S106",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 1",
+      "x": 38.75,
+      "z": 4.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        41.45,
+        0,
+        4.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 9.85
+    },
+    {
+      "id": "S107",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 1",
+      "x": 43.7,
+      "z": 4.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        46.400000000000006,
+        0,
+        4.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 14.800000000000002
+    },
+    {
+      "id": "S108",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 1",
+      "x": 48.65,
+      "z": 4.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        51.35,
+        0,
+        4.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 19.75
+    },
+    {
+      "id": "S201",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 2",
+      "x": 14.0,
+      "z": 7.5,
+      "area_bruta": 28.855447660882376,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        16.7,
+        0,
+        7.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 19.100000000000005
+    },
+    {
+      "id": "S202",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 2",
+      "x": 18.95,
+      "z": 7.5,
+      "area_bruta": 28.855447660882376,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        21.65,
+        0,
+        7.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 14.150000000000004
+    },
+    {
+      "id": "S203",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 2",
+      "x": 23.9,
+      "z": 7.5,
+      "area_bruta": 28.855447660882376,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        26.599999999999998,
+        0,
+        7.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 9.200000000000005
+    },
+    {
+      "id": "S204",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 2",
+      "x": 28.85,
+      "z": 7.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        31.55,
+        0,
+        7.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 4.250000000000002
+    },
+    {
+      "id": "S205",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 2",
+      "x": 33.8,
+      "z": 7.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        36.5,
+        0,
+        7.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 4.899999999999997
+    },
+    {
+      "id": "S206",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 2",
+      "x": 38.75,
+      "z": 7.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        41.45,
+        0,
+        7.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 9.85
+    },
+    {
+      "id": "S207",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 2",
+      "x": 43.7,
+      "z": 7.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        46.400000000000006,
+        0,
+        7.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 14.800000000000002
+    },
+    {
+      "id": "S208",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 2",
+      "x": 48.65,
+      "z": 7.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        51.35,
+        0,
+        7.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 19.75
+    },
+    {
+      "id": "S301",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 3",
+      "x": 14.0,
+      "z": 10.5,
+      "area_bruta": 28.855447660882376,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        16.7,
+        0,
+        10.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 19.100000000000005
+    },
+    {
+      "id": "S302",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 3",
+      "x": 18.95,
+      "z": 10.5,
+      "area_bruta": 28.855447660882376,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        21.65,
+        0,
+        10.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 14.150000000000004
+    },
+    {
+      "id": "S303",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 3",
+      "x": 23.9,
+      "z": 10.5,
+      "area_bruta": 28.855447660882376,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        26.599999999999998,
+        0,
+        10.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 9.200000000000005
+    },
+    {
+      "id": "S304",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 3",
+      "x": 28.85,
+      "z": 10.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        31.55,
+        0,
+        10.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 4.250000000000002
+    },
+    {
+      "id": "S305",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 3",
+      "x": 33.8,
+      "z": 10.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        36.5,
+        0,
+        10.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 4.899999999999997
+    },
+    {
+      "id": "S306",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 3",
+      "x": 38.75,
+      "z": 10.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        41.45,
+        0,
+        10.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 9.85
+    },
+    {
+      "id": "S307",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 3",
+      "x": 43.7,
+      "z": 10.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        46.400000000000006,
+        0,
+        10.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 14.800000000000002
+    },
+    {
+      "id": "S308",
+      "tipo": "S",
+      "residentes": 1,
+      "grupo": "Casa 3",
+      "x": 48.65,
+      "z": 10.5,
+      "area_bruta": 28.855447660882398,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        51.35,
+        0,
+        10.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 19.75
+    },
+    {
+      "id": "D401",
+      "tipo": "D",
+      "residentes": 2,
+      "grupo": "Casa 4",
+      "x": 14.0,
+      "z": 13.5,
+      "area_bruta": 40.540080347923166,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        16.7,
+        0,
+        13.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 19.100000000000005
+    },
+    {
+      "id": "D402",
+      "tipo": "D",
+      "residentes": 2,
+      "grupo": "Casa 4",
+      "x": 18.95,
+      "z": 13.5,
+      "area_bruta": 40.540080347923166,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        21.65,
+        0,
+        13.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 14.150000000000004
+    },
+    {
+      "id": "D403",
+      "tipo": "D",
+      "residentes": 2,
+      "grupo": "Casa 4",
+      "x": 23.9,
+      "z": 13.5,
+      "area_bruta": 40.540080347923166,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        26.599999999999998,
+        0,
+        13.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 9.200000000000005
+    },
+    {
+      "id": "D404",
+      "tipo": "D",
+      "residentes": 2,
+      "grupo": "Casa 4",
+      "x": 28.85,
+      "z": 13.5,
+      "area_bruta": 40.540080347923194,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        31.55,
+        0,
+        13.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 4.250000000000002
+    },
+    {
+      "id": "D405",
+      "tipo": "D",
+      "residentes": 2,
+      "grupo": "Casa 5",
+      "x": 33.8,
+      "z": 13.5,
+      "area_bruta": 40.540080347923194,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        36.5,
+        0,
+        13.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 4.899999999999997
+    },
+    {
+      "id": "D406",
+      "tipo": "D",
+      "residentes": 2,
+      "grupo": "Casa 5",
+      "x": 38.75,
+      "z": 13.5,
+      "area_bruta": 40.540080347923194,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        41.45,
+        0,
+        13.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 9.85
+    },
+    {
+      "id": "D407",
+      "tipo": "D",
+      "residentes": 2,
+      "grupo": "Casa 5",
+      "x": 43.7,
+      "z": 13.5,
+      "area_bruta": 40.540080347923194,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        46.400000000000006,
+        0,
+        13.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 14.800000000000002
+    },
+    {
+      "id": "D408",
+      "tipo": "D",
+      "residentes": 2,
+      "grupo": "Casa 5",
+      "x": 48.65,
+      "z": 13.5,
+      "area_bruta": 40.540080347923194,
+      "fuera_parcela_m2": 0.0,
+      "puerta": [
+        51.35,
+        0,
+        13.5
+      ],
+      "recorrido_ortogonal_hasta_puerta_nucleo_m": 19.75
+    }
+  ],
+  "habitantes": 40,
+  "count": 32,
+  "altura_cubierta_duplex": 19.18,
+  "max_recorrido_modelo_m": 19.75,
+  "area_parcela": 650.9129999918814,
+  "notes": [
+    "Superficies geometricas brutas: no equivalen a utiles ni a computo urbanistico.",
+    "Recorrido por eje de galeria hasta puerta del nucleo, no certificacion de salida de planta.",
+    "Nucleo y estructura requieren proyecto de fuego, ventilacion, puertas y secciones.",
+    "Medianeras sin ventilacion prestada. Falta simulacion de luz y ficha urbanistica."
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "version": "v2 16 octubre 2026: cocina al fondo, paso libre, costillas exteriores, huecos de escalera; no proyecto de ejecucion",
+  "parcela_m2": 650.9129999918814,
+  "residentes": 40,
+  "unidades": 10,
+  "niveles": [
+    4.2,
+    8.4,
+    12.6,
+    16.8,
+    21.0
+  ],
+  "coronacion_velas": 25.6,
+  "area_fuera_unidades_m2": 0.0,
+  "solapes_entre_unidades_por_nivel_m2": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "areas_m2": {
+    "unidad_bruta": 102.8591056319369,
+    "habitacion_util_aprox": 12.145347631954975,
+    "comun_central_bruto": 25.739999999999995,
+    "aseos_brutos": 10.139999999999999,
+    "pasajes_internos_brutos": 11.840000000000007,
+    "unidades_total": 1028.591056319369,
+    "nucleos_reserva_total": 334.0799999999999,
+    "programa_comunitario": 187.39999999999998,
+    "galerias_y_claros_abiertos": 455.6241085169775,
+    "cerrado_y_nucleos_estudio": 1550.0710563193688
+  },
+  "modelo_objetos": 4468,
+  "no_verificado": [
+    "estructura y anclajes",
+    "fuego y compartimentacion",
+    "itinerario accesible completo y aseos",
+    "luz y ventilacion entre vecinos",
+    "cota real de calle",
+    "envolvente energetica",
+    "viabilidad urbanistica de altura y edificabilidad",
+    "interferencias tridimensionales completas"
+  ],
+  "unidades_datos": [
+    {
+      "id": "U01",
+      "x": 19.8,
+      "y": -3.4,
+      "z": 4.2,
+      "personas": 4,
+      "m2_brutos": 102.85910563193688,
+      "fuera_parcela": 0.0,
+      "puerta": [
+        19.8,
+        1.1999999999999997,
+        4.2
+      ]
+    },
+    {
+      "id": "U02",
+      "x": 32,
+      "y": -5,
+      "z": 4.2,
+      "personas": 4,
+      "m2_brutos": 102.85910563193691,
+      "fuera_parcela": 0.0,
+      "puerta": [
+        43.3,
+        -0.40000000000000036,
+        4.2
+      ]
+    },
+    {
+      "id": "U03",
+      "x": 19.8,
+      "y": -2.8,
+      "z": 8.4,
+      "personas": 4,
+      "m2_brutos": 102.8591056319369,
+      "fuera_parcela": 0.0,
+      "puerta": [
+        19.8,
+        1.7999999999999998,
+        8.4
+      ]
+    },
+    {
+      "id": "U04",
+      "x": 32.15,
+      "y": -5,
+      "z": 8.4,
+      "personas": 4,
+      "m2_brutos": 102.85910563193696,
+      "fuera_parcela": 0.0,
+      "puerta": [
+        43.45,
+        -0.40000000000000036,
+        8.4
+      ]
+    },
+    {
+      "id": "U05",
+      "x": 19.8,
+      "y": -4.6,
+      "z": 12.6,
+      "personas": 4,
+      "m2_brutos": 102.85910563193688,
+      "fuera_parcela": 0.0,
+      "puerta": [
+        19.8,
+        0.0,
+        12.6
+      ]
+    },
+    {
+      "id": "U06",
+      "x": 31.5,
+      "y": -5,
+      "z": 12.6,
+      "personas": 4,
+      "m2_brutos": 102.85910563193691,
+      "fuera_parcela": 0.0,
+      "puerta": [
+        42.8,
+        -0.40000000000000036,
+        12.6
+      ]
+    },
+    {
+      "id": "U07",
+      "x": 19.8,
+      "y": -3,
+      "z": 16.8,
+      "personas": 4,
+      "m2_brutos": 102.8591056319369,
+      "fuera_parcela": 0.0,
+      "puerta": [
+        19.8,
+        1.5999999999999996,
+        16.8
+      ]
+    },
+    {
+      "id": "U08",
+      "x": 32.1,
+      "y": -5,
+      "z": 16.8,
+      "personas": 4,
+      "m2_brutos": 102.85910563193696,
+      "fuera_parcela": 0.0,
+      "puerta": [
+        43.400000000000006,
+        -0.40000000000000036,
+        16.8
+      ]
+    },
+    {
+      "id": "U09",
+      "x": 19.8,
+      "y": -4.2,
+      "z": 21.0,
+      "personas": 4,
+      "m2_brutos": 102.8591056319369,
+      "fuera_parcela": 0.0,
+      "puerta": [
+        19.8,
+        0.39999999999999947,
+        21.0
+      ]
+    },
+    {
+      "id": "U10",
+      "x": 31.8,
+      "y": -5,
+      "z": 21.0,
+      "personas": 4,
+      "m2_brutos": 102.85910563193693,
+      "fuera_parcela": 0.0,
+      "puerta": [
+        43.1,
+        -0.40000000000000036,
+        21.0
+      ]
+    }
+  ],
+  "programa": [
+    {
+      "nombre": "Acogida y cuidados",
+      "z": 0,
+      "m2_brutos": 22.799999999999997
+    },
+    {
+      "nombre": "Lavanderia y limpieza",
+      "z": 0,
+      "m2_brutos": 20.0
+    },
+    {
+      "nombre": "Tecnica y almacen",
+      "z": 0,
+      "m2_brutos": 22.5
+    },
+    {
+      "nombre": "Cantina y reparto",
+      "z": 4.2,
+      "m2_brutos": 40.69999999999999
+    },
+    {
+      "nombre": "Taller y herramientas",
+      "z": 12.6,
+      "m2_brutos": 40.69999999999999
+    },
+    {
+      "nombre": "Cowork y aula",
+      "z": 21.0,
+      "m2_brutos": 40.69999999999999
+    }
+  ]
+}

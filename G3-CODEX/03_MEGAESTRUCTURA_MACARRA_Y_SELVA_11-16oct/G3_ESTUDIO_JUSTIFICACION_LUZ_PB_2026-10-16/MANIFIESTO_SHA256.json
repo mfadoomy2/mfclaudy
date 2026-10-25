@@ -1,0 +1,322 @@
+[
+  {
+    "path": "DOSSIER_EDITABLE.md",
+    "bytes": 13849,
+    "sha256": "4f84a368ca882d53f438e2e8871cac229090a16599a5dd2f6be95b4baf6b6bd1"
+  },
+  {
+    "path": "LEEME.md",
+    "bytes": 2713,
+    "sha256": "334565b8485669c419cc7c601261574619ed999f0d1e23af6e572fdfada47912"
+  },
+  {
+    "path": "calculo/COMPARACION_40_HABITACIONES.csv",
+    "bytes": 1960,
+    "sha256": "cdc100f6c1f46ec3f5110ca2873a4ee6279d29ed7aff54c0a11ad98114a565f7"
+  },
+  {
+    "path": "calculo/ESTRUCTURA_RESULTADOS.json",
+    "bytes": 247375,
+    "sha256": "dce34192ed80f6e72b4da04d67632586bf0e9e4c2ea5042e3c9a475bcd82276d"
+  },
+  {
+    "path": "calculo/LUZ_40_HABITACIONES.csv",
+    "bytes": 2103,
+    "sha256": "d9b71ab8177aeafa55ef1918e14a5399363fc7aefce83e5a821c567c511daefa"
+  },
+  {
+    "path": "calculo/LUZ_40_HABITACIONES.json",
+    "bytes": 132850,
+    "sha256": "7e4359bd96baa7dca379bca094c218121a5688c3148e816cd27d043a0a3b52a4"
+  },
+  {
+    "path": "calculo/LUZ_PLANTA_BAJA.json",
+    "bytes": 3187,
+    "sha256": "da080f32fb1e951b5ecf4e204581d87e09403ffcafb2abbf92caaeb09c4f3d80"
+  },
+  {
+    "path": "calculo/LUZ_V5_40_HABITACIONES.json",
+    "bytes": 121774,
+    "sha256": "0e3ed0b769d13fefc0a59e595b90b6e1354a3e70955233482509ebf8285a0d25"
+  },
+  {
+    "path": "calculo/SUBSISTEMAS_RESULTADOS.json",
+    "bytes": 3774,
+    "sha256": "4148dcaa792d2b0a1453e3124e2856a08b570f4c3bde129ec0385d81ab0cc0fa"
+  },
+  {
+    "path": "diagramas/01_PARCELA_Y_CONTEXTO.png",
+    "bytes": 160805,
+    "sha256": "ac3bd766cb7d376fd79c4ce96f6146176c22ee65d53a0dff8006189c13422c2b"
+  },
+  {
+    "path": "diagramas/02_COMPARACION_CIELO_40.png",
+    "bytes": 241440,
+    "sha256": "2d9bc572eda27286581934a82982d1df199a24eea54c2d6d9341f7713bd91940"
+  },
+  {
+    "path": "diagramas/03_UNIDAD_REORGANIZADA.png",
+    "bytes": 88175,
+    "sha256": "1422cbc2118afd54061c3ed3677769a7dff460b88fa4d860558ef748774db336"
+  },
+  {
+    "path": "diagramas/04_SECCION_Y_ENTRADA_DE_LUZ.png",
+    "bytes": 128148,
+    "sha256": "60333ab5e5082a25c3b418b882dafcc01c734023c6d219dab8aab0df3235460a"
+  },
+  {
+    "path": "diagramas/05_PLANTA_BAJA_PROGRAMADA.png",
+    "bytes": 165563,
+    "sha256": "141aa40fbc1c499527af5923a0b0eca57407183985b0a5e331aedf0bbc170db6"
+  },
+  {
+    "path": "diagramas/06_HORARIOS_Y_CONVIVENCIA.png",
+    "bytes": 181377,
+    "sha256": "577979433d0f574b488c235f70aabe341c4f26bcecbbd5428e5cd1fe1f4fb798"
+  },
+  {
+    "path": "diagramas/07_SOL_POR_ALTURA_PREVIO.png",
+    "bytes": 129136,
+    "sha256": "bf7da3de56b8df4392a1c5a32e990bc415aa283cc488263aaaecd095cc868b6b"
+  },
+  {
+    "path": "diagramas/08_UNIDAD_V5_NORTE.png",
+    "bytes": 4867678,
+    "sha256": "83a2e935927d3253f9809c79f4679c5b82c5f88d2f56afd4e823f8cef746e173"
+  },
+  {
+    "path": "diagramas/09_UNIDAD_V5_PLANTA.png",
+    "bytes": 4053507,
+    "sha256": "d19eeb22c75b8e55b7f6532f3dc73a4f64000b0b14d3d1fd63ec2311deb2349a"
+  },
+  {
+    "path": "diagramas/10_PLANTA_BAJA_V5.png",
+    "bytes": 4168056,
+    "sha256": "b6c1d8a7b3159ac347bae93d0e3574dceb58ba00c38d159b9fef44d8b9ccd5eb"
+  },
+  {
+    "path": "diagramas/11_ESTRUCTURA_V4_ANTECEDENTE.png",
+    "bytes": 371422,
+    "sha256": "9a289b5040446ea4999d55dfef0e07e5a2c964804760915561052e3bc62b83e0"
+  },
+  {
+    "path": "fuentes/analizar_luz.py",
+    "bytes": 5275,
+    "sha256": "0ec2e69885382de5771f485c3f8d50a319d81a875fefa4ef1e4841d65596b413"
+  },
+  {
+    "path": "fuentes/analizar_luz_pb.py",
+    "bytes": 2745,
+    "sha256": "7df2343134da5a9088d34ce9088b846e1601857121827cd69adac6643829045c"
+  },
+  {
+    "path": "fuentes/analizar_luz_v5.py",
+    "bytes": 3910,
+    "sha256": "88514584aba753dcbe974a2253a92d0c9525c48cd0036fd830f2e9ce164897f9"
+  },
+  {
+    "path": "fuentes/analizar_todo.py",
+    "bytes": 275,
+    "sha256": "be578b6b0fe71592f95a9f315c0b7606a5db6c439b387173af8d23b072ce12f7"
+  },
+  {
+    "path": "fuentes/bloque_pb_v5.txt",
+    "bytes": 3712,
+    "sha256": "7220269e902210c3450d57f85f2be2b1c00b05023a34cba5943787117a770fcf"
+  },
+  {
+    "path": "fuentes/bloque_unidad_v5.txt",
+    "bytes": 5303,
+    "sha256": "629d94b107e36108fb1b839a688d3e53eae6420aaed013a8feae05cacf05f92b"
+  },
+  {
+    "path": "fuentes/contexto_original.json",
+    "bytes": 1858352,
+    "sha256": "638e759734ca9ddd4f0cb04733d9798f87662a494f430dba944de2d3d59cfb1d"
+  },
+  {
+    "path": "fuentes/crear_diagramas.py",
+    "bytes": 11150,
+    "sha256": "cdb60dc9357d9e84430bab730d33349100bbe15fe27ffa38e5be63ed8e6bf3a0"
+  },
+  {
+    "path": "fuentes/crear_dossier.py",
+    "bytes": 18016,
+    "sha256": "e5599daeee8c3dd6247d56344cee943c29d6dbfcb07c07ee1da3b469747608e8"
+  },
+  {
+    "path": "fuentes/extraer_v5.py",
+    "bytes": 3154,
+    "sha256": "84a3aa659eb5e9ccbdfca43093fc6a639504dfcee3044ececcf7c982b1925f91"
+  },
+  {
+    "path": "fuentes/geometria_render.json",
+    "bytes": 322586000,
+    "sha256": "e83af0be85459bb7e82222f1c1ab1f980d474aa72885fa166d744998efea5eb1"
+  },
+  {
+    "path": "fuentes/modelar_v5_rhino.py",
+    "bytes": 41981,
+    "sha256": "e3be04df60d72ff966e3a0076d29ebc5a827cf1b60b2d8759c542bf3062ccfd4"
+  },
+  {
+    "path": "fuentes/originales/COMPENDIO_LUGAR_2026-09-23.pdf",
+    "bytes": 19654550,
+    "sha256": "7cec5ba0f9ff4ff2aeaf596a255aa5b0292c3691914ae558d5a0afe6a6a8f815"
+  },
+  {
+    "path": "fuentes/originales/CUADERNO_SOL_SELVA.md",
+    "bytes": 28557,
+    "sha256": "48275ef0eb38e4c2e838ac1136dc7a5f5609949f2fbfa7d2c1e70c15b4e8cec6"
+  },
+  {
+    "path": "fuentes/originales/CUADERNO_SOL_SELVA.pdf",
+    "bytes": 8210128,
+    "sha256": "438d9c5a8f8cda9029791458762c4eef657aa7f339832b686973c31d70c0ae81"
+  },
+  {
+    "path": "fuentes/originales/ENUNCIADO.txt",
+    "bytes": 17633,
+    "sha256": "2625872fed10482eb75e5bc874280c330fb1c18345cdb59cc080c1196fd4a892"
+  },
+  {
+    "path": "fuentes/originales/MEMORIA_V4.md",
+    "bytes": 9751,
+    "sha256": "a203935ce438f68724118da89d4effb3f17362ca6023954334120891468b2960"
+  },
+  {
+    "path": "fuentes/originales/REGISTRO_RED_2026-10-11.json",
+    "bytes": 4734,
+    "sha256": "c2aa3d9d75184305e30261e9be51924ecc405040ffd646d968ffc60392edfed8"
+  },
+  {
+    "path": "fuentes/originales/SOL_POR_ALTURA_ESTUDIO_PREVIO.json",
+    "bytes": 1918,
+    "sha256": "523deecf5482728b9a4c639909a4b7f6b26ed9f58702b8c5f8279519fc022809"
+  },
+  {
+    "path": "fuentes/originales/asamblea-general-y-nodos-u8mlliw9.txt",
+    "bytes": 5525,
+    "sha256": "776eadccaeb63ca57d9ea3e1947511d6592726847e94cfb260977d8ee676bd71"
+  },
+  {
+    "path": "fuentes/originales/comisiones-bjbtrslu.txt",
+    "bytes": 4092,
+    "sha256": "4cad79f9e8237e2afc647acd663e37a487897b5b9db2e77db7cca5fbef5153fc"
+  },
+  {
+    "path": "fuentes/originales/comunicado-de-comision-de-urbanismo-slaw2peq.txt",
+    "bytes": 1482,
+    "sha256": "28cdc34683c25319c4493201c479103edbbbd5970c48d52069a300cd815cc71e"
+  },
+  {
+    "path": "fuentes/originales/informacion-comisiones-8x0z0hat.txt",
+    "bytes": 1016,
+    "sha256": "e94f2ab3ca1bf7a3e8d3b04a7e1ff6b39487c7abe1d360f5c58310ff20223a99"
+  },
+  {
+    "path": "fuentes/originales/lluvia-plan-de-accion-urgente-7cbdxyly.txt",
+    "bytes": 1256,
+    "sha256": "445834aae9b6bf3460f5c2ca52e05fef60ca0ebcdabb41ae67fe6bdb61379901"
+  },
+  {
+    "path": "fuentes/parcela_local.geojson",
+    "bytes": 1776,
+    "sha256": "6e4247048519682536e242fd181ecf3b9cf7cf5b7ac55ac4b1454e7fb9434b86"
+  },
+  {
+    "path": "fuentes/personas_seleccionadas.3dm",
+    "bytes": 4337848,
+    "sha256": "bc4f9d1b4fb9814aa2bfe6e1762a5ac180ae12f53b5680e7e2443ed9bd959904"
+  },
+  {
+    "path": "fuentes/recorrido_suelo.json",
+    "bytes": 2471,
+    "sha256": "f4c433c2d67ba0e5d901d1d52e781b84bdc7c6bde97b2e313f04eb365008dd9e"
+  },
+  {
+    "path": "fuentes/renderizar_v5.py",
+    "bytes": 4094,
+    "sha256": "1cfe239a5b3939130f2011ad3f432fe463d0afe2aeeb3bff9427241e8cee28cb"
+  },
+  {
+    "path": "modelos/PLANTA_BAJA_V5_EDITABLE.3dm",
+    "bytes": 17971450,
+    "sha256": "0b8eeea93868d32d232a5eab1632cf8d0367e0fc52a42b0a99ce356af848ef03"
+  },
+  {
+    "path": "modelos/SELVA_V5_LUZ_Y_PLANTA_BAJA.3dm",
+    "bytes": 155524976,
+    "sha256": "7664fe9b61d2b900efaa1069189fbf7a35080fcdd60c9fe47327e0548ecccb4e"
+  },
+  {
+    "path": "modelos/UNIDAD_V5_INTERIOR.3dm",
+    "bytes": 8194181,
+    "sha256": "ecf2348aadb498113258530311fc1c7b536dfdcdcb88f7ea91f52e66c2c4886d"
+  },
+  {
+    "path": "modelos/UNIDAD_V5_NORTE_EDITABLE.3dm",
+    "bytes": 8194193,
+    "sha256": "3073c8d945aa71436dfe1b4fe5bfa0107b07e0be9966678bd5f3dd8a214310ba"
+  },
+  {
+    "path": "output/pdf/DOSSIER_G3_JUSTIFICACION_LUZ_Y_PLANTA_BAJA.pdf",
+    "bytes": 12825812,
+    "sha256": "4682ba62cfeae0baebea66e3a36b3d0f4ec55a494f02a3b76ce8bb913b12ed5c"
+  },
+  {
+    "path": "verificacion/construccion_nativa.json",
+    "bytes": 10769,
+    "sha256": "85e0c7b9a2bb3d0fa7006e3c723a09806b57eb9816f53e256e1f0b8afd422709"
+  },
+  {
+    "path": "verificacion/contacto_diagramas.jpg",
+    "bytes": 195875,
+    "sha256": "454b9b181f3bcee2dbae8e82d37ceeb3b9d00930a15ebd09c502b6dcaaaabc91"
+  },
+  {
+    "path": "verificacion/contacto_pdf.jpg",
+    "bytes": 234317,
+    "sha256": "476dae882d1a51dde0f5b67f447da1ca88da5be0e83612dfe12e1327b0e9a8de"
+  },
+  {
+    "path": "verificacion/georreferencia.json",
+    "bytes": 294,
+    "sha256": "9a9fa07b9e09fcc4e7b8bae2cb0cba78b29bedc19b973405db67be0330cb016f"
+  },
+  {
+    "path": "verificacion/luz.log",
+    "bytes": 1026,
+    "sha256": "cc482b9b1949e74f3217237d2d44a1d7fbaba595ec49b828b7177ee8f02f723d"
+  },
+  {
+    "path": "verificacion/luz_final.log",
+    "bytes": 3358,
+    "sha256": "2e6d822e49173844be97b2f5bee5a10dda2da25173418950f5f06287704c7426"
+  },
+  {
+    "path": "verificacion/luz_pb.log",
+    "bytes": 1817,
+    "sha256": "eee3827d231f5bc6347b1c49e0f27a14010bfe7dc27b5ad1f7634345956f16ba"
+  },
+  {
+    "path": "verificacion/luz_v5.log",
+    "bytes": 432,
+    "sha256": "095672b8d0a9a7eef5bb5d9a705d1eba3d58e03938fef7326fa7aed468d0a6da"
+  },
+  {
+    "path": "verificacion/modelos.json",
+    "bytes": 495,
+    "sha256": "74ccb9e6490bf2d4935a72858fce8e0f1dc074454a47c1ee33016899ca1826d6"
+  },
+  {
+    "path": "verificacion/progreso.txt",
+    "bytes": 637,
+    "sha256": "503f2e39180a2cdc8db99666ac7fa01f87d13d63a9232a56ba3e5cb4ecc29d68"
+  },
+  {
+    "path": "verificacion/render_v5.log",
+    "bytes": 24211,
+    "sha256": "88a17dc288be1d49a60dfa82ffc19ea9ddd6f9b0c70690915a4337d159bf0bf1"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "objects": 11177,
+  "invalid": 0,
+  "context_visible": [
+    [
+      "90_CONTEXTO",
+      true
+    ],
+    [
+      "91_LIMITE_PARCELA",
+      true
+    ]
+  ],
+  "named_views": [
+    "01_MACARRA_AXONOMETRIA",
+    "Perspective",
+    "02_FRENTE_ZIGZAG",
+    "03_ARBOL_Y_NUDOS",
+    "04_ASCENSOR",
+    "05_PLANTA",
+    "09_IMPLANTACION_CONTEXTO",
+    "10_PARCELA_CENITAL"
+  ]
+}

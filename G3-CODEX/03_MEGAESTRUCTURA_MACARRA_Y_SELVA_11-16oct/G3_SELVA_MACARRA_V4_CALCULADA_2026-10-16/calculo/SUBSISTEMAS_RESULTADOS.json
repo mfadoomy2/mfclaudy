@@ -1,0 +1,90 @@
+{
+  "roof_rib_trials": [
+    {
+      "D_mm": 88.9,
+      "t_mm": 4.0,
+      "stress_ULS_MPa": 261.81158632706047,
+      "peak_displacement_ULS_mm": 100.06582761501818,
+      "peak_displacement_SLS_mm": 70.22163341404784,
+      "rib_spacing_m": 0.4857142857142857,
+      "assumptions": "Fixed feet, 1.0 kPa G and 1.0 kPa Q; in-plane beam test. Lateral stability, buckling, shell action and wind uplift are not certified by this submodel."
+    },
+    {
+      "D_mm": 114.3,
+      "t_mm": 6.3,
+      "stress_ULS_MPa": 104.2885878240548,
+      "peak_displacement_ULS_mm": 30.87265261026371,
+      "peak_displacement_SLS_mm": 21.665019375623654,
+      "rib_spacing_m": 0.4857142857142857,
+      "assumptions": "Fixed feet, 1.0 kPa G and 1.0 kPa Q; in-plane beam test. Lateral stability, buckling, shell action and wind uplift are not certified by this submodel."
+    },
+    {
+      "D_mm": 139.7,
+      "t_mm": 6.3,
+      "stress_ULS_MPa": 68.16536620159759,
+      "peak_displacement_ULS_mm": 16.434067277710156,
+      "peak_displacement_SLS_mm": 11.532678791375547,
+      "rib_spacing_m": 0.4857142857142857,
+      "assumptions": "Fixed feet, 1.0 kPa G and 1.0 kPa Q; in-plane beam test. Lateral stability, buckling, shell action and wind uplift are not certified by this submodel."
+    }
+  ],
+  "roof_rib_selected": {
+    "D_mm": 114.3,
+    "t_mm": 6.3,
+    "stress_ULS_MPa": 104.2885878240548,
+    "peak_displacement_ULS_mm": 30.87265261026371,
+    "peak_displacement_SLS_mm": 21.665019375623654,
+    "rib_spacing_m": 0.4857142857142857,
+    "assumptions": "Fixed feet, 1.0 kPa G and 1.0 kPa Q; in-plane beam test. Lateral stability, buckling, shell action and wind uplift are not certified by this submodel."
+  },
+  "secondary_joists": {
+    "profile": "RHS360x160x10",
+    "span_m": 7.15,
+    "spacing_m": 1.15,
+    "I_m4": 0.00016353333333333337,
+    "bending_ULS_MPa": 107.28964763172642,
+    "deflection_SLS_mm": 10.563177266321498,
+    "limit_L300_mm": 23.833333333333336,
+    "self_weight_kN_each": 5.505499999999998
+  },
+  "membrane_cable": {
+    "wind_test_kPa": 1.0,
+    "tributary_width_m": 2.0,
+    "span_m": 5.25,
+    "sag_m": 0.6,
+    "horizontal_kN": 11.484375,
+    "tension_ULS_kN": 18.941227007942388,
+    "cable_diameter_mm": 16,
+    "gross_stress_MPa": 94.20593457936694,
+    "note": "No prestress, slackening, aerodynamic response or clamp capacity verification."
+  },
+  "rain": {
+    "test_rainfall_mm_h": 100,
+    "one_canopy_m2": 81.89999999999999,
+    "one_canopy_L_s": 2.2749999999999995,
+    "four_canopies_L_s": 9.099999999999998,
+    "all_canopies_L_s": 22.749999999999993,
+    "half_full_manning_capacity_L_s_at_1percent": {
+      "100": 3.0522999272129345,
+      "200": 19.38089646152108,
+      "250": 35.139903359844396
+    },
+    "n": 0.011,
+    "note": "Ideal clean circular horizontal collector at half fill. Does not replace HS5 site design, fittings, local rainfall or vertical-stack checks."
+  },
+  "thermal": {
+    "opaque_component_U_W_m2K": 0.2243700379703141,
+    "layers": "18mm timber +160mm cork lambda0.040 +18mm timber +2mm membrane; Rsi0.13 Rse0.04",
+    "note": "One-dimensional assumed-material calculation only; excludes thermal bridges, glazing, airtightness and whole-building energy compliance."
+  },
+  "branch_connection": {
+    "bolt_group": "16 x M30 class8.8",
+    "circle_radius_m": 0.57,
+    "branch_reference_N_kN": 96.89819575195432,
+    "branch_reference_M_kNm": 508.21567465965757,
+    "bolt_tension_estimate_kN": 117.50694308091329,
+    "bolt_tension_resistance_kN": 323.13599999999997,
+    "ratio": 0.36364547150708465,
+    "note": "Elastic bolt-group screening for the gravity reference forces. Plate prying, welds, shell stresses, concrete anchorage and complete joint stiffness require further design."
+  }
+}

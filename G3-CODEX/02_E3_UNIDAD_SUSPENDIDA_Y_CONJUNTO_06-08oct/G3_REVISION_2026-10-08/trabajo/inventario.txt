@@ -1,0 +1,301 @@
+/Users/adam/Downloads/G3_unidad_suspendida_7.3dm UnitSystem.Meters 8500 Counter({'Mesh': 5324, 'PolylineCurve': 3176})
+G3 · v5 · Base · ventana lateral de guillotina::Estructura colgada (acero) 41 [-0.28, -1.28, 0.0] [6.93, 5.9, 7.3] {'Mesh': 41}
+G3 · v5 · Base · ventana lateral de guillotina::Pórtico de acero (SHS/RHS) 36 [-0.05, -1.15, 0.16] [6.7, 4.75, 5.74] {'Mesh': 36}
+G3 · v5 · Base · ventana lateral de guillotina::Bloque de vidrio satinado 16 [-0.04, -0.14, 0.32] [6.69, 4.74, 5.51] {'Mesh': 16}
+G3 · v5 · Base · ventana lateral de guillotina::Bloque de vidrio transparente 11 [-0.04, -0.04, 0.72] [6.69, 4.74, 5.51] {'Mesh': 11}
+G3 · v5 · Base · ventana lateral de guillotina::Mortero de juntas 16 [-0.03, -0.13, 0.32] [6.68, 4.73, 5.51] {'Mesh': 16}
+G3 · v5 · Base · ventana lateral de guillotina::Perfil U perimetral y juntas 112 [-0.05, -0.15, 0.3] [6.7, 4.75, 5.54] {'Mesh': 112}
+G3 · v5 · Base · ventana lateral de guillotina::Armadura Ø6 inox (ejes) 367 [0.0, -0.1, 0.3] [6.65, 4.7, 5.54] {'PolylineCurve': 367}
+G3 · v5 · Base · ventana lateral de guillotina::Carpinterías de acero 27 [1.46, -0.04, 0.3] [6.69, 4.74, 5.54] {'Mesh': 27}
+G3 · v5 · Base · ventana lateral de guillotina::Vidrio de carpinterías 5 [1.54, -0.01, 0.36] [6.66, 3.96, 5.48] {'Mesh': 5}
+G3 · v5 · Base · ventana lateral de guillotina::Suelos y forjados 15 [0.0, -1.05, 0.26] [6.7, 4.75, 2.94] {'Mesh': 15}
+G3 · v5 · Base · ventana lateral de guillotina::Aislamiento (corcho) 4 [-0.05, -0.05, 0.16] [6.7, 4.75, 5.92] {'Mesh': 4}
+G3 · v5 · Base · ventana lateral de guillotina::Cubierta 4 [-0.07, -1.17, 5.74] [6.72, 4.77, 5.95] {'Mesh': 4}
+G3 · v5 · Base · ventana lateral de guillotina::Tabiques y baño 3 [0.13, 2.95, 0.31] [1.37, 4.57, 1.16] {'Mesh': 3}
+G3 · v5 · Base · ventana lateral de guillotina::Cocina 3 [3.63, 2.45, 1.17] [4.25, 4.55, 2.73] {'Mesh': 3}
+G3 · v5 · Base · ventana lateral de guillotina::Mobiliario 11 [0.1, 0.75, 0.3] [6.6, 4.65, 5.04] {'Mesh': 11}
+G3 · v5 · Base · ventana lateral de guillotina::Escalera de caracol 32 [0.06, 0.41, 0.3] [2.0, 2.35, 2.94] {'Mesh': 32}
+G3 · v5 · Base · ventana lateral de guillotina::Barandillas 288 [0.03, -1.02, -0.22] [4.32, 6.82, 3.92] {'Mesh': 288}
+G3 · v5 · Base · ventana lateral de guillotina::Cuero 18 [0.03, -1.02, 0.33] [6.62, 6.81, 4.84] {'Mesh': 18}
+G3 · v5 · Base · ventana lateral de guillotina::Rellano y miniescalera 6 [1.95, 4.8, -0.44] [4.3, 6.82, 0.3] {'Mesh': 6}
+G3 · v5 · Base · ventana lateral de guillotina::Instalaciones vistas 10 [0.28, 2.94, -0.34] [4.13, 4.89, 2.88] {'Mesh': 10}
+G3 · v5 · Base · ventana lateral de guillotina::Agua de lluvia 3 [-0.17, -1.26, -0.34] [4.35, 4.87, 5.94] {'Mesh': 3}
+G3 · v5 · Base · ventana lateral de guillotina::Ejes 55 [-0.2, -1.25, -1.2] [6.85, 6.8, 7.15] {'PolylineCurve': 55}
+G3 · v5 · Base · ventana lateral de guillotina::Herrajes y carriles (inox) 14 [0.12, -0.1, 0.28] [4.36, 4.84, 5.48] {'Mesh': 14}
+G3 · v5 · Base · ventana lateral de guillotina::Baño-cápsula (microcemento) 3 [0.05, 2.45, 0.3] [1.45, 4.65, 2.76] {'Mesh': 3}
+G3 · v5 · Base · ventana lateral de guillotina::Guillotina · posición abierta (referencia) 6 [4.15, 0.13, 1.52] [4.25, 2.22, 3.92] {'Mesh': 6}
+G3 · v5 · Ventana lateral corredera exterior::Estructura colgada (acero) 41 [11.72, -1.28, 0.0] [18.93, 5.9, 7.3] {'Mesh': 41}
+G3 · v5 · Ventana lateral corredera exterior::Pórtico de acero (SHS/RHS) 44 [11.95, -1.15, 0.16] [18.7, 4.75, 5.74] {'Mesh': 44}
+G3 · v5 · Ventana lateral corredera exterior::Bloque de vidrio satinado 16 [11.96, -0.14, 0.32] [18.69, 4.74, 5.51] {'Mesh': 16}
+G3 · v5 · Ventana lateral corredera exterior::Bloque de vidrio transparente 11 [11.96, -0.04, 0.72] [18.69, 4.74, 5.51] {'Mesh': 11}
+G3 · v5 · Ventana lateral corredera exterior::Mortero de juntas 16 [11.97, -0.13, 0.32] [18.68, 4.73, 5.51] {'Mesh': 16}
+G3 · v5 · Ventana lateral corredera exterior::Perfil U perimetral y juntas 112 [11.95, -0.15, 0.3] [18.7, 4.75, 5.54] {'Mesh': 112}
+G3 · v5 · Ventana lateral corredera exterior::Armadura Ø6 inox (ejes) 367 [12.0, -0.1, 0.3] [18.65, 4.7, 5.54] {'PolylineCurve': 367}
+G3 · v5 · Ventana lateral corredera exterior::Carpinterías de acero 27 [13.46, -0.04, 0.3] [18.69, 4.74, 5.54] {'Mesh': 27}
+G3 · v5 · Ventana lateral corredera exterior::Vidrio de carpinterías 5 [13.54, -0.01, 0.36] [18.66, 3.96, 5.48] {'Mesh': 5}
+G3 · v5 · Ventana lateral corredera exterior::Suelos y forjados 15 [12.0, -1.05, 0.26] [18.7, 4.75, 2.94] {'Mesh': 15}
+G3 · v5 · Ventana lateral corredera exterior::Aislamiento (corcho) 4 [11.95, -0.05, 0.16] [18.7, 4.75, 5.92] {'Mesh': 4}
+G3 · v5 · Ventana lateral corredera exterior::Cubierta 4 [11.93, -1.17, 5.74] [18.72, 4.77, 5.95] {'Mesh': 4}
+G3 · v5 · Ventana lateral corredera exterior::Tabiques y baño 3 [12.13, 2.95, 0.31] [13.37, 4.57, 1.16] {'Mesh': 3}
+G3 · v5 · Ventana lateral corredera exterior::Cocina 3 [15.63, 2.45, 1.17] [16.25, 4.55, 2.73] {'Mesh': 3}
+G3 · v5 · Ventana lateral corredera exterior::Mobiliario 11 [12.1, 0.75, 0.3] [18.6, 4.65, 5.04] {'Mesh': 11}
+G3 · v5 · Ventana lateral corredera exterior::Escalera de caracol 32 [12.06, 0.41, 0.3] [14.0, 2.35, 2.94] {'Mesh': 32}
+G3 · v5 · Ventana lateral corredera exterior::Barandillas 288 [12.03, -1.02, -0.22] [16.32, 6.82, 3.92] {'Mesh': 288}
+G3 · v5 · Ventana lateral corredera exterior::Cuero 17 [12.02, -1.02, 0.85] [18.62, 6.81, 4.84] {'Mesh': 17}
+G3 · v5 · Ventana lateral corredera exterior::Rellano y miniescalera 6 [13.95, 4.8, -0.44] [16.3, 6.82, 0.3] {'Mesh': 6}
+G3 · v5 · Ventana lateral corredera exterior::Instalaciones vistas 10 [12.28, 2.94, -0.34] [16.13, 4.89, 2.88] {'Mesh': 10}
+G3 · v5 · Ventana lateral corredera exterior::Agua de lluvia 3 [11.83, -1.26, -0.34] [16.35, 4.87, 5.94] {'Mesh': 3}
+G3 · v5 · Ventana lateral corredera exterior::Ejes 55 [11.8, -1.25, -1.2] [18.85, 6.8, 7.15] {'PolylineCurve': 55}
+G3 · v5 · Ventana lateral corredera exterior::Herrajes y carriles (inox) 14 [12.12, -0.1, 0.28] [16.45, 4.84, 2.91] {'Mesh': 14}
+G3 · v5 · Ventana lateral corredera exterior::Baño-cápsula (microcemento) 3 [12.05, 2.45, 0.3] [13.45, 4.65, 2.76] {'Mesh': 3}
+G3 · v5 · Escalera 1 · lineal con estantería::Estructura colgada (acero) 41 [23.72, -1.28, 0.0] [30.93, 5.9, 7.3] {'Mesh': 41}
+G3 · v5 · Escalera 1 · lineal con estantería::Pórtico de acero (SHS/RHS) 38 [23.95, -1.15, 0.16] [30.7, 4.75, 5.74] {'Mesh': 38}
+G3 · v5 · Escalera 1 · lineal con estantería::Bloque de vidrio satinado 16 [23.96, -0.14, 0.32] [30.69, 4.74, 5.51] {'Mesh': 16}
+G3 · v5 · Escalera 1 · lineal con estantería::Bloque de vidrio transparente 11 [23.96, -0.04, 0.72] [30.69, 4.74, 5.51] {'Mesh': 11}
+G3 · v5 · Escalera 1 · lineal con estantería::Mortero de juntas 16 [23.97, -0.13, 0.32] [30.68, 4.73, 5.51] {'Mesh': 16}
+G3 · v5 · Escalera 1 · lineal con estantería::Perfil U perimetral y juntas 112 [23.95, -0.15, 0.3] [30.7, 4.75, 5.54] {'Mesh': 112}
+G3 · v5 · Escalera 1 · lineal con estantería::Armadura Ø6 inox (ejes) 367 [24.0, -0.1, 0.3] [30.65, 4.7, 5.54] {'PolylineCurve': 367}
+G3 · v5 · Escalera 1 · lineal con estantería::Carpinterías de acero 27 [25.48, -0.04, 0.3] [30.69, 4.74, 5.54] {'Mesh': 27}
+G3 · v5 · Escalera 1 · lineal con estantería::Vidrio de carpinterías 5 [25.54, -0.01, 0.36] [30.66, 3.96, 5.48] {'Mesh': 5}
+G3 · v5 · Escalera 1 · lineal con estantería::Suelos y forjados 15 [24.0, -1.05, 0.26] [30.7, 4.75, 2.94] {'Mesh': 15}
+G3 · v5 · Escalera 1 · lineal con estantería::Aislamiento (corcho) 4 [23.95, -0.05, 0.16] [30.7, 4.75, 5.92] {'Mesh': 4}
+G3 · v5 · Escalera 1 · lineal con estantería::Cubierta 4 [23.93, -1.17, 5.74] [30.72, 4.77, 5.95] {'Mesh': 4}
+G3 · v5 · Escalera 1 · lineal con estantería::Tabiques y baño 3 [25.03, 2.95, 0.31] [26.27, 4.57, 1.16] {'Mesh': 3}
+G3 · v5 · Escalera 1 · lineal con estantería::Cocina 3 [27.63, 2.45, 1.17] [28.25, 4.55, 2.73] {'Mesh': 3}
+G3 · v5 · Escalera 1 · lineal con estantería::Mobiliario 17 [24.08, 0.75, 0.3] [30.6, 4.65, 5.04] {'Mesh': 17}
+G3 · v5 · Escalera 1 · lineal con estantería::Escalera de caracol 14 [24.06, 0.3, 0.43] [24.86, 3.4, 2.76] {'Mesh': 14}
+G3 · v5 · Escalera 1 · lineal con estantería::Barandillas 198 [24.03, -1.02, -0.22] [28.32, 6.82, 3.92] {'Mesh': 198}
+G3 · v5 · Escalera 1 · lineal con estantería::Cuero 18 [24.02, -1.02, 0.33] [30.62, 6.81, 4.84] {'Mesh': 18}
+G3 · v5 · Escalera 1 · lineal con estantería::Rellano y miniescalera 6 [25.95, 4.8, -0.44] [28.3, 6.82, 0.3] {'Mesh': 6}
+G3 · v5 · Escalera 1 · lineal con estantería::Instalaciones vistas 10 [24.28, 2.94, -0.34] [28.13, 4.89, 2.88] {'Mesh': 10}
+G3 · v5 · Escalera 1 · lineal con estantería::Agua de lluvia 3 [23.83, -1.26, -0.34] [28.35, 4.87, 5.94] {'Mesh': 3}
+G3 · v5 · Escalera 1 · lineal con estantería::Ejes 53 [23.8, -1.25, -1.2] [30.85, 6.8, 7.15] {'PolylineCurve': 53}
+G3 · v5 · Escalera 1 · lineal con estantería::Herrajes y carriles (inox) 14 [24.12, -0.1, 0.28] [28.36, 4.84, 5.48] {'Mesh': 14}
+G3 · v5 · Escalera 1 · lineal con estantería::Baño-cápsula (microcemento) 3 [24.95, 2.45, 0.3] [26.35, 4.65, 2.76] {'Mesh': 3}
+G3 · v5 · Escalera 1 · lineal con estantería::Guillotina · posición abierta (referencia) 6 [28.15, 0.13, 1.52] [28.25, 2.22, 3.92] {'Mesh': 6}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Estructura colgada (acero) 41 [35.72, -1.28, 0.0] [42.93, 5.9, 7.3] {'Mesh': 41}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Pórtico de acero (SHS/RHS) 37 [35.95, -1.15, 0.16] [42.7, 4.75, 5.74] {'Mesh': 37}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Bloque de vidrio satinado 16 [35.96, -0.14, 0.32] [42.69, 4.74, 5.51] {'Mesh': 16}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Bloque de vidrio transparente 11 [35.96, -0.04, 0.72] [42.69, 4.74, 5.51] {'Mesh': 11}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Mortero de juntas 16 [35.97, -0.13, 0.32] [42.68, 4.73, 5.51] {'Mesh': 16}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Perfil U perimetral y juntas 112 [35.95, -0.15, 0.3] [42.7, 4.75, 5.54] {'Mesh': 112}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Armadura Ø6 inox (ejes) 367 [36.0, -0.1, 0.3] [42.65, 4.7, 5.54] {'PolylineCurve': 367}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Carpinterías de acero 27 [37.48, -0.04, 0.3] [42.69, 4.74, 5.54] {'Mesh': 27}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Vidrio de carpinterías 5 [37.54, -0.01, 0.36] [42.66, 3.96, 5.48] {'Mesh': 5}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Suelos y forjados 17 [36.0, -1.05, 0.26] [42.7, 4.75, 2.94] {'Mesh': 17}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Aislamiento (corcho) 4 [35.95, -0.05, 0.16] [42.7, 4.75, 5.92] {'Mesh': 4}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Cubierta 4 [35.93, -1.17, 5.74] [42.72, 4.77, 5.95] {'Mesh': 4}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Tabiques y baño 3 [36.3, 0.42, 0.31] [37.5, 2.1, 1.16] {'Mesh': 3}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Cocina 3 [39.63, 2.45, 1.17] [40.25, 4.55, 2.73] {'Mesh': 3}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Mobiliario 11 [36.1, 0.75, 0.3] [42.6, 4.65, 5.04] {'Mesh': 11}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Escalera de caracol 32 [36.06, 2.65, 0.3] [38.0, 4.59, 2.94] {'Mesh': 32}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Barandillas 484 [35.96, -1.02, -0.22] [40.32, 6.82, 3.92] {'Mesh': 484}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Cuero 56 [35.96, -1.02, 0.33] [42.62, 6.81, 4.84] {'Mesh': 56}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Rellano y miniescalera 6 [37.95, 4.8, -0.44] [40.3, 6.82, 0.3] {'Mesh': 6}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Instalaciones vistas 10 [36.28, 1.2, -0.34] [40.13, 4.89, 2.88] {'Mesh': 10}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Agua de lluvia 3 [35.83, -1.26, -0.34] [40.35, 4.87, 5.94] {'Mesh': 3}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Ejes 167 [35.8, -1.25, -1.2] [42.85, 6.8, 7.15] {'PolylineCurve': 167}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Herrajes y carriles (inox) 14 [36.12, -0.1, 0.28] [40.36, 4.84, 5.48] {'Mesh': 14}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Baño-cápsula (microcemento) 3 [36.2, 0.3, 0.3] [37.6, 2.2, 2.76] {'Mesh': 3}
+G3 · v5 · Escalera 2 · caracol bajo el altillo::Guillotina · posición abierta (referencia) 6 [40.15, 0.13, 1.52] [40.25, 2.22, 3.92] {'Mesh': 6}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Estructura colgada (acero) 39 [46.62, -1.28, 0.0] [54.93, 5.9, 7.3] {'Mesh': 39}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Pórtico de acero (SHS/RHS) 45 [46.8, -1.15, 0.16] [54.7, 4.75, 5.74] {'Mesh': 45}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Bloque de vidrio satinado 19 [46.81, -0.14, 0.32] [54.69, 4.74, 5.51] {'Mesh': 19}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Bloque de vidrio transparente 14 [46.81, -0.04, 0.72] [54.69, 4.74, 5.51] {'Mesh': 14}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Mortero de juntas 19 [46.82, -0.13, 0.32] [54.68, 4.73, 5.51] {'Mesh': 19}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Perfil U perimetral y juntas 133 [46.8, -0.15, 0.3] [54.7, 4.75, 5.54] {'Mesh': 133}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Armadura Ø6 inox (ejes) 427 [46.85, -0.1, 0.3] [54.65, 4.7, 5.54] {'PolylineCurve': 427}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Carpinterías de acero 27 [49.46, -0.04, 0.3] [54.69, 4.74, 5.54] {'Mesh': 27}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Vidrio de carpinterías 5 [49.54, -0.01, 0.36] [54.66, 3.96, 5.48] {'Mesh': 5}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Suelos y forjados 19 [46.9, -1.05, 0.26] [54.7, 4.75, 2.94] {'Mesh': 19}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Aislamiento (corcho) 6 [46.8, -1.15, 0.16] [54.7, 4.75, 5.92] {'Mesh': 6}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Cubierta 6 [46.78, -1.17, 5.74] [54.72, 4.77, 5.95] {'Mesh': 6}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Tabiques y baño 3 [48.13, 2.95, 0.31] [49.37, 4.57, 1.16] {'Mesh': 3}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Cocina 3 [51.63, 2.45, 1.17] [52.25, 4.55, 2.73] {'Mesh': 3}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Mobiliario 14 [46.93, 0.3, 0.3] [54.6, 4.65, 5.04] {'Mesh': 14}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Escalera de caracol 32 [48.06, 0.41, 0.3] [50.0, 2.35, 2.94] {'Mesh': 32}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Barandillas 288 [48.03, -1.02, -0.22] [52.32, 6.82, 3.92] {'Mesh': 288}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Cuero 18 [48.03, -1.02, 0.33] [54.62, 6.81, 4.84] {'Mesh': 18}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Rellano y miniescalera 6 [49.95, 4.8, -0.44] [52.3, 6.82, 0.3] {'Mesh': 6}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Instalaciones vistas 10 [48.28, 2.94, -0.34] [52.13, 4.89, 2.88] {'Mesh': 10}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Agua de lluvia 3 [47.83, -1.26, -0.34] [52.35, 4.87, 5.94] {'Mesh': 3}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Ejes 56 [46.65, -1.25, -1.2] [54.85, 6.8, 7.15] {'PolylineCurve': 56}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Herrajes y carriles (inox) 14 [48.12, -0.1, 0.28] [52.36, 4.84, 5.48] {'Mesh': 14}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Baño-cápsula (microcemento) 3 [48.05, 2.45, 0.3] [49.45, 4.65, 2.76] {'Mesh': 3}
+G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Guillotina · posición abierta (referencia) 6 [52.15, 0.13, 1.52] [52.25, 2.22, 3.92] {'Mesh': 6}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Estructura colgada (acero) 41 [59.72, -1.28, 0.0] [66.93, 5.9, 7.3] {'Mesh': 41}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Pórtico de acero (SHS/RHS) 37 [59.95, -1.15, 0.16] [66.7, 4.75, 5.74] {'Mesh': 37}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Bloque de vidrio satinado 16 [59.96, -0.14, 0.32] [66.69, 4.74, 5.51] {'Mesh': 16}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Bloque de vidrio transparente 11 [59.96, -0.04, 0.72] [66.69, 4.74, 5.51] {'Mesh': 11}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Mortero de juntas 16 [59.97, -0.13, 0.32] [66.68, 4.73, 5.51] {'Mesh': 16}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Perfil U perimetral y juntas 112 [59.95, -0.15, 0.3] [66.7, 4.75, 5.54] {'Mesh': 112}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Armadura Ø6 inox (ejes) 367 [60.0, -0.1, 0.3] [66.65, 4.7, 5.54] {'PolylineCurve': 367}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Carpinterías de acero 27 [61.46, -0.04, 0.3] [66.69, 4.74, 5.54] {'Mesh': 27}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Vidrio de carpinterías 5 [61.54, -0.01, 0.36] [66.66, 3.96, 5.48] {'Mesh': 5}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Suelos y forjados 16 [60.0, -1.05, 0.26] [66.7, 4.75, 2.94] {'Mesh': 16}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Aislamiento (corcho) 4 [59.95, -0.05, 0.16] [66.7, 4.75, 5.92] {'Mesh': 4}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Cubierta 4 [59.93, -1.17, 5.74] [66.72, 4.77, 5.95] {'Mesh': 4}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Tabiques y baño 3 [60.13, 2.95, 0.31] [61.37, 4.57, 1.16] {'Mesh': 3}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Cocina 4 [63.61, 2.43, 0.4] [64.25, 4.57, 2.73] {'Mesh': 4}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Mobiliario 11 [60.1, 0.75, 0.3] [66.6, 4.65, 5.04] {'Mesh': 11}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Escalera de caracol 32 [60.06, 0.41, 0.3] [62.0, 2.35, 2.94] {'Mesh': 32}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Barandillas 353 [60.03, -1.02, -0.22] [64.32, 6.82, 5.54] {'Mesh': 353}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Cuero 30 [60.03, -1.02, 0.33] [66.62, 6.81, 4.84] {'Mesh': 30}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Rellano y miniescalera 6 [61.95, 4.8, -0.44] [64.3, 6.82, 0.3] {'Mesh': 6}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Instalaciones vistas 10 [60.28, 2.94, -0.34] [64.13, 4.89, 2.88] {'Mesh': 10}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Agua de lluvia 3 [59.83, -1.26, -0.34] [64.35, 4.87, 5.94] {'Mesh': 3}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Ejes 96 [59.8, -1.25, -1.2] [66.85, 6.8, 7.15] {'PolylineCurve': 96}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Herrajes y carriles (inox) 14 [60.12, -0.1, 0.28] [64.36, 4.84, 5.48] {'Mesh': 14}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Baño-cápsula (microcemento) 3 [60.05, 2.45, 0.3] [61.45, 4.65, 2.76] {'Mesh': 3}
+G3 · v5 · Fuera del cubo 1 · piezas interiores::Guillotina · posición abierta (referencia) 6 [64.15, 0.13, 1.52] [64.25, 2.22, 3.92] {'Mesh': 6}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Estructura colgada (acero) 35 [70.9, -1.28, 0.0] [78.34, 5.9, 7.3] {'Mesh': 35}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Pórtico de acero (SHS/RHS) 27 [71.95, -0.16, 0.16] [78.7, 4.75, 5.74] {'Mesh': 27}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Bloque de vidrio satinado 18 [71.96, -0.14, 0.32] [78.69, 4.74, 5.51] {'Mesh': 18}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Bloque de vidrio transparente 12 [71.96, -0.04, 0.72] [78.69, 4.74, 5.51] {'Mesh': 12}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Mortero de juntas 18 [71.97, -0.13, 0.32] [78.68, 4.73, 5.51] {'Mesh': 18}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Perfil U perimetral y juntas 111 [71.95, -0.15, 0.3] [78.7, 4.75, 5.54] {'Mesh': 111}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Armadura Ø6 inox (ejes) 297 [72.0, -0.1, 0.3] [77.42, 4.7, 5.54] {'PolylineCurve': 297}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Carpinterías de acero 33 [73.46, -0.04, 0.3] [78.72, 4.77, 5.54] {'Mesh': 33}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Vidrio de carpinterías 13 [73.66, -0.01, 0.36] [78.65, 4.71, 5.48] {'Mesh': 13}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Suelos y forjados 15 [70.95, -1.05, 0.26] [78.7, 4.75, 2.94] {'Mesh': 15}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Aislamiento (corcho) 4 [71.95, -0.05, 0.16] [78.7, 4.75, 5.92] {'Mesh': 4}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Cubierta 5 [70.83, -1.17, 5.74] [78.72, 4.77, 5.95] {'Mesh': 5}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Tabiques y baño 3 [72.13, 2.95, 0.31] [73.37, 4.57, 1.16] {'Mesh': 3}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Cocina 3 [75.63, 2.45, 1.17] [76.25, 4.55, 2.73] {'Mesh': 3}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Mobiliario 11 [72.1, 0.75, 0.3] [78.02, 4.65, 5.04] {'Mesh': 11}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Escalera de caracol 33 [72.18, 0.18, 0.3] [74.12, 2.36, 2.94] {'Mesh': 33}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Barandillas 410 [70.98, -1.02, -0.22] [76.32, 6.82, 3.92] {'Mesh': 410}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Cuero 43 [70.98, -1.02, 0.33] [76.32, 6.81, 3.94] {'Mesh': 43}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Rellano y miniescalera 6 [73.95, 4.8, -0.44] [76.3, 6.82, 0.3] {'Mesh': 6}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Instalaciones vistas 10 [72.28, 2.94, -0.34] [76.13, 4.89, 2.88] {'Mesh': 10}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Agua de lluvia 3 [70.74, -1.26, -0.34] [76.35, 4.87, 5.93] {'Mesh': 3}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Ejes 131 [71.0, -1.25, -1.2] [78.33, 6.8, 7.15] {'PolylineCurve': 131}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Herrajes y carriles (inox) 14 [72.79, -0.1, 0.28] [76.36, 4.84, 5.48] {'Mesh': 14}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Baño-cápsula (microcemento) 3 [72.05, 2.45, 0.3] [73.45, 4.65, 2.76] {'Mesh': 3}
+G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Guillotina · posición abierta (referencia) 6 [76.15, 0.13, 1.52] [76.25, 2.22, 3.92] {'Mesh': 6}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Estructura de hormigón 12 [87.85, -0.12, -0.25] [91.75, 7.72, 5.12] {'Mesh': 12}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Muros y tabiques 11 [87.85, 0.0, 0.0] [91.75, 7.6, 4.88] {'Mesh': 11}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Suelos 3 [88.0, 0.25, 0.0] [91.6, 7.6, 2.57] {'Mesh': 3}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Carpintería y vidrio 4 [88.0, 0.08, 2.12] [91.6, 7.51, 4.57] {'Mesh': 4}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Escaleras 17 [88.05, 2.88, -0.02] [91.5, 4.83, 2.57] {'Mesh': 17}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Barandillas 43 [87.98, 0.08, 0.09] [91.62, 7.66, 4.88] {'Mesh': 43}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Cocina-elemento 5 [90.0, 6.8, 0.0] [91.4, 7.4, 2.05] {'Mesh': 5}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Baño 4 [88.1, 6.25, 0.0] [91.5, 7.38, 3.39] {'Mesh': 4}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Mobiliario 15 [88.05, 0.3, 0.0] [91.5, 7.58, 4.65] {'Mesh': 15}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Color Scheper 2 [88.0, 0.0, 1.29] [91.6, 7.6, 4.88] {'Mesh': 2}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Corredor (tramo) 2 [88.0, 7.6, -0.25] [91.6, 9.6, 2.55] {'Mesh': 2}
+Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Ejes 4 [87.5, -0.5, 0.0] [92.1, -0.5, 4.88] {'PolylineCurve': 4}
+/Users/adam/Downloads/G3_conjunto_opciones_1.3dm UnitSystem.Meters 4044 Counter({'Mesh': 3931, 'TextDot': 105, 'PolylineCurve': 8})
+A · Estantería contra la medianera::Contexto 11 [-13.5, -32.08, -9.6] [89.7, 47.2, 49.96] {'Mesh': 11}
+A · Estantería contra la medianera::Parcela 1 [12.07, -7.5, 0.05] [61.55, 12.67, 0.05] {'PolylineCurve': 1}
+A · Estantería contra la medianera::Unidades · bandas oscuras 160 [13.12, -7.3, 4.5] [55.96, 6.68, 34.45] {'Mesh': 160}
+A · Estantería contra la medianera::Unidades · cuerpo de bloque de vidrio 64 [14.25, -7.22, 4.66] [55.9, 5.55, 34.04] {'Mesh': 64}
+A · Estantería contra la medianera::Unidades · balcón y barandilla 64 [13.2, -3.67, 4.68] [53.55, 6.6, 29.9] {'Mesh': 64}
+A · Estantería contra la medianera::Unidades · caja de color (baño-cápsula) 32 [14.4, -7.07, 4.8] [50.85, 2.65, 31.2] {'Mesh': 32}
+A · Estantería contra la medianera::Circulación · núcleo protegido (escalera + ascensor) 1 [28.6, 1.4, 0.0] [34.4, 6.2, 35.7] {'Mesh': 1}
+A · Estantería contra la medianera::Común · salas en altura 3 [14.4, 2.2, 4.75] [27.6, 6.9, 19.5] {'Mesh': 3}
+A · Estantería contra la medianera::Común · terrazas, patios y pasarelas 9 [14.2, -2.0, 4.5] [55.8, 6.95, 16.75] {'Mesh': 9}
+A · Estantería contra la medianera::Estructura 66 [13.82, -7.57, 0.0] [56.17, 6.57, 34.9] {'Mesh': 66}
+A · Estantería contra la medianera::Común · escaleras abiertas 152 [21.55, -0.2, 4.62] [27.05, 2.4, 29.52] {'Mesh': 152}
+A · Estantería contra la medianera::Suelo · pasaje y plaza públicos 1 [12.51, -2.0, 0.0] [54.0, 2.0, 0.03] {'Mesh': 1}
+A · Estantería contra la medianera::Suelo · patio-huerto 1 [54.2, -6.25, 0.0] [61.55, 2.75, 0.25] {'Mesh': 1}
+A · Estantería contra la medianera::Suelo · programa social 6 [14.4, -7.2, 0.0] [53.6, 10.6, 4.0] {'Mesh': 6}
+A · Estantería contra la medianera::Etiquetas 13 [17.5, -14.0, 0.0] [57.81, 7.49, 36.5] {'TextDot': 13}
+B · Peine en desfase::Contexto 11 [116.5, -32.08, -9.6] [219.7, 47.2, 49.96] {'Mesh': 11}
+B · Peine en desfase::Parcela 1 [142.07, -7.5, 0.05] [191.55, 12.67, 0.05] {'PolylineCurve': 1}
+B · Peine en desfase::Unidades · bandas oscuras 140 [143.52, -7.48, 4.5] [189.68, 7.36, 34.45] {'Mesh': 140}
+B · Peine en desfase::Unidades · cuerpo de bloque de vidrio 56 [144.65, -6.35, 4.66] [189.6, 7.3, 34.04] {'Mesh': 56}
+B · Peine en desfase::Unidades · balcón y barandilla 56 [143.6, -7.4, 4.68] [186.05, 4.95, 29.9] {'Mesh': 56}
+B · Peine en desfase::Unidades · caja de color (baño-cápsula) 28 [147.55, -6.2, 4.8] [189.45, 2.25, 31.2] {'Mesh': 28}
+B · Peine en desfase::Circulación · núcleo protegido (escalera + ascensor) 1 [165.5, 0.4, 0.0] [170.5, 4.8, 35.7] {'Mesh': 1}
+B · Peine en desfase::Común · terrazas, patios y pasarelas 18 [143.6, -7.1, 4.2] [185.2, 5.9, 28.75] {'Mesh': 18}
+B · Peine en desfase::Común · escaleras abiertas 171 [143.99, -1.2, 4.62] [159.6, 1.23, 32.52] {'Mesh': 171}
+B · Peine en desfase::Suelo · pasaje y plaza públicos 1 [142.57, -1.2, 0.0] [185.0, 1.2, 0.03] {'Mesh': 1}
+B · Peine en desfase::Suelo · patio-huerto 1 [177.0, 0.0, 0.0] [191.48, 2.85, 0.25] {'Mesh': 1}
+B · Peine en desfase::Suelo · programa social 6 [143.6, -7.2, 0.0] [184.6, 7.0, 4.0] {'Mesh': 6}
+B · Peine en desfase::Etiquetas 10 [149.1, -14.0, 0.0] [184.21, 4.3, 36.5] {'TextDot': 10}
+C · Apilado cruzado::Contexto 11 [246.5, -32.08, -9.6] [349.7, 47.2, 49.96] {'Mesh': 11}
+C · Apilado cruzado::Parcela 1 [272.07, -7.5, 0.05] [321.55, 12.67, 0.05] {'PolylineCurve': 1}
+C · Apilado cruzado::Unidades · bandas oscuras 135 [273.32, -7.48, 4.5] [318.76, 10.93, 34.45] {'Mesh': 135}
+C · Apilado cruzado::Unidades · cuerpo de bloque de vidrio 54 [274.45, -7.37, 4.66] [318.7, 9.8, 34.04] {'Mesh': 54}
+C · Apilado cruzado::Unidades · balcón y barandilla 54 [273.4, -7.4, 4.68] [317.35, 10.85, 29.9] {'Mesh': 54}
+C · Apilado cruzado::Unidades · caja de color (baño-cápsula) 27 [274.6, -7.22, 4.8] [313.65, 6.9, 31.2] {'Mesh': 27}
+C · Apilado cruzado::Circulación · núcleo protegido (escalera + ascensor) 1 [293.0, -7.2, 0.0] [298.4, -2.2, 35.7] {'Mesh': 1}
+C · Apilado cruzado::Común · terrazas, patios y pasarelas 9 [280.8, -1.4, 4.2] [310.0, 4.65, 28.45] {'Mesh': 9}
+C · Apilado cruzado::Común · escaleras abiertas 76 [285.95, 0.28, 4.62] [299.05, 1.52, 26.52] {'Mesh': 76}
+C · Apilado cruzado::Común · salas en altura 4 [291.2, 1.0, 4.75] [306.0, 4.6, 25.5] {'Mesh': 4}
+C · Apilado cruzado::Suelo · pasaje y plaza públicos 2 [272.54, -1.6, 0.0] [321.0, 12.67, 0.03] {'Mesh': 2}
+C · Apilado cruzado::Suelo · programa social 6 [274.0, -7.2, 0.0] [320.8, 7.0, 4.0] {'Mesh': 6}
+C · Apilado cruzado::Etiquetas 14 [276.8, -14.0, 0.0] [317.95, 6.05, 36.5] {'TextDot': 14}
+D · Racimos de cuatro con patio::Contexto 11 [376.5, -32.08, -9.6] [479.7, 47.2, 49.96] {'Mesh': 11}
+D · Racimos de cuatro con patio::Parcela 1 [402.07, -7.5, 0.05] [451.55, 12.67, 0.05] {'PolylineCurve': 1}
+D · Racimos de cuatro con patio::Unidades · bandas oscuras 125 [403.92, -7.48, 4.5] [449.78, 7.36, 37.45] {'Mesh': 125}
+D · Racimos de cuatro con patio::Unidades · cuerpo de bloque de vidrio 50 [404.0, -6.35, 4.66] [448.65, 7.3, 37.04] {'Mesh': 50}
+D · Racimos de cuatro con patio::Unidades · balcón y barandilla 50 [407.55, -7.4, 4.68] [449.7, 4.95, 32.9] {'Mesh': 50}
+D · Racimos de cuatro con patio::Unidades · caja de color (baño-cápsula) 25 [404.15, -6.2, 4.8] [448.5, 2.25, 34.2] {'Mesh': 25}
+D · Racimos de cuatro con patio::Circulación · núcleo protegido (escalera + ascensor) 1 [421.6, -7.2, 0.0] [426.8, -2.2, 32.7] {'Mesh': 1}
+D · Racimos de cuatro con patio::Común · terrazas, patios y pasarelas 16 [409.8, -7.1, 4.5] [438.3, 6.3, 25.75] {'Mesh': 16}
+D · Racimos de cuatro con patio::Común · salas en altura 8 [410.6, -2.2, 4.75] [437.5, 1.8, 28.5] {'Mesh': 8}
+D · Racimos de cuatro con patio::Común · escaleras abiertas 152 [410.19, 2.0, 4.62] [437.85, 3.22, 29.52] {'Mesh': 152}
+D · Racimos de cuatro con patio::Suelo · pasaje y plaza públicos 1 [402.53, -1.8, 0.0] [448.0, 1.8, 0.03] {'Mesh': 1}
+D · Racimos de cuatro con patio::Suelo · patio-huerto 1 [443.6, -6.3, 0.0] [451.55, -1.8, 0.25] {'Mesh': 1}
+D · Racimos de cuatro con patio::Suelo · programa social 6 [404.0, -7.2, 0.0] [443.0, 8.8, 4.0] {'Mesh': 6}
+D · Racimos de cuatro con patio::Etiquetas 18 [406.65, -14.0, 0.0] [447.46, 5.44, 33.5] {'TextDot': 18}
+E · Linterna::Contexto 11 [506.5, -32.08, -9.6] [609.7, 47.2, 49.96] {'Mesh': 11}
+E · Linterna::Parcela 1 [532.07, -7.5, 0.05] [581.55, 12.67, 0.05] {'PolylineCurve': 1}
+E · Linterna::Unidades · bandas oscuras 167 [533.04, -7.6, 4.3] [570.9, 5.88, 35.3] {'Mesh': 167}
+E · Linterna::Unidades · cuerpo de bloque de vidrio 64 [533.1, -7.22, 4.66] [569.1, 4.75, 34.04] {'Mesh': 64}
+E · Linterna::Unidades · balcón y barandilla 64 [533.4, -3.67, 4.68] [566.75, 5.8, 29.9] {'Mesh': 64}
+E · Linterna::Unidades · caja de color (baño-cápsula) 32 [534.6, -7.07, 4.8] [564.05, 1.85, 31.2] {'Mesh': 32}
+E · Linterna::Circulación · núcleo protegido (escalera + ascensor) 1 [551.0, 0.0, 0.0] [556.0, 4.6, 35.7] {'Mesh': 1}
+E · Linterna::Envolvente · piel de bloque de vidrio 1 [534.2, -7.3, 4.5] [570.6, 5.2, 34.9] {'Mesh': 1}
+E · Linterna::Estructura 9 [535.75, -6.25, 0.0] [568.25, 3.75, 4.5] {'Mesh': 9}
+E · Linterna::Común · escaleras abiertas 190 [556.99, -0.3, 4.62] [566.65, 2.33, 35.52] {'Mesh': 190}
+E · Linterna::Común · terrazas, patios y pasarelas 8 [534.6, -1.7, 4.5] [569.8, 3.45, 31.75] {'Mesh': 8}
+E · Linterna::Común · salas en altura 3 [558.0, 0.2, 7.75] [566.0, 3.4, 34.5] {'Mesh': 3}
+E · Linterna::Suelo · pasaje y plaza públicos 1 [532.54, -2.0, 0.0] [570.4, 7.2, 0.03] {'Mesh': 1}
+E · Linterna::Suelo · programa social 6 [534.4, -7.2, 0.0] [580.8, 7.4, 4.0] {'Mesh': 6}
+E · Linterna::Etiquetas 12 [537.1, -14.0, 0.0] [575.74, 4.6, 36.5] {'TextDot': 12}
+F · Andamio común con cápsulas enganchadas::Contexto 11 [636.5, -32.08, -9.6] [739.7, 47.2, 49.96] {'Mesh': 11}
+F · Andamio común con cápsulas enganchadas::Parcela 1 [662.07, -7.5, 0.05] [711.55, 12.67, 0.05] {'PolylineCurve': 1}
+F · Andamio común con cápsulas enganchadas::Unidades · bandas oscuras 160 [662.63, -7.45, 4.5] [708.72, 10.25, 37.45] {'Mesh': 160}
+F · Andamio común con cápsulas enganchadas::Unidades · cuerpo de bloque de vidrio 64 [663.76, -7.37, 4.66] [708.66, 9.12, 37.04] {'Mesh': 64}
+F · Andamio común con cápsulas enganchadas::Unidades · balcón y barandilla 64 [662.71, -3.82, 4.68] [707.74, 10.17, 32.9] {'Mesh': 64}
+F · Andamio común con cápsulas enganchadas::Unidades · caja de color (baño-cápsula) 32 [664.24, -7.22, 4.8] [706.54, 6.22, 34.2] {'Mesh': 32}
+F · Andamio común con cápsulas enganchadas::Circulación · núcleo protegido (escalera + ascensor) 1 [680.0, -1.4, 0.0] [685.2, 3.6, 32.7] {'Mesh': 1}
+F · Andamio común con cápsulas enganchadas::Estructura 17 [670.92, -2.08, 0.0] [695.08, 4.08, 35.0] {'Mesh': 17}
+F · Andamio común con cápsulas enganchadas::Común · terrazas, patios y pasarelas 13 [671.0, -2.0, 4.5] [692.0, 4.0, 31.75] {'Mesh': 13}
+F · Andamio común con cápsulas enganchadas::Común · escaleras abiertas 190 [670.79, -2.03, 4.62] [692.21, 4.03, 35.52] {'Mesh': 190}
+F · Andamio común con cápsulas enganchadas::Común · salas en altura 3 [684.0, -1.6, 10.75] [689.0, 1.4, 31.5] {'Mesh': 3}
+F · Andamio común con cápsulas enganchadas::Suelo · pasaje y plaza públicos 1 [662.5, -2.4, 0.0] [709.0, 11.0, 0.03] {'Mesh': 1}
+F · Andamio común con cápsulas enganchadas::Suelo · programa social 6 [663.8, -7.2, 0.0] [708.2, 7.0, 4.0] {'Mesh': 6}
+F · Andamio común con cápsulas enganchadas::Etiquetas 12 [666.8, -14.0, 0.0] [705.13, 5.0, 33.5] {'TextDot': 12}
+G · Muro habitado y plaza desplegable::Contexto 11 [766.5, -32.08, -9.6] [869.7, 47.2, 49.96] {'Mesh': 11}
+G · Muro habitado y plaza desplegable::Parcela 1 [792.07, -7.5, 0.05] [841.55, 12.67, 0.05] {'PolylineCurve': 1}
+G · Muro habitado y plaza desplegable::Unidades · bandas oscuras 160 [792.92, -7.45, 4.5] [839.63, 6.48, 34.45] {'Mesh': 160}
+G · Muro habitado y plaza desplegable::Unidades · cuerpo de bloque de vidrio 64 [794.05, -7.37, 4.66] [838.5, 5.35, 34.04] {'Mesh': 64}
+G · Muro habitado y plaza desplegable::Unidades · balcón y barandilla 64 [793.0, -3.82, 4.68] [839.55, 6.4, 29.9] {'Mesh': 64}
+G · Muro habitado y plaza desplegable::Unidades · caja de color (baño-cápsula) 32 [796.95, -7.22, 4.8] [838.35, 5.2, 31.2] {'Mesh': 32}
+G · Muro habitado y plaza desplegable::Circulación · núcleo protegido (escalera + ascensor) 1 [814.0, 1.0, 0.0] [819.0, 5.6, 35.7] {'Mesh': 1}
+G · Muro habitado y plaza desplegable::Común · terrazas, patios y pasarelas 10 [793.8, -2.3, 4.5] [840.5, 5.65, 28.75] {'Mesh': 10}
+G · Muro habitado y plaza desplegable::Común · salas en altura 5 [794.0, 1.0, 4.75] [826.5, 5.6, 31.5] {'Mesh': 5}
+G · Muro habitado y plaza desplegable::Estructura 6 [800.83, 0.52, 0.0] [835.92, 0.88, 34.5] {'Mesh': 6}
+G · Muro habitado y plaza desplegable::Despliegue · toldos y puestos plegables 8 [802.0, 0.9, 0.0] [823.5, 10.94, 3.75] {'Mesh': 8}
+G · Muro habitado y plaza desplegable::Suelo · pasaje y plaza públicos 1 [792.5, -2.4, 0.0] [841.0, 12.67, 0.03] {'Mesh': 1}
+G · Muro habitado y plaza desplegable::Suelo · programa social 6 [793.8, -7.2, 0.0] [840.8, 6.6, 4.0] {'Mesh': 6}
+G · Muro habitado y plaza desplegable::Etiquetas 14 [796.4, -14.0, 0.0] [838.04, 4.0, 36.5] {'TextDot': 14}
+H · Síntesis: marco, desfase y vacío entrelazado::Contexto 11 [896.5, -32.08, -9.6] [999.7, 47.2, 49.96] {'Mesh': 11}
+H · Síntesis: marco, desfase y vacío entrelazado::Parcela 1 [922.07, -7.5, 0.05] [971.55, 12.67, 0.05] {'PolylineCurve': 1}
+H · Síntesis: marco, desfase y vacío entrelazado::Unidades · bandas oscuras 160 [923.12, -7.3, 4.5] [965.96, 6.68, 37.45] {'Mesh': 160}
+H · Síntesis: marco, desfase y vacío entrelazado::Unidades · cuerpo de bloque de vidrio 64 [924.25, -7.22, 4.66] [965.9, 5.55, 37.04] {'Mesh': 64}
+H · Síntesis: marco, desfase y vacío entrelazado::Unidades · balcón y barandilla 64 [923.2, -3.67, 4.68] [963.55, 6.6, 32.9] {'Mesh': 64}
+H · Síntesis: marco, desfase y vacío entrelazado::Unidades · caja de color (baño-cápsula) 32 [924.4, -7.07, 4.8] [960.85, 2.65, 34.2] {'Mesh': 32}
+H · Síntesis: marco, desfase y vacío entrelazado::Circulación · núcleo protegido (escalera + ascensor) 1 [938.6, 1.4, 0.0] [944.4, 6.2, 38.7] {'Mesh': 1}
+H · Síntesis: marco, desfase y vacío entrelazado::Estructura 14 [923.83, -7.57, 0.0] [966.17, -0.03, 37.9] {'Mesh': 14}
+H · Síntesis: marco, desfase y vacío entrelazado::Común · terrazas, patios y pasarelas 14 [924.2, -2.0, 4.5] [965.8, 6.8, 31.75] {'Mesh': 14}
+H · Síntesis: marco, desfase y vacío entrelazado::Común · escaleras abiertas 190 [931.19, -0.2, 4.62] [943.25, 2.42, 35.52] {'Mesh': 190}
+H · Síntesis: marco, desfase y vacío entrelazado::Común · salas en altura 2 [945.6, 0.6, 7.75] [951.4, 4.6, 19.5] {'Mesh': 2}
+H · Síntesis: marco, desfase y vacío entrelazado::Suelo · pasaje y plaza públicos 1 [922.5, -2.0, 0.0] [964.0, 2.2, 0.03] {'Mesh': 1}
+H · Síntesis: marco, desfase y vacío entrelazado::Suelo · patio-huerto 1 [964.2, -6.25, 0.0] [971.55, 2.75, 0.25] {'Mesh': 1}
+H · Síntesis: marco, desfase y vacío entrelazado::Suelo · programa social 6 [924.4, -7.2, 0.0] [963.6, 10.0, 4.0] {'Mesh': 6}
+H · Síntesis: marco, desfase y vacío entrelazado::Etiquetas 12 [927.5, -14.0, 0.0] [967.81, 6.3, 39.5] {'TextDot': 12}

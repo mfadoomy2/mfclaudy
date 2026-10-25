@@ -1,0 +1,516 @@
+{
+  "links": [
+    {
+      "rise": 0.17499999999999999, 
+      "b": "P05", 
+      "a": "P01", 
+      "tread": 0.36717275262584592, 
+      "width": 1.3000000000000000, 
+      "risers": 16
+    }, 
+    {
+      "rise": 0.17499999999999993, 
+      "b": "P06", 
+      "a": "P02", 
+      "tread": 0.36717275262584592, 
+      "width": 1.3000000000000000, 
+      "risers": 16
+    }, 
+    {
+      "rise": 0.16470588235294123, 
+      "b": "P06", 
+      "a": "P03", 
+      "tread": 0.37899853792331062, 
+      "width": 1.3000000000000000, 
+      "risers": 17
+    }, 
+    {
+      "rise": 0.16470588235294123, 
+      "b": "P07", 
+      "a": "P04", 
+      "tread": 0.31795599419176201, 
+      "width": 1.3000000000000000, 
+      "risers": 17
+    }, 
+    {
+      "rise": 0.16470588235294123, 
+      "b": "P08", 
+      "a": "P05", 
+      "tread": 0.3407344623113403, 
+      "width": 1.3000000000000000, 
+      "risers": 17
+    }, 
+    {
+      "rise": 0.17499999999999993, 
+      "b": "P08", 
+      "a": "P06", 
+      "tread": 0.31736545515755321, 
+      "width": 1.3000000000000000, 
+      "risers": 16
+    }, 
+    {
+      "rise": 0.16470588235294123, 
+      "b": "P09", 
+      "a": "P07", 
+      "tread": 0.37514469732160516, 
+      "width": 1.3000000000000000, 
+      "risers": 17
+    }
+  ], 
+  "seconds": 51.362754821777344, 
+  "errors": [], 
+  "people": [
+    {
+      "activity": "habitacion norte", 
+      "pose": 25, 
+      "position": [
+        20.079999999999998, 
+        3.0200000000000000, 
+        3.7999999999999998
+      ]
+    }, 
+    {
+      "activity": "galeria domestica", 
+      "pose": 30, 
+      "position": [
+        23.979999999999997, 
+        0.52000000000000002, 
+        3.7999999999999998
+      ]
+    }, 
+    {
+      "activity": "terraza", 
+      "pose": 19, 
+      "position": [
+        24.479999999999997, 
+        -2.5800000000000001, 
+        3.7999999999999998
+      ]
+    }, 
+    {
+      "activity": "habitacion norte", 
+      "pose": 25, 
+      "position": [
+        20.75, 
+        2.7800000000000002, 
+        9.4000000000000004
+      ]
+    }, 
+    {
+      "activity": "galeria domestica", 
+      "pose": 30, 
+      "position": [
+        24.649999999999999, 
+        0.28000000000000025, 
+        9.4000000000000004
+      ]
+    }, 
+    {
+      "activity": "terraza", 
+      "pose": 19, 
+      "position": [
+        25.149999999999999, 
+        -2.8199999999999998, 
+        9.4000000000000004
+      ]
+    }, 
+    {
+      "activity": "habitacion norte", 
+      "pose": 25, 
+      "position": [
+        20.219999999999999, 
+        2.9800000000000004, 
+        15.0
+      ]
+    }, 
+    {
+      "activity": "galeria domestica", 
+      "pose": 30, 
+      "position": [
+        24.119999999999997, 
+        0.4800000000000002, 
+        15.0
+      ]
+    }, 
+    {
+      "activity": "terraza", 
+      "pose": 19, 
+      "position": [
+        24.619999999999997, 
+        -2.6200000000000001, 
+        15.0
+      ]
+    }, 
+    {
+      "activity": "habitacion norte", 
+      "pose": 25, 
+      "position": [
+        20.619999999999997, 
+        2.8200000000000003, 
+        20.600000000000001
+      ]
+    }, 
+    {
+      "activity": "galeria domestica", 
+      "pose": 30, 
+      "position": [
+        24.519999999999996, 
+        0.32000000000000006, 
+        20.600000000000001
+      ]
+    }, 
+    {
+      "activity": "terraza", 
+      "pose": 19, 
+      "position": [
+        25.019999999999996, 
+        -2.7800000000000002, 
+        20.600000000000001
+      ]
+    }, 
+    {
+      "activity": "habitacion norte", 
+      "pose": 25, 
+      "position": [
+        32.680000000000000, 
+        1.5200000000000005, 
+        6.5999999999999996
+      ]
+    }, 
+    {
+      "activity": "galeria domestica", 
+      "pose": 30, 
+      "position": [
+        36.579999999999998, 
+        -0.97999999999999954, 
+        6.5999999999999996
+      ]
+    }, 
+    {
+      "activity": "terraza", 
+      "pose": 19, 
+      "position": [
+        37.079999999999998, 
+        -4.0800000000000001, 
+        6.5999999999999996
+      ]
+    }, 
+    {
+      "activity": "habitacion norte", 
+      "pose": 25, 
+      "position": [
+        33.350000000000001, 
+        1.2800000000000002, 
+        12.199999999999999
+      ]
+    }, 
+    {
+      "activity": "galeria domestica", 
+      "pose": 30, 
+      "position": [
+        37.25, 
+        -1.2199999999999998, 
+        12.199999999999999
+      ]
+    }, 
+    {
+      "activity": "terraza", 
+      "pose": 19, 
+      "position": [
+        37.75, 
+        -4.3200000000000003, 
+        12.199999999999999
+      ]
+    }, 
+    {
+      "activity": "habitacion norte", 
+      "pose": 25, 
+      "position": [
+        32.820000000000000, 
+        1.4800000000000004, 
+        17.800000000000001
+      ]
+    }, 
+    {
+      "activity": "galeria domestica", 
+      "pose": 30, 
+      "position": [
+        36.719999999999999, 
+        -1.0199999999999996, 
+        17.800000000000001
+      ]
+    }, 
+    {
+      "activity": "terraza", 
+      "pose": 19, 
+      "position": [
+        37.219999999999999, 
+        -4.1200000000000001, 
+        17.800000000000001
+      ]
+    }, 
+    {
+      "activity": "habitacion norte", 
+      "pose": 25, 
+      "position": [
+        45.280000000000001, 
+        0.41999999999999993, 
+        9.4000000000000004
+      ]
+    }, 
+    {
+      "activity": "galeria domestica", 
+      "pose": 30, 
+      "position": [
+        49.180000000000000, 
+        -2.0800000000000001, 
+        9.4000000000000004
+      ]
+    }, 
+    {
+      "activity": "terraza", 
+      "pose": 19, 
+      "position": [
+        49.680000000000000, 
+        -5.1800000000000006, 
+        9.4000000000000004
+      ]
+    }, 
+    {
+      "activity": "habitacion norte", 
+      "pose": 25, 
+      "position": [
+        45.950000000000003, 
+        0.17999999999999972, 
+        15.0
+      ]
+    }, 
+    {
+      "activity": "galeria domestica", 
+      "pose": 30, 
+      "position": [
+        49.850000000000001, 
+        -2.3200000000000003, 
+        15.0
+      ]
+    }, 
+    {
+      "activity": "terraza", 
+      "pose": 19, 
+      "position": [
+        50.350000000000001, 
+        -5.4200000000000008, 
+        15.0
+      ]
+    }, 
+    {
+      "activity": "habitacion norte", 
+      "pose": 25, 
+      "position": [
+        45.420000000000002, 
+        0.37999999999999989, 
+        20.600000000000001
+      ]
+    }, 
+    {
+      "activity": "galeria domestica", 
+      "pose": 30, 
+      "position": [
+        49.320000000000000, 
+        -2.1200000000000001, 
+        20.600000000000001
+      ]
+    }, 
+    {
+      "activity": "terraza", 
+      "pose": 19, 
+      "position": [
+        49.820000000000000, 
+        -5.2200000000000006, 
+        20.600000000000001
+      ]
+    }, 
+    {
+      "activity": "ascensor", 
+      "pose": 34, 
+      "position": [
+        30.439999999999998, 
+        -2.3499999999999996, 
+        3.7999999999999998
+      ]
+    }, 
+    {
+      "activity": "ascensor", 
+      "pose": 34, 
+      "position": [
+        43.039999999999999, 
+        -3.8499999999999996, 
+        6.5999999999999996
+      ]
+    }, 
+    {
+      "activity": "ascensor", 
+      "pose": 34, 
+      "position": [
+        55.640000000000001, 
+        -4.9500000000000002, 
+        9.4000000000000004
+      ]
+    }, 
+    {
+      "activity": "PB residente PB_A_CANTINA", 
+      "pose": 42, 
+      "position": [
+        22.099999999999998, 
+        0.69999999999999996, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB residente PB_A_CANTINA", 
+      "pose": 45, 
+      "position": [
+        24.0, 
+        0.40000000000000013, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB visitante PB_A_CANTINA", 
+      "pose": 19, 
+      "position": [
+        20.599999999999998, 
+        -1.5, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB visitante PB_A_CANTINA", 
+      "pose": 30, 
+      "position": [
+        26.099999999999998, 
+        0.69999999999999996, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB residente PB_B_REPARAR_LAVAR", 
+      "pose": 42, 
+      "position": [
+        34.700000000000003, 
+        -0.79999999999999982, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB residente PB_B_REPARAR_LAVAR", 
+      "pose": 45, 
+      "position": [
+        36.600000000000001, 
+        -1.0999999999999996, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB visitante PB_B_REPARAR_LAVAR", 
+      "pose": 19, 
+      "position": [
+        33.200000000000003, 
+        -3.0, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB visitante PB_B_REPARAR_LAVAR", 
+      "pose": 30, 
+      "position": [
+        38.700000000000003, 
+        -0.79999999999999982, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB residente PB_C_ESTUDIAR_CUIDAR", 
+      "pose": 42, 
+      "position": [
+        47.300000000000004, 
+        -1.9000000000000004, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB residente PB_C_ESTUDIAR_CUIDAR", 
+      "pose": 45, 
+      "position": [
+        49.200000000000003, 
+        -2.2000000000000002, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB visitante PB_C_ESTUDIAR_CUIDAR", 
+      "pose": 19, 
+      "position": [
+        45.800000000000004, 
+        -4.1000000000000005, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "PB visitante PB_C_ESTUDIAR_CUIDAR", 
+      "pose": 30, 
+      "position": [
+        51.300000000000004, 
+        -1.9000000000000004, 
+        0.0050000000000000001
+      ]
+    }, 
+    {
+      "activity": "entrada", 
+      "pose": 19, 
+      "position": [
+        15, 
+        -0.10000000000000001, 
+        0.029999999999999999
+      ]
+    }
+  ], 
+  "counts": {
+    "90_CONTEXTO": 4, 
+    "03_CELOSIAS": 2364, 
+    "09_ESCALERAS": 453, 
+    "32_VIGUETAS": 60, 
+    "05_CABLES": 89, 
+    "00_PARCELA": 2, 
+    "16_BANOS": 22, 
+    "15_CARPINTERIAS": 54, 
+    "23_ILUMINACION": 13, 
+    "30_VEGETACION": 468, 
+    "14_VIDRIOS": 19, 
+    "12_CUBIERTAS": 7, 
+    "04_UNIONES": 742, 
+    "40_PERSONAS": 58, 
+    "24_COMUNES": 28, 
+    "28_CIMENTACION": 6, 
+    "17_NUCLEOS": 50, 
+    "31_AGUA": 3, 
+    "08_BARANDILLAS": 5799, 
+    "01_BANDEJAS": 10, 
+    "02_ESTRUCTURA_RAMAS": 176, 
+    "26_ARRIOSTRAMIENTO": 24, 
+    "06_VELAS_RECOGIDAS": 10, 
+    "21_ACCESORIOS": 36, 
+    "06_VELAS_ESTADO_VERANO": 10, 
+    "13_COSTILLAS": 34, 
+    "06_VELAS": 40, 
+    "10_UNIDADES": 10, 
+    "20_MOBILIARIO": 135, 
+    "25_URBANIZACION": 1, 
+    "18_ASCENSOR": 205, 
+    "19_ASCENSOR_VIDRIO": 18, 
+    "22_INSTALACIONES": 98, 
+    "11_ENVOLVENTE_OPACA": 15, 
+    "07_GALERIAS": 34
+  }, 
+  "native_version": "8.35.26251.13002"
+}

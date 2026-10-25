@@ -1,0 +1,10 @@
+{
+  "source": "parcela_31 EPSG25830 del estudio previo",
+  "hausdorff_m": 0.0,
+  "area_m2": 650.9129999918814,
+  "origin_utm": [
+    439984,
+    4473229.4
+  ],
+  "method": "Solo traslacion, sin rotacion. Norte de cuadricula +Y verificado frente a los vertices EPSG25830 de la parcela previa."
+}

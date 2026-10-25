@@ -1,0 +1,260 @@
+{
+  "files": [
+    {
+      "path": "GUION_DE_DEFENSA.md",
+      "bytes": 5304,
+      "sha256": "1a8d451d0446001b583e9840adf5dffd4a989b8d04b7bbf4052a2a61f85127fa"
+    },
+    {
+      "path": "INVENTARIO_SUPERFICIES.md",
+      "bytes": 1003,
+      "sha256": "9454c3045ee867a372d598a4a0a8c43ca4678a904a6108cb2a7ca7cbcf1b39aa"
+    },
+    {
+      "path": "LEER_PRIMERO.md",
+      "bytes": 3935,
+      "sha256": "e616ad2bca5283d7dd6fe84bdc3f8380c78e901ea27b7f3f7e5c2b4d02ff5db5"
+    },
+    {
+      "path": "MEMORIA_TECNICA_Y_RAZON_DE_LA_FORMA.md",
+      "bytes": 9751,
+      "sha256": "a203935ce438f68724118da89d4effb3f17362ca6023954334120891468b2960"
+    },
+    {
+      "path": "calculo/ESTRUCTURA_RESULTADOS.json",
+      "bytes": 247375,
+      "sha256": "dce34192ed80f6e72b4da04d67632586bf0e9e4c2ea5042e3c9a475bcd82276d"
+    },
+    {
+      "path": "calculo/INVENTARIO_SUPERFICIES.json",
+      "bytes": 64436,
+      "sha256": "48fa58a016f8752b2bd3c46edf0c8bdf675055c920cf9116cfefa1f3ed0667d6"
+    },
+    {
+      "path": "calculo/ITERACIONES.log",
+      "bytes": 6487,
+      "sha256": "fd624e5c1be820612136c5bf4599513ab563c2633432ca6c1ad21a297f8d9eaa"
+    },
+    {
+      "path": "calculo/SUBSISTEMAS.log",
+      "bytes": 10262,
+      "sha256": "c570e800bbca7fff5a1af4015badc1d3ae482c55c63c88b2ab0a279ba486a9a9"
+    },
+    {
+      "path": "calculo/SUBSISTEMAS_RESULTADOS.json",
+      "bytes": 3774,
+      "sha256": "4148dcaa792d2b0a1453e3124e2856a08b570f4c3bde129ec0385d81ab0cc0fa"
+    },
+    {
+      "path": "fuentes/auditar_modelos.py",
+      "bytes": 1053,
+      "sha256": "b0079d151b7f504fc1ebf029e8534a4bd3d740cd325974cdc6d4a18c3012cefd"
+    },
+    {
+      "path": "fuentes/calcular_estructura.py",
+      "bytes": 10582,
+      "sha256": "52fdf14b6a2b42c719f3d1d3aa2e16895cfb11dd1e3dda718dbf88929e1845e0"
+    },
+    {
+      "path": "fuentes/calcular_subsistemas.py",
+      "bytes": 4780,
+      "sha256": "c85330068fbf19f099a6798535e7131ec2396cbc225c2ec28e0aa57394c8fc82"
+    },
+    {
+      "path": "fuentes/contexto_original.json",
+      "bytes": 1858352,
+      "sha256": "638e759734ca9ddd4f0cb04733d9798f87662a494f430dba944de2d3d59cfb1d"
+    },
+    {
+      "path": "fuentes/crear_previa_solida.py",
+      "bytes": 1044,
+      "sha256": "b15bfabfe9dc44ad8ae56aaccde2edfc0f17caa8fe7cdf387f234a73b840d6e6"
+    },
+    {
+      "path": "fuentes/documentar_calculos.py",
+      "bytes": 13962,
+      "sha256": "a396770eee6e5e5f82af2c8c1ed39a437dc494f92f5119601032fcada982c70d"
+    },
+    {
+      "path": "fuentes/empaquetar.py",
+      "bytes": 1211,
+      "sha256": "bc720689072b32f2032e6390d5187fd5397b5e81c4e3183cc3a5b701f87367e6"
+    },
+    {
+      "path": "fuentes/enunciado.txt",
+      "bytes": 17633,
+      "sha256": "2625872fed10482eb75e5bc874280c330fb1c18345cdb59cc080c1196fd4a892"
+    },
+    {
+      "path": "fuentes/finalizar_modelos.py",
+      "bytes": 212,
+      "sha256": "5c3c4897bc5d1f4a1cafbad06dca195b282c0cdafa478d4dc249657743d8152b"
+    },
+    {
+      "path": "fuentes/geometria_render.json",
+      "bytes": 315960222,
+      "sha256": "a8885a12d360323ca344ac26541d94414f4f399dd5de49ee5ab2b37e00d67dd1"
+    },
+    {
+      "path": "fuentes/inventariar_superficies.py",
+      "bytes": 3016,
+      "sha256": "3ea8fd79b8b8627068cd1cafc2135343354d398a9688ad85710c2e6674e92124"
+    },
+    {
+      "path": "fuentes/modelar_detalles.py",
+      "bytes": 14338,
+      "sha256": "5e5be6de3cddc6360a9f8bf4f648a0a9936cd92840912ed4dd60e6bd2e030171"
+    },
+    {
+      "path": "fuentes/modelar_v4_rhino.py",
+      "bytes": 40485,
+      "sha256": "0d6e03d24af3630b57821f7a7c740c9ab33d211b568b390fc383aa8e801edbda"
+    },
+    {
+      "path": "fuentes/parcela_local.geojson",
+      "bytes": 1776,
+      "sha256": "6e4247048519682536e242fd181ecf3b9cf7cf5b7ac55ac4b1454e7fb9434b86"
+    },
+    {
+      "path": "fuentes/personas_procedencia.json",
+      "bytes": 1766,
+      "sha256": "a2aa64fa38927b41327e7e1eba780d3db9b2d3d5047d110a512e94836ba8175a"
+    },
+    {
+      "path": "fuentes/personas_seleccionadas.3dm",
+      "bytes": 4337848,
+      "sha256": "bc4f9d1b4fb9814aa2bfe6e1762a5ac180ae12f53b5680e7e2443ed9bd959904"
+    },
+    {
+      "path": "fuentes/recorrido_suelo.json",
+      "bytes": 2471,
+      "sha256": "f4c433c2d67ba0e5d901d1d52e781b84bdc7c6bde97b2e313f04eb365008dd9e"
+    },
+    {
+      "path": "fuentes/renderizar_v4.py",
+      "bytes": 3600,
+      "sha256": "0bc17ae14b934d83e9fde481b9386bcc0a65c5098e1c6404132cdc605e32c659"
+    },
+    {
+      "path": "fuentes/verificar_vista_nativa.py",
+      "bytes": 1436,
+      "sha256": "e34cd3554aaf8fca6bd95a41bf8f9920dfcbc2c18c27ef4b9707ba39d31a821a"
+    },
+    {
+      "path": "modelos/D01_NUDO_RAMIFICADO_1a1.3dm",
+      "bytes": 1397100,
+      "sha256": "baeeda3e6ce62cf9e614debdd60f987b9f59b8b2ebba24f22911c4961786253f"
+    },
+    {
+      "path": "modelos/D02_ENVOLVENTE_Y_BANDEJA_1a1.3dm",
+      "bytes": 732432,
+      "sha256": "a8348c0c12e2178e65984cbce3f9eda07af78501bf54858337bc7bbe0bb23d0c"
+    },
+    {
+      "path": "modelos/D03_ASCENSOR_COMPLETO.3dm",
+      "bytes": 1662130,
+      "sha256": "9f21280b7a229f9d142bec76fefdb01ee27c252440fd8cbe5a604ff15850eb46"
+    },
+    {
+      "path": "modelos/PREVIA_SOLIDA_MALLAS.3dm",
+      "bytes": 131607686,
+      "sha256": "950a9f58a2cb677fb7bd40024d56bde2d2e68b249e1c3de8a101f5f6be07b89f"
+    },
+    {
+      "path": "modelos/SELVA_MACARRA_V4_FINAL.3dm",
+      "bytes": 144705006,
+      "sha256": "64f9f120ee2637c9da41e5ca00bfbe3cb7d49ea0d7e74bbe229f6af7ee4727fc"
+    },
+    {
+      "path": "modelos/SELVA_MACARRA_V4_RENDER.blend",
+      "bytes": 254075113,
+      "sha256": "3f35c4fb449d7f5cd6c93118c1efbac357d77cc2128064c78b1d761e2e100df5"
+    },
+    {
+      "path": "modelos/UNIDAD_GRAN_BOVEDA_EDITABLE.3dm",
+      "bytes": 8396858,
+      "sha256": "85dd75a519f8ddf155d2b2042484d1d82f44eca771ff9c18103b114f1f34e00c"
+    },
+    {
+      "path": "verificacion/ESTADO_ENTREGA.md",
+      "bytes": 1439,
+      "sha256": "bcfb4d45124c2f15090431d8436cc0dd6c0ebd669e14a2064047a675b2b00fd6"
+    },
+    {
+      "path": "verificacion/auditoria_independiente.json",
+      "bytes": 1845,
+      "sha256": "d54a3938d351737d060db02678edfe83a7aa6282012dca4802061328854040d3"
+    },
+    {
+      "path": "verificacion/captura_nativa.json",
+      "bytes": 125,
+      "sha256": "7127e1f31b5d93d2ba23e8a5033a92760ddc28643a59c72e9e32d46e6e825f42"
+    },
+    {
+      "path": "verificacion/construccion_nativa.json",
+      "bytes": 9212,
+      "sha256": "bea5ed2d98f21893d626cb55c502c85c64eb3fc5141a1df5ff3ce2ecd65084b5"
+    },
+    {
+      "path": "verificacion/detalles_completos.txt",
+      "bytes": 80,
+      "sha256": "eb1b9a93681f53d982423ce9760fb04463d810e2029318b138d5b390ffa3ef78"
+    },
+    {
+      "path": "verificacion/progreso.txt",
+      "bytes": 4336,
+      "sha256": "e981a4b9935380babdd57b122d4bdc1381f56ce6b68d2f217d36defae3287e39"
+    },
+    {
+      "path": "verificacion/render_final.log",
+      "bytes": 53009,
+      "sha256": "752ca2a503b3e7de0f4ac5b91e8c40cad88b3d124354760a2e013f57df2db6cc"
+    },
+    {
+      "path": "verificacion/render_previa.log",
+      "bytes": 11407,
+      "sha256": "2e0d51bdc03d399d87752da7f7bb9ae657c7b51fe19dc7e63f99b788d17629b1"
+    },
+    {
+      "path": "vistas/01_CONJUNTO_MACARRA.png",
+      "bytes": 6718172,
+      "sha256": "808eaa1d659e78c69573d7fbb5d54d445979d3c7f7c3b94b42adf89c66e7d314"
+    },
+    {
+      "path": "vistas/02_FRENTE_ZIGZAG.png",
+      "bytes": 6451013,
+      "sha256": "b60e35c46aa8f8a7935b9d16345d77f7fe0f266ed129d6410a510c2c77fddc8b"
+    },
+    {
+      "path": "vistas/03_ARBOL_Y_UNIONES.png",
+      "bytes": 6965665,
+      "sha256": "2b7b7ae50fa47c503fe3f31b8bba54a1cf12b7f95b5e9024c6c9dc97c25d8235"
+    },
+    {
+      "path": "vistas/04_ASCENSOR_Y_PABELLON.png",
+      "bytes": 6658562,
+      "sha256": "90aa6d27e0dda31dfe2f2b5c42c46ca55f21b0c21afc5e3a1af7df913f85d4fd"
+    },
+    {
+      "path": "vistas/05_ESTRUCTURA_ANALITICA.png",
+      "bytes": 371422,
+      "sha256": "9a289b5040446ea4999d55dfef0e07e5a2c964804760915561052e3bc62b83e0"
+    },
+    {
+      "path": "vistas/06_ITERACIONES_ESTRUCTURALES.png",
+      "bytes": 83060,
+      "sha256": "2f143cf691f69f9130ee400051cb1d2eff5924d57dc7caa8a53ab131e8c822bd"
+    },
+    {
+      "path": "vistas/07_ORDEN_Y_COTAS.png",
+      "bytes": 76987,
+      "sha256": "c60d169a0b10b40f0116e0751e05d4d491035a16c5f8dfcb6d48a1de31334cf2"
+    },
+    {
+      "path": "vistas/08_RHINO_NATIVO.png",
+      "bytes": 2552536,
+      "sha256": "712332579ab028f99ec8b92096143678c7a01506f7e47d4acac6954c80f65785"
+    }
+  ],
+  "note": "Excluye bloqueos, metadatos AppleDouble, versiones previas y fallos historicos."
+}

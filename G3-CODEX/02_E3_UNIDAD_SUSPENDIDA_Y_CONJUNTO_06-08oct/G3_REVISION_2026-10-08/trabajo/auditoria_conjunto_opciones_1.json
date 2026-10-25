@@ -1,0 +1,61 @@
+{
+  "counts": {
+    "A · Estantería contra la medianera": {
+      "objects": 584,
+      "meshes": 570,
+      "faces": 83856,
+      "vertices": 169698,
+      "open": 11
+    },
+    "B · Peine en desfase": {
+      "objects": 500,
+      "meshes": 489,
+      "faces": 72380,
+      "vertices": 146988,
+      "open": 11
+    },
+    "C · Apilado cruzado": {
+      "objects": 394,
+      "meshes": 379,
+      "faces": 70932,
+      "vertices": 144570,
+      "open": 11
+    },
+    "D · Racimos de cuatro con patio": {
+      "objects": 465,
+      "meshes": 446,
+      "faces": 68519,
+      "vertices": 139440,
+      "open": 11
+    },
+    "E · Linterna": {
+      "objects": 570,
+      "meshes": 557,
+      "faces": 86593,
+      "vertices": 175188,
+      "open": 11
+    },
+    "F · Andamio común con cápsulas enganchadas": {
+      "objects": 575,
+      "meshes": 562,
+      "faces": 84612,
+      "vertices": 171226,
+      "open": 11
+    },
+    "G · Muro habitado y plaza desplegable": {
+      "objects": 383,
+      "meshes": 368,
+      "faces": 83456,
+      "vertices": 170034,
+      "open": 11
+    },
+    "H · Síntesis: marco, desfase y vacío entrelazado": {
+      "objects": 573,
+      "meshes": 560,
+      "faces": 83478,
+      "vertices": 169138,
+      "open": 11
+    }
+  },
+  "invalid_ids": []
+}

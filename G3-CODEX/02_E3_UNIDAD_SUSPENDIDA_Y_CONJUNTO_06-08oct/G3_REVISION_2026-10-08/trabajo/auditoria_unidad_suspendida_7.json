@@ -1,0 +1,53 @@
+{
+  "counts": {
+    "G3 · v5 · Base · ventana lateral de guillotina": {
+      "objects": 1106,
+      "meshes": 684,
+      "faces": 133634,
+      "vertices": 352052
+    },
+    "G3 · v5 · Ventana lateral corredera exterior": {
+      "objects": 1107,
+      "meshes": 685,
+      "faces": 133592,
+      "vertices": 352032
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería": {
+      "objects": 1004,
+      "meshes": 584,
+      "faces": 123884,
+      "vertices": 344072
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo": {
+      "objects": 1455,
+      "meshes": 921,
+      "faces": 140902,
+      "vertices": 361286
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)": {
+      "objects": 1215,
+      "meshes": 732,
+      "faces": 147170,
+      "vertices": 392698
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores": {
+      "objects": 1227,
+      "meshes": 764,
+      "faces": 137572,
+      "vertices": 355366
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular": {
+      "objects": 1264,
+      "meshes": 836,
+      "faces": 148318,
+      "vertices": 363418
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)": {
+      "objects": 122,
+      "meshes": 118,
+      "faces": 1558,
+      "vertices": 1474
+    }
+  },
+  "invalid_ids": []
+}

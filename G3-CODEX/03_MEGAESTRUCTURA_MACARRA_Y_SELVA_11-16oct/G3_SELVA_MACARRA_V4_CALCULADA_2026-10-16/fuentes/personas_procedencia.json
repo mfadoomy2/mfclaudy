@@ -1,0 +1,102 @@
+{
+  "source": "/Volumes/T7/PERSONAS.3dm",
+  "normalization": "translation to feet at z0; original proportions and scale preserved",
+  "figures": [
+    {
+      "pose": 19,
+      "source_indices": [
+        666
+      ],
+      "height": 1.8583802580833435,
+      "faces": 29914
+    },
+    {
+      "pose": 20,
+      "source_indices": [
+        667
+      ],
+      "height": 2.018760561943054,
+      "faces": 30000
+    },
+    {
+      "pose": 25,
+      "source_indices": [
+        729
+      ],
+      "height": 1.7886954545974731,
+      "faces": 30000
+    },
+    {
+      "pose": 30,
+      "source_indices": [
+        734
+      ],
+      "height": 1.728020429611206,
+      "faces": 30000
+    },
+    {
+      "pose": 34,
+      "source_indices": [
+        738
+      ],
+      "height": 1.7959961891174316,
+      "faces": 30000
+    },
+    {
+      "pose": 42,
+      "source_indices": [
+        1128
+      ],
+      "height": 1.7925550937652588,
+      "faces": 30000
+    },
+    {
+      "pose": 43,
+      "source_indices": [
+        1129
+      ],
+      "height": 1.7707626819610596,
+      "faces": 3300
+    },
+    {
+      "pose": 45,
+      "source_indices": [
+        1131
+      ],
+      "height": 1.6983981132507324,
+      "faces": 29992
+    },
+    {
+      "pose": 17,
+      "source_indices": [
+        664
+      ],
+      "height": 0.9827731847763062,
+      "faces": 2999
+    },
+    {
+      "pose": 18,
+      "source_indices": [
+        665
+      ],
+      "height": 1.246354877948761,
+      "faces": 5948
+    },
+    {
+      "pose": 27,
+      "source_indices": [
+        731
+      ],
+      "height": 1.3536937832832336,
+      "faces": 6000
+    },
+    {
+      "pose": 29,
+      "source_indices": [
+        733
+      ],
+      "height": 1.3259856700897217,
+      "faces": 3000
+    }
+  ]
+}

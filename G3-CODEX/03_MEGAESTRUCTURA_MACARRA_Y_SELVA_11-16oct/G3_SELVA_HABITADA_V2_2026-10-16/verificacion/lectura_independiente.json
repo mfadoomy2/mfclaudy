@@ -1,0 +1,58 @@
+{
+  "02_SELVA_EN_PARCELA.3dm": {
+    "objects": 4468,
+    "layers": 14,
+    "units": "UnitSystem.Meters",
+    "beds": 40,
+    "valid_geometry": true
+  },
+  "01_UNIDAD_U4.3dm": {
+    "objects": 347,
+    "layers": 14,
+    "units": "UnitSystem.Meters",
+    "beds": 4,
+    "valid_geometry": true
+  },
+  "pdf": {
+    "pages": 13,
+    "pages_with_text": 13,
+    "page_size_points": [
+      0.0,
+      0.0,
+      1190.550048828125,
+      841.8900146484375
+    ]
+  },
+  "mesh_cleanup": [
+    {
+      "name": "G1 galeria y ramales nominal 1.8 / 1.6 m",
+      "removed_degenerate_faces": 8,
+      "valid": true
+    },
+    {
+      "name": "G2 galeria y ramales nominal 1.8 / 1.6 m",
+      "removed_degenerate_faces": 10,
+      "valid": true
+    },
+    {
+      "name": "G3 galeria y ramales nominal 1.8 / 1.6 m",
+      "removed_degenerate_faces": 3,
+      "valid": true
+    },
+    {
+      "name": "G4 galeria y ramales nominal 1.8 / 1.6 m",
+      "removed_degenerate_faces": 10,
+      "valid": true
+    },
+    {
+      "name": "G5 galeria y ramales nominal 1.8 / 1.6 m",
+      "removed_degenerate_faces": 8,
+      "valid": true
+    },
+    {
+      "name": "Vecino 41002229 malla original",
+      "removed_degenerate_faces": 6,
+      "valid": true
+    }
+  ]
+}

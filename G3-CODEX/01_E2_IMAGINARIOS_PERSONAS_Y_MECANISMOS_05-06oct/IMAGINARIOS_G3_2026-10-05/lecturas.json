@@ -1,0 +1,146 @@
+[
+  {
+    "file": "01_corrala_insumisa",
+    "title": "CORRALA INSUMISA",
+    "category": "Edificio",
+    "description": "La corrala se convierte en una plaza doméstica vertical. El corredor se ensancha junto a las cocinas y vuelve a estrecharse junto a las puertas privadas: encontrarse tiene lugares concretos.",
+    "origin": "Corrala del Rastro + comisiones de Sol + comunes intermedios.",
+    "mix": "Mezclar con 05, 06 y 13: patio + cocina + intimidad + ladrillo.",
+    "question": "Dimensionar el patio y evitar que toda conversación resuene en los dormitorios."
+  },
+  {
+    "file": "02_calle_en_el_aire",
+    "title": "LA CALLE EN EL AIRE",
+    "category": "Edificio",
+    "description": "La casa se organiza como una calle que sube: puentes, rellanos y pequeñas plazas conectan grupos de viviendas. Lavar, coser o leer pueden acompañar el recorrido.",
+    "origin": "Calle en pendiente + galerías habitadas + rituales compartidos.",
+    "mix": "Mezclar con 08 y 11: cuidados en los rellanos y estructura de acero.",
+    "question": "Comprobar anchuras, evacuación y recorridos accesibles. Los puentes dibujados aún no forman un sistema técnico resuelto."
+  },
+  {
+    "file": "03_el_sol_es_comun",
+    "title": "EL SOL ES COMÚN",
+    "category": "Edificio",
+    "description": "La mejor habitación del edificio pertenece a todas: salón, jardín de invierno y terraza en la parte con más cielo. El volumen se recorta para dejar vacíos debajo.",
+    "origin": "Modelo de sombras del megapanel + lujo común + reparto de la altura.",
+    "mix": "Mezclar con 12 o 14: sala alta de madera o de hormigón y tela.",
+    "question": "Provocación volumétrica: la imagen exagera altura y superficie. El dato de 21,1 m procede del modelo previo; no demuestra una altura edificable ni valida la luz de este dibujo."
+  },
+  {
+    "file": "04_casa_inacabable",
+    "title": "LA CASA INACABABLE",
+    "category": "Edificio",
+    "description": "Lo duradero es el soporte y el espacio común; lo modificable son tabiques, muebles, textiles y apropiaciones. Una casa puede admitir cambios sin convertirse en un producto de cápsulas repetidas.",
+    "origin": "Libreta: poder cambiar el hogar + instalaciones fuera + pertenecer sin quedarse.",
+    "mix": "Mezclar con 09, 10 y 15: taller, segunda piel y memoria de habitantes.",
+    "question": "Decidir qué puede cambiar cada persona, qué necesita acuerdo y qué debe permanecer por seguridad y mantenimiento."
+  },
+  {
+    "file": "05_cocina_parlamento",
+    "title": "COCINAR TAMBIÉN ES GOBERNAR",
+    "category": "Habitar",
+    "description": "Cocinar reúne comida, conversación y decisiones. La mesa común puede ser comedor y asamblea, mientras sus bordes permiten estar cerca sin participar en todo.",
+    "origin": "Comisión de comida + cuidados + programa de cocina central.",
+    "mix": "Mezclar con 01 y 06: un centro doméstico por grupo, conectado al patio.",
+    "question": "La convivencia no sale automáticamente de una mesa grande: hacen falta turnos pactados, limpieza repartida, extracción y opciones para cocinar a solas."
+  },
+  {
+    "file": "06_derecho_cerrar",
+    "title": "EL DERECHO A CERRAR LA PUERTA",
+    "category": "Habitar",
+    "description": "Una puerta propia permite elegir cuándo compartir. Habitación, umbral, casa de grupo y barrio forman escalas diferentes de confianza, ruido y exposición.",
+    "origin": "Encuesta: silencio e intimidad + privacidad graduada del MD.",
+    "mix": "Mezclar con cualquier alternativa 01–04; es una regla de convivencia, no una forma única.",
+    "question": "El croquis explora cuatro habitaciones: faltan dimensiones, ventilación, accesibilidad de baños y definición del régimen de cada unidad."
+  },
+  {
+    "file": "07_domingo",
+    "title": "EL DOMINGO ENTRA EN CASA",
+    "category": "Habitar",
+    "description": "El calendario organiza la planta baja. Mesas, herramientas y cerramientos cambian de posición entre el taller cotidiano y el domingo abierto a la calle.",
+    "origin": "Sistema dual del Rastro + exposición en acera + comisiones de logística.",
+    "mix": "Mezclar con 09 y 10: fabricar dentro, abrir hacia fuera y regular la fachada.",
+    "question": "Resolver el desnivel con un acceso sin escalones y mantener paso, evacuación y acceso residencial. Los peldaños de la imagen no resuelven ese objetivo."
+  },
+  {
+    "file": "08_cuidados",
+    "title": "LA REVOLUCIÓN TIENE LAVADORA",
+    "category": "Habitar",
+    "description": "Lavar, reparar ropa, acompañar y descansar dejan de ser trabajo escondido. Una infraestructura próxima facilita compartir tareas sin imponerlas a una persona.",
+    "origin": "Comisiones de limpieza y cuidados + crítica del trabajo doméstico invisible.",
+    "mix": "Mezclar con 02 y 05: rellanos habitables y cocina conectada a cuidados.",
+    "question": "Dar aislamiento real al descanso, controlar humedad y ruido de máquinas y acordar cómo se reparten las tareas."
+  },
+  {
+    "file": "09_casa_taller",
+    "title": "PRODUCIR SIN AISLARSE",
+    "category": "Habitar",
+    "description": "El Rastro alimenta un circuito: recoger, guardar, reparar, transformar, usar y devolver. El taller hace posible que las viviendas y la fachada cambien con sus habitantes.",
+    "origin": "Casa-taller + economía de reutilización + archivo Generación Z.",
+    "mix": "Mezclar con 04, 07 y 10: soporte adaptable, intercambio y textiles hechos en casa.",
+    "question": "Separar polvo y ruido de la vivienda, prever extracción y almacenamiento. El aislamiento de la sala de sonido requiere desarrollo específico."
+  },
+  {
+    "file": "10_fachada",
+    "title": "UNA FACHADA QUE SE NEGOCIA",
+    "category": "Habitar",
+    "description": "La fachada se ocupa mediante balcones, toldos, plantas y armarios registrables. Una segunda trama permite cuidar la casa desde fuera y regular la relación con la calle.",
+    "origin": "Patrones de balcón, textil e instalaciones vistas + decisiones de la libreta.",
+    "mix": "Mezclar con 04 y 11: un soporte claro para usos y reparaciones diversas.",
+    "question": "Precisar anclajes, agua, puentes térmicos, accesibilidad de registros y normas de apropiación; diversidad no significa mantenimiento sin acuerdo."
+  },
+  {
+    "file": "11_acero",
+    "title": "ACERO QUE SE DESATORNILLA",
+    "category": "Materia",
+    "description": "Uniones en seco y piezas accesibles convierten la reparación en una posibilidad visible. El acero permite galerías esbeltas y componentes que se sustituyen sin rehacerlo todo.",
+    "origin": "Segunda trama + reparación + estructura de larga duración.",
+    "mix": "Conecta especialmente con 02 y 10.",
+    "question": "El detalle es conceptual: comprobar estabilidad, corrosión, protección al fuego, vibración y acústica. No es un detalle listo para construir."
+  },
+  {
+    "file": "12_madera",
+    "title": "MADERA PARA EL COMÚN",
+    "category": "Materia",
+    "description": "La madera ensaya una atmósfera cálida para el común y un montaje con capas distinguibles. El suelo necesita resolver tanto el apoyo como los sonidos que atraviesan la casa.",
+    "origin": "Material asequible y elegante + lujo sensorial + trabajo colectivo.",
+    "mix": "Conecta con 03, 05 y 06.",
+    "question": "Precio y disponibilidad no están calculados. Hay que desarrollar humedad, fuego, acústica y protección exterior."
+  },
+  {
+    "file": "13_ladrillo",
+    "title": "LADRILLO CON MEMORIA",
+    "category": "Materia",
+    "description": "Ladrillo, cerámica y piedra recuperada devuelven espesor a los límites: sentarse, apoyar, filtrar miradas y producir sombra. La memoria material se transforma en uso.",
+    "origin": "Fotos de patrones del barrio + corrala + reutilización del Rastro.",
+    "mix": "Conecta con 01, 07 y 10.",
+    "question": "La celosía filtra; no sustituye el cerramiento térmico. Ensayar peso, puesta en obra, suministro recuperado y mantenimiento."
+  },
+  {
+    "file": "14_hormigon",
+    "title": "HORMIGÓN, AIRE Y TELA",
+    "category": "Materia",
+    "description": "Una estructura de hormigón deja grandes vacíos para la vida compartida. La tela se coloca donde hace falta sombra y puede salir del propio taller textil.",
+    "origin": "Libreta de Atocha + mucho aire + textiles debajo del sol.",
+    "mix": "Conecta con 03, 04 y 09.",
+    "question": "Comparar impacto y coste con otras estructuras. Dibujar cubierta, aislamiento y control del sobrecalentamiento antes de fijar la solución."
+  },
+  {
+    "file": "15_pertenecer",
+    "title": "PERTENECER SIN QUEDARSE",
+    "category": "Tiempo",
+    "description": "Llegar, habitar y dejar huella. La persona conserva una habitación estable durante su estancia; al irse puede dejar una planta, un mueble o conocimiento en el archivo común.",
+    "origin": "Rotación del MD + pertenecer sin quedarse + muro de memoria.",
+    "mix": "Conecta con 04, 06 y 09.",
+    "question": "La temporalidad no se traduce en compartir cama por turnos. Definir acogida, duración, salida y derechos sin precarizar la estancia."
+  },
+  {
+    "file": "16_acampada_permanece",
+    "title": "LA ACAMPADA QUE PERMANECE",
+    "category": "Síntesis",
+    "description": "Habitación, grupo, comunidad y barrio forman una secuencia. La asamblea se vincula a la calle; los cuidados y la producción sostienen lo doméstico; el sol se reparte arriba.",
+    "origin": "Cruce de Sol, corrala, Rastro, encuesta y libretas.",
+    "mix": "Punto de partida para dibujar una planta propia mezclando 01 + 03 + 06 + 07 + 09.",
+    "question": "Es un manifiesto espacial, no una solución cerrada. Propiedad y gobierno colectivos deben definirse junto con el edificio; una pancarta no los garantiza."
+  }
+]

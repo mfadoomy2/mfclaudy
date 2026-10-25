@@ -1,0 +1,30 @@
+{
+  "units": "UnitSystem.Meters",
+  "objects": 1707,
+  "meshes": 967,
+  "invalid_meshes": 0,
+  "layers": 23,
+  "named_views": [
+    "01_AXONOMETRIA",
+    "02_REVERSO",
+    "03_PLANTA",
+    "04_ALZADO",
+    "05_INTERIOR"
+  ],
+  "size_bytes": 44141031,
+  "bounds_min_m": [
+    -44.50217819213867,
+    -28.559131622314453,
+    -8.237959861755371
+  ],
+  "bounds_max_m": [
+    45.77182388305664,
+    32.709415435791016,
+    58.22765350341797
+  ],
+  "dimensions_m": [
+    90.27400207519531,
+    61.26854705810547,
+    66.46561336517334
+  ]
+}

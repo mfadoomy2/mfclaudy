@@ -1,0 +1,95 @@
+{'scale': 1.0, 'max_ratio': np.float64(1.2074797149664487), 'sway_mm': np.float64(96.39884505584254), 'vertical_mm': np.float64(52.862113206320686)}
+{'scale': 1.15, 'max_ratio': np.float64(0.8131674195019926), 'sway_mm': np.float64(56.06352126183959), 'vertical_mm': np.float64(32.04548089353057)}
+{'scale': 1.3, 'max_ratio': np.float64(0.578107526402864), 'sway_mm': np.float64(34.99824735293892), 'vertical_mm': np.float64(20.917852745554338)}
+BASELINE {'ELS_GQ': {'max_sway_mm': np.float64(114.82429413795069), 'max_vertical_mm': np.float64(81.77822327534167), 'max_member_ratio': 0, 'force_balance_error_kN': np.float64(1.20705725892922e-10)}, 'ELS_GQ_WX': {'max_sway_mm': np.float64(295.4474874908714), 'max_vertical_mm': np.float64(151.9040103291804), 'max_member_ratio': 0, 'force_balance_error_kN': np.float64(1.2844907359976787e-09)}, 'ELS_GQ_WY': {'max_sway_mm': np.float64(122.0804105330584), 'max_vertical_mm': np.float64(76.2235426833489), 'max_member_ratio': 0, 'force_balance_error_kN': np.float64(1.965076990018133e-10)}, 'ELU_GRAVEDAD': {'max_sway_mm': np.float64(163.8836805720492), 'max_vertical_mm': np.float64(116.71449776742939), 'max_member_ratio': np.float64(1.0831648366099655), 'force_balance_error_kN': np.float64(3.649094438407294e-10)}, 'ELU_WX': {'max_sway_mm': np.float64(408.250726607596), 'max_vertical_mm': np.float64(202.961489310969), 'max_member_ratio': np.float64(0.9632702991705532), 'force_balance_error_kN': np.float64(1.4423449101741426e-09)}, 'ELU_WY': {'max_sway_mm': np.float64(153.59707074982853), 'max_vertical_mm': np.float64(89.44078784227462), 'max_member_ratio': np.float64(0.964600084904366), 'force_balance_error_kN': np.float64(5.89807314099744e-10)}, 'ELS_GQ_WX_NEG': {'max_sway_mm': np.float64(162.04935378069243), 'max_vertical_mm': np.float64(62.18792216919693), 'max_member_ratio': 0, 'force_balance_error_kN': np.float64(1.487535428168485e-09)}, 'ELS_GQ_WY_NEG': {'max_sway_mm': np.float64(140.26093287260616), 'max_vertical_mm': np.float64(87.3329038673293), 'max_member_ratio': 0, 'force_balance_error_kN': np.float64(5.082071102418192e-10)}, 'ELU_WX_NEG': {'max_sway_mm': np.float64(249.36129720203706), 'max_vertical_mm': np.float64(94.80083632305075), 'max_member_ratio': np.float64(0.9103739430568579), 'force_balance_error_kN': np.float64(8.122356121020857e-10)}, 'ELU_WY_NEG': {'max_sway_mm': np.float64(179.27182014721404), 'max_vertical_mm': np.float64(106.10482961825205), 'max_member_ratio': np.float64(1.134418218815279), 'force_balance_error_kN': np.float64(2.702336132642813e-10)}, 'ELU_Q_WX': {'max_sway_mm': np.float64(326.3884286402379), 'max_vertical_mm': np.float64(179.82770611583888), 'max_member_ratio': np.float64(1.1031035514451921), 'force_balance_error_kN': np.float64(2.9268676371430047e-10)}, 'ELU_Q_WX_NEG': {'max_sway_mm': np.float64(135.84071454518033), 'max_vertical_mm': np.float64(53.6012894189916), 'max_member_ratio': np.float64(1.0706921481128975), 'force_balance_error_kN': np.float64(1.7456613932154141e-10)}, 'ELU_Q_WY': {'max_sway_mm': np.float64(164.60558502864706), 'max_vertical_mm': np.float64(111.71528523462406), 'max_member_ratio': np.float64(1.0463179222442986), 'force_balance_error_kN': np.float64(6.077698344597593e-10)}, 'ELU_Q_WY_NEG': {'max_sway_mm': np.float64(182.9602326293912), 'max_vertical_mm': np.float64(121.71371030020804), 'max_member_ratio': np.float64(1.2187015122916889), 'force_balance_error_kN': np.float64(3.055414500553181e-10)}}
+FINAL {'ELS_GQ': {'max_sway_mm': np.float64(20.45735005654027), 'max_vertical_mm': np.float64(20.917852745554338), 'max_member_ratio': 0, 'force_balance_error_kN': np.float64(9.822542779147625e-11)}, 'ELS_GQ_WX': {'max_sway_mm': np.float64(33.77997567386481), 'max_vertical_mm': np.float64(25.288968900154636), 'max_member_ratio': 0, 'force_balance_error_kN': np.float64(4.66627625428373e-10)}, 'ELS_GQ_WY': {'max_sway_mm': np.float64(34.99824735293892), 'max_vertical_mm': np.float64(21.387570455925502), 'max_member_ratio': 0, 'force_balance_error_kN': np.float64(1.1371525943104643e-09)}, 'ELU_GRAVEDAD': {'max_sway_mm': np.float64(29.10443169362023), 'max_vertical_mm': np.float64(29.74943194571767), 'max_member_ratio': np.float64(0.5179393963972356), 'force_balance_error_kN': np.float64(4.772952511064174e-10)}, 'ELU_WX': {'max_sway_mm': np.float64(44.64700131626851), 'max_vertical_mm': np.float64(31.775113959960017), 'max_member_ratio': np.float64(0.4372386945029853), 'force_balance_error_kN': np.float64(1.227975412211485e-09)}, 'ELU_WY': {'max_sway_mm': np.float64(46.92063708509702), 'max_vertical_mm': np.float64(25.923016293618858), 'max_member_ratio': np.float64(0.4567184787740988), 'force_balance_error_kN': np.float64(1.8139871826861054e-09)}, 'ELS_GQ_WX_NEG': {'max_sway_mm': np.float64(8.118481692988036), 'max_vertical_mm': np.float64(16.546736590954183), 'max_member_ratio': 0, 'force_balance_error_kN': np.float64(1.8405899027129635e-10)}, 'ELS_GQ_WY_NEG': {'max_sway_mm': np.float64(23.82843406335653), 'max_vertical_mm': np.float64(20.448135035182247), 'max_member_ratio': 0, 'force_balance_error_kN': np.float64(1.4006218407303095e-10)}, 'ELU_WX_NEG': {'max_sway_mm': np.float64(12.209301615026527), 'max_vertical_mm': np.float64(18.66176549616021), 'max_member_ratio': np.float64(0.44842911512235173), 'force_balance_error_kN': np.float64(9.723087085274363e-10)}, 'ELU_WY_NEG': {'max_sway_mm': np.float64(33.19571581800216), 'max_vertical_mm': np.float64(24.51386316250349), 'max_member_ratio': np.float64(0.5393943685458085), 'force_balance_error_kN': np.float64(2.7273472369415686e-10)}, 'ELU_Q_WX': {'max_sway_mm': np.float64(41.07395919055718), 'max_vertical_mm': np.float64(33.683436484857204), 'max_member_ratio': np.float64(0.5123026361791584), 'force_balance_error_kN': np.float64(1.076520889481624e-09)}, 'ELU_Q_WX_NEG': {'max_sway_mm': np.float64(17.329034846756556), 'max_vertical_mm': np.float64(25.815427406576894), 'max_member_ratio': np.float64(0.5236151790878472), 'force_balance_error_kN': np.float64(6.621121428906918e-10)}, 'ELU_Q_WY': {'max_sway_mm': np.float64(41.63064845953174), 'max_vertical_mm': np.float64(30.172177885051564), 'max_member_ratio': np.float64(0.5009099424756679), 'force_balance_error_kN': np.float64(9.677023626863956e-10)}, 'ELU_Q_WY_NEG': {'max_sway_mm': np.float64(27.516817576040324), 'max_vertical_mm': np.float64(29.326686006383184), 'max_member_ratio': np.float64(0.578107526402864), 'force_balance_error_kN': np.float64(7.080416253302246e-10)}}
+{
+  "roof_rib_trials": [
+    {
+      "D_mm": 88.9,
+      "t_mm": 4.0,
+      "stress_ULS_MPa": 261.81158632706047,
+      "peak_displacement_ULS_mm": 100.06582761501818,
+      "peak_displacement_SLS_mm": 70.22163341404784,
+      "rib_spacing_m": 0.4857142857142857,
+      "assumptions": "Fixed feet, 1.0 kPa G and 1.0 kPa Q; in-plane beam test. Lateral stability, buckling, shell action and wind uplift are not certified by this submodel."
+    },
+    {
+      "D_mm": 114.3,
+      "t_mm": 6.3,
+      "stress_ULS_MPa": 104.2885878240548,
+      "peak_displacement_ULS_mm": 30.87265261026371,
+      "peak_displacement_SLS_mm": 21.665019375623654,
+      "rib_spacing_m": 0.4857142857142857,
+      "assumptions": "Fixed feet, 1.0 kPa G and 1.0 kPa Q; in-plane beam test. Lateral stability, buckling, shell action and wind uplift are not certified by this submodel."
+    },
+    {
+      "D_mm": 139.7,
+      "t_mm": 6.3,
+      "stress_ULS_MPa": 68.16536620159759,
+      "peak_displacement_ULS_mm": 16.434067277710156,
+      "peak_displacement_SLS_mm": 11.532678791375547,
+      "rib_spacing_m": 0.4857142857142857,
+      "assumptions": "Fixed feet, 1.0 kPa G and 1.0 kPa Q; in-plane beam test. Lateral stability, buckling, shell action and wind uplift are not certified by this submodel."
+    }
+  ],
+  "roof_rib_selected": {
+    "D_mm": 114.3,
+    "t_mm": 6.3,
+    "stress_ULS_MPa": 104.2885878240548,
+    "peak_displacement_ULS_mm": 30.87265261026371,
+    "peak_displacement_SLS_mm": 21.665019375623654,
+    "rib_spacing_m": 0.4857142857142857,
+    "assumptions": "Fixed feet, 1.0 kPa G and 1.0 kPa Q; in-plane beam test. Lateral stability, buckling, shell action and wind uplift are not certified by this submodel."
+  },
+  "secondary_joists": {
+    "profile": "RHS360x160x10",
+    "span_m": 7.15,
+    "spacing_m": 1.15,
+    "I_m4": 0.00016353333333333337,
+    "bending_ULS_MPa": 107.28964763172642,
+    "deflection_SLS_mm": 10.563177266321498,
+    "limit_L300_mm": 23.833333333333336,
+    "self_weight_kN_each": 5.505499999999998
+  },
+  "membrane_cable": {
+    "wind_test_kPa": 1.0,
+    "tributary_width_m": 2.0,
+    "span_m": 5.25,
+    "sag_m": 0.6,
+    "horizontal_kN": 11.484375,
+    "tension_ULS_kN": 18.941227007942388,
+    "cable_diameter_mm": 16,
+    "gross_stress_MPa": 94.20593457936694,
+    "note": "No prestress, slackening, aerodynamic response or clamp capacity verification."
+  },
+  "rain": {
+    "test_rainfall_mm_h": 100,
+    "one_canopy_m2": 81.89999999999999,
+    "one_canopy_L_s": 2.2749999999999995,
+    "four_canopies_L_s": 9.099999999999998,
+    "all_canopies_L_s": 22.749999999999993,
+    "half_full_manning_capacity_L_s_at_1percent": {
+      "100": 3.0522999272129345,
+      "200": 19.38089646152108,
+      "250": 35.139903359844396
+    },
+    "n": 0.011,
+    "note": "Ideal clean circular horizontal collector at half fill. Does not replace HS5 site design, fittings, local rainfall or vertical-stack checks."
+  },
+  "thermal": {
+    "opaque_component_U_W_m2K": 0.2243700379703141,
+    "layers": "18mm timber +160mm cork lambda0.040 +18mm timber +2mm membrane; Rsi0.13 Rse0.04",
+    "note": "One-dimensional assumed-material calculation only; excludes thermal bridges, glazing, airtightness and whole-building energy compliance."
+  },
+  "branch_connection": {
+    "bolt_group": "16 x M30 class8.8",
+    "circle_radius_m": 0.57,
+    "branch_reference_N_kN": 96.89819575195432,
+    "branch_reference_M_kNm": 508.21567465965757,
+    "bolt_tension_estimate_kN": 117.50694308091329,
+    "bolt_tension_resistance_kN": 323.13599999999997,
+    "ratio": 0.36364547150708465,
+    "note": "Elastic bolt-group screening for the gravity reference forces. Plate prying, welds, shell stresses, concrete anchorage and complete joint stiffness require further design."
+  }
+}

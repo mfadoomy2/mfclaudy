@@ -1,0 +1,27 @@
+{
+  "area_poligono_m2": 650.9129999918814,
+  "area_catastral_documentada_m2": 651,
+  "nota": "Tanteos volumetricos, no programa resuelto ni comprobacion urbanistica. A/B/C/D alternativos, superpuestos en OBJ: activar solo uno.",
+  "variantes": {
+    "03_A_costillas_y_vacios": {
+      "area_horizontal_bruta_m2": 1378.1,
+      "altura_max_m": 17.3,
+      "area_fuera_parcela_m2": 0.0
+    },
+    "04_B_seccion_trenzada": {
+      "area_horizontal_bruta_m2": 1373.6,
+      "altura_max_m": 17.6,
+      "area_fuera_parcela_m2": 0.0
+    },
+    "05_C_dos_apoyos": {
+      "area_horizontal_bruta_m2": 1487.2,
+      "altura_max_m": 15.5,
+      "area_fuera_parcela_m2": 0.0
+    },
+    "06_D_soporte_y_relevo": {
+      "area_horizontal_bruta_m2": 1533.9,
+      "altura_max_m": 17.3,
+      "area_fuera_parcela_m2": 0.0
+    }
+  }
+}

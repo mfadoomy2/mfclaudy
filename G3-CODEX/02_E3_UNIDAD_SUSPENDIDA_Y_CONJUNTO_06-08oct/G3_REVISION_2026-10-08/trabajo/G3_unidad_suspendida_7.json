@@ -1,0 +1,4077 @@
+{
+  "path": "/Users/adam/Downloads/G3_unidad_suspendida_7.3dm",
+  "units": "UnitSystem.Meters",
+  "objects": 8500,
+  "types": {
+    "Mesh": 5324,
+    "PolylineCurve": 3176
+  },
+  "layers": {
+    "G3 · v5 · Base · ventana lateral de guillotina::Estructura colgada (acero)": {
+      "n": 41,
+      "types": {
+        "Mesh": 41
+      },
+      "min": [
+        -0.2840000092983246,
+        -1.284999966621399,
+        0.0
+      ],
+      "max": [
+        6.934000015258789,
+        5.900000095367432,
+        7.303999900817871
+      ],
+      "names": [
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Pórtico de acero (SHS/RHS)": {
+      "n": 36,
+      "types": {
+        "Mesh": 36
+      },
+      "min": [
+        -0.05000000074505806,
+        -1.149999976158142,
+        0.1599999964237213
+      ],
+      "max": [
+        6.699999809265137,
+        4.75,
+        5.739999771118164
+      ],
+      "names": [
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Bloque de vidrio satinado": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        -0.03999999910593033,
+        -0.14000000059604645,
+        0.3199999928474426
+      ],
+      "max": [
+        6.690000057220459,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · bloques satinados 1919/8 ES",
+        "lateral izq. · baño · bloques satinados 1919/8 ES",
+        "lateral izq. · altillo · bloques satinados 1919/8 ES",
+        "lateral der. · cocina · bloques satinados 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Bloque de vidrio transparente": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        -0.03999999910593033,
+        -0.03999999910593033,
+        0.7200000286102295
+      ],
+      "max": [
+        6.690000057220459,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · bloques transparentes 1919/8 ES",
+        "lateral izq. · altillo · bloques transparentes 1919/8 ES",
+        "lateral der. · cocina · bloques transparentes 1919/8 ES",
+        "trasera · altillo 1 · bloques transparentes 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Mortero de juntas": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        -0.029999999329447746,
+        -0.12999999523162842,
+        0.3199999928474426
+      ],
+      "max": [
+        6.679999828338623,
+        4.730000019073486,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · mortero de juntas (Vetromalta)",
+        "lateral izq. · baño · mortero de juntas (Vetromalta)",
+        "lateral izq. · altillo · mortero de juntas (Vetromalta)",
+        "lateral der. · cocina · mortero de juntas (Vetromalta)"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Perfil U perimetral y juntas": {
+      "n": 112,
+      "types": {
+        "Mesh": 112
+      },
+      "min": [
+        -0.05000000074505806,
+        -0.15000000596046448,
+        0.30000001192092896
+      ],
+      "max": [
+        6.699999809265137,
+        4.75,
+        5.539999961853027
+      ],
+      "names": [
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Armadura Ø6 inox (ejes)": {
+      "n": 367,
+      "types": {
+        "PolylineCurve": 367
+      },
+      "min": [
+        0.0,
+        -0.1,
+        0.305
+      ],
+      "max": [
+        6.65,
+        4.7,
+        5.535000000000001
+      ],
+      "names": [
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Carpinterías de acero": {
+      "n": 27,
+      "types": {
+        "Mesh": 27
+      },
+      "min": [
+        1.4600000381469727,
+        -0.03999999910593033,
+        0.30000001192092896
+      ],
+      "max": [
+        6.690000057220459,
+        4.739999771118164,
+        5.539999961853027
+      ],
+      "names": [
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (dintel)",
+        "puerta de entrada · premarco 60x60 (alféizar)"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Vidrio de carpinterías": {
+      "n": 5,
+      "types": {
+        "Mesh": 5
+      },
+      "min": [
+        1.5369999408721924,
+        -0.012000000104308128,
+        0.36000001430511475
+      ],
+      "max": [
+        6.659999847412109,
+        3.9649999141693115,
+        5.480000019073486
+      ],
+      "names": [
+        "ventana pivotante del estudio · hoja vidriera 4/16/4 bajo emisivo, argón",
+        "hoja oculta (corredera elevable en cajón) · vidrio 4/16/4 bajo emisivo, argón (laminado 44.1 interior)",
+        "ventanal lateral · vidrio fijo superior 6/16/6 bajo emisivo + control solar",
+        "guillotina cerrada · hoja 6/16/6 (laminada 44.1 interior)"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Suelos y forjados": {
+      "n": 15,
+      "types": {
+        "Mesh": 15
+      },
+      "min": [
+        0.0,
+        -1.0499999523162842,
+        0.25999999046325684
+      ],
+      "max": [
+        6.699999809265137,
+        4.75,
+        2.940000057220459
+      ],
+      "names": [
+        "tablero + tarima de roble 30",
+        "chapa de remate inferior del ala",
+        "vigueta 60x160 del altillo",
+        "vigueta 60x160 del altillo"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Aislamiento (corcho)": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        -0.05000000074505806,
+        -0.05000000074505806,
+        0.1599999964237213
+      ],
+      "max": [
+        6.699999809265137,
+        4.75,
+        5.920000076293945
+      ],
+      "names": [
+        "aislamiento de corcho 120 (suelo)",
+        "aislamiento de corcho 120 (suelo del ala)",
+        "corcho expandido 140",
+        "corcho expandido 140"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Cubierta": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        -0.07000000029802322,
+        -1.1699999570846558,
+        5.739999771118164
+      ],
+      "max": [
+        6.71999979019165,
+        4.769999980926514,
+        5.949999809265137
+      ],
+      "names": [
+        "tablero de cubierta 40",
+        "lámina + protección",
+        "tablero de cubierta 40",
+        "lámina + protección"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Tabiques y baño": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        0.12999999523162842,
+        2.950000047683716,
+        0.31200000643730164
+      ],
+      "max": [
+        1.3700000047683716,
+        4.570000171661377,
+        1.159999966621399
+      ],
+      "names": [
+        "plato de ducha 800x800 enrasado",
+        "inodoro suspendido",
+        "lavabo"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Cocina": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        3.630000114440918,
+        2.450000047683716,
+        1.1699999570846558
+      ],
+      "max": [
+        4.25,
+        4.550000190734863,
+        2.7300000190734863
+      ],
+      "names": [
+        "encimera de cocina 2,10 x 0,62",
+        "campana con extracción mecánica (DB HS 3)",
+        "mueble alto de cocina (oculta el tramo vertical de la campana)"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Mobiliario": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        0.10000000149011612,
+        0.75,
+        0.30000001192092896
+      ],
+      "max": [
+        6.599999904632568,
+        4.650000095367432,
+        5.039999961853027
+      ],
+      "names": [
+        "muebles bajos de cocina",
+        "cama 1,35 x 2,00 (altillo)",
+        "armario del altillo 0,60",
+        "mesa del estudio 1,60 x 0,60"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Escalera de caracol": {
+      "n": 32,
+      "types": {
+        "Mesh": 32
+      },
+      "min": [
+        0.06005933880805969,
+        0.410373330116272,
+        0.30000001192092896
+      ],
+      "max": [
+        1.9997388124465942,
+        2.349992275238037,
+        2.940000057220459
+      ],
+      "names": [
+        "fuste de acero Ø140 x 8",
+        "placa base del fuste 300x300x15",
+        "peldaño de roble 40 con canto redondeado r 8",
+        "casquillo de acero Ø180 (altura = contrahuella)"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Barandillas": {
+      "n": 288,
+      "types": {
+        "Mesh": 288
+      },
+      "min": [
+        0.029999999329447746,
+        -1.0199999809265137,
+        -0.22499999403953552
+      ],
+      "max": [
+        4.320000171661377,
+        6.820000171661377,
+        3.9200000762939453
+      ],
+      "names": [
+        "pie de barrote atornillado",
+        "barrote Ø16",
+        "pie de barrote atornillado",
+        "barrote Ø16"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Cuero": {
+      "n": 18,
+      "types": {
+        "Mesh": 18
+      },
+      "min": [
+        0.02500000037252903,
+        -1.024999976158142,
+        0.33288097381591797
+      ],
+      "max": [
+        6.6152167320251465,
+        6.812596797943115,
+        4.835000038146973
+      ],
+      "names": [
+        "puerta de entrada · tirador de cuero curtido",
+        "ventana pivotante del estudio · tirador de cuero curtido",
+        "pasamanos helicoidal forrado de cuero Ø50 (h 0,95)",
+        "barrera del altillo · pasamanos forrado de cuero Ø50"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Rellano y miniescalera": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        1.9500000476837158,
+        4.800000190734863,
+        -0.4449999928474426
+      ],
+      "max": [
+        4.300000190734863,
+        6.820000171661377,
+        0.30000001192092896
+      ],
+      "names": [
+        "rellano de tramex 30x2",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Instalaciones vistas": {
+      "n": 10,
+      "types": {
+        "Mesh": 10
+      },
+      "min": [
+        0.2846798300743103,
+        2.9375,
+        -0.3400000035762787
+      ],
+      "max": [
+        4.132500171661377,
+        4.88700008392334,
+        2.8809330463409424
+      ],
+      "names": [
+        "bajante de fecales Ø110 · manguito de conexión al colector del edificio",
+        "bajante de fecales Ø110",
+        "agua fría · manguito de conexión al colector del edificio",
+        "agua fría"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Agua de lluvia": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        -0.168258935213089,
+        -1.2649999856948853,
+        -0.3400000035762787
+      ],
+      "max": [
+        4.350500106811523,
+        4.869500160217285,
+        5.944997787475586
+      ],
+      "names": [
+        "canalón Ø110",
+        "bajante Ø75 · manguito de conexión al colector del edificio",
+        "bajante Ø75"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Ejes": {
+      "n": 55,
+      "types": {
+        "PolylineCurve": 55
+      },
+      "min": [
+        -0.2,
+        -1.25,
+        -1.2
+      ],
+      "max": [
+        6.8500000000000005,
+        6.800000000000001,
+        7.150000000000001
+      ],
+      "names": [
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Herrajes y carriles (inox)": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        0.11999999731779099,
+        -0.10000000149011612,
+        0.2849999964237213
+      ],
+      "max": [
+        4.360000133514404,
+        4.840000152587891,
+        5.480000019073486
+      ],
+      "names": [
+        "carril superior de cuelgue (inox)",
+        "guía inferior enrasada (inox)",
+        "cepillo de estanquidad de la boca del cajón",
+        "cepillo de estanquidad de la boca del cajón"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Baño-cápsula (microcemento)": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        0.05000000074505806,
+        2.450000047683716,
+        0.30000001192092896
+      ],
+      "max": [
+        1.4500000476837158,
+        4.650000095367432,
+        2.759999990463257
+      ],
+      "names": [
+        "baño-cápsula · muro curvo de microcemento (80)",
+        "baño-cápsula · techo (registrable)",
+        "baño-cápsula · solado continuo"
+      ]
+    },
+    "G3 · v5 · Base · ventana lateral de guillotina::Guillotina · posición abierta (referencia)": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        4.1519999504089355,
+        0.12999999523162842,
+        1.5199999809265137
+      ],
+      "max": [
+        4.25,
+        2.2200000286102295,
+        3.9200000762939453
+      ],
+      "names": [
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Estructura colgada (acero)": {
+      "n": 41,
+      "types": {
+        "Mesh": 41
+      },
+      "min": [
+        11.715999603271484,
+        -1.284999966621399,
+        0.0
+      ],
+      "max": [
+        18.93400001525879,
+        5.900000095367432,
+        7.303999900817871
+      ],
+      "names": [
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Pórtico de acero (SHS/RHS)": {
+      "n": 44,
+      "types": {
+        "Mesh": 44
+      },
+      "min": [
+        11.949999809265137,
+        -1.149999976158142,
+        0.1599999964237213
+      ],
+      "max": [
+        18.700000762939453,
+        4.75,
+        5.739999771118164
+      ],
+      "names": [
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Bloque de vidrio satinado": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        11.960000038146973,
+        -0.14000000059604645,
+        0.3199999928474426
+      ],
+      "max": [
+        18.690000534057617,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · bloques satinados 1919/8 ES",
+        "lateral izq. · baño · bloques satinados 1919/8 ES",
+        "lateral izq. · altillo · bloques satinados 1919/8 ES",
+        "lateral der. · cocina · bloques satinados 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Bloque de vidrio transparente": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        11.960000038146973,
+        -0.03999999910593033,
+        0.7200000286102295
+      ],
+      "max": [
+        18.690000534057617,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · bloques transparentes 1919/8 ES",
+        "lateral izq. · altillo · bloques transparentes 1919/8 ES",
+        "lateral der. · cocina · bloques transparentes 1919/8 ES",
+        "trasera · altillo 1 · bloques transparentes 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Mortero de juntas": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        11.970000267028809,
+        -0.12999999523162842,
+        0.3199999928474426
+      ],
+      "max": [
+        18.68000030517578,
+        4.730000019073486,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · mortero de juntas (Vetromalta)",
+        "lateral izq. · baño · mortero de juntas (Vetromalta)",
+        "lateral izq. · altillo · mortero de juntas (Vetromalta)",
+        "lateral der. · cocina · mortero de juntas (Vetromalta)"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Perfil U perimetral y juntas": {
+      "n": 112,
+      "types": {
+        "Mesh": 112
+      },
+      "min": [
+        11.949999809265137,
+        -0.15000000596046448,
+        0.30000001192092896
+      ],
+      "max": [
+        18.700000762939453,
+        4.75,
+        5.539999961853027
+      ],
+      "names": [
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Armadura Ø6 inox (ejes)": {
+      "n": 367,
+      "types": {
+        "PolylineCurve": 367
+      },
+      "min": [
+        12.0,
+        -0.1,
+        0.305
+      ],
+      "max": [
+        18.65,
+        4.7,
+        5.535000000000001
+      ],
+      "names": [
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Carpinterías de acero": {
+      "n": 27,
+      "types": {
+        "Mesh": 27
+      },
+      "min": [
+        13.460000038146973,
+        -0.03999999910593033,
+        0.30000001192092896
+      ],
+      "max": [
+        18.690000534057617,
+        4.739999771118164,
+        5.539999961853027
+      ],
+      "names": [
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (dintel)",
+        "puerta de entrada · premarco 60x60 (alféizar)"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Vidrio de carpinterías": {
+      "n": 5,
+      "types": {
+        "Mesh": 5
+      },
+      "min": [
+        13.536999702453613,
+        -0.012000000104308128,
+        0.36000001430511475
+      ],
+      "max": [
+        18.65999984741211,
+        3.9649999141693115,
+        5.480000019073486
+      ],
+      "names": [
+        "ventana pivotante del estudio · hoja vidriera 4/16/4 bajo emisivo, argón",
+        "hoja oculta (corredera elevable en cajón) · vidrio 4/16/4 bajo emisivo, argón (laminado 44.1 interior)",
+        "ventanal lateral · vidrio fijo superior 6/16/6 bajo emisivo + control solar",
+        "corredera · hoja 6/16/6 (laminada 44.1 interior)"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Suelos y forjados": {
+      "n": 15,
+      "types": {
+        "Mesh": 15
+      },
+      "min": [
+        12.0,
+        -1.0499999523162842,
+        0.25999999046325684
+      ],
+      "max": [
+        18.700000762939453,
+        4.75,
+        2.940000057220459
+      ],
+      "names": [
+        "tablero + tarima de roble 30",
+        "chapa de remate inferior del ala",
+        "vigueta 60x160 del altillo",
+        "vigueta 60x160 del altillo"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Aislamiento (corcho)": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        11.949999809265137,
+        -0.05000000074505806,
+        0.1599999964237213
+      ],
+      "max": [
+        18.700000762939453,
+        4.75,
+        5.920000076293945
+      ],
+      "names": [
+        "aislamiento de corcho 120 (suelo)",
+        "aislamiento de corcho 120 (suelo del ala)",
+        "corcho expandido 140",
+        "corcho expandido 140"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Cubierta": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        11.930000305175781,
+        -1.1699999570846558,
+        5.739999771118164
+      ],
+      "max": [
+        18.719999313354492,
+        4.769999980926514,
+        5.949999809265137
+      ],
+      "names": [
+        "tablero de cubierta 40",
+        "lámina + protección",
+        "tablero de cubierta 40",
+        "lámina + protección"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Tabiques y baño": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        12.130000114440918,
+        2.950000047683716,
+        0.31200000643730164
+      ],
+      "max": [
+        13.369999885559082,
+        4.570000171661377,
+        1.159999966621399
+      ],
+      "names": [
+        "plato de ducha 800x800 enrasado",
+        "inodoro suspendido",
+        "lavabo"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Cocina": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        15.630000114440918,
+        2.450000047683716,
+        1.1699999570846558
+      ],
+      "max": [
+        16.25,
+        4.550000190734863,
+        2.7300000190734863
+      ],
+      "names": [
+        "encimera de cocina 2,10 x 0,62",
+        "campana con extracción mecánica (DB HS 3)",
+        "mueble alto de cocina (oculta el tramo vertical de la campana)"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Mobiliario": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        12.100000381469727,
+        0.75,
+        0.30000001192092896
+      ],
+      "max": [
+        18.600000381469727,
+        4.650000095367432,
+        5.039999961853027
+      ],
+      "names": [
+        "muebles bajos de cocina",
+        "cama 1,35 x 2,00 (altillo)",
+        "armario del altillo 0,60",
+        "mesa del estudio 1,60 x 0,60"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Escalera de caracol": {
+      "n": 32,
+      "types": {
+        "Mesh": 32
+      },
+      "min": [
+        12.060059547424316,
+        0.410373330116272,
+        0.30000001192092896
+      ],
+      "max": [
+        13.999738693237305,
+        2.349992275238037,
+        2.940000057220459
+      ],
+      "names": [
+        "fuste de acero Ø140 x 8",
+        "placa base del fuste 300x300x15",
+        "peldaño de roble 40 con canto redondeado r 8",
+        "casquillo de acero Ø180 (altura = contrahuella)"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Barandillas": {
+      "n": 288,
+      "types": {
+        "Mesh": 288
+      },
+      "min": [
+        12.029999732971191,
+        -1.0199999809265137,
+        -0.22499999403953552
+      ],
+      "max": [
+        16.31999969482422,
+        6.820000171661377,
+        3.9200000762939453
+      ],
+      "names": [
+        "pie de barrote atornillado",
+        "barrote Ø16",
+        "pie de barrote atornillado",
+        "barrote Ø16"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Cuero": {
+      "n": 17,
+      "types": {
+        "Mesh": 17
+      },
+      "min": [
+        12.024999618530273,
+        -1.024999976158142,
+        0.8534055352210999
+      ],
+      "max": [
+        18.615217208862305,
+        6.812596797943115,
+        4.835000038146973
+      ],
+      "names": [
+        "puerta de entrada · tirador de cuero curtido",
+        "ventana pivotante del estudio · tirador de cuero curtido",
+        "pasamanos helicoidal forrado de cuero Ø50 (h 0,95)",
+        "barrera del altillo · pasamanos forrado de cuero Ø50"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Rellano y miniescalera": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        13.949999809265137,
+        4.800000190734863,
+        -0.4449999928474426
+      ],
+      "max": [
+        16.299999237060547,
+        6.820000171661377,
+        0.30000001192092896
+      ],
+      "names": [
+        "rellano de tramex 30x2",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Instalaciones vistas": {
+      "n": 10,
+      "types": {
+        "Mesh": 10
+      },
+      "min": [
+        12.284679412841797,
+        2.9375,
+        -0.3400000035762787
+      ],
+      "max": [
+        16.13249969482422,
+        4.88700008392334,
+        2.8809330463409424
+      ],
+      "names": [
+        "bajante de fecales Ø110 · manguito de conexión al colector del edificio",
+        "bajante de fecales Ø110",
+        "agua fría · manguito de conexión al colector del edificio",
+        "agua fría"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Agua de lluvia": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        11.831741333007812,
+        -1.2649999856948853,
+        -0.3400000035762787
+      ],
+      "max": [
+        16.350500106811523,
+        4.869500160217285,
+        5.944997787475586
+      ],
+      "names": [
+        "canalón Ø110",
+        "bajante Ø75 · manguito de conexión al colector del edificio",
+        "bajante Ø75"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Ejes": {
+      "n": 55,
+      "types": {
+        "PolylineCurve": 55
+      },
+      "min": [
+        11.8,
+        -1.25,
+        -1.2
+      ],
+      "max": [
+        18.85,
+        6.800000000000001,
+        7.150000000000001
+      ],
+      "names": [
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Herrajes y carriles (inox)": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        12.119999885559082,
+        -0.10000000149011612,
+        0.2849999964237213
+      ],
+      "max": [
+        16.450000762939453,
+        4.840000152587891,
+        2.9124999046325684
+      ],
+      "names": [
+        "carril superior de cuelgue (inox)",
+        "guía inferior enrasada (inox)",
+        "cepillo de estanquidad de la boca del cajón",
+        "cepillo de estanquidad de la boca del cajón"
+      ]
+    },
+    "G3 · v5 · Ventana lateral corredera exterior::Baño-cápsula (microcemento)": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        12.050000190734863,
+        2.450000047683716,
+        0.30000001192092896
+      ],
+      "max": [
+        13.449999809265137,
+        4.650000095367432,
+        2.759999990463257
+      ],
+      "names": [
+        "baño-cápsula · muro curvo de microcemento (80)",
+        "baño-cápsula · techo (registrable)",
+        "baño-cápsula · solado continuo"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Estructura colgada (acero)": {
+      "n": 41,
+      "types": {
+        "Mesh": 41
+      },
+      "min": [
+        23.715999603271484,
+        -1.284999966621399,
+        0.0
+      ],
+      "max": [
+        30.93400001525879,
+        5.900000095367432,
+        7.303999900817871
+      ],
+      "names": [
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Pórtico de acero (SHS/RHS)": {
+      "n": 38,
+      "types": {
+        "Mesh": 38
+      },
+      "min": [
+        23.950000762939453,
+        -1.149999976158142,
+        0.1599999964237213
+      ],
+      "max": [
+        30.700000762939453,
+        4.75,
+        5.739999771118164
+      ],
+      "names": [
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Bloque de vidrio satinado": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        23.959999084472656,
+        -0.14000000059604645,
+        0.3199999928474426
+      ],
+      "max": [
+        30.690000534057617,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · bloques satinados 1919/8 ES",
+        "lateral izq. · baño · bloques satinados 1919/8 ES",
+        "lateral izq. · altillo · bloques satinados 1919/8 ES",
+        "lateral der. · cocina · bloques satinados 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Bloque de vidrio transparente": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        23.959999084472656,
+        -0.03999999910593033,
+        0.7200000286102295
+      ],
+      "max": [
+        30.690000534057617,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · bloques transparentes 1919/8 ES",
+        "lateral izq. · altillo · bloques transparentes 1919/8 ES",
+        "lateral der. · cocina · bloques transparentes 1919/8 ES",
+        "trasera · altillo 1 · bloques transparentes 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Mortero de juntas": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        23.969999313354492,
+        -0.12999999523162842,
+        0.3199999928474426
+      ],
+      "max": [
+        30.68000030517578,
+        4.730000019073486,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · mortero de juntas (Vetromalta)",
+        "lateral izq. · baño · mortero de juntas (Vetromalta)",
+        "lateral izq. · altillo · mortero de juntas (Vetromalta)",
+        "lateral der. · cocina · mortero de juntas (Vetromalta)"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Perfil U perimetral y juntas": {
+      "n": 112,
+      "types": {
+        "Mesh": 112
+      },
+      "min": [
+        23.950000762939453,
+        -0.15000000596046448,
+        0.30000001192092896
+      ],
+      "max": [
+        30.700000762939453,
+        4.75,
+        5.539999961853027
+      ],
+      "names": [
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Armadura Ø6 inox (ejes)": {
+      "n": 367,
+      "types": {
+        "PolylineCurve": 367
+      },
+      "min": [
+        24.0,
+        -0.1,
+        0.305
+      ],
+      "max": [
+        30.65,
+        4.7,
+        5.535000000000001
+      ],
+      "names": [
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Carpinterías de acero": {
+      "n": 27,
+      "types": {
+        "Mesh": 27
+      },
+      "min": [
+        25.476999282836914,
+        -0.03999999910593033,
+        0.30000001192092896
+      ],
+      "max": [
+        30.690000534057617,
+        4.739999771118164,
+        5.539999961853027
+      ],
+      "names": [
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (dintel)",
+        "puerta de entrada · premarco 60x60 (alféizar)"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Vidrio de carpinterías": {
+      "n": 5,
+      "types": {
+        "Mesh": 5
+      },
+      "min": [
+        25.53700065612793,
+        -0.012000000104308128,
+        0.36000001430511475
+      ],
+      "max": [
+        30.65999984741211,
+        3.9649999141693115,
+        5.480000019073486
+      ],
+      "names": [
+        "ventana pivotante del estudio · hoja vidriera 4/16/4 bajo emisivo, argón",
+        "hoja oculta (corredera elevable en cajón) · vidrio 4/16/4 bajo emisivo, argón (laminado 44.1 interior)",
+        "ventanal lateral · vidrio fijo superior 6/16/6 bajo emisivo + control solar",
+        "guillotina cerrada · hoja 6/16/6 (laminada 44.1 interior)"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Suelos y forjados": {
+      "n": 15,
+      "types": {
+        "Mesh": 15
+      },
+      "min": [
+        24.0,
+        -1.0499999523162842,
+        0.25999999046325684
+      ],
+      "max": [
+        30.700000762939453,
+        4.75,
+        2.940000057220459
+      ],
+      "names": [
+        "tablero + tarima de roble 30",
+        "chapa de remate inferior del ala",
+        "tablero + tarima de roble del ala",
+        "tarima del balcón (roble termotratado)"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Aislamiento (corcho)": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        23.950000762939453,
+        -0.05000000074505806,
+        0.1599999964237213
+      ],
+      "max": [
+        30.700000762939453,
+        4.75,
+        5.920000076293945
+      ],
+      "names": [
+        "aislamiento de corcho 120 (suelo)",
+        "aislamiento de corcho 120 (suelo del ala)",
+        "corcho expandido 140",
+        "corcho expandido 140"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Cubierta": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        23.93000030517578,
+        -1.1699999570846558,
+        5.739999771118164
+      ],
+      "max": [
+        30.719999313354492,
+        4.769999980926514,
+        5.949999809265137
+      ],
+      "names": [
+        "tablero de cubierta 40",
+        "lámina + protección",
+        "tablero de cubierta 40",
+        "lámina + protección"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Tabiques y baño": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        25.030000686645508,
+        2.950000047683716,
+        0.31200000643730164
+      ],
+      "max": [
+        26.270000457763672,
+        4.570000171661377,
+        1.159999966621399
+      ],
+      "names": [
+        "plato de ducha 800x800 enrasado",
+        "inodoro suspendido",
+        "lavabo"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Cocina": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        27.6299991607666,
+        2.450000047683716,
+        1.1699999570846558
+      ],
+      "max": [
+        28.25,
+        4.550000190734863,
+        2.7300000190734863
+      ],
+      "names": [
+        "encimera de cocina 2,10 x 0,62",
+        "campana con extracción mecánica (DB HS 3)",
+        "mueble alto de cocina (oculta el tramo vertical de la campana)"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Mobiliario": {
+      "n": 17,
+      "types": {
+        "Mesh": 17
+      },
+      "min": [
+        24.079999923706055,
+        0.75,
+        0.30000001192092896
+      ],
+      "max": [
+        30.600000381469727,
+        4.650000095367432,
+        5.039999961853027
+      ],
+      "names": [
+        "muebles bajos de cocina",
+        "cama 1,35 x 2,00 (altillo)",
+        "armario del altillo 0,60",
+        "mesa del estudio 1,60 x 0,60"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Escalera de caracol": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        24.059999465942383,
+        0.30000001192092896,
+        0.4309999942779541
+      ],
+      "max": [
+        24.860000610351562,
+        3.4000000953674316,
+        2.7639999389648438
+      ],
+      "names": [
+        "peldaño de roble 45 con canto redondeado r 8",
+        "peldaño de roble 45 con canto redondeado r 8",
+        "peldaño de roble 45 con canto redondeado r 8",
+        "peldaño de roble 45 con canto redondeado r 8"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Barandillas": {
+      "n": 198,
+      "types": {
+        "Mesh": 198
+      },
+      "min": [
+        24.030000686645508,
+        -1.0199999809265137,
+        -0.22499999403953552
+      ],
+      "max": [
+        28.31999969482422,
+        6.820000171661377,
+        3.9200000762939453
+      ],
+      "names": [
+        "barrera del balcón · barrote Ø16",
+        "barrera del balcón · barrote Ø16",
+        "barrera del balcón · barrote Ø16",
+        "barrera del balcón · barrote Ø16"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Cuero": {
+      "n": 18,
+      "types": {
+        "Mesh": 18
+      },
+      "min": [
+        24.024999618530273,
+        -1.024999976158142,
+        0.33288097381591797
+      ],
+      "max": [
+        30.615217208862305,
+        6.812596797943115,
+        4.835000038146973
+      ],
+      "names": [
+        "puerta de entrada · tirador de cuero curtido",
+        "ventana pivotante del estudio · tirador de cuero curtido",
+        "barrera del balcón · pasamanos forrado de cuero Ø50",
+        "barrera del balcón · pasamanos forrado de cuero Ø50"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Rellano y miniescalera": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        25.950000762939453,
+        4.800000190734863,
+        -0.4449999928474426
+      ],
+      "max": [
+        28.299999237060547,
+        6.820000171661377,
+        0.30000001192092896
+      ],
+      "names": [
+        "rellano de tramex 30x2",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Instalaciones vistas": {
+      "n": 10,
+      "types": {
+        "Mesh": 10
+      },
+      "min": [
+        24.284679412841797,
+        2.9375,
+        -0.3400000035762787
+      ],
+      "max": [
+        28.13249969482422,
+        4.88700008392334,
+        2.8809330463409424
+      ],
+      "names": [
+        "bajante de fecales Ø110 · manguito de conexión al colector del edificio",
+        "bajante de fecales Ø110",
+        "agua fría · manguito de conexión al colector del edificio",
+        "agua fría"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Agua de lluvia": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        23.831741333007812,
+        -1.2649999856948853,
+        -0.3400000035762787
+      ],
+      "max": [
+        28.350500106811523,
+        4.869500160217285,
+        5.944997787475586
+      ],
+      "names": [
+        "canalón Ø110",
+        "bajante Ø75 · manguito de conexión al colector del edificio",
+        "bajante Ø75"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Ejes": {
+      "n": 53,
+      "types": {
+        "PolylineCurve": 53
+      },
+      "min": [
+        23.8,
+        -1.25,
+        -1.2
+      ],
+      "max": [
+        30.85,
+        6.800000000000001,
+        7.150000000000001
+      ],
+      "names": [
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Herrajes y carriles (inox)": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        24.1200008392334,
+        -0.10000000149011612,
+        0.2849999964237213
+      ],
+      "max": [
+        28.360000610351562,
+        4.840000152587891,
+        5.480000019073486
+      ],
+      "names": [
+        "carril superior de cuelgue (inox)",
+        "guía inferior enrasada (inox)",
+        "cepillo de estanquidad de la boca del cajón",
+        "cepillo de estanquidad de la boca del cajón"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Baño-cápsula (microcemento)": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        24.950000762939453,
+        2.450000047683716,
+        0.30000001192092896
+      ],
+      "max": [
+        26.350000381469727,
+        4.650000095367432,
+        2.759999990463257
+      ],
+      "names": [
+        "baño-cápsula · muro curvo de microcemento (80)",
+        "baño-cápsula · techo (registrable)",
+        "baño-cápsula · solado continuo"
+      ]
+    },
+    "G3 · v5 · Escalera 1 · lineal con estantería::Guillotina · posición abierta (referencia)": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        28.152000427246094,
+        0.12999999523162842,
+        1.5199999809265137
+      ],
+      "max": [
+        28.25,
+        2.2200000286102295,
+        3.9200000762939453
+      ],
+      "names": [
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Estructura colgada (acero)": {
+      "n": 41,
+      "types": {
+        "Mesh": 41
+      },
+      "min": [
+        35.715999603271484,
+        -1.284999966621399,
+        0.0
+      ],
+      "max": [
+        42.933998107910156,
+        5.900000095367432,
+        7.303999900817871
+      ],
+      "names": [
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Pórtico de acero (SHS/RHS)": {
+      "n": 37,
+      "types": {
+        "Mesh": 37
+      },
+      "min": [
+        35.95000076293945,
+        -1.149999976158142,
+        0.1599999964237213
+      ],
+      "max": [
+        42.70000076293945,
+        4.75,
+        5.739999771118164
+      ],
+      "names": [
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Bloque de vidrio satinado": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        35.959999084472656,
+        -0.14000000059604645,
+        0.3199999928474426
+      ],
+      "max": [
+        42.689998626708984,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · bloques satinados 1919/8 ES",
+        "lateral izq. · baño · bloques satinados 1919/8 ES",
+        "lateral izq. · altillo · bloques satinados 1919/8 ES",
+        "lateral der. · cocina · bloques satinados 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Bloque de vidrio transparente": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        35.959999084472656,
+        -0.03999999910593033,
+        0.7200000286102295
+      ],
+      "max": [
+        42.689998626708984,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · bloques transparentes 1919/8 ES",
+        "lateral izq. · altillo · bloques transparentes 1919/8 ES",
+        "lateral der. · cocina · bloques transparentes 1919/8 ES",
+        "trasera · altillo 1 · bloques transparentes 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Mortero de juntas": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        35.970001220703125,
+        -0.12999999523162842,
+        0.3199999928474426
+      ],
+      "max": [
+        42.68000030517578,
+        4.730000019073486,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · mortero de juntas (Vetromalta)",
+        "lateral izq. · baño · mortero de juntas (Vetromalta)",
+        "lateral izq. · altillo · mortero de juntas (Vetromalta)",
+        "lateral der. · cocina · mortero de juntas (Vetromalta)"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Perfil U perimetral y juntas": {
+      "n": 112,
+      "types": {
+        "Mesh": 112
+      },
+      "min": [
+        35.95000076293945,
+        -0.15000000596046448,
+        0.30000001192092896
+      ],
+      "max": [
+        42.70000076293945,
+        4.75,
+        5.539999961853027
+      ],
+      "names": [
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Armadura Ø6 inox (ejes)": {
+      "n": 367,
+      "types": {
+        "PolylineCurve": 367
+      },
+      "min": [
+        36.0,
+        -0.1,
+        0.305
+      ],
+      "max": [
+        42.65,
+        4.7,
+        5.535000000000001
+      ],
+      "names": [
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Carpinterías de acero": {
+      "n": 27,
+      "types": {
+        "Mesh": 27
+      },
+      "min": [
+        37.47700119018555,
+        -0.03999999910593033,
+        0.30000001192092896
+      ],
+      "max": [
+        42.689998626708984,
+        4.739999771118164,
+        5.539999961853027
+      ],
+      "names": [
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (dintel)",
+        "puerta de entrada · premarco 60x60 (alféizar)"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Vidrio de carpinterías": {
+      "n": 5,
+      "types": {
+        "Mesh": 5
+      },
+      "min": [
+        37.5369987487793,
+        -0.012000000104308128,
+        0.36000001430511475
+      ],
+      "max": [
+        42.65999984741211,
+        3.9649999141693115,
+        5.480000019073486
+      ],
+      "names": [
+        "ventana pivotante del estudio · hoja vidriera 4/16/4 bajo emisivo, argón",
+        "hoja oculta (corredera elevable en cajón) · vidrio 4/16/4 bajo emisivo, argón (laminado 44.1 interior)",
+        "ventanal lateral · vidrio fijo superior 6/16/6 bajo emisivo + control solar",
+        "guillotina cerrada · hoja 6/16/6 (laminada 44.1 interior)"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Suelos y forjados": {
+      "n": 17,
+      "types": {
+        "Mesh": 17
+      },
+      "min": [
+        36.0,
+        -1.0499999523162842,
+        0.25999999046325684
+      ],
+      "max": [
+        42.70000076293945,
+        4.75,
+        2.940000057220459
+      ],
+      "names": [
+        "tablero + tarima de roble 30",
+        "chapa de remate inferior del ala",
+        "tablero + tarima de roble del ala",
+        "tarima del balcón (roble termotratado)"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Aislamiento (corcho)": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        35.95000076293945,
+        -0.05000000074505806,
+        0.1599999964237213
+      ],
+      "max": [
+        42.70000076293945,
+        4.75,
+        5.920000076293945
+      ],
+      "names": [
+        "aislamiento de corcho 120 (suelo)",
+        "aislamiento de corcho 120 (suelo del ala)",
+        "corcho expandido 140",
+        "corcho expandido 140"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Cubierta": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        35.93000030517578,
+        -1.1699999570846558,
+        5.739999771118164
+      ],
+      "max": [
+        42.720001220703125,
+        4.769999980926514,
+        5.949999809265137
+      ],
+      "names": [
+        "tablero de cubierta 40",
+        "lámina + protección",
+        "tablero de cubierta 40",
+        "lámina + protección"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Tabiques y baño": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        36.29999923706055,
+        0.41999998688697815,
+        0.31200000643730164
+      ],
+      "max": [
+        37.5,
+        2.0999999046325684,
+        1.159999966621399
+      ],
+      "names": [
+        "plato de ducha 800x800 enrasado",
+        "inodoro suspendido",
+        "lavabo"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Cocina": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        39.630001068115234,
+        2.450000047683716,
+        1.1699999570846558
+      ],
+      "max": [
+        40.25,
+        4.550000190734863,
+        2.7300000190734863
+      ],
+      "names": [
+        "encimera de cocina 2,10 x 0,62",
+        "campana con extracción mecánica (DB HS 3)",
+        "mueble alto de cocina (oculta el tramo vertical de la campana)"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Mobiliario": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        36.099998474121094,
+        0.75,
+        0.30000001192092896
+      ],
+      "max": [
+        42.599998474121094,
+        4.650000095367432,
+        5.039999961853027
+      ],
+      "names": [
+        "muebles bajos de cocina",
+        "cama 1,35 x 2,00 (altillo)",
+        "armario del altillo 0,60",
+        "mesa del estudio 1,60 x 0,60"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Escalera de caracol": {
+      "n": 32,
+      "types": {
+        "Mesh": 32
+      },
+      "min": [
+        36.06037521362305,
+        2.650261163711548,
+        0.30000001192092896
+      ],
+      "max": [
+        37.99999237060547,
+        4.589940547943115,
+        2.940000057220459
+      ],
+      "names": [
+        "fuste de acero Ø140 x 8",
+        "placa base del fuste 300x300x15",
+        "peldaño de roble 40 con canto redondeado r 8",
+        "casquillo de acero Ø180 (altura = contrahuella)"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Barandillas": {
+      "n": 484,
+      "types": {
+        "Mesh": 484
+      },
+      "min": [
+        35.962894439697266,
+        -1.0199999809265137,
+        -0.22499999403953552
+      ],
+      "max": [
+        40.31999969482422,
+        6.820000171661377,
+        3.9200000762939453
+      ],
+      "names": [
+        "barrera del balcón · barrote Ø16",
+        "barrera del balcón · barrote Ø16",
+        "barrera del balcón · barrote Ø16",
+        "barrera del balcón · barrote Ø16"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Cuero": {
+      "n": 56,
+      "types": {
+        "Mesh": 56
+      },
+      "min": [
+        35.9578971862793,
+        -1.024999976158142,
+        0.33288097381591797
+      ],
+      "max": [
+        42.61521530151367,
+        6.812596797943115,
+        4.835000038146973
+      ],
+      "names": [
+        "puerta de entrada · tirador de cuero curtido",
+        "ventana pivotante del estudio · tirador de cuero curtido",
+        "barrera del balcón · pasamanos forrado de cuero Ø50",
+        "barrera del balcón · pasamanos forrado de cuero Ø50"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Rellano y miniescalera": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        37.95000076293945,
+        4.800000190734863,
+        -0.4449999928474426
+      ],
+      "max": [
+        40.29999923706055,
+        6.820000171661377,
+        0.30000001192092896
+      ],
+      "names": [
+        "rellano de tramex 30x2",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Instalaciones vistas": {
+      "n": 10,
+      "types": {
+        "Mesh": 10
+      },
+      "min": [
+        36.2846794128418,
+        1.2000000476837158,
+        -0.3400000035762787
+      ],
+      "max": [
+        40.13249969482422,
+        4.88700008392334,
+        2.8809330463409424
+      ],
+      "names": [
+        "bajante de fecales Ø110 · manguito de conexión al colector del edificio",
+        "bajante de fecales Ø110",
+        "agua fría · manguito de conexión al colector del edificio",
+        "agua fría"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Agua de lluvia": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        35.83174133300781,
+        -1.2649999856948853,
+        -0.3400000035762787
+      ],
+      "max": [
+        40.35049819946289,
+        4.869500160217285,
+        5.944997787475586
+      ],
+      "names": [
+        "canalón Ø110",
+        "bajante Ø75 · manguito de conexión al colector del edificio",
+        "bajante Ø75"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Ejes": {
+      "n": 167,
+      "types": {
+        "PolylineCurve": 167
+      },
+      "min": [
+        35.8,
+        -1.25,
+        -1.2
+      ],
+      "max": [
+        42.85,
+        6.800000000000001,
+        7.150000000000001
+      ],
+      "names": [
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Herrajes y carriles (inox)": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        36.119998931884766,
+        -0.10000000149011612,
+        0.2849999964237213
+      ],
+      "max": [
+        40.36000061035156,
+        4.840000152587891,
+        5.480000019073486
+      ],
+      "names": [
+        "carril superior de cuelgue (inox)",
+        "guía inferior enrasada (inox)",
+        "cepillo de estanquidad de la boca del cajón",
+        "cepillo de estanquidad de la boca del cajón"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Baño-cápsula (microcemento)": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        36.20000076293945,
+        0.30000001192092896,
+        0.30000001192092896
+      ],
+      "max": [
+        37.599998474121094,
+        2.200000047683716,
+        2.759999990463257
+      ],
+      "names": [
+        "baño-cápsula · muro curvo de microcemento (80)",
+        "baño-cápsula · techo (registrable)",
+        "baño-cápsula · solado continuo"
+      ]
+    },
+    "G3 · v5 · Escalera 2 · caracol bajo el altillo::Guillotina · posición abierta (referencia)": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        40.152000427246094,
+        0.12999999523162842,
+        1.5199999809265137
+      ],
+      "max": [
+        40.25,
+        2.2200000286102295,
+        3.9200000762939453
+      ],
+      "names": [
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Estructura colgada (acero)": {
+      "n": 39,
+      "types": {
+        "Mesh": 39
+      },
+      "min": [
+        46.61600112915039,
+        -1.284999966621399,
+        0.0
+      ],
+      "max": [
+        54.933998107910156,
+        5.900000095367432,
+        7.303999900817871
+      ],
+      "names": [
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Pórtico de acero (SHS/RHS)": {
+      "n": 45,
+      "types": {
+        "Mesh": 45
+      },
+      "min": [
+        46.79999923706055,
+        -1.149999976158142,
+        0.1599999964237213
+      ],
+      "max": [
+        54.70000076293945,
+        4.75,
+        5.739999771118164
+      ],
+      "names": [
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Bloque de vidrio satinado": {
+      "n": 19,
+      "types": {
+        "Mesh": 19
+      },
+      "min": [
+        46.810001373291016,
+        -0.14000000059604645,
+        0.3199999928474426
+      ],
+      "max": [
+        54.689998626708984,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral der. · cocina · bloques satinados 1919/8 ES",
+        "trasera · baño · bloques satinados 1919/8 ES",
+        "trasera · altillo 1 · bloques satinados 1919/8 ES",
+        "trasera · entrada · bloques satinados 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Bloque de vidrio transparente": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        46.810001373291016,
+        -0.03999999910593033,
+        0.7200000286102295
+      ],
+      "max": [
+        54.689998626708984,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral der. · cocina · bloques transparentes 1919/8 ES",
+        "trasera · altillo 1 · bloques transparentes 1919/8 ES",
+        "trasera · altillo 2 · bloques transparentes 1919/8 ES",
+        "ala · frente · bloques transparentes 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Mortero de juntas": {
+      "n": 19,
+      "types": {
+        "Mesh": 19
+      },
+      "min": [
+        46.81999969482422,
+        -0.12999999523162842,
+        0.3199999928474426
+      ],
+      "max": [
+        54.68000030517578,
+        4.730000019073486,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral der. · cocina · mortero de juntas (Vetromalta)",
+        "trasera · baño · mortero de juntas (Vetromalta)",
+        "trasera · altillo 1 · mortero de juntas (Vetromalta)",
+        "trasera · entrada · mortero de juntas (Vetromalta)"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Perfil U perimetral y juntas": {
+      "n": 133,
+      "types": {
+        "Mesh": 133
+      },
+      "min": [
+        46.79999923706055,
+        -0.15000000596046448,
+        0.30000001192092896
+      ],
+      "max": [
+        54.70000076293945,
+        4.75,
+        5.539999961853027
+      ],
+      "names": [
+        "lateral der. · cocina · perfil U lateral (ala)",
+        "lateral der. · cocina · perfil U lateral (ala)",
+        "lateral der. · cocina · perfil U lateral (ala)",
+        "lateral der. · cocina · perfil U lateral (ala)"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Armadura Ø6 inox (ejes)": {
+      "n": 427,
+      "types": {
+        "PolylineCurve": 427
+      },
+      "min": [
+        46.85,
+        -0.1,
+        0.305
+      ],
+      "max": [
+        54.65,
+        4.7,
+        5.535000000000001
+      ],
+      "names": [
+        "lateral der. · cocina · varilla Ø6 horizontal",
+        "lateral der. · cocina · varilla Ø6 horizontal",
+        "lateral der. · cocina · varilla Ø6 horizontal",
+        "lateral der. · cocina · varilla Ø6 horizontal"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Carpinterías de acero": {
+      "n": 27,
+      "types": {
+        "Mesh": 27
+      },
+      "min": [
+        49.459999084472656,
+        -0.03999999910593033,
+        0.30000001192092896
+      ],
+      "max": [
+        54.689998626708984,
+        4.739999771118164,
+        5.539999961853027
+      ],
+      "names": [
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (dintel)",
+        "puerta de entrada · premarco 60x60 (alféizar)"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Vidrio de carpinterías": {
+      "n": 5,
+      "types": {
+        "Mesh": 5
+      },
+      "min": [
+        49.5369987487793,
+        -0.012000000104308128,
+        0.36000001430511475
+      ],
+      "max": [
+        54.65999984741211,
+        3.9649999141693115,
+        5.480000019073486
+      ],
+      "names": [
+        "ventana pivotante del estudio · hoja vidriera 4/16/4 bajo emisivo, argón",
+        "hoja oculta (corredera elevable en cajón) · vidrio 4/16/4 bajo emisivo, argón (laminado 44.1 interior)",
+        "ventanal lateral · vidrio fijo superior 6/16/6 bajo emisivo + control solar",
+        "guillotina cerrada · hoja 6/16/6 (laminada 44.1 interior)"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Suelos y forjados": {
+      "n": 19,
+      "types": {
+        "Mesh": 19
+      },
+      "min": [
+        46.900001525878906,
+        -1.0499999523162842,
+        0.25999999046325684
+      ],
+      "max": [
+        54.70000076293945,
+        4.75,
+        2.940000057220459
+      ],
+      "names": [
+        "tablero + tarima de roble 30",
+        "chapa de remate inferior del ala",
+        "vigueta 60x160 del altillo",
+        "vigueta 60x160 del altillo"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Aislamiento (corcho)": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        46.79999923706055,
+        -1.149999976158142,
+        0.1599999964237213
+      ],
+      "max": [
+        54.70000076293945,
+        4.75,
+        5.920000076293945
+      ],
+      "names": [
+        "aislamiento de corcho 120 (suelo)",
+        "aislamiento de corcho 120 (suelo del ala)",
+        "corcho expandido 140",
+        "corcho expandido 140"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Cubierta": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        46.779998779296875,
+        -1.1699999570846558,
+        5.739999771118164
+      ],
+      "max": [
+        54.720001220703125,
+        4.769999980926514,
+        5.949999809265137
+      ],
+      "names": [
+        "tablero de cubierta 40",
+        "lámina + protección",
+        "tablero de cubierta 40",
+        "lámina + protección"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Tabiques y baño": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        48.130001068115234,
+        2.950000047683716,
+        0.31200000643730164
+      ],
+      "max": [
+        49.369998931884766,
+        4.570000171661377,
+        1.159999966621399
+      ],
+      "names": [
+        "plato de ducha 800x800 enrasado",
+        "inodoro suspendido",
+        "lavabo"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Cocina": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        51.630001068115234,
+        2.450000047683716,
+        1.1699999570846558
+      ],
+      "max": [
+        52.25,
+        4.550000190734863,
+        2.7300000190734863
+      ],
+      "names": [
+        "encimera de cocina 2,10 x 0,62",
+        "campana con extracción mecánica (DB HS 3)",
+        "mueble alto de cocina (oculta el tramo vertical de la campana)"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Mobiliario": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        46.93000030517578,
+        0.30000001192092896,
+        0.30000001192092896
+      ],
+      "max": [
+        54.599998474121094,
+        4.650000095367432,
+        5.039999961853027
+      ],
+      "names": [
+        "muebles bajos de cocina",
+        "cama 1,35 x 2,00 (altillo)",
+        "armario del altillo 0,60",
+        "mesa del estudio 1,60 x 0,60"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Escalera de caracol": {
+      "n": 32,
+      "types": {
+        "Mesh": 32
+      },
+      "min": [
+        48.06005859375,
+        0.410373330116272,
+        0.30000001192092896
+      ],
+      "max": [
+        49.99974060058594,
+        2.349992275238037,
+        2.940000057220459
+      ],
+      "names": [
+        "fuste de acero Ø140 x 8",
+        "placa base del fuste 300x300x15",
+        "peldaño de roble 40 con canto redondeado r 8",
+        "casquillo de acero Ø180 (altura = contrahuella)"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Barandillas": {
+      "n": 288,
+      "types": {
+        "Mesh": 288
+      },
+      "min": [
+        48.029998779296875,
+        -1.0199999809265137,
+        -0.22499999403953552
+      ],
+      "max": [
+        52.31999969482422,
+        6.820000171661377,
+        3.9200000762939453
+      ],
+      "names": [
+        "pie de barrote atornillado",
+        "barrote Ø16",
+        "pie de barrote atornillado",
+        "barrote Ø16"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Cuero": {
+      "n": 18,
+      "types": {
+        "Mesh": 18
+      },
+      "min": [
+        48.025001525878906,
+        -1.024999976158142,
+        0.33288097381591797
+      ],
+      "max": [
+        54.61521530151367,
+        6.812596797943115,
+        4.835000038146973
+      ],
+      "names": [
+        "puerta de entrada · tirador de cuero curtido",
+        "ventana pivotante del estudio · tirador de cuero curtido",
+        "pasamanos helicoidal forrado de cuero Ø50 (h 0,95)",
+        "barrera del altillo · pasamanos forrado de cuero Ø50"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Rellano y miniescalera": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        49.95000076293945,
+        4.800000190734863,
+        -0.4449999928474426
+      ],
+      "max": [
+        52.29999923706055,
+        6.820000171661377,
+        0.30000001192092896
+      ],
+      "names": [
+        "rellano de tramex 30x2",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Instalaciones vistas": {
+      "n": 10,
+      "types": {
+        "Mesh": 10
+      },
+      "min": [
+        48.2846794128418,
+        2.9375,
+        -0.3400000035762787
+      ],
+      "max": [
+        52.13249969482422,
+        4.88700008392334,
+        2.8809330463409424
+      ],
+      "names": [
+        "bajante de fecales Ø110 · manguito de conexión al colector del edificio",
+        "bajante de fecales Ø110",
+        "agua fría · manguito de conexión al colector del edificio",
+        "agua fría"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Agua de lluvia": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        47.83174133300781,
+        -1.2649999856948853,
+        -0.3400000035762787
+      ],
+      "max": [
+        52.35049819946289,
+        4.869500160217285,
+        5.944997787475586
+      ],
+      "names": [
+        "canalón Ø110",
+        "bajante Ø75 · manguito de conexión al colector del edificio",
+        "bajante Ø75"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Ejes": {
+      "n": 56,
+      "types": {
+        "PolylineCurve": 56
+      },
+      "min": [
+        46.65,
+        -1.25,
+        -1.2
+      ],
+      "max": [
+        54.85,
+        6.800000000000001,
+        7.150000000000001
+      ],
+      "names": [
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Herrajes y carriles (inox)": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        48.119998931884766,
+        -0.10000000149011612,
+        0.2849999964237213
+      ],
+      "max": [
+        52.36000061035156,
+        4.840000152587891,
+        5.480000019073486
+      ],
+      "names": [
+        "carril superior de cuelgue (inox)",
+        "guía inferior enrasada (inox)",
+        "cepillo de estanquidad de la boca del cajón",
+        "cepillo de estanquidad de la boca del cajón"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Baño-cápsula (microcemento)": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        48.04999923706055,
+        2.450000047683716,
+        0.30000001192092896
+      ],
+      "max": [
+        49.45000076293945,
+        4.650000095367432,
+        2.759999990463257
+      ],
+      "names": [
+        "baño-cápsula · muro curvo de microcemento (80)",
+        "baño-cápsula · techo (registrable)",
+        "baño-cápsula · solado continuo"
+      ]
+    },
+    "G3 · v5 · Escalera 3 · unidad + 1 crujía (rincón de comer)::Guillotina · posición abierta (referencia)": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        52.152000427246094,
+        0.12999999523162842,
+        1.5199999809265137
+      ],
+      "max": [
+        52.25,
+        2.2200000286102295,
+        3.9200000762939453
+      ],
+      "names": [
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Estructura colgada (acero)": {
+      "n": 41,
+      "types": {
+        "Mesh": 41
+      },
+      "min": [
+        59.715999603271484,
+        -1.284999966621399,
+        0.0
+      ],
+      "max": [
+        66.93399810791016,
+        5.900000095367432,
+        7.303999900817871
+      ],
+      "names": [
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Pórtico de acero (SHS/RHS)": {
+      "n": 37,
+      "types": {
+        "Mesh": 37
+      },
+      "min": [
+        59.95000076293945,
+        -1.149999976158142,
+        0.1599999964237213
+      ],
+      "max": [
+        66.69999694824219,
+        4.75,
+        5.739999771118164
+      ],
+      "names": [
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Bloque de vidrio satinado": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        59.959999084472656,
+        -0.14000000059604645,
+        0.3199999928474426
+      ],
+      "max": [
+        66.69000244140625,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · bloques satinados 1919/8 ES",
+        "lateral izq. · baño · bloques satinados 1919/8 ES",
+        "lateral izq. · altillo · bloques satinados 1919/8 ES",
+        "lateral der. · cocina · bloques satinados 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Bloque de vidrio transparente": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        59.959999084472656,
+        -0.03999999910593033,
+        0.7200000286102295
+      ],
+      "max": [
+        66.69000244140625,
+        4.739999771118164,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · bloques transparentes 1919/8 ES",
+        "lateral izq. · altillo · bloques transparentes 1919/8 ES",
+        "lateral der. · cocina · bloques transparentes 1919/8 ES",
+        "trasera · altillo 1 · bloques transparentes 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Mortero de juntas": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        59.970001220703125,
+        -0.12999999523162842,
+        0.3199999928474426
+      ],
+      "max": [
+        66.68000030517578,
+        4.730000019073486,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · delante · mortero de juntas (Vetromalta)",
+        "lateral izq. · baño · mortero de juntas (Vetromalta)",
+        "lateral izq. · altillo · mortero de juntas (Vetromalta)",
+        "lateral der. · cocina · mortero de juntas (Vetromalta)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Perfil U perimetral y juntas": {
+      "n": 112,
+      "types": {
+        "Mesh": 112
+      },
+      "min": [
+        59.95000076293945,
+        -0.15000000596046448,
+        0.30000001192092896
+      ],
+      "max": [
+        66.69999694824219,
+        4.75,
+        5.539999961853027
+      ],
+      "names": [
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)",
+        "lateral izq. · delante · perfil U lateral (ala)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Armadura Ø6 inox (ejes)": {
+      "n": 367,
+      "types": {
+        "PolylineCurve": 367
+      },
+      "min": [
+        60.0,
+        -0.1,
+        0.305
+      ],
+      "max": [
+        66.65,
+        4.7,
+        5.535000000000001
+      ],
+      "names": [
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal",
+        "lateral izq. · delante · varilla Ø6 horizontal"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Carpinterías de acero": {
+      "n": 27,
+      "types": {
+        "Mesh": 27
+      },
+      "min": [
+        61.459999084472656,
+        -0.03999999910593033,
+        0.30000001192092896
+      ],
+      "max": [
+        66.69000244140625,
+        4.739999771118164,
+        5.539999961853027
+      ],
+      "names": [
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (dintel)",
+        "puerta de entrada · premarco 60x60 (alféizar)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Vidrio de carpinterías": {
+      "n": 5,
+      "types": {
+        "Mesh": 5
+      },
+      "min": [
+        61.5369987487793,
+        -0.012000000104308128,
+        0.36000001430511475
+      ],
+      "max": [
+        66.66000366210938,
+        3.9649999141693115,
+        5.480000019073486
+      ],
+      "names": [
+        "ventana pivotante del estudio · hoja vidriera 4/16/4 bajo emisivo, argón",
+        "hoja oculta (corredera elevable en cajón) · vidrio 4/16/4 bajo emisivo, argón (laminado 44.1 interior)",
+        "ventanal lateral · vidrio fijo superior 6/16/6 bajo emisivo + control solar",
+        "guillotina cerrada · hoja 6/16/6 (laminada 44.1 interior)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Suelos y forjados": {
+      "n": 16,
+      "types": {
+        "Mesh": 16
+      },
+      "min": [
+        60.0,
+        -1.0499999523162842,
+        0.25999999046325684
+      ],
+      "max": [
+        66.69999694824219,
+        4.75,
+        2.940000057220459
+      ],
+      "names": [
+        "tablero + tarima de roble 30",
+        "chapa de remate inferior del ala",
+        "vigueta 60x160 del altillo",
+        "vigueta 60x160 del altillo"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Aislamiento (corcho)": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        59.95000076293945,
+        -0.05000000074505806,
+        0.1599999964237213
+      ],
+      "max": [
+        66.69999694824219,
+        4.75,
+        5.920000076293945
+      ],
+      "names": [
+        "aislamiento de corcho 120 (suelo)",
+        "aislamiento de corcho 120 (suelo del ala)",
+        "corcho expandido 140",
+        "corcho expandido 140"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Cubierta": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        59.93000030517578,
+        -1.1699999570846558,
+        5.739999771118164
+      ],
+      "max": [
+        66.72000122070312,
+        4.769999980926514,
+        5.949999809265137
+      ],
+      "names": [
+        "tablero de cubierta 40",
+        "lámina + protección",
+        "tablero de cubierta 40",
+        "lámina + protección"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Tabiques y baño": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        60.130001068115234,
+        2.950000047683716,
+        0.31200000643730164
+      ],
+      "max": [
+        61.369998931884766,
+        4.570000171661377,
+        1.159999966621399
+      ],
+      "names": [
+        "plato de ducha 800x800 enrasado",
+        "inodoro suspendido",
+        "lavabo"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Cocina": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        63.61000061035156,
+        2.430000066757202,
+        0.4000000059604645
+      ],
+      "max": [
+        64.25,
+        4.570000171661377,
+        2.7300000190734863
+      ],
+      "names": [
+        "campana con extracción mecánica (DB HS 3)",
+        "cocina-pieza: cuerpo monolítico lacado",
+        "cocina-pieza: encimera de acero inoxidable",
+        "mueble alto de cocina (oculta el tramo vertical de la campana)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Mobiliario": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        60.099998474121094,
+        0.75,
+        0.30000001192092896
+      ],
+      "max": [
+        66.5999984741211,
+        4.650000095367432,
+        5.039999961853027
+      ],
+      "names": [
+        "cama 1,35 x 2,00 (altillo)",
+        "armario del altillo 0,60",
+        "mesa del estudio 1,60 x 0,60",
+        "mesa de comer y trabajar 1,40 x 0,70 (roble), girada hacia la ventana"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Escalera de caracol": {
+      "n": 32,
+      "types": {
+        "Mesh": 32
+      },
+      "min": [
+        60.06005859375,
+        0.410373330116272,
+        0.30000001192092896
+      ],
+      "max": [
+        61.99974060058594,
+        2.349992275238037,
+        2.940000057220459
+      ],
+      "names": [
+        "fuste de acero Ø140 x 8",
+        "placa base del fuste 300x300x15",
+        "peldaño de roble 40 con canto redondeado r 8",
+        "casquillo de acero Ø180 (altura = contrahuella)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Barandillas": {
+      "n": 353,
+      "types": {
+        "Mesh": 353
+      },
+      "min": [
+        60.029998779296875,
+        -1.0199999809265137,
+        -0.22499999403953552
+      ],
+      "max": [
+        64.31999969482422,
+        6.820000171661377,
+        5.541319370269775
+      ],
+      "names": [
+        "pie de barrote atornillado",
+        "barrote Ø16",
+        "pie de barrote atornillado",
+        "barrote Ø16"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Cuero": {
+      "n": 30,
+      "types": {
+        "Mesh": 30
+      },
+      "min": [
+        60.025001525878906,
+        -1.024999976158142,
+        0.33288097381591797
+      ],
+      "max": [
+        66.61521911621094,
+        6.812596797943115,
+        4.835000038146973
+      ],
+      "names": [
+        "puerta de entrada · tirador de cuero curtido",
+        "ventana pivotante del estudio · tirador de cuero curtido",
+        "pasamanos helicoidal forrado de cuero Ø50 (h 0,95)",
+        "barrera del balcón · pasamanos forrado de cuero Ø50"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Rellano y miniescalera": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        61.95000076293945,
+        4.800000190734863,
+        -0.4449999928474426
+      ],
+      "max": [
+        64.30000305175781,
+        6.820000171661377,
+        0.30000001192092896
+      ],
+      "names": [
+        "rellano de tramex 30x2",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Instalaciones vistas": {
+      "n": 10,
+      "types": {
+        "Mesh": 10
+      },
+      "min": [
+        60.2846794128418,
+        2.9375,
+        -0.3400000035762787
+      ],
+      "max": [
+        64.13249969482422,
+        4.88700008392334,
+        2.8809330463409424
+      ],
+      "names": [
+        "bajante de fecales Ø110 · manguito de conexión al colector del edificio",
+        "bajante de fecales Ø110",
+        "agua fría · manguito de conexión al colector del edificio",
+        "agua fría"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Agua de lluvia": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        59.83174133300781,
+        -1.2649999856948853,
+        -0.3400000035762787
+      ],
+      "max": [
+        64.35050201416016,
+        4.869500160217285,
+        5.944997787475586
+      ],
+      "names": [
+        "canalón Ø110",
+        "bajante Ø75 · manguito de conexión al colector del edificio",
+        "bajante Ø75"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Ejes": {
+      "n": 96,
+      "types": {
+        "PolylineCurve": 96
+      },
+      "min": [
+        59.8,
+        -1.25,
+        -1.2
+      ],
+      "max": [
+        66.85,
+        6.800000000000001,
+        7.150000000000001
+      ],
+      "names": [
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Herrajes y carriles (inox)": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        60.119998931884766,
+        -0.10000000149011612,
+        0.2849999964237213
+      ],
+      "max": [
+        64.36000061035156,
+        4.840000152587891,
+        5.480000019073486
+      ],
+      "names": [
+        "carril superior de cuelgue (inox)",
+        "guía inferior enrasada (inox)",
+        "cepillo de estanquidad de la boca del cajón",
+        "cepillo de estanquidad de la boca del cajón"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Baño-cápsula (microcemento)": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        60.04999923706055,
+        2.450000047683716,
+        0.30000001192092896
+      ],
+      "max": [
+        61.45000076293945,
+        4.650000095367432,
+        2.759999990463257
+      ],
+      "names": [
+        "baño-cápsula · muro curvo de microcemento (80)",
+        "baño-cápsula · techo (registrable)",
+        "baño-cápsula · solado continuo"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 1 · piezas interiores::Guillotina · posición abierta (referencia)": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        64.1520004272461,
+        0.12999999523162842,
+        1.5199999809265137
+      ],
+      "max": [
+        64.25,
+        2.2200000286102295,
+        3.9200000762939453
+      ],
+      "names": [
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Estructura colgada (acero)": {
+      "n": 35,
+      "types": {
+        "Mesh": 35
+      },
+      "min": [
+        70.9000015258789,
+        -1.284999966621399,
+        0.0
+      ],
+      "max": [
+        78.34471130371094,
+        5.900000095367432,
+        7.303999900817871
+      ],
+      "names": [
+        "UPN 160 perimetral de la bandeja",
+        "UPN 160 perimetral de la bandeja",
+        "IPE 160 de la bandeja",
+        "IPE 160 de la bandeja"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Pórtico de acero (SHS/RHS)": {
+      "n": 27,
+      "types": {
+        "Mesh": 27
+      },
+      "min": [
+        71.94999694824219,
+        -0.1599999964237213,
+        0.1599999964237213
+      ],
+      "max": [
+        78.69999694824219,
+        4.75,
+        5.739999771118164
+      ],
+      "names": [
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5",
+        "pilar SHS 100x100x5"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Bloque de vidrio satinado": {
+      "n": 18,
+      "types": {
+        "Mesh": 18
+      },
+      "min": [
+        71.95624542236328,
+        -0.14000000059604645,
+        0.3199999928474426
+      ],
+      "max": [
+        78.69365692138672,
+        4.743656158447266,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · baño · bloques satinados 1919/8 ES",
+        "lateral izq. · altillo · bloques satinados 1919/8 ES",
+        "lateral der. · cocina · bloques satinados 1919/8 ES",
+        "trasera · baño · bloques satinados 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Bloque de vidrio transparente": {
+      "n": 12,
+      "types": {
+        "Mesh": 12
+      },
+      "min": [
+        71.95624542236328,
+        -0.04375148564577103,
+        0.7200000286102295
+      ],
+      "max": [
+        78.69365692138672,
+        4.743656158447266,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · altillo · bloques transparentes 1919/8 ES",
+        "lateral der. · cocina · bloques transparentes 1919/8 ES",
+        "trasera · altillo 1 · bloques transparentes 1919/8 ES",
+        "trasera · altillo 2 · bloques transparentes 1919/8 ES"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Mortero de juntas": {
+      "n": 18,
+      "types": {
+        "Mesh": 18
+      },
+      "min": [
+        71.97000122070312,
+        -0.12999999523162842,
+        0.3199999928474426
+      ],
+      "max": [
+        78.68000030517578,
+        4.730000019073486,
+        5.510000228881836
+      ],
+      "names": [
+        "lateral izq. · baño · mortero de juntas (Vetromalta)",
+        "lateral izq. · altillo · mortero de juntas (Vetromalta)",
+        "lateral der. · cocina · mortero de juntas (Vetromalta)",
+        "trasera · baño · mortero de juntas (Vetromalta)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Perfil U perimetral y juntas": {
+      "n": 111,
+      "types": {
+        "Mesh": 111
+      },
+      "min": [
+        71.94999694824219,
+        -0.15000000596046448,
+        0.30000001192092896
+      ],
+      "max": [
+        78.69999694824219,
+        4.75,
+        5.539999961853027
+      ],
+      "names": [
+        "lateral izq. · baño · perfil U lateral (ala)",
+        "lateral izq. · baño · perfil U lateral (ala)",
+        "lateral izq. · baño · perfil U lateral (ala)",
+        "lateral izq. · baño · perfil U lateral (ala)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Armadura Ø6 inox (ejes)": {
+      "n": 297,
+      "types": {
+        "PolylineCurve": 297
+      },
+      "min": [
+        72.0,
+        -0.1,
+        0.305
+      ],
+      "max": [
+        77.42,
+        4.7,
+        5.535000000000001
+      ],
+      "names": [
+        "lateral izq. · baño · varilla Ø6 horizontal",
+        "lateral izq. · baño · varilla Ø6 horizontal",
+        "lateral izq. · baño · varilla Ø6 horizontal",
+        "lateral izq. · baño · varilla Ø6 horizontal"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Carpinterías de acero": {
+      "n": 33,
+      "types": {
+        "Mesh": 33
+      },
+      "min": [
+        73.45999908447266,
+        -0.03999999910593033,
+        0.30000001192092896
+      ],
+      "max": [
+        78.72000122070312,
+        4.769999980926514,
+        5.539999961853027
+      ],
+      "names": [
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (jamba)",
+        "puerta de entrada · premarco 60x60 (dintel)",
+        "puerta de entrada · premarco 60x60 (alféizar)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Vidrio de carpinterías": {
+      "n": 13,
+      "types": {
+        "Mesh": 13
+      },
+      "min": [
+        73.65699768066406,
+        -0.012000000104308128,
+        0.36000001430511475
+      ],
+      "max": [
+        78.64714813232422,
+        4.710431098937988,
+        5.480000019073486
+      ],
+      "names": [
+        "ventanal lateral · vidrio fijo superior 6/16/6 bajo emisivo + control solar",
+        "guillotina cerrada · hoja 6/16/6 (laminada 44.1 interior)",
+        "antepecho de vidrio laminado 10+10 (h 1,10)",
+        "hoja oculta (corredera elevable en cajón) · vidrio 4/16/4 bajo emisivo, argón (laminado 44.1 interior)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Suelos y forjados": {
+      "n": 15,
+      "types": {
+        "Mesh": 15
+      },
+      "min": [
+        70.94999694824219,
+        -1.0499999523162842,
+        0.25999999046325684
+      ],
+      "max": [
+        78.69999694824219,
+        4.75,
+        2.940000057220459
+      ],
+      "names": [
+        "vigueta 60x160 del altillo",
+        "vigueta 60x160 del altillo",
+        "vigueta 60x160 del altillo",
+        "vigueta 60x160 del altillo"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Aislamiento (corcho)": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        71.94999694824219,
+        -0.05000000074505806,
+        0.1599999964237213
+      ],
+      "max": [
+        78.69999694824219,
+        4.75,
+        5.920000076293945
+      ],
+      "names": [
+        "aislamiento de corcho 120 (suelo)",
+        "corcho expandido 140",
+        "aislamiento de corcho 120 (suelo del ala)",
+        "corcho expandido 140"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Cubierta": {
+      "n": 5,
+      "types": {
+        "Mesh": 5
+      },
+      "min": [
+        70.83000183105469,
+        -1.1699999570846558,
+        5.739999771118164
+      ],
+      "max": [
+        78.72000122070312,
+        4.769999980926514,
+        5.949999809265137
+      ],
+      "names": [
+        "tablero de cubierta 40",
+        "lámina + protección",
+        "alero curvo · relleno y canto de chapa plegada",
+        "tablero de cubierta 40"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Tabiques y baño": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        72.12999725341797,
+        2.950000047683716,
+        0.31200000643730164
+      ],
+      "max": [
+        73.37000274658203,
+        4.570000171661377,
+        1.159999966621399
+      ],
+      "names": [
+        "plato de ducha 800x800 enrasado",
+        "inodoro suspendido",
+        "lavabo"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Cocina": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        75.62999725341797,
+        2.450000047683716,
+        1.1699999570846558
+      ],
+      "max": [
+        76.25,
+        4.550000190734863,
+        2.7300000190734863
+      ],
+      "names": [
+        "encimera de cocina 2,10 x 0,62",
+        "campana con extracción mecánica (DB HS 3)",
+        "mueble alto de cocina (oculta el tramo vertical de la campana)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Mobiliario": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        72.0999984741211,
+        0.75,
+        0.30000001192092896
+      ],
+      "max": [
+        78.02452850341797,
+        4.650000095367432,
+        5.039999961853027
+      ],
+      "names": [
+        "muebles bajos de cocina",
+        "armario del altillo 0,60",
+        "mesa de comer y trabajar 1,40 x 0,70 (roble), girada hacia la ventana",
+        "pata de la mesa Ø40"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Escalera de caracol": {
+      "n": 33,
+      "types": {
+        "Mesh": 33
+      },
+      "min": [
+        72.18006134033203,
+        0.18037334084510803,
+        0.30000001192092896
+      ],
+      "max": [
+        74.11973571777344,
+        2.359999895095825,
+        2.940000057220459
+      ],
+      "names": [
+        "fuste de acero Ø140 x 8",
+        "placa base del fuste 300x300x15",
+        "peldaño de roble 40 con canto redondeado r 8",
+        "casquillo de acero Ø180 (altura = contrahuella)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Barandillas": {
+      "n": 410,
+      "types": {
+        "Mesh": 410
+      },
+      "min": [
+        70.9800033569336,
+        -1.0199999809265137,
+        -0.22499999403953552
+      ],
+      "max": [
+        76.31999969482422,
+        6.820000171661377,
+        3.9200000762939453
+      ],
+      "names": [
+        "barrera del rellano · barrote Ø16",
+        "barrera del rellano · barrote Ø16",
+        "barrera del rellano · barrote Ø16",
+        "barrera del rellano · barrote Ø16"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Cuero": {
+      "n": 43,
+      "types": {
+        "Mesh": 43
+      },
+      "min": [
+        70.97501373291016,
+        -1.024999976158142,
+        0.33288097381591797
+      ],
+      "max": [
+        76.32499694824219,
+        6.812596797943115,
+        3.944999933242798
+      ],
+      "names": [
+        "puerta de entrada · tirador de cuero curtido",
+        "barrera del rellano · pasamanos forrado de cuero Ø50",
+        "barrera del rellano · pasamanos forrado de cuero Ø50",
+        "barrera del rellano · pasamanos forrado de cuero Ø50"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Rellano y miniescalera": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        73.94999694824219,
+        4.800000190734863,
+        -0.4449999928474426
+      ],
+      "max": [
+        76.30000305175781,
+        6.820000171661377,
+        0.30000001192092896
+      ],
+      "names": [
+        "rellano de tramex 30x2",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado",
+        "peldaño de chapa plegada con canto redondeado"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Instalaciones vistas": {
+      "n": 10,
+      "types": {
+        "Mesh": 10
+      },
+      "min": [
+        72.28468322753906,
+        2.9375,
+        -0.3400000035762787
+      ],
+      "max": [
+        76.13249969482422,
+        4.88700008392334,
+        2.8809330463409424
+      ],
+      "names": [
+        "bajante de fecales Ø110 · manguito de conexión al colector del edificio",
+        "bajante de fecales Ø110",
+        "agua fría · manguito de conexión al colector del edificio",
+        "agua fría"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Agua de lluvia": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        70.73503112792969,
+        -1.2649999856948853,
+        -0.3400000035762787
+      ],
+      "max": [
+        76.3499984741211,
+        4.869500160217285,
+        5.925000190734863
+      ],
+      "names": [
+        "bajante Ø75 · manguito de conexión al colector del edificio",
+        "bajante Ø75",
+        "canalón Ø110 curvado"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Ejes": {
+      "n": 131,
+      "types": {
+        "PolylineCurve": 131
+      },
+      "min": [
+        71.0,
+        -1.25,
+        -1.2
+      ],
+      "max": [
+        78.32971370637216,
+        6.800000000000001,
+        7.150000000000001
+      ],
+      "names": [
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355",
+        "tirante Ø30 S355"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Herrajes y carriles (inox)": {
+      "n": 14,
+      "types": {
+        "Mesh": 14
+      },
+      "min": [
+        72.79000091552734,
+        -0.10000000149011612,
+        0.2849999964237213
+      ],
+      "max": [
+        76.36000061035156,
+        4.840000152587891,
+        5.480000019073486
+      ],
+      "names": [
+        "baño-cápsula · carril",
+        "ventanal lateral · umbral",
+        "guillotina · guía vertical (contrapeso oculto en la jamba)",
+        "guillotina · guía vertical (contrapeso oculto en la jamba)"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Baño-cápsula (microcemento)": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        72.05000305175781,
+        2.450000047683716,
+        0.30000001192092896
+      ],
+      "max": [
+        73.44999694824219,
+        4.650000095367432,
+        2.759999990463257
+      ],
+      "names": [
+        "baño-cápsula · muro curvo de microcemento (80)",
+        "baño-cápsula · techo (registrable)",
+        "baño-cápsula · solado continuo"
+      ]
+    },
+    "G3 · v5 · Fuera del cubo 2 · esquina curva y ala semicircular::Guillotina · posición abierta (referencia)": {
+      "n": 6,
+      "types": {
+        "Mesh": 6
+      },
+      "min": [
+        76.1520004272461,
+        0.12999999523162842,
+        1.5199999809265137
+      ],
+      "max": [
+        76.25,
+        2.2200000286102295,
+        3.9200000762939453
+      ],
+      "names": [
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60",
+        "guillotina abierta 1,20 (referencia) · marco de hoja 60x60"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Estructura de hormigón": {
+      "n": 12,
+      "types": {
+        "Mesh": 12
+      },
+      "min": [
+        87.8499984741211,
+        -0.125,
+        -0.25
+      ],
+      "max": [
+        91.75,
+        7.724999904632568,
+        5.125
+      ],
+      "names": [
+        "pilar de hormigón 250x250",
+        "pilar de hormigón 250x250",
+        "pilar de hormigón 250x250",
+        "pilar de hormigón 250x250"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Muros y tabiques": {
+      "n": 11,
+      "types": {
+        "Mesh": 11
+      },
+      "min": [
+        87.8499984741211,
+        0.0,
+        0.0
+      ],
+      "max": [
+        91.75,
+        7.599999904632568,
+        4.875
+      ],
+      "names": [
+        "medianera de bloque enlucida",
+        "medianera de bloque enlucida",
+        "peto bajo la ventana corrida",
+        "antepecho de cubierta"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Suelos": {
+      "n": 3,
+      "types": {
+        "Mesh": 3
+      },
+      "min": [
+        88.0,
+        0.25,
+        0.0
+      ],
+      "max": [
+        91.5999984741211,
+        7.599999904632568,
+        2.569999933242798
+      ],
+      "names": [
+        "tarima de la estancia",
+        "tarima del dormitorio",
+        "linóleo de la entrada"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Carpintería y vidrio": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        88.0,
+        0.07999999821186066,
+        2.125
+      ],
+      "max": [
+        91.5999984741211,
+        7.510000228881836,
+        4.574999809265137
+      ],
+      "names": [
+        "marco de la ventana corrida",
+        "vidrio de la ventana corrida",
+        "ventana alta del dormitorio (sobre el corredor)",
+        "mampara"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Escaleras": {
+      "n": 17,
+      "types": {
+        "Mesh": 17
+      },
+      "min": [
+        88.05000305175781,
+        2.8832833766937256,
+        -0.02491096779704094
+      ],
+      "max": [
+        91.5,
+        4.829999923706055,
+        2.574910879135132
+      ],
+      "names": [
+        "peldaño (entrada → estancia)",
+        "peldaño (estancia → dormitorio)",
+        "peldaño (entrada → estancia)",
+        "peldaño (estancia → dormitorio)"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Barandillas": {
+      "n": 43,
+      "types": {
+        "Mesh": 43
+      },
+      "min": [
+        87.9800033569336,
+        0.07999999821186066,
+        0.09394736588001251
+      ],
+      "max": [
+        91.62000274658203,
+        7.659999847412109,
+        4.875
+      ],
+      "names": [
+        "travesaño de acero",
+        "travesaño de acero",
+        "travesaño de acero",
+        "montante de acero"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Cocina-elemento": {
+      "n": 5,
+      "types": {
+        "Mesh": 5
+      },
+      "min": [
+        90.0,
+        6.800000190734863,
+        0.0
+      ],
+      "max": [
+        91.4000015258789,
+        7.400000095367432,
+        2.049999952316284
+      ],
+      "names": [
+        "cocina-elemento (armario-cocina Narkomfin)",
+        "encimera",
+        "armario alto de la cocina-elemento",
+        "fuego"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Baño": {
+      "n": 4,
+      "types": {
+        "Mesh": 4
+      },
+      "min": [
+        88.0999984741211,
+        6.25,
+        0.0
+      ],
+      "max": [
+        91.5,
+        7.380000114440918,
+        3.390000104904175
+      ],
+      "names": [
+        "inodoro",
+        "lavamanos",
+        "rincón de aseo: plato de ducha",
+        "lavabo del dormitorio"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Mobiliario": {
+      "n": 15,
+      "types": {
+        "Mesh": 15
+      },
+      "min": [
+        88.05000305175781,
+        0.30000001192092896,
+        0.0
+      ],
+      "max": [
+        91.5,
+        7.579999923706055,
+        4.650000095367432
+      ],
+      "names": [
+        "puerta al corredor",
+        "hueco bajo el tramo B (armario)",
+        "cama 0,90 x 2,00",
+        "armario empotrado"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Color Scheper": {
+      "n": 2,
+      "types": {
+        "Mesh": 2
+      },
+      "min": [
+        88.0,
+        0.0,
+        1.2949999570846558
+      ],
+      "max": [
+        91.5999984741211,
+        7.599999904632568,
+        4.875
+      ],
+      "names": [
+        "paño de color (azul) en la medianera",
+        "techo de color (ocre claro)"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Corredor (tramo)": {
+      "n": 2,
+      "types": {
+        "Mesh": 2
+      },
+      "min": [
+        88.0,
+        7.599999904632568,
+        -0.25
+      ],
+      "max": [
+        91.5999984741211,
+        9.600000381469727,
+        2.549999952316284
+      ],
+      "names": [
+        "suelo del corredor",
+        "techo del corredor"
+      ]
+    },
+    "Célula F · Stroikom 1928 / Narkomfin (Ginzburg, Milinis)::Ejes": {
+      "n": 4,
+      "types": {
+        "PolylineCurve": 4
+      },
+      "min": [
+        87.5,
+        -0.5,
+        0.0
+      ],
+      "max": [
+        92.1,
+        -0.5,
+        4.875
+      ],
+      "names": [
+        "nivel +0.000",
+        "nivel +1.275",
+        "nivel +2.550",
+        "nivel +4.875"
+      ]
+    }
+  },
+  "views": [
+    "Perspective",
+    "Top",
+    "Front",
+    "Right"
+  ]
+}

@@ -1,0 +1,2716 @@
+{
+  "method": "Proyeccion horizontal de bandejas, suelos comunes, galerias y cada huella/meseta; union por cota para eliminar duplicados coplanares. No computo urbanistico ni superficie construida normativa.",
+  "sum_before_union_m2": 1638.8118008847227,
+  "union_by_height_m2": 1549.5711748909448,
+  "categories_before_union_m2": {
+    "bandejas": 1104.2515883205767,
+    "escaleras": 269.88921256414596,
+    "galerias": 115.03100000000003,
+    "comunes": 149.64
+  },
+  "bodies_inside_plates_m2": 652.8,
+  "ground_communal_m2": 149.64,
+  "not_added_again": "652.8m2 de pabellones ya incluidos en bandejas. Ascensores, huecos y espesor de cerramientos requieren criterio de computo independiente.",
+  "elements": [
+    {
+      "element": "P01",
+      "category": "bandejas",
+      "z": 3.8,
+      "area_m2": 110.52763504147006
+    },
+    {
+      "element": "P02",
+      "category": "bandejas",
+      "z": 9.4,
+      "area_m2": 110.52763504147005
+    },
+    {
+      "element": "P03",
+      "category": "bandejas",
+      "z": 15.0,
+      "area_m2": 110.52763504147006
+    },
+    {
+      "element": "P04",
+      "category": "bandejas",
+      "z": 20.6,
+      "area_m2": 110.52763504147006
+    },
+    {
+      "element": "P05",
+      "category": "bandejas",
+      "z": 6.6,
+      "area_m2": 110.52763504147008
+    },
+    {
+      "element": "P06",
+      "category": "bandejas",
+      "z": 12.2,
+      "area_m2": 110.52763504147006
+    },
+    {
+      "element": "P07",
+      "category": "bandejas",
+      "z": 17.8,
+      "area_m2": 110.52763504147008
+    },
+    {
+      "element": "P08",
+      "category": "bandejas",
+      "z": 9.4,
+      "area_m2": 110.50618855302814
+    },
+    {
+      "element": "P09",
+      "category": "bandejas",
+      "z": 15.0,
+      "area_m2": 109.61225418319403
+    },
+    {
+      "element": "P10",
+      "category": "bandejas",
+      "z": 20.6,
+      "area_m2": 110.43970029406415
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 3.8,
+      "area_m2": 1.5599999999999983
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 6.6,
+      "area_m2": 1.5600000000000083
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 3.975,
+      "area_m2": 0.477324578413602
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 4.15,
+      "area_m2": 0.477324578413602
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 4.325,
+      "area_m2": 0.477324578413602
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 4.5,
+      "area_m2": 0.477324578413602
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 4.675,
+      "area_m2": 0.477324578413602
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 4.85,
+      "area_m2": 0.477324578413602
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 5.025,
+      "area_m2": 0.4773245784136017
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 5.2,
+      "area_m2": 0.4773245784136017
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 5.375,
+      "area_m2": 0.4773245784136017
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 5.55,
+      "area_m2": 0.477324578413602
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 5.725,
+      "area_m2": 0.47732457841360176
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 5.9,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 6.075,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 6.25,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 6.425,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 6.6,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 9.4,
+      "area_m2": 1.5599999999999992
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 12.2,
+      "area_m2": 1.5600000000000083
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 9.575,
+      "area_m2": 0.4773245784136017
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 9.75,
+      "area_m2": 0.4773245784136017
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 9.925,
+      "area_m2": 0.4773245784136017
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.1,
+      "area_m2": 0.4773245784136017
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.275,
+      "area_m2": 0.4773245784136017
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.45,
+      "area_m2": 0.4773245784136017
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.625,
+      "area_m2": 0.47732457841360176
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.8,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.975,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 11.15,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 11.325,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 11.5,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 11.675,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 11.85,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 12.025,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Enlace huella 367 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 12.2,
+      "area_m2": 0.4773245784136018
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 12.2,
+      "area_m2": 1.560000000000008
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 15.0,
+      "area_m2": 1.5599999999999998
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 12.3647,
+      "area_m2": 0.49269809930030284
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 12.5294,
+      "area_m2": 0.49269809930030284
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 12.6941,
+      "area_m2": 0.49269809930030306
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 12.8588,
+      "area_m2": 0.4926980993003033
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 13.0235,
+      "area_m2": 0.4926980993003036
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 13.1882,
+      "area_m2": 0.4926980993003036
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 13.3529,
+      "area_m2": 0.4926980993003036
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 13.5176,
+      "area_m2": 0.4926980993003036
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 13.6824,
+      "area_m2": 0.4926980993003036
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 13.8471,
+      "area_m2": 0.4926980993003036
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 14.0118,
+      "area_m2": 0.4926980993003035
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 14.1765,
+      "area_m2": 0.4926980993003035
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 14.3412,
+      "area_m2": 0.4926980993003035
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 14.5059,
+      "area_m2": 0.4926980993003035
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 14.6706,
+      "area_m2": 0.4926980993003033
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 14.8353,
+      "area_m2": 0.4926980993003033
+    },
+    {
+      "element": "Enlace huella 379 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 15.0,
+      "area_m2": 0.4926980993003033
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 17.8,
+      "area_m2": 1.5599999999999923
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 20.6,
+      "area_m2": 1.5600000000000012
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 17.9647,
+      "area_m2": 0.4133427924492845
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 18.1294,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 18.2941,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 18.4588,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 18.6235,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 18.7882,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 18.9529,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 19.1176,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 19.2824,
+      "area_m2": 0.41334279244929384
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 19.4471,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 19.6118,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 19.7765,
+      "area_m2": 0.41334279244929356
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 19.9412,
+      "area_m2": 0.41334279244929356
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 20.1059,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 20.2706,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 20.4353,
+      "area_m2": 0.41334279244929384
+    },
+    {
+      "element": "Enlace huella 318 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 20.6,
+      "area_m2": 0.41334279244929373
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 6.6,
+      "area_m2": 1.5599999999999952
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 9.4,
+      "area_m2": 1.5599999999999952
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 6.7647,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 6.9294,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 7.0941,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 7.2588,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 7.4235,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 7.5882,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 7.7529,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 7.9176,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 8.0824,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 8.2471,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 8.4118,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 8.5765,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 8.7412,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 8.9059,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 9.0706,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 9.2353,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Enlace huella 341 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 9.4,
+      "area_m2": 0.4429548010047414
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 9.4,
+      "area_m2": 1.5599999999999965
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 12.2,
+      "area_m2": 1.5599999999999965
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 9.575,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 9.75,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 9.925,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.1,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.275,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.45,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.625,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.8,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 10.975,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 11.15,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 11.325,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 11.5,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 11.675,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 11.85,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 12.025,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Enlace huella 317 contrahuella 175 mm",
+      "category": "escaleras",
+      "z": 12.2,
+      "area_m2": 0.4125750917048103
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 15.0,
+      "area_m2": 1.560000000000008
+    },
+    {
+      "element": "Descansillo enlace",
+      "category": "escaleras",
+      "z": 17.8,
+      "area_m2": 1.560000000000008
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 15.1647,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 15.3294,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 15.4941,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 15.6588,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 15.8235,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 15.9882,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 16.1529,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 16.3176,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 16.4824,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 16.6471,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 16.8118,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 16.9765,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 17.1412,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 17.3059,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 17.4706,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 17.6353,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "Enlace huella 375 contrahuella 165 mm",
+      "category": "escaleras",
+      "z": 17.8,
+      "area_m2": 0.4876881065180912
+    },
+    {
+      "element": "ASC1 rellano giro",
+      "category": "galerias",
+      "z": 0.0,
+      "area_m2": 3.3
+    },
+    {
+      "element": "ASC1 rellano giro",
+      "category": "galerias",
+      "z": 3.8,
+      "area_m2": 3.3
+    },
+    {
+      "element": "ASC1 rellano giro",
+      "category": "galerias",
+      "z": 9.4,
+      "area_m2": 3.3
+    },
+    {
+      "element": "ASC1 rellano giro",
+      "category": "galerias",
+      "z": 15.0,
+      "area_m2": 3.3
+    },
+    {
+      "element": "ASC1 rellano giro",
+      "category": "galerias",
+      "z": 20.6,
+      "area_m2": 3.3
+    },
+    {
+      "element": "ASC2 rellano giro",
+      "category": "galerias",
+      "z": 0.0,
+      "area_m2": 3.3
+    },
+    {
+      "element": "ASC2 rellano giro",
+      "category": "galerias",
+      "z": 6.6,
+      "area_m2": 3.3
+    },
+    {
+      "element": "ASC2 rellano giro",
+      "category": "galerias",
+      "z": 12.2,
+      "area_m2": 3.3
+    },
+    {
+      "element": "ASC2 rellano giro",
+      "category": "galerias",
+      "z": 17.8,
+      "area_m2": 3.3
+    },
+    {
+      "element": "ASC3 rellano giro",
+      "category": "galerias",
+      "z": 0.0,
+      "area_m2": 3.299999999999999
+    },
+    {
+      "element": "ASC3 rellano giro",
+      "category": "galerias",
+      "z": 9.4,
+      "area_m2": 3.299999999999999
+    },
+    {
+      "element": "ASC3 rellano giro",
+      "category": "galerias",
+      "z": 15.0,
+      "area_m2": 3.299999999999999
+    },
+    {
+      "element": "ASC3 rellano giro",
+      "category": "galerias",
+      "z": 20.6,
+      "area_m2": 3.299999999999999
+    },
+    {
+      "element": "COM suelo",
+      "category": "comunes",
+      "z": 0.16,
+      "area_m2": 49.87999999999999
+    },
+    {
+      "element": "COM suelo",
+      "category": "comunes",
+      "z": 0.16,
+      "area_m2": 49.87999999999999
+    },
+    {
+      "element": "COM suelo",
+      "category": "comunes",
+      "z": 0.16,
+      "area_m2": 49.88000000000001
+    },
+    {
+      "element": "ESC_OESTE rellano",
+      "category": "escaleras",
+      "z": 0.0,
+      "area_m2": 3.639999999999998
+    },
+    {
+      "element": "ESC_OESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 0.0,
+      "area_m2": 3.639999999999999
+    },
+    {
+      "element": "ESC_OESTE rellano",
+      "category": "escaleras",
+      "z": 3.8,
+      "area_m2": 3.639999999999998
+    },
+    {
+      "element": "ESC_OESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 3.8,
+      "area_m2": 3.639999999999999
+    },
+    {
+      "element": "ESC_OESTE rellano",
+      "category": "escaleras",
+      "z": 9.4,
+      "area_m2": 3.639999999999998
+    },
+    {
+      "element": "ESC_OESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 9.4,
+      "area_m2": 3.639999999999999
+    },
+    {
+      "element": "ESC_OESTE rellano",
+      "category": "escaleras",
+      "z": 15.0,
+      "area_m2": 3.639999999999998
+    },
+    {
+      "element": "ESC_OESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 15.0,
+      "area_m2": 3.639999999999999
+    },
+    {
+      "element": "ESC_OESTE rellano",
+      "category": "escaleras",
+      "z": 20.6,
+      "area_m2": 3.639999999999998
+    },
+    {
+      "element": "ESC_OESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 20.6,
+      "area_m2": 3.639999999999999
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 0.1727,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 2.0727,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 0.3455,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 2.2455,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 0.5182,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 2.4182,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 0.6909,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 2.5909,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 0.8636,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 2.7636,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 1.0364,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 2.9364,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 1.2091,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 3.1091,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 1.3818,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 3.2818,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 1.5545,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 3.4545,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 1.7273,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 3.6273,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 1.9,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 3.8,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE meseta intermedia",
+      "category": "escaleras",
+      "z": 1.9,
+      "area_m2": 3.4060000000000015
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 3.9647,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 6.7647,
+      "area_m2": 0.3480000000000003
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 4.1294,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 6.9294,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 4.2941,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 7.0941,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 4.4588,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 7.2588,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 4.6235,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 7.4235,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 4.7882,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 7.5882,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 4.9529,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 7.7529,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 5.1176,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 7.9176,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 5.2824,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 8.0824,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 5.4471,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 8.2471,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 5.6118,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 8.4118,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 5.7765,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 8.5765,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 5.9412,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 8.7412,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 6.1059,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 8.9059,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 6.2706,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 9.0706,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 6.4353,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 9.2353,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 6.6,
+      "area_m2": 0.34799999999999975
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 9.4,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE meseta intermedia",
+      "category": "escaleras",
+      "z": 6.6,
+      "area_m2": 3.4060000000000015
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 9.575,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 12.375,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 9.75,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 12.55,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 9.925,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 12.725,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 10.1,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 12.9,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 10.275,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 13.075,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 10.45,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 13.25,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 10.625,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 13.425,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 10.8,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 13.6,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 10.975,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 13.775,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 11.15,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 13.95,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 11.325,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 14.125,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 11.5,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 14.3,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 11.675,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 14.475,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 11.85,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 14.65,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 12.025,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 14.825,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 12.2,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 15.0,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE meseta intermedia",
+      "category": "escaleras",
+      "z": 12.2,
+      "area_m2": 3.4060000000000015
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 15.1647,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 17.9647,
+      "area_m2": 0.3480000000000003
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 15.3294,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 18.1294,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 15.4941,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 18.2941,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 15.6588,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 18.4588,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 15.8235,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 18.6235,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 15.9882,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 18.7882,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 16.1529,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 18.9529,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 16.3176,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 19.1176,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 16.4824,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 19.2824,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 16.6471,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 19.4471,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 16.8118,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 19.6118,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 16.9765,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 19.7765,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 17.1412,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 19.9412,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 17.3059,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 20.1059,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 17.4706,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 20.2706,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 17.6353,
+      "area_m2": 0.3479999999999998
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 20.4353,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE tramo A",
+      "category": "escaleras",
+      "z": 17.8,
+      "area_m2": 0.34799999999999975
+    },
+    {
+      "element": "ESC_OESTE tramo B",
+      "category": "escaleras",
+      "z": 20.6,
+      "area_m2": 0.34800000000000036
+    },
+    {
+      "element": "ESC_OESTE meseta intermedia",
+      "category": "escaleras",
+      "z": 17.8,
+      "area_m2": 3.4060000000000015
+    },
+    {
+      "element": "ESC_ESTE rellano",
+      "category": "escaleras",
+      "z": 0.0,
+      "area_m2": 3.6399999999999957
+    },
+    {
+      "element": "ESC_ESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 0.0,
+      "area_m2": 3.6399999999999966
+    },
+    {
+      "element": "ESC_ESTE rellano",
+      "category": "escaleras",
+      "z": 3.13,
+      "area_m2": 3.6399999999999957
+    },
+    {
+      "element": "ESC_ESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 3.13,
+      "area_m2": 3.6399999999999966
+    },
+    {
+      "element": "ESC_ESTE rellano",
+      "category": "escaleras",
+      "z": 6.26,
+      "area_m2": 3.6399999999999957
+    },
+    {
+      "element": "ESC_ESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 6.26,
+      "area_m2": 3.6399999999999966
+    },
+    {
+      "element": "ESC_ESTE rellano",
+      "category": "escaleras",
+      "z": 9.4,
+      "area_m2": 3.6399999999999957
+    },
+    {
+      "element": "ESC_ESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 9.4,
+      "area_m2": 3.6399999999999966
+    },
+    {
+      "element": "ESC_ESTE rellano",
+      "category": "escaleras",
+      "z": 15.0,
+      "area_m2": 3.6399999999999957
+    },
+    {
+      "element": "ESC_ESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 15.0,
+      "area_m2": 3.6399999999999966
+    },
+    {
+      "element": "ESC_ESTE rellano",
+      "category": "escaleras",
+      "z": 20.6,
+      "area_m2": 3.6399999999999957
+    },
+    {
+      "element": "ESC_ESTE rellano opuesto",
+      "category": "escaleras",
+      "z": 20.6,
+      "area_m2": 3.6399999999999966
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 0.1739,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 1.7389,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 0.3478,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 1.9128,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 0.5217,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 2.0867,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 0.6956,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 2.2606,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 0.8694,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 2.4344,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 1.0433,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 2.6083,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 1.2172,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 2.7822,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 1.3911,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 2.9561,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 1.565,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 3.13,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE meseta intermedia",
+      "category": "escaleras",
+      "z": 1.565,
+      "area_m2": 3.4059999999999966
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 3.3039,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 4.8689,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 3.4778,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 5.0428,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 3.6517,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 5.2167,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 3.8256,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 5.3906,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 3.9994,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 5.5644,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 4.1733,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 5.7383,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 4.3472,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 5.9122,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 4.5211,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 6.0861,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 4.695,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 6.26,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE meseta intermedia",
+      "category": "escaleras",
+      "z": 4.695,
+      "area_m2": 3.4059999999999966
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 6.4344,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 8.0044,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 6.6089,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 8.1789,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 6.7833,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 8.3533,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 6.9578,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 8.5278,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 7.1322,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 8.7022,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 7.3067,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 8.8767,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 7.4811,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 9.0511,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 7.6556,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 9.2256,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 7.83,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 9.4,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE meseta intermedia",
+      "category": "escaleras",
+      "z": 7.83,
+      "area_m2": 3.4059999999999966
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 9.575,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 12.375,
+      "area_m2": 0.3480000000000008
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 9.75,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 12.55,
+      "area_m2": 0.3480000000000008
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 9.925,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 12.725,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 10.1,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 12.9,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 10.275,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 13.075,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 10.45,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 13.25,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 10.625,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 13.425,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 10.8,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 13.6,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 10.975,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 13.775,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 11.15,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 13.95,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 11.325,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 14.125,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 11.5,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 14.3,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 11.675,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 14.475,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 11.85,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 14.65,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 12.025,
+      "area_m2": 0.3480000000000008
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 14.825,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 12.2,
+      "area_m2": 0.3480000000000008
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 15.0,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE meseta intermedia",
+      "category": "escaleras",
+      "z": 12.2,
+      "area_m2": 3.4059999999999966
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 15.1647,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 17.9647,
+      "area_m2": 0.3480000000000008
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 15.3294,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 18.1294,
+      "area_m2": 0.3480000000000008
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 15.4941,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 18.2941,
+      "area_m2": 0.3480000000000008
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 15.6588,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 18.4588,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 15.8235,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 18.6235,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 15.9882,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 18.7882,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 16.1529,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 18.9529,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 16.3176,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 19.1176,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 16.4824,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 19.2824,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 16.6471,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 19.4471,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 16.8118,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 19.6118,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 16.9765,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 19.7765,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 17.1412,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 19.9412,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 17.3059,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 20.1059,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 17.4706,
+      "area_m2": 0.3480000000000008
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 20.2706,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 17.6353,
+      "area_m2": 0.3480000000000008
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 20.4353,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE tramo A",
+      "category": "escaleras",
+      "z": 17.8,
+      "area_m2": 0.3480000000000008
+    },
+    {
+      "element": "ESC_ESTE tramo B",
+      "category": "escaleras",
+      "z": 20.6,
+      "area_m2": 0.34800000000000086
+    },
+    {
+      "element": "ESC_ESTE meseta intermedia",
+      "category": "escaleras",
+      "z": 17.8,
+      "area_m2": 3.4059999999999966
+    },
+    {
+      "element": "ESC_ESTE rellano oeste",
+      "category": "galerias",
+      "z": 0.0,
+      "area_m2": 2.0999999999999996
+    },
+    {
+      "element": "ESC_ESTE rellano oeste",
+      "category": "galerias",
+      "z": 3.13,
+      "area_m2": 2.0999999999999996
+    },
+    {
+      "element": "ESC_ESTE rellano oeste",
+      "category": "galerias",
+      "z": 6.26,
+      "area_m2": 2.0999999999999996
+    },
+    {
+      "element": "ESC_ESTE rellano oeste",
+      "category": "galerias",
+      "z": 9.4,
+      "area_m2": 2.0999999999999996
+    },
+    {
+      "element": "ESC_ESTE rellano oeste",
+      "category": "galerias",
+      "z": 15.0,
+      "area_m2": 2.0999999999999996
+    },
+    {
+      "element": "ESC_ESTE rellano oeste",
+      "category": "galerias",
+      "z": 20.6,
+      "area_m2": 2.0999999999999996
+    },
+    {
+      "element": "Salida oeste galeria",
+      "category": "galerias",
+      "z": 3.8,
+      "area_m2": 4.199999999999996
+    },
+    {
+      "element": "Ramal oeste junto a unidad",
+      "category": "galerias",
+      "z": 3.8,
+      "area_m2": 6.461000000000003
+    },
+    {
+      "element": "Entrada lateral oeste",
+      "category": "galerias",
+      "z": 3.8,
+      "area_m2": 1.0139999999999971
+    },
+    {
+      "element": "Salida oeste galeria",
+      "category": "galerias",
+      "z": 9.4,
+      "area_m2": 4.199999999999996
+    },
+    {
+      "element": "Ramal oeste junto a unidad",
+      "category": "galerias",
+      "z": 9.4,
+      "area_m2": 6.149000000000004
+    },
+    {
+      "element": "Entrada lateral oeste",
+      "category": "galerias",
+      "z": 9.4,
+      "area_m2": 1.884999999999999
+    },
+    {
+      "element": "Salida oeste galeria",
+      "category": "galerias",
+      "z": 15.0,
+      "area_m2": 4.199999999999996
+    },
+    {
+      "element": "Ramal oeste junto a unidad",
+      "category": "galerias",
+      "z": 15.0,
+      "area_m2": 6.409000000000003
+    },
+    {
+      "element": "Entrada lateral oeste",
+      "category": "galerias",
+      "z": 15.0,
+      "area_m2": 1.1959999999999977
+    },
+    {
+      "element": "Salida oeste galeria",
+      "category": "galerias",
+      "z": 20.6,
+      "area_m2": 4.199999999999996
+    },
+    {
+      "element": "Ramal oeste junto a unidad",
+      "category": "galerias",
+      "z": 20.6,
+      "area_m2": 6.201000000000003
+    },
+    {
+      "element": "Entrada lateral oeste",
+      "category": "galerias",
+      "z": 20.6,
+      "area_m2": 1.7159999999999958
+    },
+    {
+      "element": "Enlace salida este detras ascensor",
+      "category": "galerias",
+      "z": 9.4,
+      "area_m2": 3.9000000000000004
+    },
+    {
+      "element": "Enlace salida este detras ascensor",
+      "category": "galerias",
+      "z": 15.0,
+      "area_m2": 3.9000000000000004
+    },
+    {
+      "element": "Enlace salida este detras ascensor",
+      "category": "galerias",
+      "z": 20.6,
+      "area_m2": 3.9000000000000004
+    }
+  ]
+}

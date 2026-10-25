@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/Volumes/T7/G3 Proyectos/G3 CLAUDE/03_MEGAESTRUCTURA_MACARRA_Y_SELVA_11-16oct/G3_SELVA_MACARRA_V4_CALCULADA_2026-10-16/fuentes/modelar_v4_rhino.py", line 443, in <module>
+    with open(os.path.join(ROOT,'fuentes','geometria_render.json'),'w') as f:json.dump(batches,f,separators=(',',':'))
+  File "/Applications/Rhino 8.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RhinoDLR_Python.rhp/Lib/json/__init__.py", line 189, in dump
+    for chunk in iterable:
+  File "/Applications/Rhino 8.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RhinoDLR_Python.rhp/Lib/json/encoder.py", line 434, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/Applications/Rhino 8.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RhinoDLR_Python.rhp/Lib/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/Applications/Rhino 8.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RhinoDLR_Python.rhp/Lib/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/Applications/Rhino 8.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RhinoDLR_Python.rhp/Lib/json/encoder.py", line 332, in _iterencode_list
+    for chunk in chunks:
+  File "/Applications/Rhino 8.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RhinoDLR_Python.rhp/Lib/json/encoder.py", line 332, in _iterencode_list
+    for chunk in chunks:
+  File "/Applications/Rhino 8.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RhinoDLR_Python.rhp/Lib/json/encoder.py", line 442, in _iterencode
+    o = _default(o)
+  File "/Applications/Rhino 8.app/Contents/Frameworks/RhCore.framework/Resources/ManagedPlugIns/RhinoDLR_Python.rhp/Lib/json/encoder.py", line 184, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: 19.844 is not JSON serializable

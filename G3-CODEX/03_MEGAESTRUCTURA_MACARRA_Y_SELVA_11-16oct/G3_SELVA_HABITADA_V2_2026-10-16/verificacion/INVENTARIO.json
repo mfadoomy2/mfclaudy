@@ -1,0 +1,162 @@
+[
+  {
+    "path": "LEEME.md",
+    "bytes": 2398,
+    "sha256": "2fa6088a930e7abf90de602765870b26495c8476626865616b7a4b15860c4b5a"
+  },
+  {
+    "path": "PROPUESTA_SELVA_HABITADA.pdf",
+    "bytes": 14094104,
+    "sha256": "b8253f7af2445fa597534d2dd41e8d5364d94da707a7063398ad7b9bad379c13"
+  },
+  {
+    "path": "GUION_EXPOSICION.md",
+    "bytes": 6770,
+    "sha256": "662473c44ba9e7c19d96f0535bdb222aa9d3840ef5302cd72063b244ea235e90"
+  },
+  {
+    "path": "modelos/02_SELVA_EN_PARCELA.json",
+    "bytes": 7096218,
+    "sha256": "a6cb4b9f205f51eb0a2d53c423755a34876de04802e5db4a5d7bd74d7450b10a"
+  },
+  {
+    "path": "modelos/01_UNIDAD_U4.json",
+    "bytes": 519108,
+    "sha256": "129f974360c11e050c66fe083c7513fd0086fa35f22cd102ce9d5b369b281b20"
+  },
+  {
+    "path": "modelos/02_SELVA_EN_PARCELA.3dm",
+    "bytes": 5917948,
+    "sha256": "aef7e155f63625044943cf5704a8585d50a20a53894e15cf6dfa5f29479a664f"
+  },
+  {
+    "path": "modelos/01_UNIDAD_U4.3dm",
+    "bytes": 478428,
+    "sha256": "0dd31f4d60161b407ffc537f396b97aa04c70241c0b647a67caf770284d95c05"
+  },
+  {
+    "path": "fuentes/editar_cuaderno.py",
+    "bytes": 23259,
+    "sha256": "9bf3e0370d1c09a78ab4e663e55f8ae0cfdee0a946348d6e5676b0877f90077d"
+  },
+  {
+    "path": "fuentes/PROMPTS.md",
+    "bytes": 5646,
+    "sha256": "612610f1e9311bb3a89db9075a010f5a6a52f5ab17e69ab06e00b63c482e27d0"
+  },
+  {
+    "path": "fuentes/disenar_selva.py",
+    "bytes": 22208,
+    "sha256": "3a618914de4cac240ab5e900f052ca2f635c70616f4202282512276ef80c4807"
+  },
+  {
+    "path": "vistas/03_CAMBIO_ESCALA.png",
+    "bytes": 97993,
+    "sha256": "ca195e094fc72db74142edae79533d524d1a2ee70ba697a5fd45a7cf576aef55"
+  },
+  {
+    "path": "vistas/01_UNIDAD_PLANTA.svg",
+    "bytes": 73880,
+    "sha256": "30b8ead80bf49367fc19fe01baed2b276c48d47ce5ef241ff1d74fdad100da05"
+  },
+  {
+    "path": "vistas/02_PARCELA_IMPLANTACION.png",
+    "bytes": 118003,
+    "sha256": "1cb9c1489914909d2338e862e6e8cc5357616ef7a4ebb3b3c166fcb80e86d7e9"
+  },
+  {
+    "path": "vistas/05_CONJUNTO_GEOMETRIA.png",
+    "bytes": 599355,
+    "sha256": "bb3b5c4836c9d3dc0570e116b1b0a88b311ba357b436b18e4f14a78b800c156e"
+  },
+  {
+    "path": "vistas/07_U4_EXPLORACION_FORMAL.png",
+    "bytes": 2615491,
+    "sha256": "4a9e155f02625f648923188305553699026e6830c67295ba9d49da8598b3bc59"
+  },
+  {
+    "path": "vistas/05_CONJUNTO_GEOMETRIA.svg",
+    "bytes": 14242998,
+    "sha256": "f3f3158114d74b37a8a77ef6a861a9b240add751b419d03b7c9a0106c0d7f020"
+  },
+  {
+    "path": "vistas/02_PARCELA_IMPLANTACION.svg",
+    "bytes": 74351,
+    "sha256": "372af1e213e0c02feba5dde0c21c74cc2a43c7fc28b0df4ba771b0d9d3e67929"
+  },
+  {
+    "path": "vistas/01_UNIDAD_PLANTA.png",
+    "bytes": 121155,
+    "sha256": "7b68382523383ce2bcb881424d49925ce28b58a31b81e2532f80d31cf2174c4f"
+  },
+  {
+    "path": "vistas/03_CAMBIO_ESCALA.svg",
+    "bytes": 61723,
+    "sha256": "166f20bc75996192ee0fc149e07b90698de9fe18116a6261de750d1e1ac0baff"
+  },
+  {
+    "path": "vistas/06_CONTEXTO_GEOMETRIA.png",
+    "bytes": 326052,
+    "sha256": "04d04819a08df5f5b46e067af893d4d20d37fb559ba252c20e2749322ac67123"
+  },
+  {
+    "path": "vistas/09_INTERIOR_EXPLORACION_FORMAL.png",
+    "bytes": 2686487,
+    "sha256": "5bfb4d3e99479430a4a889d4637ffbeddc793da74c11ac218e6622869191de47"
+  },
+  {
+    "path": "vistas/04_UNIDAD_AXONOMETRIA.png",
+    "bytes": 374150,
+    "sha256": "08a64c8754f014c9734cbc9433b916adc19a74ce65e4494ff61b32bac2e9fb55"
+  },
+  {
+    "path": "vistas/08_SELVA_EXPLORACION_FORMAL.png",
+    "bytes": 2649108,
+    "sha256": "e498676ee06c85408f0d3a5b4837088e8fb796c910c12b2dc73918c9d7e02157"
+  },
+  {
+    "path": "vistas/04_UNIDAD_AXONOMETRIA.svg",
+    "bytes": 1140592,
+    "sha256": "c281848f44fdc0a372827d9104e4be424a92aa0fcbb2b170e9c743e1366479ee"
+  },
+  {
+    "path": "vistas/06_CONTEXTO_GEOMETRIA.svg",
+    "bytes": 14846491,
+    "sha256": "cb92989e5b8cc9f5e74b81ac5cda5fbe2019f22b701e7f2e082b755efd125db1"
+  },
+  {
+    "path": "verificacion/lectura_independiente.json",
+    "bytes": 1244,
+    "sha256": "4f1611f3f1af1cbc4960543a14a49a34d1ab1551fc371bffad9f1f9a45be125f"
+  },
+  {
+    "path": "verificacion/comprobacion.json",
+    "bytes": 4421,
+    "sha256": "6e6677ef9c88dbde9759cf9b449177aacd8a69239612ea23d7a2cad566dba319"
+  },
+  {
+    "path": "fuentes/referencia_original/MEGAESTRUCTURA_MACARRA_original.png",
+    "bytes": 8296776,
+    "sha256": "80392a55b281032de417965529619521d6fec11ffb845fcbca2d8eeca92aa8df"
+  },
+  {
+    "path": "fuentes/referencia_original/verificacion_original.json",
+    "bytes": 121709,
+    "sha256": "7ed8e71f497952b17fea07c5dfaf5158b3d06ae38899a45f7d41610ae12186a3"
+  },
+  {
+    "path": "fuentes/referencia_original/LEEME_original.md",
+    "bytes": 3927,
+    "sha256": "a24c62c5eaf90c80134719011c2ef074038f001cfcec79c6dc388cafc08bc2a1"
+  },
+  {
+    "path": "fuentes/geometria/contexto.npz",
+    "bytes": 91225,
+    "sha256": "72158f12a4e317a26b84c67aeeb31ac25714b60200b9015daba5704db43201c0"
+  },
+  {
+    "path": "fuentes/geometria/parcela_local.geojson",
+    "bytes": 1776,
+    "sha256": "6e4247048519682536e242fd181ecf3b9cf7cf5b7ac55ac4b1454e7fb9434b86"
+  }
+]

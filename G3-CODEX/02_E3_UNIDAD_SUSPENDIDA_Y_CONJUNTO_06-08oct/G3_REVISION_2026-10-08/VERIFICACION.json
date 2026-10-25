@@ -1,0 +1,64 @@
+{
+  "01_UNIDAD_reconstruida.3dm": {
+    "objects": 8500,
+    "types": {
+      "Mesh": 2029,
+      "PolylineCurve": 3176,
+      "Extrusion": 3295
+    },
+    "invalid": [],
+    "non_solid_extrusions": [],
+    "bytes": 26160434,
+    "missing_ids": [],
+    "added_ids": [],
+    "max_bbox_change_m": 1.62645302981268e-05,
+    "original_sha256": "9fe9204e70485a6584b09efe61d3314b41a76da8999a794f6b015709bd30f68f"
+  },
+  "02_CONJUNTOS_reconstruidos.3dm": {
+    "objects": 4044,
+    "types": {
+      "Mesh": 872,
+      "PolylineCurve": 8,
+      "TextDot": 105,
+      "Extrusion": 3059
+    },
+    "invalid": [],
+    "non_solid_extrusions": [],
+    "bytes": 14309021,
+    "missing_ids": [],
+    "added_ids": [],
+    "max_bbox_change_m": 4.886474606280444e-06,
+    "original_sha256": "ad581794c7a2c6a1d007d6317d33a3d90eaad34e6b9d58169dcd55d594f988f9"
+  },
+  "03_MODULO_D_duplex_propuesto.3dm": {
+    "objects": 1297,
+    "types": {
+      "Extrusion": 1088,
+      "Mesh": 209
+    },
+    "invalid": [],
+    "non_solid_extrusions": [],
+    "bytes": 1590513
+  },
+  "04_MODULO_S_una_planta.3dm": {
+    "objects": 428,
+    "types": {
+      "Extrusion": 428
+    },
+    "invalid": [],
+    "non_solid_extrusions": [],
+    "bytes": 522288
+  },
+  "05_CONJUNTO_propuesto_32_40.3dm": {
+    "objects": 2058,
+    "types": {
+      "Extrusion": 2048,
+      "Mesh": 10
+    },
+    "invalid": [],
+    "non_solid_extrusions": [],
+    "bytes": 2505360
+  },
+  "annotation_changes_common_stair_this_check": 0,
+  "annotation_common_stair_corrected_names": 1062
+}

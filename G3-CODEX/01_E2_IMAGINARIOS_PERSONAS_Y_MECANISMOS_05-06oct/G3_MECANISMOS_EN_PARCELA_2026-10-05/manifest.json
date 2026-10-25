@@ -1,0 +1,161 @@
+{
+  "dibujos": [
+    {
+      "archivo": "dibujos/11_habitacion_bisagra.png",
+      "px": [
+        1536,
+        1024
+      ],
+      "bytes": 3632653,
+      "sha256": "bafc7ec1aedff671b7320433bc89039693d2dcef7a4abe4911defe14b7667838"
+    },
+    {
+      "archivo": "dibujos/16_en_el_frente_real.png",
+      "px": [
+        1669,
+        942
+      ],
+      "bytes": 2905275,
+      "sha256": "40a3a1728a30987917bf23966b95b7ae0e5c510c504bd2ba930bc64b379937f2"
+    },
+    {
+      "archivo": "dibujos/10_D_casa_reparable.png",
+      "px": [
+        1536,
+        1024
+      ],
+      "bytes": 3717000,
+      "sha256": "bb52f8f19804e98748b16201a662d45ad23c62f8a4a83de466d3fcdb22576d7f"
+    },
+    {
+      "archivo": "dibujos/09_C_suelo_desocupado.png",
+      "px": [
+        1536,
+        1024
+      ],
+      "bytes": 3559490,
+      "sha256": "9fedd0fb1281d0812bfd8ae7c1312c84e73b8698be3c6c73c5d1d220ece5398e"
+    },
+    {
+      "archivo": "dibujos/08_B_seccion_entrelazada.png",
+      "px": [
+        1536,
+        1024
+      ],
+      "bytes": 3622856,
+      "sha256": "9dbcfbb6ceac41fef1c3343e9514c5ba52d4927e54063c6e63c91e797b5dd5bf"
+    },
+    {
+      "archivo": "dibujos/07_A_costillas_habitadas.png",
+      "px": [
+        1536,
+        1024
+      ],
+      "bytes": 3207183,
+      "sha256": "d058274667c2d70d396261cf3e5120f8f6739196a22f5642f16c806373f3c4ac"
+    },
+    {
+      "archivo": "dibujos/12_condensador_tres_estados.png",
+      "px": [
+        1536,
+        1024
+      ],
+      "bytes": 3110706,
+      "sha256": "32a349b6b666a44134eecbe66447809ed98a21bad5c428b32c274096946651fb"
+    },
+    {
+      "archivo": "dibujos/13_metabolismo_del_rastro.png",
+      "px": [
+        1536,
+        1024
+      ],
+      "bytes": 3744842,
+      "sha256": "2d1f0449b4de73c5d92910d83c697bfddcac0929151eab7f0e6d4e5b1287cc7f"
+    },
+    {
+      "archivo": "dibujos/14_luz_como_bien_comun.png",
+      "px": [
+        1536,
+        1024
+      ],
+      "bytes": 3088067,
+      "sha256": "01a95d418f19d767d9de544574d15dd9f9307e130dee28730be984b28abb1aff"
+    },
+    {
+      "archivo": "dibujos/15_cuerpos_turnos_y_programa.png",
+      "px": [
+        1536,
+        1024
+      ],
+      "bytes": 4095062,
+      "sha256": "394fe0db56605cd66e8b71123d15f4501a114a52f1d05f92c0b386187e8cb167"
+    },
+    {
+      "archivo": "17_programa_y_habitantes.png",
+      "px": [
+        2880,
+        1980
+      ],
+      "bytes": 360219,
+      "sha256": "0f50a7008d3053f9867a64f02cc9b13159b55ed0dcdf4a5954d597cd948d12c3"
+    },
+    {
+      "archivo": "01_parcela_real.png",
+      "px": [
+        2700,
+        1800
+      ],
+      "bytes": 198779,
+      "sha256": "d73ff78570cdc82c3c9aa59e236840f79911a0a0e8cc3085824d458df8bed2b5"
+    },
+    {
+      "archivo": "02_contexto_3d.png",
+      "px": [
+        2700,
+        1800
+      ],
+      "bytes": 740915,
+      "sha256": "22960379ade7d7fc6f47ce3f12149ff76691e6138eba90fe09b56f6f83f3debd"
+    },
+    {
+      "archivo": "03_A_costillas_y_vacios.png",
+      "px": [
+        2700,
+        1800
+      ],
+      "bytes": 786034,
+      "sha256": "bce1b650f7c96c0f134c7a0023f9b54f19203ce848d0804e884a097db0dc18ba"
+    },
+    {
+      "archivo": "04_B_seccion_trenzada.png",
+      "px": [
+        2700,
+        1800
+      ],
+      "bytes": 734847,
+      "sha256": "2e87ef1b0d888998abf661a2e665ad40c2446612af7a7f62528277e120ffddaa"
+    },
+    {
+      "archivo": "05_C_dos_apoyos.png",
+      "px": [
+        2700,
+        1800
+      ],
+      "bytes": 703185,
+      "sha256": "3d1c88705b9f18c1d50c2787bae3e12f7c4adbd6af10f3a2c13c0bb484871a6d"
+    },
+    {
+      "archivo": "06_D_soporte_y_relevo.png",
+      "px": [
+        2700,
+        1800
+      ],
+      "bytes": 790473,
+      "sha256": "370389ba2d37bf7dc89e5d7146bcddf6ba1475e21148f91d1de069e71e093c1e"
+    }
+  ],
+  "imagenes": 17,
+  "programa_total_m2": 1500,
+  "huellas_fuera_parcela_m2": 0,
+  "alcance": "Verificacion de archivos, programa aritmetico y huellas de tanteos; no validacion constructiva."
+}

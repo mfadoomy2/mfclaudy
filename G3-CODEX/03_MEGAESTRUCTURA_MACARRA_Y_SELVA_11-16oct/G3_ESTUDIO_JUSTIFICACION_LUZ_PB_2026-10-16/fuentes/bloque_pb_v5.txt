@@ -1,0 +1,38 @@
+ status('PLANTA BAJA V5: tres casas comunes diferenciadas y umbral protegido')
+ for b,bb in enumerate(S['bays']):
+  cx=bb['x'];f=bb['front'];tag='PB_'+['A_CANTINA','B_REPARAR_LAVAR','C_ESTUDIAR_CUIDAR'][b];zz=.005
+  box(cx-4.3,f,-.15,8.6,5.8,.155,tag+' suelo enrasado','24_COMUNES','MADERA')
+  for y in [f,f+5.8]:
+   if y==f:
+    box(cx-4.3,y,zz,3.6,.04,2.7,tag+' vidrio fijo','14_VIDRIOS','VIDRIO');box(cx+.7,y,zz,3.6,.04,2.7,tag+' vidrio fijo','14_VIDRIOS','VIDRIO');box(cx+.72,y-.04,zz,1.3,.025,2.25,tag+' puerta recogida1.20','14_VIDRIOS','VIDRIO')
+   else:box(cx-4.3,y,zz,8.6,.04,2.7,tag+' vidrio posterior','14_VIDRIOS','VIDRIO')
+  for x in [cx-4.3,cx+4.18]:box(x,f,zz,.12,5.8,2.7,tag+' lateral','24_COMUNES','CORCHO')
+  box(cx-4.3,f,2.705,8.6,5.8,.15,tag+' cubierta','12_CUBIERTAS','VERDE')
+  if b in [0,2]:
+   wx=cx+1.78;wy=f+3.28
+   box(wx,wy,zz,.10,2.52,2.5,tag+' aseo2.40x2.40 separacion','24_COMUNES','BLANCO');box(wx,wy,zz,.3,.10,2.5,tag+' aseo umbral','24_COMUNES','BLANCO');box(wx+1.3,wy,zz,1.22,.10,2.5,tag+' aseo umbral','24_COMUNES','BLANCO');box(wx+1.35,wy+.12,zz,.95,.035,2.15,tag+' aseo corredera','15_CARPINTERIAS','MADERA')
+   ball(cx+3.65,f+5.12,.31,.24,tag+' WC','16_BANOS','BLANCO',(.9,1.25,1));box(cx+3.42,f+5.55,zz,.46,.14,.75,tag+' cisterna','16_BANOS','BLANCO');box(cx+1.98,f+3.55,.8,.45,.5,.06,tag+' lavabo libre inferior','16_BANOS','BLANCO');path([(cx+2.1,f+3.8,.86),(cx+2.1,f+3.8,1.05),(cx+2.25,f+3.8,1.05)],.012,tag+' grifo','22_INSTALACIONES','ACERO')
+  if b==0:
+   for i in range(5):box(cx-4+i*.72,f+5.0,zz,.70,.65,.86,tag+' cocina cooperativa')
+   box(cx-4.05,f+4.97,.87,3.7,.72,.045,tag+' encimera','20_MOBILIARIO','BLANCO');box(cx-3.8,f+5.1,.92,.65,.45,.02,tag+' fregadero','21_ACCESORIOS','ACERO')
+   for xx in [cx-3.7,cx-1.15,cx+1.4]:
+    table(xx,f+.85,zz,1.4,.75,tag+' mesa cuatro')
+    for xx2 in [xx+.3,xx+1.0]:chair(xx2,f+.43,zz,0);chair(xx2,f+2.1,zz,180)
+   box(cx-.1,f+4.65,zz,1.0,.7,1.85,tag+' despensa-frio','20_MOBILIARIO','BLANCO')
+  elif b==1:
+   box(cx-4.0,f+.6,.85,.70,3.7,.07,tag+' banco herramientas');table(cx-2.4,f+1.2,zz,2.0,1.0,tag+' reparacion')
+   for xx in [cx+1.2,cx+2.0,cx+2.8]:box(xx,f+4.6,zz,.7,.7,.9,tag+' lavadora','24_COMUNES','BLANCO');ball(xx+.35,f+4.57,.5,.23,tag+' tambor','24_COMUNES','ACERO',(1,.15,1))
+   box(cx+.7,f+4.2,zz,3.45,.09,2.4,tag+' cierre acustico lavanderia','24_COMUNES','LINO')
+   for xx in [cx-3.8,cx-2.9,cx-2.0]:line((xx,f+4.6,.1),(xx,f+5.5,.6),.025,tag+' soporte bicicletas','21_ACCESORIOS','ACERO')
+   for h in [.5,1.2,1.9]:box(cx+2.8,f+.5,h,.8,2.6,.04,tag+' herramienta y limpieza')
+  else:
+   ox=cx-4.1;oy=f+3.0
+   box(ox+3.6,oy,zz,.10,2.7,2.5,tag+' cuidados pared privacidad','24_COMUNES','LINO');box(ox,oy,zz,2.4,.10,2.5,tag+' cuidados frente','24_COMUNES','LINO');box(ox+2.55,oy+.1,zz,.95,.035,2.15,tag+' cuidados corredera','15_CARPINTERIAS','MADERA');table(ox+.3,oy+1.5,zz,1.3,.65,tag+' atencion discreta');chair(ox+.8,oy+.9,zz,0)
+   for xx in [cx-3.8,cx-.9,cx+1.9]:
+    table(xx,f+.55,zz,1.6,.65,tag+' estudio dos puestos');chair(xx+.4,f+1.6,zz,180);chair(xx+1.2,f+1.6,zz,180)
+   for h in [.4,1.0,1.6,2.2]:box(cx-.1,f+4.8,h,1.4,.4,.04,tag+' biblioteca')
+  for xx in [cx-3.9,cx+3.8]:plant(xx,f+2.65,zz)
+  person(42,cx-1.3,f+2.5,zz,30,'PB residente '+tag);person(45,cx+.6,f+2.2,zz,160,'PB residente '+tag);person(19,cx-2.8,f+.3,zz,60,'PB visitante '+tag);person(30,cx+2.7,f+2.5,zz,90,'PB visitante '+tag)
+  for xx in [cx-2,cx+2]:plant(xx,f-1.4,0)
+ # Residential threshold remains free of a shop; small welcome table beyond the clear path.
+ box(17.5,-4.7,0,1.1,.5,.8,'PB acogida tras umbral residencial','24_COMUNES','MADERA');box(17.5,-4.7,1.0,1.1,.04,1.0,'PB tablon tareas y horarios','24_COMUNES','CORCHO')

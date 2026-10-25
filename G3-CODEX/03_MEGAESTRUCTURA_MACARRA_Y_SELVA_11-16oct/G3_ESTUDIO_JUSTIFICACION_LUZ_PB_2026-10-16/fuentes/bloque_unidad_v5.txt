@@ -1,0 +1,48 @@
+ status('PABELLON V5: cuatro habitaciones al frente norte y servicios al sur')
+ begin()
+ def vault(y,dx=0,dz=0):
+  pts=[P(-4.8-dx,y,0),P(-4.8-dx,y,2.20)]+[P(-(4.8+dx)*math.cos(j*math.pi/32),y,2.20+(2.1+dz)*math.sin(j*math.pi/32)) for j in range(33)]+[P(4.8+dx,y,0)]
+  return G.Curve.CreateInterpolatedCurve(pts,3)
+ for ya,yb,col,la,al in [(-.7,.7,'VERDE','12_CUBIERTAS',0),(.7,1.3,'VIDRIO','14_VIDRIOS',.88),(1.3,1.7,'VERDE','12_CUBIERTAS',0),(1.7,2.9,'VIDRIO','14_VIDRIOS',.88),(2.9,5.0,'VERDE','12_CUBIERTAS',0),(5.0,5.9,'VIDRIO','14_VIDRIOS',.88),(5.9,6.8,'VERDE','12_CUBIERTAS',0)]:
+  for b in G.Brep.CreateFromLoft([vault(ya),vault((ya+yb)/2),vault(yb)],P.Unset,P.Unset,G.LoftType.Normal,False):emit(b,'V5 piel termica / banda cenital',la,col,al)
+ for j in range(17):
+  cr=vault(-.7+7.5*j/16,.07,.05)
+  for b in G.Brep.CreatePipe(cr,.05715,False,G.PipeCapMode.Flat,True,.002,.05):emit(b,'V5 costilla exocasco CHS114.3x6.3','13_COSTILLAS')
+ for t in [j*math.pi/18 for j in range(1,18)]:
+  x=-4.89*math.cos(t);zz=2.2+2.17*math.sin(t);line((x,-.7,zz),(x,6.8,zz),.018,'V5 lama longitudinal','13_COSTILLAS')
+ for y in [-.67,6.77]:
+  arch=[P(-4.8,y,0),P(-4.8,y,2.2)]+[P(-4.8*math.cos(j*math.pi/32),y,2.2+2.1*math.sin(j*math.pi/32)) for j in range(33)]+[P(4.8,y,0),P(-4.8,y,0)]
+  for b in G.Brep.CreatePlanarBreps(G.PolylineCurve(arch),.001):emit(b,'V5 testero acristalado','14_VIDRIOS','VIDRIO',.88)
+ for x in [-4.8,-2.4,0,2.4,4.8]:
+  h=2.2+2.1*math.sqrt(max(0,1-(x/4.8)**2));line((x,6.78,0),(x,6.78,h),.035,'V5 montante norte','15_CARPINTERIAS')
+ def privacywall(a,b,y,t,tag,zbase=0):
+  def hh(x):return 2.2+2.1*math.sqrt(max(0,1-(x/4.8)**2))-.03
+  top=[P(b-(b-a)*j/16,y,hh(b-(b-a)*j/16)) for j in range(17)]
+  seg=[G.LineCurve(P(a,y,zbase),P(b,y,zbase)),G.LineCurve(P(b,y,zbase),top[0]),G.Curve.CreateInterpolatedCurve(top,3),G.LineCurve(top[-1],P(a,y,zbase))]
+  cc=G.Curve.JoinCurves(seg,.001)[0]
+  for face in G.Brep.CreatePlanarBreps(cc,.001) or []:emit(face.Faces[0].CreateExtrusion(G.LineCurve(P.Origin,P(0,t,0)),True),tag,'11_ENVOLVENTE_OPACA','LINO')
+ for i in range(4):
+  x=-4.8+i*2.4;tag='V5 H%d'%(i+1)
+  if i>0:
+   h=2.2+2.1*math.sqrt(max(0,1-(x/4.8)**2))-.03;box(x-.045,2.9,0,.09,3.9,h,tag+' separacion hasta cubierta','11_ENVOLVENTE_OPACA','LINO')
+  privacywall(x,x+.20,2.9,.09,tag+' umbral cerrado');privacywall(x+1.2,x+2.4,2.9,.09,tag+' umbral lateral');privacywall(x+.2,x+1.2,2.9,.09,tag+' sobrepuerta',2.17)
+  box(x+1.22,2.99,0,1.0,.035,2.14,tag+' puerta corredera recogida','15_CARPINTERIAS','MADERA');line((x+.18,2.94,2.2),(x+2.3,2.94,2.2),.018,tag+' guia corredera','15_CARPINTERIAS','ACERO')
+  box(x+.12,3.6,.10,1.10,2,.25,tag+' cama');extrude_curve(roundcurve(x+.12,3.6,1.10,2,.07,.35),.2,tag+' colchon','20_MOBILIARIO','BLANCO');ball(x+.66,5.25,.62,.19,tag+' almohada','20_MOBILIARIO','BLANCO',(2,1,.3))
+  table(x+.14,6.05,0,1.10,.55,tag+' estudio junto a luz norte');chair(x+.7,5.45,0,180)
+  box(x+1.83,4.0,0,.48,1.1,2.15,tag+' armario');line((x+1.80,4.15,1),(x+1.80,4.15,1.18),.008,tag+' tirador armario','21_ACCESORIOS')
+  for j in range(3):book(x+.24+j*.09,6.1,.79)
+  box(x+.13,6.62,.2,.15,.03,.12,tag+' enchufe','22_INSTALACIONES','BLANCO');inst(LAMP,xf(x+1.4,5.65,0),tag+' lectura','23_ILUMINACION')
+  box(x+.05,6.69,.05,.13,.025,2.1,tag+' contraventana apilada','15_CARPINTERIAS','MADERA')
+ for x in [-4.8,4.71]:box(x,-.7,0,.09,2.4,2.15,'V5 lateral aseo','16_BANOS','BLANCO')
+ for x in [-2.45,2.36]:box(x,-.7,0,.09,2.4,2.35,'V5 separacion aseo-casa comun','16_BANOS','BLANCO')
+ for x in [-4.71,2.45]:
+  box(x,1.64,0,.3,.08,2.35,'V5 bano umbral','16_BANOS','BLANCO');box(x+1.3,1.64,0,.96,.08,2.35,'V5 bano umbral','16_BANOS','BLANCO');box(x+.3,1.64,2.16,1.0,.08,.19,'V5 bano dintel','15_CARPINTERIAS','MADERA');box(x+1.33,1.73,0,.93,.035,2.14,'V5 bano hoja recogida','15_CARPINTERIAS','MADERA')
+  box(x+.1,-.56,.015,.90,.9,.03,'V5 ducha','16_BANOS','GRIS');line((x+.4,-.54,.8),(x+.4,-.54,2.0),.012,'V5 columna ducha','22_INSTALACIONES','ACERO');ball(x+1.65,-.05,.30,.24,'V5 taza WC','16_BANOS','BLANCO',(.85,1.25,1));box(x+1.4,-.47,0,.45,.13,.75,'V5 cisterna','16_BANOS','BLANCO');box(x+.1,.85,.8,.5,.4,.06,'V5 lavabo','16_BANOS','BLANCO')
+ for i in range(5):box(-2.2+i*.72,-.57,0,.7,.62,.86,'V5 cocina frente sur oscuro')
+ box(-2.22,-.60,.86,3.64,.68,.045,'V5 encimera','20_MOBILIARIO','BLANCO');box(-2,-.5,.91,.6,.45,.008,'V5 fregadero','21_ACCESORIOS','ACERO');path([(-1.7,-.1,.92),(-1.7,-.1,1.2),(-1.7,-.35,1.2)],.012,'V5 grifo cocina','22_INSTALACIONES','ACERO')
+ for x in [.4,.8]:emit(G.Cylinder(G.Circle(P(x,-.25,.92),.13),.008).ToBrep(True,True),'V5 induccion','21_ACCESORIOS','NEGRO')
+ table(-.7,.65,0,1.4,.75,'V5 mesa cuatro');chair(-1.1,1.0,0,-90);chair(1.15,1.0,0,90);chair(-.3,1.52,0,0);chair(.7,1.52,0,0)
+ for y in [1.0,2.3,5.4]:line((0,y,4.0),(0,y,2.65),.005,'V5 cable luz','23_ILUMINACION','ACERO');ball(0,y,2.52,.12,'V5 luz comun','23_ILUMINACION','LUZ')
+ line((-4.5,-.1,-.28),(4.5,-.1,-.28),.055,'V5 colector humedo sur DN110','22_INSTALACIONES','MAGENTA')
+ for x in [-4.8,4.8]:box(x,1.74,0,.025,1.12,2.16,'V5 acceso lateral a galeria1.20','14_VIDRIOS','VIDRIO');line((x,1.7,2.2),(x,2.9,2.2),.02,'V5 guia acceso','15_CARPINTERIAS','ACERO')
+ PAV_DATA=CAP;PAV=finish('PABELLON_4_REFUGIOS','V5 cuatro refugios al norte; franja sur humeda y galeria de 1.20m')
