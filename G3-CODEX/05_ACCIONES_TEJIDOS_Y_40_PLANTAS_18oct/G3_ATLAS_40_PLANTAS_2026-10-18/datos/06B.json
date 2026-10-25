@@ -1,0 +1,26 @@
+{
+  "code": "06B",
+  "family": "Codo doméstico",
+  "variant": "B",
+  "logic": "Dos brazos conectados por cocina y estancia en el codo.",
+  "risk": "El extremo puede quedar demasiado alejado.",
+  "floor_m2": 222.64,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 149.55,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 4.4,
+  "footprint_bounds": [
+    -4.4,
+    -14.090920125493959,
+    15.64358846655773,
+    5.435588466557729
+  ],
+  "room_angles": [
+    -8,
+    8,
+    -98,
+    -82
+  ]
+}

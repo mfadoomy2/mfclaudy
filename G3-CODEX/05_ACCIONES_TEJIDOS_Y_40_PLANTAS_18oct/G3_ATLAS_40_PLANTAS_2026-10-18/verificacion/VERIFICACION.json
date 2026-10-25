@@ -1,0 +1,31 @@
+{
+  "pdf_pages": 48,
+  "a3_landscape": true,
+  "plans": 40,
+  "families": 20,
+  "png": 40,
+  "svg": 40,
+  "cad": 40,
+  "shared_connections_4_of_4": 40,
+  "bed_furniture_conflicts": 0,
+  "area_range_m2": [
+    152.1852183353898,
+    224.28057792838254
+  ],
+  "holes": {
+    "07A": 1,
+    "07B": 1,
+    "15A": 2,
+    "15B": 2,
+    "20A": 1,
+    "20B": 1
+  },
+  "limits": [
+    "No solar or daylight simulation",
+    "No regulatory verification",
+    "No 3D model",
+    "External entry route not verified",
+    "No wall or structure thickness",
+    "All exceed previous total area target"
+  ]
+}

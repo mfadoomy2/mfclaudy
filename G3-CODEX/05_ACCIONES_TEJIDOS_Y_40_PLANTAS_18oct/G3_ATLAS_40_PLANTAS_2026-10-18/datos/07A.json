@@ -1,0 +1,26 @@
+{
+  "code": "07A",
+  "family": "Herradura",
+  "variant": "A",
+  "logic": "Vacío de llegada abierto entre dos alas.",
+  "risk": "Vigilar que el vacío no consuma el espacio común.",
+  "floor_m2": 164.44,
+  "bedrooms_m2": 71.75,
+  "shared_gross_m2": 92.69,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 5.1,
+  "footprint_bounds": [
+    -9.4,
+    -5.1,
+    9.4,
+    9.4
+  ],
+  "room_angles": [
+    90,
+    0,
+    0,
+    -90
+  ]
+}

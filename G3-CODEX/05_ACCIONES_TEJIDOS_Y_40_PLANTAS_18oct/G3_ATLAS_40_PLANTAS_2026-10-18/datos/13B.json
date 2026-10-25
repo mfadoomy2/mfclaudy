@@ -1,0 +1,26 @@
+{
+  "code": "13B",
+  "family": "Archipiélago",
+  "variant": "B",
+  "logic": "Islas privadas con continuidades compartidas entre ellas.",
+  "risk": "Intersticios residuales si no admiten usos concretos.",
+  "floor_m2": 173.4,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 99.82,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 3.35,
+  "footprint_bounds": [
+    -9.855637891497864,
+    -9.537873341118372,
+    9.00785990241686,
+    9.478749153778336
+  ],
+  "room_angles": [
+    12,
+    -12,
+    152,
+    208
+  ]
+}

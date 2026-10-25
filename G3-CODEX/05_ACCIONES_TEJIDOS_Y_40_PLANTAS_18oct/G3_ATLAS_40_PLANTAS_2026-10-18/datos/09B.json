@@ -1,0 +1,26 @@
+{
+  "code": "09B",
+  "family": "Dos racimos",
+  "variant": "B",
+  "logic": "Dos parejas privadas con varios lugares de encuentro.",
+  "risk": "Puede duplicar superficie y reforzar grupos cerrados.",
+  "floor_m2": 163.46,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 90.37,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 3.35,
+  "footprint_bounds": [
+    -8.35,
+    -8.13158846655773,
+    8.35,
+    8.094994194925619
+  ],
+  "room_angles": [
+    -8,
+    188,
+    -8,
+    188
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "code": "19B",
+  "family": "Bandas permeables",
+  "variant": "B",
+  "logic": "Una banda social y otra doméstica con cruces cortos.",
+  "risk": "Proteger el descanso respecto de los usos abiertos.",
+  "floor_m2": 168.93,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 95.35,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 5.1,
+  "footprint_bounds": [
+    -10.920912889834668,
+    -5.6499999999999995,
+    11.157507161466778,
+    8.35750716146678
+  ],
+  "room_angles": [
+    -8,
+    8,
+    82,
+    -82
+  ]
+}

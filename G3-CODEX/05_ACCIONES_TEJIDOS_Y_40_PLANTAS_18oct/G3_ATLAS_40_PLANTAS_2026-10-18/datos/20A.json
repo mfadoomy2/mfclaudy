@@ -1,0 +1,26 @@
+{
+  "code": "20A",
+  "family": "Patio desplazado",
+  "variant": "A",
+  "logic": "Un vacío descentrado produce lugares de tamaños distintos.",
+  "risk": "No confundir irregularidad con buen aprovechamiento.",
+  "floor_m2": 179.9,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 108.64,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 4.75,
+  "footprint_bounds": [
+    -8.20357591621865,
+    -8.283212587997781,
+    8.987932716753402,
+    9.43616632572791
+  ],
+  "room_angles": [
+    25,
+    -5,
+    155,
+    -130
+  ]
+}

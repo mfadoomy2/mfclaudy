@@ -1,0 +1,1 @@
+Primera serie conservada por petición del usuario. Explora agregaciones de habitaciones, pero NO deriva su forma de los tejidos de acciones. La segunda serie se guarda en G3_40_PLANTAS_DESDE_TEJIDOS_2026-10-18. No confundir sus métodos.

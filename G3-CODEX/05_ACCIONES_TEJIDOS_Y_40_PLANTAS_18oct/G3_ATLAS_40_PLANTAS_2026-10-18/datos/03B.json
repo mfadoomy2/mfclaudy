@@ -1,0 +1,26 @@
+{
+  "code": "03B",
+  "family": "Peine abierto",
+  "variant": "B",
+  "logic": "Habitaciones a un borde; cocina y estar a otro.",
+  "risk": "Longitud de recorridos y mucha fachada.",
+  "floor_m2": 186.09,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 112.99,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 3.35,
+  "footprint_bounds": [
+    -3.35,
+    -5.1000000000000005,
+    20.150000000000002,
+    5.331588466557729
+  ],
+  "room_angles": [
+    -8,
+    8,
+    -8,
+    8
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "code": "18B",
+  "family": "Zigzag",
+  "variant": "B",
+  "logic": "Alternancia de retiros y lugares compartidos.",
+  "risk": "El recorrido puede crecer sin aportar estancia.",
+  "floor_m2": 193.57,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 120.48,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 3.35,
+  "footprint_bounds": [
+    -3.4249309435520194,
+    -5.467359049020686,
+    18.95,
+    5.994994194925618
+  ],
+  "room_angles": [
+    17,
+    188,
+    -8,
+    -152
+  ]
+}

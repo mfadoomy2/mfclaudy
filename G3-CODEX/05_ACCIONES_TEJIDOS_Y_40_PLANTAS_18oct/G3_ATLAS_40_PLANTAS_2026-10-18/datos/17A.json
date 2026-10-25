@@ -1,0 +1,26 @@
+{
+  "code": "17A",
+  "family": "Triángulo con bifurcación",
+  "variant": "A",
+  "logic": "Tres direcciones de estancia, una con pareja de habitaciones.",
+  "risk": "Jerarquía desigual entre las cuatro habitaciones.",
+  "floor_m2": 153.58,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 82.32,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 4.75,
+  "footprint_bounds": [
+    -8.953190875215924,
+    -6.7498171000524,
+    7.987932716753401,
+    9.4
+  ],
+  "room_angles": [
+    130,
+    -130,
+    0,
+    0
+  ]
+}

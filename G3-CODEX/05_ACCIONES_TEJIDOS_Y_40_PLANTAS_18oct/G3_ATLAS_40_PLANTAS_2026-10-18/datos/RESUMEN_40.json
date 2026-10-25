@@ -1,0 +1,1042 @@
+[
+  {
+    "code": "01A",
+    "family": "Dos orillas",
+    "variant": "A",
+    "logic": "Dos pares privados frente a una estancia continua.",
+    "risk": "Cruzar la sala puede exponer las entradas.",
+    "floor_m2": 173.92,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 102.17,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 7.0,
+    "footprint_bounds": [
+      -7.0,
+      -7.4,
+      7.0,
+      7.4
+    ],
+    "room_angles": [
+      0,
+      0,
+      180,
+      180
+    ]
+  },
+  {
+    "code": "01B",
+    "family": "Dos orillas",
+    "variant": "B",
+    "logic": "Dos pares privados frente a una estancia continua.",
+    "risk": "Cruzar la sala puede exponer las entradas.",
+    "floor_m2": 165.3,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 91.71,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 6.0,
+    "footprint_bounds": [
+      -6.553200464627296,
+      -8.157507161466778,
+      6.0,
+      8.35750716146678
+    ],
+    "room_angles": [
+      -8,
+      8,
+      172,
+      188
+    ]
+  },
+  {
+    "code": "02A",
+    "family": "Cruz ramificada",
+    "variant": "A",
+    "logic": "Cuatro ramas con acceso desde un centro compartido.",
+    "risk": "La separación acústica depende de los umbrales.",
+    "floor_m2": 153.72,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 82.46,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 6.0,
+    "footprint_bounds": [
+      -8.2,
+      -8.2,
+      8.2,
+      8.2
+    ],
+    "room_angles": [
+      0,
+      -90,
+      180,
+      90
+    ]
+  },
+  {
+    "code": "02B",
+    "family": "Cruz ramificada",
+    "variant": "B",
+    "logic": "Cuatro ramas con acceso desde un centro compartido.",
+    "risk": "La separación acústica depende de los umbrales.",
+    "floor_m2": 170.79,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 97.7,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 6.5,
+    "footprint_bounds": [
+      -8.031588466557729,
+      -8.694994194925618,
+      8.93158846655773,
+      8.89499419492562
+    ],
+    "room_angles": [
+      -8,
+      -82,
+      172,
+      98
+    ]
+  },
+  {
+    "code": "03A",
+    "family": "Peine abierto",
+    "variant": "A",
+    "logic": "Habitaciones a un borde; cocina y estar a otro.",
+    "risk": "Longitud de recorridos y mucha fachada.",
+    "floor_m2": 189.21,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 117.96,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -3.35,
+      -5.550000000000001,
+      19.55,
+      4.4
+    ],
+    "room_angles": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "code": "03B",
+    "family": "Peine abierto",
+    "variant": "B",
+    "logic": "Habitaciones a un borde; cocina y estar a otro.",
+    "risk": "Longitud de recorridos y mucha fachada.",
+    "floor_m2": 186.09,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 112.99,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -3.35,
+      -5.1000000000000005,
+      20.150000000000002,
+      5.331588466557729
+    ],
+    "room_angles": [
+      -8,
+      8,
+      -8,
+      8
+    ]
+  },
+  {
+    "code": "04A",
+    "family": "Doble peine",
+    "variant": "A",
+    "logic": "Dos bordes desplazados; encuentros en los ensanchamientos.",
+    "risk": "Evitar que la conexión vuelva a ser un pasillo.",
+    "floor_m2": 152.19,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 80.44,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -3.35,
+      -7.2,
+      11.35,
+      7.2
+    ],
+    "room_angles": [
+      0,
+      0,
+      180,
+      180
+    ]
+  },
+  {
+    "code": "04B",
+    "family": "Doble peine",
+    "variant": "B",
+    "logic": "Dos bordes desplazados; encuentros en los ensanchamientos.",
+    "risk": "Evitar que la conexión vuelva a ser un pasillo.",
+    "floor_m2": 169.12,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 95.53,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.7,
+    "footprint_bounds": [
+      -3.7,
+      -7.957507161466779,
+      11.7,
+      8.157507161466778
+    ],
+    "room_angles": [
+      -8,
+      8,
+      172,
+      188
+    ]
+  },
+  {
+    "code": "05A",
+    "family": "Molinete",
+    "variant": "A",
+    "logic": "Las entradas giran alrededor del estar.",
+    "risk": "Giros y vistas hacia puertas privadas.",
+    "floor_m2": 166.28,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 95.02,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 6.5,
+    "footprint_bounds": [
+      -8.2,
+      -8.2,
+      8.2,
+      8.2
+    ],
+    "room_angles": [
+      0,
+      -90,
+      180,
+      90
+    ]
+  },
+  {
+    "code": "05B",
+    "family": "Molinete",
+    "variant": "B",
+    "logic": "Las entradas giran alrededor del estar.",
+    "risk": "Giros y vistas hacia puertas privadas.",
+    "floor_m2": 161.94,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 88.85,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 6.0,
+    "footprint_bounds": [
+      -8.031588466557729,
+      -8.694994194925618,
+      8.93158846655773,
+      8.89499419492562
+    ],
+    "room_angles": [
+      -8,
+      -82,
+      172,
+      98
+    ]
+  },
+  {
+    "code": "06A",
+    "family": "Codo doméstico",
+    "variant": "A",
+    "logic": "Dos brazos conectados por cocina y estancia en el codo.",
+    "risk": "El extremo puede quedar demasiado alejado.",
+    "floor_m2": 169.67,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 98.41,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -3.35,
+      -12.35,
+      13.4,
+      4.4
+    ],
+    "room_angles": [
+      0,
+      0,
+      -90,
+      -90
+    ]
+  },
+  {
+    "code": "06B",
+    "family": "Codo doméstico",
+    "variant": "B",
+    "logic": "Dos brazos conectados por cocina y estancia en el codo.",
+    "risk": "El extremo puede quedar demasiado alejado.",
+    "floor_m2": 222.64,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 149.55,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.4,
+    "footprint_bounds": [
+      -4.4,
+      -14.090920125493959,
+      15.64358846655773,
+      5.435588466557729
+    ],
+    "room_angles": [
+      -8,
+      8,
+      -98,
+      -82
+    ]
+  },
+  {
+    "code": "07A",
+    "family": "Herradura",
+    "variant": "A",
+    "logic": "Vacío de llegada abierto entre dos alas.",
+    "risk": "Vigilar que el vacío no consuma el espacio común.",
+    "floor_m2": 164.44,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 92.69,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 5.1,
+    "footprint_bounds": [
+      -9.4,
+      -5.1,
+      9.4,
+      9.4
+    ],
+    "room_angles": [
+      90,
+      0,
+      0,
+      -90
+    ]
+  },
+  {
+    "code": "07B",
+    "family": "Herradura",
+    "variant": "B",
+    "logic": "Vacío de llegada abierto entre dos alas.",
+    "risk": "Vigilar que el vacío no consuma el espacio común.",
+    "floor_m2": 163.54,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 89.96,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 5.1,
+    "footprint_bounds": [
+      -9.920912889834668,
+      -4.6499999999999995,
+      10.157507161466778,
+      10.35750716146678
+    ],
+    "room_angles": [
+      82,
+      8,
+      -8,
+      -82
+    ]
+  },
+  {
+    "code": "08A",
+    "family": "Cadena oblicua",
+    "variant": "A",
+    "logic": "Cambios de dirección separan focos de actividad.",
+    "risk": "Recorridos sinuosos y piezas difíciles de construir.",
+    "floor_m2": 188.35,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 117.09,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -9.566738346649988,
+      -7.4,
+      11.35,
+      8.0048078413693
+    ],
+    "room_angles": [
+      35,
+      180,
+      -20,
+      180
+    ]
+  },
+  {
+    "code": "08B",
+    "family": "Cadena oblicua",
+    "variant": "B",
+    "logic": "Cambios de dirección separan focos de actividad.",
+    "risk": "Recorridos sinuosos y piezas difíciles de construir.",
+    "floor_m2": 190.72,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 117.63,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -9.86562692457736,
+      -8.13158846655773,
+      11.95,
+      8.66365391994501
+    ],
+    "room_angles": [
+      27,
+      188,
+      -28,
+      188
+    ]
+  },
+  {
+    "code": "09A",
+    "family": "Dos racimos",
+    "variant": "A",
+    "logic": "Dos parejas privadas con varios lugares de encuentro.",
+    "risk": "Puede duplicar superficie y reforzar grupos cerrados.",
+    "floor_m2": 175.43,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 104.17,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.7,
+    "footprint_bounds": [
+      -8.7,
+      -7.4,
+      8.7,
+      7.4
+    ],
+    "room_angles": [
+      0,
+      180,
+      0,
+      180
+    ]
+  },
+  {
+    "code": "09B",
+    "family": "Dos racimos",
+    "variant": "B",
+    "logic": "Dos parejas privadas con varios lugares de encuentro.",
+    "risk": "Puede duplicar superficie y reforzar grupos cerrados.",
+    "floor_m2": 163.46,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 90.37,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -8.35,
+      -8.13158846655773,
+      8.35,
+      8.094994194925619
+    ],
+    "room_angles": [
+      -8,
+      188,
+      -8,
+      188
+    ]
+  },
+  {
+    "code": "10A",
+    "family": "Puente habitado",
+    "variant": "A",
+    "logic": "Estar y cocinar se despliegan a lo largo de una conexión.",
+    "risk": "Longitud y dependencia de una conexión única.",
+    "floor_m2": 224.28,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 152.53,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 5.1,
+    "footprint_bounds": [
+      -12.08338399846603,
+      -6.678184245368418,
+      12.08338399846603,
+      6.678184245368419
+    ],
+    "room_angles": [
+      55,
+      125,
+      -55,
+      -125
+    ]
+  },
+  {
+    "code": "10B",
+    "family": "Puente habitado",
+    "variant": "B",
+    "logic": "Estar y cocinar se despliegan a lo largo de una conexión.",
+    "risk": "Longitud y dependencia de una conexión única.",
+    "floor_m2": 212.83,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 139.25,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.75,
+    "footprint_bounds": [
+      -11.539961468630576,
+      -6.811576884390038,
+      11.783360575919883,
+      7.558525155062069
+    ],
+    "room_angles": [
+      47,
+      133,
+      -63,
+      -117
+    ]
+  },
+  {
+    "code": "11A",
+    "family": "Corola asimétrica",
+    "variant": "A",
+    "logic": "Ramas orientadas con ángulos diferentes.",
+    "risk": "No asumir que los giros mejoran la luz.",
+    "floor_m2": 172.06,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 100.8,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 6.5,
+    "footprint_bounds": [
+      -9.039312895852536,
+      -8.666723810258333,
+      9.248158053911968,
+      8.600000000000001
+    ],
+    "room_angles": [
+      0,
+      -70,
+      160,
+      100
+    ]
+  },
+  {
+    "code": "11B",
+    "family": "Corola asimétrica",
+    "variant": "B",
+    "logic": "Ramas orientadas con ángulos diferentes.",
+    "risk": "No asumir que los giros mejoran la luz.",
+    "floor_m2": 166.45,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 93.36,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 6.0,
+    "footprint_bounds": [
+      -8.767412326428236,
+      -9.074070138345016,
+      9.767359049020687,
+      9.294994194925618
+    ],
+    "room_angles": [
+      -8,
+      -62,
+      152,
+      108
+    ]
+  },
+  {
+    "code": "12A",
+    "family": "Abanico",
+    "variant": "A",
+    "logic": "Borde privado desplegado alrededor del ámbito común.",
+    "risk": "Mayor perímetro y posibles sombras entre alas.",
+    "floor_m2": 152.98,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 81.73,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.05,
+    "footprint_bounds": [
+      -8.8698484809835,
+      -4.05,
+      10.869417382415921,
+      9.660074108217177
+    ],
+    "room_angles": [
+      45,
+      15,
+      -15,
+      -45
+    ]
+  },
+  {
+    "code": "12B",
+    "family": "Abanico",
+    "variant": "B",
+    "logic": "Borde privado desplegado alrededor del ámbito común.",
+    "risk": "Mayor perímetro y posibles sombras entre alas.",
+    "floor_m2": 164.0,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 90.91,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.4,
+    "footprint_bounds": [
+      -9.234124688392821,
+      -3.95,
+      11.11396247737974,
+      10.43357958927939
+    ],
+    "room_angles": [
+      37,
+      23,
+      -23,
+      -37
+    ]
+  },
+  {
+    "code": "13A",
+    "family": "Archipiélago",
+    "variant": "A",
+    "logic": "Islas privadas con continuidades compartidas entre ellas.",
+    "risk": "Intersticios residuales si no admiten usos concretos.",
+    "floor_m2": 183.02,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 111.27,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.05,
+    "footprint_bounds": [
+      -9.01846285352107,
+      -9.004622441330465,
+      9.01846285352107,
+      9.004622441330467
+    ],
+    "room_angles": [
+      20,
+      -20,
+      160,
+      200
+    ]
+  },
+  {
+    "code": "13B",
+    "family": "Archipiélago",
+    "variant": "B",
+    "logic": "Islas privadas con continuidades compartidas entre ellas.",
+    "risk": "Intersticios residuales si no admiten usos concretos.",
+    "floor_m2": 173.4,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 99.82,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -9.855637891497864,
+      -9.537873341118372,
+      9.00785990241686,
+      9.478749153778336
+    ],
+    "room_angles": [
+      12,
+      -12,
+      152,
+      208
+    ]
+  },
+  {
+    "code": "14A",
+    "family": "Espina en S",
+    "variant": "A",
+    "logic": "El recorrido se ensancha y cambia de dirección.",
+    "risk": "Orientación y distancias menos intuitivas.",
+    "floor_m2": 176.69,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 105.43,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -8.384018266451662,
+      -7.4,
+      11.170183635588092,
+      9.42008173154289
+    ],
+    "room_angles": [
+      30,
+      180,
+      -15,
+      -120
+    ]
+  },
+  {
+    "code": "14B",
+    "family": "Espina en S",
+    "variant": "B",
+    "logic": "El recorrido se ensancha y cambia de dirección.",
+    "risk": "Orientación y distancias menos intuitivas.",
+    "floor_m2": 205.91,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 132.81,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.05,
+    "footprint_bounds": [
+      -9.05,
+      -7.03158846655773,
+      11.813926084189468,
+      8.909817992506305
+    ],
+    "room_angles": [
+      22,
+      188,
+      -23,
+      -112
+    ]
+  },
+  {
+    "code": "15A",
+    "family": "Dos patios",
+    "variant": "A",
+    "logic": "Dos vacíos dividen encuentro y concentración.",
+    "risk": "Los patios son hipótesis; su luz no está calculada.",
+    "floor_m2": 179.87,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 108.61,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.05,
+    "footprint_bounds": [
+      -8.05,
+      -8.4,
+      8.05,
+      8.4
+    ],
+    "room_angles": [
+      0,
+      0,
+      180,
+      180
+    ]
+  },
+  {
+    "code": "15B",
+    "family": "Dos patios",
+    "variant": "B",
+    "logic": "Dos vacíos dividen encuentro y concentración.",
+    "risk": "Los patios son hipótesis; su luz no está calculada.",
+    "floor_m2": 189.94,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 116.84,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.05,
+    "footprint_bounds": [
+      -8.727281769718246,
+      -9.13158846655773,
+      8.649999999999999,
+      9.33158846655773
+    ],
+    "room_angles": [
+      -8,
+      8,
+      172,
+      188
+    ]
+  },
+  {
+    "code": "16A",
+    "family": "Cuatro umbrales",
+    "variant": "A",
+    "logic": "Entradas retranqueadas hacia ámbitos comunes distintos.",
+    "risk": "Mucho espacio de transición si no se ocupa bien.",
+    "floor_m2": 154.45,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 82.71,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.05,
+    "footprint_bounds": [
+      -6.832621243637378,
+      -8.571034542957086,
+      6.832621243637378,
+      8.571034542957086
+    ],
+    "room_angles": [
+      10,
+      -10,
+      170,
+      190
+    ]
+  },
+  {
+    "code": "16B",
+    "family": "Cuatro umbrales",
+    "variant": "B",
+    "logic": "Entradas retranqueadas hacia ámbitos comunes distintos.",
+    "risk": "Mucho espacio de transición si no se ocupa bien.",
+    "floor_m2": 164.6,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 91.01,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.05,
+    "footprint_bounds": [
+      -7.760061817393916,
+      -9.219427028562258,
+      6.872012874390997,
+      8.934568380640275
+    ],
+    "room_angles": [
+      2,
+      -2,
+      162,
+      198
+    ]
+  },
+  {
+    "code": "17A",
+    "family": "Triángulo con bifurcación",
+    "variant": "A",
+    "logic": "Tres direcciones de estancia, una con pareja de habitaciones.",
+    "risk": "Jerarquía desigual entre las cuatro habitaciones.",
+    "floor_m2": 153.58,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 82.32,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.75,
+    "footprint_bounds": [
+      -8.953190875215924,
+      -6.7498171000524,
+      7.987932716753401,
+      9.4
+    ],
+    "room_angles": [
+      130,
+      -130,
+      0,
+      0
+    ]
+  },
+  {
+    "code": "17B",
+    "family": "Triángulo con bifurcación",
+    "variant": "B",
+    "logic": "Tres direcciones de estancia, una con pareja de habitaciones.",
+    "risk": "Jerarquía desigual entre las cuatro habitaciones.",
+    "floor_m2": 159.97,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 86.87,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 5.1,
+    "footprint_bounds": [
+      -9.467508110171174,
+      -5.842595537497861,
+      8.727726749554986,
+      9.231588466557728
+    ],
+    "room_angles": [
+      122,
+      -122,
+      -8,
+      8
+    ]
+  },
+  {
+    "code": "18A",
+    "family": "Zigzag",
+    "variant": "A",
+    "logic": "Alternancia de retiros y lugares compartidos.",
+    "risk": "El recorrido puede crecer sin aportar estancia.",
+    "floor_m2": 187.8,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 116.54,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -3.35,
+      -5.4,
+      18.35,
+      6.4
+    ],
+    "room_angles": [
+      25,
+      180,
+      0,
+      -160
+    ]
+  },
+  {
+    "code": "18B",
+    "family": "Zigzag",
+    "variant": "B",
+    "logic": "Alternancia de retiros y lugares compartidos.",
+    "risk": "El recorrido puede crecer sin aportar estancia.",
+    "floor_m2": 193.57,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 120.48,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 3.35,
+    "footprint_bounds": [
+      -3.4249309435520194,
+      -5.467359049020686,
+      18.95,
+      5.994994194925618
+    ],
+    "room_angles": [
+      17,
+      188,
+      -8,
+      -152
+    ]
+  },
+  {
+    "code": "19A",
+    "family": "Bandas permeables",
+    "variant": "A",
+    "logic": "Una banda social y otra doméstica con cruces cortos.",
+    "risk": "Proteger el descanso respecto de los usos abiertos.",
+    "floor_m2": 162.63,
+    "bedrooms_m2": 71.75,
+    "shared_gross_m2": 90.88,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 5.1,
+    "footprint_bounds": [
+      -10.4,
+      -6.1,
+      10.4,
+      7.4
+    ],
+    "room_angles": [
+      0,
+      0,
+      90,
+      -90
+    ]
+  },
+  {
+    "code": "19B",
+    "family": "Bandas permeables",
+    "variant": "B",
+    "logic": "Una banda social y otra doméstica con cruces cortos.",
+    "risk": "Proteger el descanso respecto de los usos abiertos.",
+    "floor_m2": 168.93,
+    "bedrooms_m2": 73.58,
+    "shared_gross_m2": 95.35,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 5.1,
+    "footprint_bounds": [
+      -10.920912889834668,
+      -5.6499999999999995,
+      11.157507161466778,
+      8.35750716146678
+    ],
+    "room_angles": [
+      -8,
+      8,
+      82,
+      -82
+    ]
+  },
+  {
+    "code": "20A",
+    "family": "Patio desplazado",
+    "variant": "A",
+    "logic": "Un vacío descentrado produce lugares de tamaños distintos.",
+    "risk": "No confundir irregularidad con buen aprovechamiento.",
+    "floor_m2": 179.9,
+    "bedrooms_m2": 71.26,
+    "shared_gross_m2": 108.64,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.75,
+    "footprint_bounds": [
+      -8.20357591621865,
+      -8.283212587997781,
+      8.987932716753402,
+      9.43616632572791
+    ],
+    "room_angles": [
+      25,
+      -5,
+      155,
+      -130
+    ]
+  },
+  {
+    "code": "20B",
+    "family": "Patio desplazado",
+    "variant": "B",
+    "logic": "Un vacío descentrado produce lugares de tamaños distintos.",
+    "risk": "No confundir irregularidad con buen aprovechamiento.",
+    "floor_m2": 181.01,
+    "bedrooms_m2": 73.09,
+    "shared_gross_m2": 107.92,
+    "connections_090_graphic": 4,
+    "geometry_conflicts": [],
+    "entry_on_boundary": true,
+    "radius": 4.4,
+    "footprint_bounds": [
+      -8.97964978522339,
+      -8.7133234670182,
+      9.727726749554986,
+      10.164342652278897
+    ],
+    "room_angles": [
+      17,
+      3,
+      147,
+      -122
+    ]
+  }
+]

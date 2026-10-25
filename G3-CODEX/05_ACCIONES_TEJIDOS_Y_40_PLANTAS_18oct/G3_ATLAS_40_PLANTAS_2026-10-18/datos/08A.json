@@ -1,0 +1,26 @@
+{
+  "code": "08A",
+  "family": "Cadena oblicua",
+  "variant": "A",
+  "logic": "Cambios de dirección separan focos de actividad.",
+  "risk": "Recorridos sinuosos y piezas difíciles de construir.",
+  "floor_m2": 188.35,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 117.09,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 3.35,
+  "footprint_bounds": [
+    -9.566738346649988,
+    -7.4,
+    11.35,
+    8.0048078413693
+  ],
+  "room_angles": [
+    35,
+    180,
+    -20,
+    180
+  ]
+}

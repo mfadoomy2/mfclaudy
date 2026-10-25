@@ -1,0 +1,26 @@
+{
+  "code": "10B",
+  "family": "Puente habitado",
+  "variant": "B",
+  "logic": "Estar y cocinar se despliegan a lo largo de una conexión.",
+  "risk": "Longitud y dependencia de una conexión única.",
+  "floor_m2": 212.83,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 139.25,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 4.75,
+  "footprint_bounds": [
+    -11.539961468630576,
+    -6.811576884390038,
+    11.783360575919883,
+    7.558525155062069
+  ],
+  "room_angles": [
+    47,
+    133,
+    -63,
+    -117
+  ]
+}

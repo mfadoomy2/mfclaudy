@@ -1,0 +1,26 @@
+{
+  "code": "14A",
+  "family": "Espina en S",
+  "variant": "A",
+  "logic": "El recorrido se ensancha y cambia de dirección.",
+  "risk": "Orientación y distancias menos intuitivas.",
+  "floor_m2": 176.69,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 105.43,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 3.35,
+  "footprint_bounds": [
+    -8.384018266451662,
+    -7.4,
+    11.170183635588092,
+    9.42008173154289
+  ],
+  "room_angles": [
+    30,
+    180,
+    -15,
+    -120
+  ]
+}

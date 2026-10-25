@@ -1,0 +1,26 @@
+{
+  "code": "04A",
+  "family": "Doble peine",
+  "variant": "A",
+  "logic": "Dos bordes desplazados; encuentros en los ensanchamientos.",
+  "risk": "Evitar que la conexión vuelva a ser un pasillo.",
+  "floor_m2": 152.19,
+  "bedrooms_m2": 71.75,
+  "shared_gross_m2": 80.44,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 3.35,
+  "footprint_bounds": [
+    -3.35,
+    -7.2,
+    11.35,
+    7.2
+  ],
+  "room_angles": [
+    0,
+    0,
+    180,
+    180
+  ]
+}

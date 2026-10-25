@@ -1,0 +1,26 @@
+{
+  "code": "02B",
+  "family": "Cruz ramificada",
+  "variant": "B",
+  "logic": "Cuatro ramas con acceso desde un centro compartido.",
+  "risk": "La separación acústica depende de los umbrales.",
+  "floor_m2": 170.79,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 97.7,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 6.5,
+  "footprint_bounds": [
+    -8.031588466557729,
+    -8.694994194925618,
+    8.93158846655773,
+    8.89499419492562
+  ],
+  "room_angles": [
+    -8,
+    -82,
+    172,
+    98
+  ]
+}

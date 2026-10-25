@@ -1,0 +1,26 @@
+{
+  "code": "01A",
+  "family": "Dos orillas",
+  "variant": "A",
+  "logic": "Dos pares privados frente a una estancia continua.",
+  "risk": "Cruzar la sala puede exponer las entradas.",
+  "floor_m2": 173.92,
+  "bedrooms_m2": 71.75,
+  "shared_gross_m2": 102.17,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 7.0,
+  "footprint_bounds": [
+    -7.0,
+    -7.4,
+    7.0,
+    7.4
+  ],
+  "room_angles": [
+    0,
+    0,
+    180,
+    180
+  ]
+}

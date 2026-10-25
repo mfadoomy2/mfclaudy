@@ -1,0 +1,26 @@
+{
+  "code": "15B",
+  "family": "Dos patios",
+  "variant": "B",
+  "logic": "Dos vacíos dividen encuentro y concentración.",
+  "risk": "Los patios son hipótesis; su luz no está calculada.",
+  "floor_m2": 189.94,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 116.84,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 4.05,
+  "footprint_bounds": [
+    -8.727281769718246,
+    -9.13158846655773,
+    8.649999999999999,
+    9.33158846655773
+  ],
+  "room_angles": [
+    -8,
+    8,
+    172,
+    188
+  ]
+}

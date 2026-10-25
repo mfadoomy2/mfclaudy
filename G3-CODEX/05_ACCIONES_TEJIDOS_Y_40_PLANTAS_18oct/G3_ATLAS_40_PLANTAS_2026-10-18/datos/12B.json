@@ -1,0 +1,26 @@
+{
+  "code": "12B",
+  "family": "Abanico",
+  "variant": "B",
+  "logic": "Borde privado desplegado alrededor del ámbito común.",
+  "risk": "Mayor perímetro y posibles sombras entre alas.",
+  "floor_m2": 164.0,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 90.91,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 4.4,
+  "footprint_bounds": [
+    -9.234124688392821,
+    -3.95,
+    11.11396247737974,
+    10.43357958927939
+  ],
+  "room_angles": [
+    37,
+    23,
+    -23,
+    -37
+  ]
+}

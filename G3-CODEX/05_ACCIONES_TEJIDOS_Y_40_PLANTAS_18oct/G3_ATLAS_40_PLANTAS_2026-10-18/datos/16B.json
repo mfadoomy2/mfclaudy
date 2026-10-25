@@ -1,0 +1,26 @@
+{
+  "code": "16B",
+  "family": "Cuatro umbrales",
+  "variant": "B",
+  "logic": "Entradas retranqueadas hacia ámbitos comunes distintos.",
+  "risk": "Mucho espacio de transición si no se ocupa bien.",
+  "floor_m2": 164.6,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 91.01,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 4.05,
+  "footprint_bounds": [
+    -7.760061817393916,
+    -9.219427028562258,
+    6.872012874390997,
+    8.934568380640275
+  ],
+  "room_angles": [
+    2,
+    -2,
+    162,
+    198
+  ]
+}

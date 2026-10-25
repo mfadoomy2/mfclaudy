@@ -1,0 +1,41 @@
+code,family,variant,logic,risk,floor_m2,bedrooms_m2,shared_gross_m2,connections_090_graphic,entry_on_boundary,radius
+01A,Dos orillas,A,Dos pares privados frente a una estancia continua.,Cruzar la sala puede exponer las entradas.,173.92,71.75,102.17,4,True,7.0
+01B,Dos orillas,B,Dos pares privados frente a una estancia continua.,Cruzar la sala puede exponer las entradas.,165.3,73.58,91.71,4,True,6.0
+02A,Cruz ramificada,A,Cuatro ramas con acceso desde un centro compartido.,La separación acústica depende de los umbrales.,153.72,71.26,82.46,4,True,6.0
+02B,Cruz ramificada,B,Cuatro ramas con acceso desde un centro compartido.,La separación acústica depende de los umbrales.,170.79,73.09,97.7,4,True,6.5
+03A,Peine abierto,A,Habitaciones a un borde; cocina y estar a otro.,Longitud de recorridos y mucha fachada.,189.21,71.26,117.96,4,True,3.35
+03B,Peine abierto,B,Habitaciones a un borde; cocina y estar a otro.,Longitud de recorridos y mucha fachada.,186.09,73.09,112.99,4,True,3.35
+04A,Doble peine,A,Dos bordes desplazados; encuentros en los ensanchamientos.,Evitar que la conexión vuelva a ser un pasillo.,152.19,71.75,80.44,4,True,3.35
+04B,Doble peine,B,Dos bordes desplazados; encuentros en los ensanchamientos.,Evitar que la conexión vuelva a ser un pasillo.,169.12,73.58,95.53,4,True,3.7
+05A,Molinete,A,Las entradas giran alrededor del estar.,Giros y vistas hacia puertas privadas.,166.28,71.26,95.02,4,True,6.5
+05B,Molinete,B,Las entradas giran alrededor del estar.,Giros y vistas hacia puertas privadas.,161.94,73.09,88.85,4,True,6.0
+06A,Codo doméstico,A,Dos brazos conectados por cocina y estancia en el codo.,El extremo puede quedar demasiado alejado.,169.67,71.26,98.41,4,True,3.35
+06B,Codo doméstico,B,Dos brazos conectados por cocina y estancia en el codo.,El extremo puede quedar demasiado alejado.,222.64,73.09,149.55,4,True,4.4
+07A,Herradura,A,Vacío de llegada abierto entre dos alas.,Vigilar que el vacío no consuma el espacio común.,164.44,71.75,92.69,4,True,5.1
+07B,Herradura,B,Vacío de llegada abierto entre dos alas.,Vigilar que el vacío no consuma el espacio común.,163.54,73.58,89.96,4,True,5.1
+08A,Cadena oblicua,A,Cambios de dirección separan focos de actividad.,Recorridos sinuosos y piezas difíciles de construir.,188.35,71.26,117.09,4,True,3.35
+08B,Cadena oblicua,B,Cambios de dirección separan focos de actividad.,Recorridos sinuosos y piezas difíciles de construir.,190.72,73.09,117.63,4,True,3.35
+09A,Dos racimos,A,Dos parejas privadas con varios lugares de encuentro.,Puede duplicar superficie y reforzar grupos cerrados.,175.43,71.26,104.17,4,True,3.7
+09B,Dos racimos,B,Dos parejas privadas con varios lugares de encuentro.,Puede duplicar superficie y reforzar grupos cerrados.,163.46,73.09,90.37,4,True,3.35
+10A,Puente habitado,A,Estar y cocinar se despliegan a lo largo de una conexión.,Longitud y dependencia de una conexión única.,224.28,71.75,152.53,4,True,5.1
+10B,Puente habitado,B,Estar y cocinar se despliegan a lo largo de una conexión.,Longitud y dependencia de una conexión única.,212.83,73.58,139.25,4,True,4.75
+11A,Corola asimétrica,A,Ramas orientadas con ángulos diferentes.,No asumir que los giros mejoran la luz.,172.06,71.26,100.8,4,True,6.5
+11B,Corola asimétrica,B,Ramas orientadas con ángulos diferentes.,No asumir que los giros mejoran la luz.,166.45,73.09,93.36,4,True,6.0
+12A,Abanico,A,Borde privado desplegado alrededor del ámbito común.,Mayor perímetro y posibles sombras entre alas.,152.98,71.26,81.73,4,True,4.05
+12B,Abanico,B,Borde privado desplegado alrededor del ámbito común.,Mayor perímetro y posibles sombras entre alas.,164.0,73.09,90.91,4,True,4.4
+13A,Archipiélago,A,Islas privadas con continuidades compartidas entre ellas.,Intersticios residuales si no admiten usos concretos.,183.02,71.75,111.27,4,True,4.05
+13B,Archipiélago,B,Islas privadas con continuidades compartidas entre ellas.,Intersticios residuales si no admiten usos concretos.,173.4,73.58,99.82,4,True,3.35
+14A,Espina en S,A,El recorrido se ensancha y cambia de dirección.,Orientación y distancias menos intuitivas.,176.69,71.26,105.43,4,True,3.35
+14B,Espina en S,B,El recorrido se ensancha y cambia de dirección.,Orientación y distancias menos intuitivas.,205.91,73.09,132.81,4,True,4.05
+15A,Dos patios,A,Dos vacíos dividen encuentro y concentración.,Los patios son hipótesis; su luz no está calculada.,179.87,71.26,108.61,4,True,4.05
+15B,Dos patios,B,Dos vacíos dividen encuentro y concentración.,Los patios son hipótesis; su luz no está calculada.,189.94,73.09,116.84,4,True,4.05
+16A,Cuatro umbrales,A,Entradas retranqueadas hacia ámbitos comunes distintos.,Mucho espacio de transición si no se ocupa bien.,154.45,71.75,82.71,4,True,4.05
+16B,Cuatro umbrales,B,Entradas retranqueadas hacia ámbitos comunes distintos.,Mucho espacio de transición si no se ocupa bien.,164.6,73.58,91.01,4,True,4.05
+17A,Triángulo con bifurcación,A,"Tres direcciones de estancia, una con pareja de habitaciones.",Jerarquía desigual entre las cuatro habitaciones.,153.58,71.26,82.32,4,True,4.75
+17B,Triángulo con bifurcación,B,"Tres direcciones de estancia, una con pareja de habitaciones.",Jerarquía desigual entre las cuatro habitaciones.,159.97,73.09,86.87,4,True,5.1
+18A,Zigzag,A,Alternancia de retiros y lugares compartidos.,El recorrido puede crecer sin aportar estancia.,187.8,71.26,116.54,4,True,3.35
+18B,Zigzag,B,Alternancia de retiros y lugares compartidos.,El recorrido puede crecer sin aportar estancia.,193.57,73.09,120.48,4,True,3.35
+19A,Bandas permeables,A,Una banda social y otra doméstica con cruces cortos.,Proteger el descanso respecto de los usos abiertos.,162.63,71.75,90.88,4,True,5.1
+19B,Bandas permeables,B,Una banda social y otra doméstica con cruces cortos.,Proteger el descanso respecto de los usos abiertos.,168.93,73.58,95.35,4,True,5.1
+20A,Patio desplazado,A,Un vacío descentrado produce lugares de tamaños distintos.,No confundir irregularidad con buen aprovechamiento.,179.9,71.26,108.64,4,True,4.75
+20B,Patio desplazado,B,Un vacío descentrado produce lugares de tamaños distintos.,No confundir irregularidad con buen aprovechamiento.,181.01,73.09,107.92,4,True,4.4

@@ -1,0 +1,26 @@
+{
+  "code": "05B",
+  "family": "Molinete",
+  "variant": "B",
+  "logic": "Las entradas giran alrededor del estar.",
+  "risk": "Giros y vistas hacia puertas privadas.",
+  "floor_m2": 161.94,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 88.85,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 6.0,
+  "footprint_bounds": [
+    -8.031588466557729,
+    -8.694994194925618,
+    8.93158846655773,
+    8.89499419492562
+  ],
+  "room_angles": [
+    -8,
+    -82,
+    172,
+    98
+  ]
+}

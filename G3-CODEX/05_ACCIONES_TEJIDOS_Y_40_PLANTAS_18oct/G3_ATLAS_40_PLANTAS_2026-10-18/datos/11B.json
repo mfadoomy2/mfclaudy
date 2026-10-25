@@ -1,0 +1,26 @@
+{
+  "code": "11B",
+  "family": "Corola asimétrica",
+  "variant": "B",
+  "logic": "Ramas orientadas con ángulos diferentes.",
+  "risk": "No asumir que los giros mejoran la luz.",
+  "floor_m2": 166.45,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 93.36,
+  "connections_090_graphic": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "radius": 6.0,
+  "footprint_bounds": [
+    -8.767412326428236,
+    -9.074070138345016,
+    9.767359049020687,
+    9.294994194925618
+  ],
+  "room_angles": [
+    -8,
+    -62,
+    152,
+    108
+  ]
+}
