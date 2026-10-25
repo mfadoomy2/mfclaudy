@@ -1,0 +1,212 @@
+[
+ {
+  "doc": "TRES_UNIDADES_COMPACTADAS",
+  "code": "V01",
+  "id": "A",
+  "origin": [
+   0,
+   6.415,
+   0
+  ],
+  "normal": [
+   0,
+   1,
+   0
+  ],
+  "xdir": [
+   1,
+   0,
+   0
+  ],
+  "label": "longitudinal por el eje X, mirando a norte"
+ },
+ {
+  "doc": "TRES_UNIDADES_COMPACTADAS",
+  "code": "V01",
+  "id": "B",
+  "origin": [
+   9.04,
+   0,
+   0
+  ],
+  "normal": [
+   1,
+   0,
+   0
+  ],
+  "xdir": [
+   0,
+   -1,
+   0
+  ],
+  "label": "transversal por la bow window S01, mirando a levante"
+ },
+ {
+  "doc": "TRES_UNIDADES_COMPACTADAS",
+  "code": "V02",
+  "id": "A",
+  "origin": [
+   0,
+   6.462,
+   0
+  ],
+  "normal": [
+   0,
+   1,
+   0
+  ],
+  "xdir": [
+   1,
+   0,
+   0
+  ],
+  "label": "longitudinal por el eje X, mirando a norte"
+ },
+ {
+  "doc": "TRES_UNIDADES_COMPACTADAS",
+  "code": "V02",
+  "id": "B",
+  "origin": [
+   37.46,
+   0,
+   0
+  ],
+  "normal": [
+   1,
+   0,
+   0
+  ],
+  "xdir": [
+   0,
+   -1,
+   0
+  ],
+  "label": "transversal por la bow window S01, mirando a levante"
+ },
+ {
+  "doc": "TRES_UNIDADES_COMPACTADAS",
+  "code": "V03",
+  "id": "A",
+  "origin": [
+   0,
+   7.612,
+   0
+  ],
+  "normal": [
+   0,
+   1,
+   0
+  ],
+  "xdir": [
+   1,
+   0,
+   0
+  ],
+  "label": "longitudinal por el eje X, mirando a norte"
+ },
+ {
+  "doc": "TRES_UNIDADES_COMPACTADAS",
+  "code": "V03",
+  "id": "B",
+  "origin": [
+   62.7,
+   0,
+   0
+  ],
+  "normal": [
+   1,
+   0,
+   0
+  ],
+  "xdir": [
+   0,
+   -1,
+   0
+  ],
+  "label": "transversal por la bow window S01, mirando a levante"
+ },
+ {
+  "doc": "E02_RECTA",
+  "code": "E02",
+  "id": "A",
+  "origin": [
+   0,
+   0.326,
+   0
+  ],
+  "normal": [
+   0,
+   1,
+   0
+  ],
+  "xdir": [
+   1,
+   0,
+   0
+  ],
+  "label": "longitudinal por el eje X, mirando a norte"
+ },
+ {
+  "doc": "E02_RECTA",
+  "code": "E02",
+  "id": "B",
+  "origin": [
+   15.5,
+   0,
+   0
+  ],
+  "normal": [
+   -1,
+   0,
+   0
+  ],
+  "xdir": [
+   0,
+   1,
+   0
+  ],
+  "label": "transversal por H07 y H05, mirando a la calle"
+ },
+ {
+  "doc": "E02_RECTA",
+  "code": "E02",
+  "id": "C",
+  "origin": [
+   29.27,
+   0,
+   0
+  ],
+  "normal": [
+   1,
+   0,
+   0
+  ],
+  "xdir": [
+   0,
+   -1,
+   0
+  ],
+  "label": "transversal por la bow window S02 y la biblioteca, mirando a levante"
+ },
+ {
+  "doc": "E02_RECTA",
+  "code": "E02",
+  "id": "D",
+  "origin": [
+   47.5,
+   0,
+   0
+  ],
+  "normal": [
+   -1,
+   0,
+   0
+  ],
+  "xdir": [
+   0,
+   1,
+   0
+  ],
+  "label": "transversal por la escalera, mirando al edificio"
+ }
+]

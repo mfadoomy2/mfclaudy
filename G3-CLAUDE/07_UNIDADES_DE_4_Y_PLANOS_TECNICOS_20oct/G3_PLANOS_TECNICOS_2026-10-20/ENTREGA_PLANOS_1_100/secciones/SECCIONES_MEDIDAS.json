@@ -1,0 +1,284 @@
+[
+ {
+  "page": "S01",
+  "sections": [
+   {
+    "id": "A",
+    "mm_per_m": 20.0,
+    "cut_objects": 10,
+    "projection_segments": 3565,
+    "extent_u_m": [
+     0.2250811807520212,
+     13.17504506606747
+    ],
+    "height_m": 2.8900000000000006,
+    "levels_m": [
+     0.0,
+     2.75,
+     2.89
+    ],
+    "plane_origin": [
+     0,
+     6.415,
+     0
+    ],
+    "view_normal": [
+     0,
+     1,
+     0
+    ]
+   },
+   {
+    "id": "B",
+    "mm_per_m": 20.0,
+    "cut_objects": 23,
+    "projection_segments": 3274,
+    "extent_u_m": [
+     -12.824904094395631,
+     0.35003624540053835
+    ],
+    "height_m": 2.8900000000000006,
+    "levels_m": [
+     0.0,
+     2.75,
+     2.89
+    ],
+    "plane_origin": [
+     8.52,
+     0,
+     0
+    ],
+    "view_normal": [
+     1,
+     0,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "page": "S02",
+  "sections": [
+   {
+    "id": "A",
+    "mm_per_m": 20.0,
+    "cut_objects": 9,
+    "projection_segments": 3058,
+    "extent_u_m": [
+     28.594913659086068,
+     41.699873313024355
+    ],
+    "height_m": 2.89,
+    "levels_m": [
+     0.0,
+     2.75,
+     2.89
+    ],
+    "plane_origin": [
+     0,
+     6.462,
+     0
+    ],
+    "view_normal": [
+     0,
+     1,
+     0
+    ]
+   },
+   {
+    "id": "B",
+    "mm_per_m": 20.0,
+    "cut_objects": 21,
+    "projection_segments": 2467,
+    "extent_u_m": [
+     -12.300079647787015,
+     0.7248687237345801
+    ],
+    "height_m": 2.8900000000000006,
+    "levels_m": [
+     0.0,
+     2.75,
+     2.89
+    ],
+    "plane_origin": [
+     36.94,
+     0,
+     0
+    ],
+    "view_normal": [
+     1,
+     0,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "page": "S03",
+  "sections": [
+   {
+    "id": "A",
+    "mm_per_m": 20.0,
+    "cut_objects": 24,
+    "projection_segments": 3693,
+    "extent_u_m": [
+     56.061259363346025,
+     71.4649523873619
+    ],
+    "height_m": 2.8900000000000006,
+    "levels_m": [
+     0.0,
+     2.75,
+     2.89
+    ],
+    "plane_origin": [
+     0,
+     7.612,
+     0
+    ],
+    "view_normal": [
+     0,
+     1,
+     0
+    ]
+   },
+   {
+    "id": "B",
+    "mm_per_m": 20.0,
+    "cut_objects": 32,
+    "projection_segments": 4057,
+    "extent_u_m": [
+     -15.464952387361908,
+     0.06495506464851131
+    ],
+    "height_m": 2.8900000000000006,
+    "levels_m": [
+     0.0,
+     2.75,
+     2.89
+    ],
+    "plane_origin": [
+     62.38,
+     0,
+     0
+    ],
+    "view_normal": [
+     1,
+     0,
+     0
+    ]
+   }
+  ]
+ },
+ {
+  "page": "S04",
+  "sections": [
+   {
+    "id": "A",
+    "mm_per_m": 10.0,
+    "cut_objects": 28,
+    "projection_segments": 8120,
+    "extent_u_m": [
+     12.070000000006983,
+     61.478568019095334
+    ],
+    "height_m": 8.479985427856445,
+    "levels_m": [
+     0.0,
+     4.02,
+     4.2,
+     8.48
+    ],
+    "plane_origin": [
+     0,
+     0.326,
+     0
+    ],
+    "view_normal": [
+     0,
+     1,
+     0
+    ]
+   },
+   {
+    "id": "B",
+    "mm_per_m": 10.0,
+    "cut_objects": 30,
+    "projection_segments": 3231,
+    "extent_u_m": [
+     -7.5,
+     7.474756820716159
+    ],
+    "height_m": 7.931766384667341,
+    "levels_m": [
+     0.0,
+     4.02,
+     4.2,
+     7.93
+    ],
+    "plane_origin": [
+     15.5,
+     0,
+     0
+    ],
+    "view_normal": [
+     -1,
+     0,
+     0
+    ]
+   },
+   {
+    "id": "C",
+    "mm_per_m": 10.0,
+    "cut_objects": 41,
+    "projection_segments": 7700,
+    "extent_u_m": [
+     -9.894659999683526,
+     7.480000000447031
+    ],
+    "height_m": 8.300268898690096,
+    "levels_m": [
+     0.0,
+     4.02,
+     4.2,
+     8.3
+    ],
+    "plane_origin": [
+     28.75,
+     0,
+     0
+    ],
+    "view_normal": [
+     1,
+     0,
+     0
+    ]
+   },
+   {
+    "id": "D",
+    "mm_per_m": 10.0,
+    "cut_objects": 17,
+    "projection_segments": 8373,
+    "extent_u_m": [
+     -7.5,
+     12.669999999925494
+    ],
+    "height_m": 8.479985427856445,
+    "levels_m": [
+     0.0,
+     8.48
+    ],
+    "plane_origin": [
+     47.5,
+     0,
+     0
+    ],
+    "view_normal": [
+     -1,
+     0,
+     0
+    ]
+   }
+  ]
+ }
+]
