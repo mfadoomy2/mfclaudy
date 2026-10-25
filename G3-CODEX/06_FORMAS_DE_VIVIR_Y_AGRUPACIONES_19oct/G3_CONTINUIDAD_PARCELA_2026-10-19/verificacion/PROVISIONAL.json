@@ -1,0 +1,358 @@
+[
+  {
+    "codigo": "V01_U",
+    "habitantes": 4,
+    "suelo_m2": 122.7,
+    "envolvente_estudio_m2": 132.04,
+    "banos": 2,
+    "aseos_en_borde": 2,
+    "longitud_contacto_exterior_banos_m": [
+      4.42,
+      4.22
+    ],
+    "accesos_dormitorios_disco90": 4,
+    "accesos_banos_disco90": 2,
+    "dormitorios_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "banos_ok": [
+      true,
+      true
+    ],
+    "bow_exterior_3m": 4,
+    "bow_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "vistas_WC_muestreadas_filtradas": 6,
+    "lineas_visuales_muestreadas": 6,
+    "solape_habitaciones_m2": 0.0,
+    "muebles_fuera_suelo_m2": 0.0,
+    "solapes_muebles_m2": 0.0,
+    "servicios_fuera_ambito_principal": true
+  },
+  {
+    "codigo": "V02_U",
+    "habitantes": 4,
+    "suelo_m2": 126.26,
+    "envolvente_estudio_m2": 135.74,
+    "banos": 2,
+    "aseos_en_borde": 2,
+    "longitud_contacto_exterior_banos_m": [
+      4.72,
+      3.84
+    ],
+    "accesos_dormitorios_disco90": 4,
+    "accesos_banos_disco90": 2,
+    "dormitorios_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "banos_ok": [
+      true,
+      true
+    ],
+    "bow_exterior_3m": 4,
+    "bow_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "vistas_WC_muestreadas_filtradas": 6,
+    "lineas_visuales_muestreadas": 6,
+    "solape_habitaciones_m2": 0.0,
+    "muebles_fuera_suelo_m2": 0.0,
+    "solapes_muebles_m2": 0.0,
+    "servicios_fuera_ambito_principal": true
+  },
+  {
+    "codigo": "V03_U",
+    "habitantes": 4,
+    "suelo_m2": 117.56,
+    "envolvente_estudio_m2": 128.04,
+    "banos": 2,
+    "aseos_en_borde": 2,
+    "longitud_contacto_exterior_banos_m": [
+      3.59,
+      3.59
+    ],
+    "accesos_dormitorios_disco90": 4,
+    "accesos_banos_disco90": 2,
+    "dormitorios_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "banos_ok": [
+      true,
+      true
+    ],
+    "bow_exterior_3m": 4,
+    "bow_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "vistas_WC_muestreadas_filtradas": 6,
+    "lineas_visuales_muestreadas": 6,
+    "solape_habitaciones_m2": 0.0,
+    "muebles_fuera_suelo_m2": 0.0,
+    "solapes_muebles_m2": 0.0,
+    "servicios_fuera_ambito_principal": true
+  },
+  {
+    "codigo": "V02_P",
+    "habitantes": 8,
+    "suelo_m2": 259.48,
+    "envolvente_estudio_m2": 279.1,
+    "banos": 4,
+    "aseos_en_borde": 4,
+    "longitud_contacto_exterior_banos_m": [
+      4.72,
+      3.84,
+      4.72,
+      3.84
+    ],
+    "accesos_dormitorios_disco90": 8,
+    "accesos_banos_disco90": 4,
+    "dormitorios_ok": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "banos_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "bow_exterior_3m": 8,
+    "bow_ok": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "vistas_WC_muestreadas_filtradas": 12,
+    "lineas_visuales_muestreadas": 12,
+    "solape_habitaciones_m2": 0.0,
+    "muebles_fuera_suelo_m2": 0.0,
+    "solapes_muebles_m2": 0.0,
+    "servicios_fuera_ambito_principal": true
+  },
+  {
+    "codigo": "V01_D",
+    "habitantes": 8,
+    "suelo_m2": 272.35,
+    "envolvente_estudio_m2": 290.99,
+    "banos": 4,
+    "aseos_en_borde": 4,
+    "longitud_contacto_exterior_banos_m": [
+      4.42,
+      4.22,
+      4.42,
+      4.22
+    ],
+    "accesos_dormitorios_disco90": 8,
+    "accesos_banos_disco90": 4,
+    "dormitorios_ok": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "banos_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "bow_exterior_3m": 8,
+    "bow_ok": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "vistas_WC_muestreadas_filtradas": 12,
+    "lineas_visuales_muestreadas": 12,
+    "solape_habitaciones_m2": 0.0,
+    "muebles_fuera_suelo_m2": 0.0,
+    "solapes_muebles_m2": 0.0,
+    "servicios_fuera_ambito_principal": true
+  },
+  {
+    "codigo": "V01_S",
+    "habitantes": 8,
+    "suelo_m2": 251.43,
+    "envolvente_estudio_m2": 269.71,
+    "banos": 4,
+    "aseos_en_borde": 4,
+    "longitud_contacto_exterior_banos_m": [
+      4.42,
+      4.22,
+      4.42,
+      4.22
+    ],
+    "accesos_dormitorios_disco90": 8,
+    "accesos_banos_disco90": 4,
+    "dormitorios_ok": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "banos_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "bow_exterior_3m": 8,
+    "bow_ok": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "vistas_WC_muestreadas_filtradas": 12,
+    "lineas_visuales_muestreadas": 12,
+    "solape_habitaciones_m2": 0.0,
+    "muebles_fuera_suelo_m2": 0.0,
+    "solapes_muebles_m2": 0.0,
+    "servicios_fuera_ambito_principal": true
+  },
+  {
+    "codigo": "V03_D",
+    "habitantes": 8,
+    "suelo_m2": 279.46,
+    "envolvente_estudio_m2": 298.77,
+    "banos": 4,
+    "aseos_en_borde": 4,
+    "longitud_contacto_exterior_banos_m": [
+      3.59,
+      3.59,
+      3.59,
+      3.59
+    ],
+    "accesos_dormitorios_disco90": 8,
+    "accesos_banos_disco90": 4,
+    "dormitorios_ok": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "banos_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "bow_exterior_3m": 8,
+    "bow_ok": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "vistas_WC_muestreadas_filtradas": 12,
+    "lineas_visuales_muestreadas": 12,
+    "solape_habitaciones_m2": 0.0,
+    "muebles_fuera_suelo_m2": 0.0,
+    "solapes_muebles_m2": 0.0,
+    "servicios_fuera_ambito_principal": true
+  },
+  {
+    "codigo": "V03_S",
+    "habitantes": 8,
+    "suelo_m2": 273.67,
+    "envolvente_estudio_m2": 292.1,
+    "banos": 4,
+    "aseos_en_borde": 4,
+    "longitud_contacto_exterior_banos_m": [
+      3.59,
+      3.53,
+      3.59,
+      3.53
+    ],
+    "accesos_dormitorios_disco90": 8,
+    "accesos_banos_disco90": 4,
+    "dormitorios_ok": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "banos_ok": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "bow_exterior_3m": 8,
+    "bow_ok": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "vistas_WC_muestreadas_filtradas": 12,
+    "lineas_visuales_muestreadas": 12,
+    "solape_habitaciones_m2": 0.0,
+    "muebles_fuera_suelo_m2": 0.0,
+    "solapes_muebles_m2": 0.0,
+    "servicios_fuera_ambito_principal": true
+  }
+]

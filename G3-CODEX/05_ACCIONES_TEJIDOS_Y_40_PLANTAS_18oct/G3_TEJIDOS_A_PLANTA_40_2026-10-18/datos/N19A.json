@@ -1,0 +1,99 @@
+{
+  "code": "N19A",
+  "family": "Cuatro retiros dispersos",
+  "logic": "Tejido 1 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "A",
+  "source": 1,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 6.68,
+    "H2": 11.44,
+    "H3": 5.5,
+    "H4": 6.53,
+    "K": 2.01,
+    "M": 2.25,
+    "S": 4.83,
+    "B1": 1.1,
+    "B2": 2.91,
+    "D": 4.25,
+    "T": 5.01,
+    "R": 4.9,
+    "E": 6.13
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "M"
+    ],
+    [
+      "D",
+      "M"
+    ],
+    [
+      "B1",
+      "H3"
+    ],
+    [
+      "B2",
+      "H3"
+    ],
+    [
+      "B2",
+      "E"
+    ],
+    [
+      "D",
+      "R"
+    ],
+    [
+      "H4",
+      "R"
+    ],
+    [
+      "B1",
+      "K"
+    ],
+    [
+      "D",
+      "T"
+    ],
+    [
+      "B2",
+      "S"
+    ],
+    [
+      "H2",
+      "K"
+    ]
+  ],
+  "floor_m2": 222.01,
+  "bedrooms_m2": 71.75,
+  "shared_gross_m2": 150.26
+}

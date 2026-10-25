@@ -1,0 +1,95 @@
+{
+  "code": "N03A",
+  "family": "Tareas y herramientas",
+  "logic": "Tejido 3 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "A",
+  "source": 3,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 0.83,
+    "H2": 5.75,
+    "H3": 7.02,
+    "H4": 2.41,
+    "K": 2.86,
+    "M": 5.15,
+    "S": 3.01,
+    "B1": 1.73,
+    "B2": 5.31,
+    "D": 3.89,
+    "T": 6.95,
+    "R": 6.57,
+    "E": 2.21
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "H4"
+    ],
+    [
+      "B1",
+      "H4"
+    ],
+    [
+      "D",
+      "H4"
+    ],
+    [
+      "B1",
+      "T"
+    ],
+    [
+      "B1",
+      "E"
+    ],
+    [
+      "E",
+      "H3"
+    ],
+    [
+      "H3",
+      "K"
+    ],
+    [
+      "H3",
+      "S"
+    ],
+    [
+      "H1",
+      "H2"
+    ],
+    [
+      "H2",
+      "R"
+    ]
+  ],
+  "floor_m2": 228.45,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 157.2
+}

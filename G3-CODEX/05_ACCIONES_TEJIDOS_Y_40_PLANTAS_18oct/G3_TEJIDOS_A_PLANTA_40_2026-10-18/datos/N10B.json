@@ -1,0 +1,99 @@
+{
+  "code": "N10B",
+  "family": "Comer sin reunirse",
+  "logic": "Tejido 1 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 1,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 2.73,
+    "H2": 7.49,
+    "H3": 9.96,
+    "H4": 5.48,
+    "K": 6.92,
+    "M": 5.15,
+    "S": 3.92,
+    "B1": 2.98,
+    "B2": 2.15,
+    "D": 5.91,
+    "T": 2.35,
+    "R": 2.09,
+    "E": 0.77
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "T"
+    ],
+    [
+      "H1",
+      "R"
+    ],
+    [
+      "H2",
+      "R"
+    ],
+    [
+      "B2",
+      "R"
+    ],
+    [
+      "B2",
+      "H4"
+    ],
+    [
+      "D",
+      "H4"
+    ],
+    [
+      "B2",
+      "E"
+    ],
+    [
+      "B1",
+      "T"
+    ],
+    [
+      "H1",
+      "M"
+    ],
+    [
+      "B1",
+      "K"
+    ],
+    [
+      "H3",
+      "K"
+    ]
+  ],
+  "floor_m2": 233.04,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 159.45
+}

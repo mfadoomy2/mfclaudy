@@ -1,0 +1,87 @@
+{
+  "code": "N09B",
+  "family": "Reparación en el umbral",
+  "logic": "Tejido 3 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 3,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 1.03,
+    "H2": 6.06,
+    "H3": 7.6,
+    "H4": 6.42,
+    "K": 1.41,
+    "M": 4.13,
+    "S": 1.94,
+    "B1": 2.03,
+    "B2": 5.52,
+    "D": 3.39,
+    "T": 2.51,
+    "R": 2.12,
+    "E": 0.7
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "R"
+    ],
+    [
+      "H4",
+      "T"
+    ],
+    [
+      "B1",
+      "T"
+    ],
+    [
+      "B1",
+      "E"
+    ],
+    [
+      "D",
+      "K"
+    ],
+    [
+      "H3",
+      "K"
+    ],
+    [
+      "M",
+      "S"
+    ],
+    [
+      "H2",
+      "H4"
+    ]
+  ],
+  "floor_m2": 208.07,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 134.97
+}

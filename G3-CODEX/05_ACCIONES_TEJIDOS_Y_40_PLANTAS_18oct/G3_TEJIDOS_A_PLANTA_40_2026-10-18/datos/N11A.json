@@ -1,0 +1,99 @@
+{
+  "code": "N11A",
+  "family": "Cuidados próximos",
+  "logic": "Tejido 2 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "A",
+  "source": 2,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 4.53,
+    "H2": 4.5,
+    "H3": 11.78,
+    "H4": 7.22,
+    "K": 2.21,
+    "M": 7.03,
+    "S": 2.65,
+    "B1": 1.97,
+    "B2": 5.19,
+    "D": 3.33,
+    "T": 1.56,
+    "R": 4.41,
+    "E": 3.4
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "T"
+    ],
+    [
+      "H4",
+      "T"
+    ],
+    [
+      "B1",
+      "H4"
+    ],
+    [
+      "E",
+      "H4"
+    ],
+    [
+      "B2",
+      "E"
+    ],
+    [
+      "D",
+      "R"
+    ],
+    [
+      "R",
+      "S"
+    ],
+    [
+      "B2",
+      "K"
+    ],
+    [
+      "H2",
+      "K"
+    ],
+    [
+      "B2",
+      "M"
+    ],
+    [
+      "H1",
+      "H3"
+    ]
+  ],
+  "floor_m2": 228.32,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 157.06
+}

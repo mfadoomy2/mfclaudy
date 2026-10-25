@@ -1,0 +1,91 @@
+{
+  "code": "N08B",
+  "family": "Trabajo que permanece",
+  "logic": "Tejido 2 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 2,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 6.67,
+    "H2": 7.44,
+    "H3": 6.36,
+    "H4": 6.09,
+    "K": 3.07,
+    "M": 6.66,
+    "S": 4.42,
+    "B1": 2.17,
+    "B2": 0.6,
+    "D": 4.65,
+    "T": 2.14,
+    "R": 2.1,
+    "E": 2.32
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "D",
+      "H1"
+    ],
+    [
+      "B1",
+      "H4"
+    ],
+    [
+      "B2",
+      "H4"
+    ],
+    [
+      "H4",
+      "T"
+    ],
+    [
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "K"
+    ],
+    [
+      "H3",
+      "R"
+    ],
+    [
+      "R",
+      "S"
+    ],
+    [
+      "E",
+      "H2"
+    ]
+  ],
+  "floor_m2": 218.15,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 145.06
+}

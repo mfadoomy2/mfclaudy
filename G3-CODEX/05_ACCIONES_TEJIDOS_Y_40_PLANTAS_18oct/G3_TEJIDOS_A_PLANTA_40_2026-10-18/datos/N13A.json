@@ -1,0 +1,99 @@
+{
+  "code": "N13A",
+  "family": "Secar sin invadir",
+  "logic": "Tejido 1 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "A",
+  "source": 1,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 7.63,
+    "H2": 9.23,
+    "H3": 4.16,
+    "H4": 4.94,
+    "K": 5.29,
+    "M": 3.82,
+    "S": 4.74,
+    "B1": 3.38,
+    "B2": 1.14,
+    "D": 9.29,
+    "T": 2.27,
+    "R": 7.32,
+    "E": 4.93
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "H4"
+    ],
+    [
+      "H4",
+      "M"
+    ],
+    [
+      "M",
+      "T"
+    ],
+    [
+      "B1",
+      "T"
+    ],
+    [
+      "B2",
+      "T"
+    ],
+    [
+      "B2",
+      "H3"
+    ],
+    [
+      "B2",
+      "K"
+    ],
+    [
+      "D",
+      "K"
+    ],
+    [
+      "B1",
+      "H2"
+    ],
+    [
+      "B1",
+      "R"
+    ],
+    [
+      "E",
+      "H3"
+    ]
+  ],
+  "floor_m2": 233.61,
+  "bedrooms_m2": 71.75,
+  "shared_gross_m2": 161.87
+}

@@ -1,0 +1,95 @@
+{
+  "code": "N07A",
+  "family": "Visita y recogida",
+  "logic": "Tejido 1 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "A",
+  "source": 1,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 5.81,
+    "H2": 3.93,
+    "H3": 6.94,
+    "H4": 7.05,
+    "K": 2.36,
+    "M": 6.95,
+    "S": 5.41,
+    "B1": 1.82,
+    "B2": 2.88,
+    "D": 2.17,
+    "T": 5.92,
+    "R": 5.28,
+    "E": 2.47
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "T"
+    ],
+    [
+      "H2",
+      "T"
+    ],
+    [
+      "H2",
+      "K"
+    ],
+    [
+      "B1",
+      "K"
+    ],
+    [
+      "D",
+      "H3"
+    ],
+    [
+      "E",
+      "H3"
+    ],
+    [
+      "B1",
+      "B2"
+    ],
+    [
+      "B2",
+      "S"
+    ],
+    [
+      "D",
+      "R"
+    ],
+    [
+      "H4",
+      "R"
+    ]
+  ],
+  "floor_m2": 218.34,
+  "bedrooms_m2": 71.75,
+  "shared_gross_m2": 146.59
+}

@@ -1,0 +1,387 @@
+{
+  "units": 40,
+  "bedrooms": 160,
+  "distinct_plan_shapes": 40,
+  "native_files": [
+    {
+      "file": "N01A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N01B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N02A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N02B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N03A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N03B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N04A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N04B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N05A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N05B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N06A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N06B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N07A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N07B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N08A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N08B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N09A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N09B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N10A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N10B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N11A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N11B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N12A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N12B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N13A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N13B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N14A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N14B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N15A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N15B_CORREGIDA.3dm",
+      "objects": 455,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N16A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N16B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N17A_CORREGIDA.3dm",
+      "objects": 455,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N17B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N18A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N18B_CORREGIDA.3dm",
+      "objects": 455,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N19A_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N19B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N20A_CORREGIDA.3dm",
+      "objects": 455,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "N20B_CORREGIDA.3dm",
+      "objects": 447,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    },
+    {
+      "file": "HABITACION_CORREGIDA.3dm",
+      "objects": 70,
+      "invalid": 0,
+      "open_solids": 0,
+      "initial_views": 1,
+      "named_views": 2,
+      "floor_top_z": 0
+    }
+  ],
+  "catalog_objects": 17952,
+  "catalog_named_views": 41,
+  "all_floors_z": 0,
+  "native_validation_count": 41,
+  "native_volume_errors": 0,
+  "claims_not_covered": [
+    "solar en parcela",
+    "calculo estructural",
+    "cumplimiento normativo",
+    "proyecto de ejecucion"
+  ]
+}

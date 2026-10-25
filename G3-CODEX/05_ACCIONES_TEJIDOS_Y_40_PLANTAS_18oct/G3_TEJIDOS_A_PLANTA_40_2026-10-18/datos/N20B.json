@@ -1,0 +1,103 @@
+{
+  "code": "N20B",
+  "family": "Cruces habitables",
+  "logic": "Tejido 2 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 2,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 7.22,
+    "H2": 6.78,
+    "H3": 7.21,
+    "H4": 8.08,
+    "K": 4.97,
+    "M": 0.71,
+    "S": 5.61,
+    "B1": 6.15,
+    "B2": 5.53,
+    "D": 5.02,
+    "T": 4.54,
+    "R": 4.36,
+    "E": 4.24
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "K"
+    ],
+    [
+      "E",
+      "K"
+    ],
+    [
+      "B2",
+      "E"
+    ],
+    [
+      "B2",
+      "H4"
+    ],
+    [
+      "H4",
+      "M"
+    ],
+    [
+      "E",
+      "H2"
+    ],
+    [
+      "M",
+      "T"
+    ],
+    [
+      "B1",
+      "T"
+    ],
+    [
+      "D",
+      "T"
+    ],
+    [
+      "H1",
+      "R"
+    ],
+    [
+      "R",
+      "S"
+    ],
+    [
+      "D",
+      "H3"
+    ]
+  ],
+  "floor_m2": 258.33,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 185.24
+}

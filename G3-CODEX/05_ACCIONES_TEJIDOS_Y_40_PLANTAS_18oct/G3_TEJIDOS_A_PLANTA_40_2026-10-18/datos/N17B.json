@@ -1,0 +1,99 @@
+{
+  "code": "N17B",
+  "family": "Limpieza y almacenaje",
+  "logic": "Tejido 2 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 2,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 5.63,
+    "H2": 2.8,
+    "H3": 10.86,
+    "H4": 4.67,
+    "K": 7.52,
+    "M": 5.89,
+    "S": 5.86,
+    "B1": 5.69,
+    "B2": 2.01,
+    "D": 7.54,
+    "T": 4.59,
+    "R": 3.3,
+    "E": 3.89
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "M"
+    ],
+    [
+      "B2",
+      "M"
+    ],
+    [
+      "B2",
+      "H4"
+    ],
+    [
+      "E",
+      "H4"
+    ],
+    [
+      "B2",
+      "R"
+    ],
+    [
+      "H2",
+      "R"
+    ],
+    [
+      "M",
+      "T"
+    ],
+    [
+      "B1",
+      "T"
+    ],
+    [
+      "D",
+      "S"
+    ],
+    [
+      "E",
+      "K"
+    ],
+    [
+      "H2",
+      "H3"
+    ]
+  ],
+  "floor_m2": 243.55,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 170.45
+}

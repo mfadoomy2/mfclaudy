@@ -1,0 +1,91 @@
+{
+  "code": "N18B",
+  "family": "Noche y actividad",
+  "logic": "Tejido 3 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 3,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 1.83,
+    "H2": 6.38,
+    "H3": 6.44,
+    "H4": 7.2,
+    "K": 3.1,
+    "M": 6.04,
+    "S": 2.73,
+    "B1": 3.47,
+    "B2": 3.76,
+    "D": 6.82,
+    "T": 3.21,
+    "R": 5.7,
+    "E": 7.04
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "T"
+    ],
+    [
+      "B1",
+      "H1"
+    ],
+    [
+      "H2",
+      "R"
+    ],
+    [
+      "B1",
+      "B2"
+    ],
+    [
+      "B2",
+      "H4"
+    ],
+    [
+      "H4",
+      "K"
+    ],
+    [
+      "H4",
+      "M"
+    ],
+    [
+      "H3",
+      "K"
+    ],
+    [
+      "E",
+      "H3"
+    ]
+  ],
+  "floor_m2": 228.6,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 155.51
+}

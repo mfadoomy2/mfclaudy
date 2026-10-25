@@ -1,0 +1,24 @@
+{
+  "all_positions_free": true,
+  "grid": "13x9 discrete graphic slots, no metres",
+  "near_rule": "Manhattan distance <=3 graphic steps, hypothesis",
+  "protect_rule": "Manhattan distance >=5 graphic steps, proxy hypothesis only",
+  "objective_metrics": [
+    "sum of near excess steps",
+    "sum of protective separation deficits",
+    "total near distances"
+  ],
+  "search": "18 simulated annealing runs,4200 iterations each; no global optimum guarantee",
+  "turn_and_conditional_relations": "Displayed, not used to impose closeness. Need duration and compatibility checks.",
+  "weights": "Declared generation devices, not measured social priorities. Final candidates satisfy graph limits and are diversified by pairwise distance patterns, excluding simple coordinate copies.",
+  "excluded": [
+    "actual footprints",
+    "wall thickness",
+    "acoustics",
+    "daylight",
+    "entry location",
+    "resident count",
+    "circulation obstacles",
+    "building regulations"
+  ]
+}

@@ -1,0 +1,537 @@
+[
+  {
+    "archivo": "LEEME.md",
+    "bytes": 3117,
+    "sha256": "1b1c02ebbc8e32019590dff321596f2b06b35dc1eca4ab0dc8c2a734729886c7"
+  },
+  {
+    "archivo": "output/pdf/G3_PLANTAS_CORREGIDAS_Y_PRUEBA_PARCELA.pdf",
+    "bytes": 11452996,
+    "sha256": "defc7802d11cab483d4d799951f636316c027ab079c51ee565dc9f8c7f63c210"
+  },
+  {
+    "archivo": "modelos_2d/V01_D_CORREGIDA.3dm",
+    "bytes": 708960,
+    "sha256": "9299c868a4077edc2c30ed6fa68cbcb0a6f79c03d945d961aefd0d4030b8e87a"
+  },
+  {
+    "archivo": "modelos_2d/V01_D_PARCELA.3dm",
+    "bytes": 425300,
+    "sha256": "8ac8a6184a89d801829350809dcf1753c4565eea1875bbfc05189e02a585fb49"
+  },
+  {
+    "archivo": "modelos_2d/V01_S_CORREGIDA.3dm",
+    "bytes": 705341,
+    "sha256": "2af0d5f47638f7144f65876e5e388613c3b9c2cf7c90df905c22b9dcc4edf5f9"
+  },
+  {
+    "archivo": "modelos_2d/V01_S_PARCELA.3dm",
+    "bytes": 422705,
+    "sha256": "f4b63cb47e110ecedb833e4e2eee31ebd4dd4abed699d63241bcae432e0882a2"
+  },
+  {
+    "archivo": "modelos_2d/V01_U_CORREGIDA.3dm",
+    "bytes": 358202,
+    "sha256": "998a98c4c17d0a3ebc57ab9ca6555fd283825e33ed39fce808e8a009a10616ed"
+  },
+  {
+    "archivo": "modelos_2d/V01_U_PARCELA.3dm",
+    "bytes": 222574,
+    "sha256": "4e0388bb6ff9e9d1fbb5c7c51c206d7a5c9e21e59fd80adbcb0a037e99f404fd"
+  },
+  {
+    "archivo": "modelos_2d/V02_P_CORREGIDA.3dm",
+    "bytes": 737920,
+    "sha256": "b16cd2a1044e91dbce178f94f7e2a2d9999b184673828d7e31deedaccfb51716"
+  },
+  {
+    "archivo": "modelos_2d/V02_P_PARCELA.3dm",
+    "bytes": 444422,
+    "sha256": "92d01041268bc0915144fe2661bf5790e08252a68092c74c3adc8ef34b27105f"
+  },
+  {
+    "archivo": "modelos_2d/V02_U_CORREGIDA.3dm",
+    "bytes": 369386,
+    "sha256": "2f754bcd9bb41db7c379ca9563fa22cf07879e0c78d39b40f00723eb78fe753d"
+  },
+  {
+    "archivo": "modelos_2d/V02_U_PARCELA.3dm",
+    "bytes": 230903,
+    "sha256": "eaabdf751b7a489d14bf3ec8248ce5e5ae94e341cfff541e76e3cfc8105d1e90"
+  },
+  {
+    "archivo": "modelos_2d/V03_D_CORREGIDA.3dm",
+    "bytes": 739479,
+    "sha256": "96eca7326b67d32e3957d36c7419b41367ba0bf867745c14978acf505faa1a93"
+  },
+  {
+    "archivo": "modelos_2d/V03_D_PARCELA.3dm",
+    "bytes": 461298,
+    "sha256": "30ddecad5f9da8b88b52ea00ee627caa63193a14215fffd4c8f78d2b23120af1"
+  },
+  {
+    "archivo": "modelos_2d/V03_S_CORREGIDA.3dm",
+    "bytes": 723975,
+    "sha256": "329c8e1f8ecd49d96744a03450a5b19ec795984c8bc1d8ce743e01fb11d814dc"
+  },
+  {
+    "archivo": "modelos_2d/V03_S_PARCELA.3dm",
+    "bytes": 449772,
+    "sha256": "a5e349aecb2fdc53bc3c3df40532facbf57c79382417ac1c9a89ea3454b893a8"
+  },
+  {
+    "archivo": "modelos_2d/V03_U_CORREGIDA.3dm",
+    "bytes": 375818,
+    "sha256": "b32cc4f29925254725a3508c7a8c43dbd515cbb070cc7829d3f18a97fbc7cb6d"
+  },
+  {
+    "archivo": "modelos_2d/V03_U_PARCELA.3dm",
+    "bytes": 238487,
+    "sha256": "f466d247f80d4863ffb0b9c1eced146edcb61061a4af8245835dab60b5506258"
+  },
+  {
+    "archivo": "laminas/V01_U_PLANTA_CORREGIDA.png",
+    "bytes": 171937,
+    "sha256": "990c454417d798bae4d3b76c7a88a13b2eed73bb2db01c376bee795a520cfd6a"
+  },
+  {
+    "archivo": "laminas/V01_U_PLANTA_CORREGIDA.svg",
+    "bytes": 480012,
+    "sha256": "4b675076dd86f7f0b8a2cbb11a73e8fd2976de0c6db7ecaf8b52271218cbbdbb"
+  },
+  {
+    "archivo": "laminas/V01_U_DIAGRAMA_NUEVO.png",
+    "bytes": 142478,
+    "sha256": "894062525051c912a5ceb38a37e64991aadd1e4ee99b6b790418bdc084f2b0a8"
+  },
+  {
+    "archivo": "laminas/V01_U_DIAGRAMA_NUEVO.svg",
+    "bytes": 175589,
+    "sha256": "92447edc76f73e67b073041d4840499c0cd494ef4dab36c7aa1c42437b5d585a"
+  },
+  {
+    "archivo": "laminas/V02_U_PLANTA_CORREGIDA.png",
+    "bytes": 174921,
+    "sha256": "d5bc2a8f9d3a6c2d0fe89a72c16ca4a1d36e9dfb7e0773c1682ebf18b55b81a2"
+  },
+  {
+    "archivo": "laminas/V02_U_PLANTA_CORREGIDA.svg",
+    "bytes": 498149,
+    "sha256": "bd3bb52eb10fe00f3ffd308ce96835f87de7c3a566c0ee4b6480db92c75bc7b7"
+  },
+  {
+    "archivo": "laminas/V02_U_DIAGRAMA_NUEVO.png",
+    "bytes": 154897,
+    "sha256": "74f41b31ba64085d2a710081ddd240e4e7fba45fead444b523433cd0ddb9f322"
+  },
+  {
+    "archivo": "laminas/V02_U_DIAGRAMA_NUEVO.svg",
+    "bytes": 178759,
+    "sha256": "edd6a0ce55b4338d226312a0944bfe50a1ec250ce021c5e90b528c1dcb136b87"
+  },
+  {
+    "archivo": "laminas/V03_U_PLANTA_CORREGIDA.png",
+    "bytes": 189354,
+    "sha256": "9e29b8a28dce87cd50d9cb227bb5b900df40e82e5d56248deeebfbe49c127c03"
+  },
+  {
+    "archivo": "laminas/V03_U_PLANTA_CORREGIDA.svg",
+    "bytes": 519138,
+    "sha256": "75fd5f7dfd9af54d3fa9fdf9b17439e2af596726b52459878b5efddb5c02a013"
+  },
+  {
+    "archivo": "laminas/V03_U_DIAGRAMA_NUEVO.png",
+    "bytes": 147796,
+    "sha256": "05608cc4e896525ed72039ffa0d5f0abd4f64e429e99c9bf7c2622712ee0a50f"
+  },
+  {
+    "archivo": "laminas/V03_U_DIAGRAMA_NUEVO.svg",
+    "bytes": 177330,
+    "sha256": "a2b849c72e25dbfefb23513737fc4f07c1d0b40f256991ba979089329e38cc1f"
+  },
+  {
+    "archivo": "laminas/V02_P_PLANTA_CORREGIDA.png",
+    "bytes": 263700,
+    "sha256": "396c2e24d9b155a22fb468e8d06e05f86d97d0e80eb6db26f10856a997674ef3"
+  },
+  {
+    "archivo": "laminas/V02_P_PLANTA_CORREGIDA.svg",
+    "bytes": 959738,
+    "sha256": "bcd6489915effdd869d3e55a3ad7627d508c7a2c94dccf0de002a4aa994f7177"
+  },
+  {
+    "archivo": "laminas/V02_P_DIAGRAMA_NUEVO.png",
+    "bytes": 216581,
+    "sha256": "fa821ab2785865a5f00a9aa1aea2092da18a7ffc600858bf14e789470524e20d"
+  },
+  {
+    "archivo": "laminas/V02_P_DIAGRAMA_NUEVO.svg",
+    "bytes": 309977,
+    "sha256": "b27c3345e8227e78c6ecde315d4fda8e9c787e65c29bbd755ea029c0f6305d55"
+  },
+  {
+    "archivo": "laminas/V01_D_PLANTA_CORREGIDA.png",
+    "bytes": 257343,
+    "sha256": "867224870fd7edf9d1616bb1891303f434c913137ab80f3e745ef53be41a215f"
+  },
+  {
+    "archivo": "laminas/V01_D_PLANTA_CORREGIDA.svg",
+    "bytes": 917490,
+    "sha256": "046883bedb0c0befbc0f968c772f9d7fada48a846b708efad3069f2be9f7b8c6"
+  },
+  {
+    "archivo": "laminas/V01_D_DIAGRAMA_NUEVO.png",
+    "bytes": 217432,
+    "sha256": "99f8f130ac904ba01e9a7a68b1487f1b4581a14e1e6c1bb9921546c76ca7f4ea"
+  },
+  {
+    "archivo": "laminas/V01_D_DIAGRAMA_NUEVO.svg",
+    "bytes": 302725,
+    "sha256": "e76bc821652a351a02e88d0035dcb85bad1a2689bfaa698ba0d2f4b95f699019"
+  },
+  {
+    "archivo": "laminas/V01_S_PLANTA_CORREGIDA.png",
+    "bytes": 253787,
+    "sha256": "dcf265dfb9e097fd537e8099e6d832c3ff458e9617ebe40e6c14cec24034ae8f"
+  },
+  {
+    "archivo": "laminas/V01_S_PLANTA_CORREGIDA.svg",
+    "bytes": 910164,
+    "sha256": "679c37ef9ee0f691baef3fc5a9dbb84eaceb3dc6787f85c17d3da46fd909a2ee"
+  },
+  {
+    "archivo": "laminas/V01_S_DIAGRAMA_NUEVO.png",
+    "bytes": 204972,
+    "sha256": "584cbb282dce9f71f2f2a2a0ba077b917f4d4980ef826fbc7c0b4cae97ddbfa2"
+  },
+  {
+    "archivo": "laminas/V01_S_DIAGRAMA_NUEVO.svg",
+    "bytes": 301273,
+    "sha256": "9984b065e6b5a3de5bcee1850b97d33affccb9be441e764e4c72aca7a70201fd"
+  },
+  {
+    "archivo": "laminas/V03_D_PLANTA_CORREGIDA.png",
+    "bytes": 212362,
+    "sha256": "632a4680189464e48d9170462df69ec67b5695ac22ab7fdca16f788cd26b208c"
+  },
+  {
+    "archivo": "laminas/V03_D_PLANTA_CORREGIDA.svg",
+    "bytes": 982813,
+    "sha256": "43bad7c1ab7916754037933f18cdd38a0fb924deb8effea355d1c6db9e4a0123"
+  },
+  {
+    "archivo": "laminas/V03_D_DIAGRAMA_NUEVO.png",
+    "bytes": 188221,
+    "sha256": "50270bfa809a1b971cac2007db0f0997824da2683338a0dd164cbca13c67b063"
+  },
+  {
+    "archivo": "laminas/V03_D_DIAGRAMA_NUEVO.svg",
+    "bytes": 297838,
+    "sha256": "864170aa8e315d257aa4ce95bc4841637961c16c79da584951ca81e06458d974"
+  },
+  {
+    "archivo": "laminas/V03_S_PLANTA_CORREGIDA.png",
+    "bytes": 210290,
+    "sha256": "163d0bb97b873ef214df258d89a803b6df1f5fa073a99830246cddbe363803de"
+  },
+  {
+    "archivo": "laminas/V03_S_PLANTA_CORREGIDA.svg",
+    "bytes": 960135,
+    "sha256": "f5e3b3d733319a96b8701f0e24fd8e336c3bce7ae65e9590be486a6af9f87ce2"
+  },
+  {
+    "archivo": "laminas/V03_S_DIAGRAMA_NUEVO.png",
+    "bytes": 187263,
+    "sha256": "d62c6eeb6e6f0d8f790ff360b2f795e9891e6bc6f7acd210eb97f65a2e198c2a"
+  },
+  {
+    "archivo": "laminas/V03_S_DIAGRAMA_NUEVO.svg",
+    "bytes": 295460,
+    "sha256": "6f10db18792e44855a20e139f54d1da00e94abc78ac8f1c67e9e1c59d5ce0d6b"
+  },
+  {
+    "archivo": "laminas/DETALLE_SERVICIOS.png",
+    "bytes": 73860,
+    "sha256": "8e39a503e3cfa560f638a91d371285643488f15fd9e9cb0ab4903a762f03def1"
+  },
+  {
+    "archivo": "laminas/DETALLE_SERVICIOS.svg",
+    "bytes": 468966,
+    "sha256": "e55f5f52a37e382d8db31997e6bf404f8ed4a167786e2346e4f2717bfda757cd"
+  },
+  {
+    "archivo": "laminas/COMPARACION_UNIDADES.png",
+    "bytes": 247465,
+    "sha256": "3b462d0add2954e744f41eb02f30b9a57931921d608bedfbfbe806f2501a933d"
+  },
+  {
+    "archivo": "laminas/COMPARACION_UNIDADES.svg",
+    "bytes": 1405974,
+    "sha256": "344dd70d4b1b4532c1ab61ab12299fec7477f82883b63b0998075d86bc3625ea"
+  },
+  {
+    "archivo": "laminas/HABITACION_ACTUAL.svg",
+    "bytes": 252467,
+    "sha256": "ba123f6b2b2e77c090c966e14926ddf9e1dd6b56944f1969ff625d6d697fdd9b"
+  },
+  {
+    "archivo": "laminas/V01_U_PARCELA.svg",
+    "bytes": 405608,
+    "sha256": "057bdebc7bb1eced34fb446fae7865b97c49e5e801430bc2035184af1dbd0595"
+  },
+  {
+    "archivo": "laminas/V01_U_PARCELA.png",
+    "bytes": 169965,
+    "sha256": "4eafc93d22cd94958ee4f097c1a9f5637f83a6e4924c448ba9ad990e454e1c38"
+  },
+  {
+    "archivo": "laminas/V02_U_PARCELA.svg",
+    "bytes": 414799,
+    "sha256": "d1414cb43e02abe8fdde9b72083722d58fabd7b379e6be3b2070f8cb91849ebb"
+  },
+  {
+    "archivo": "laminas/V02_U_PARCELA.png",
+    "bytes": 183336,
+    "sha256": "4182632f317921038365e0e12dc9f50382ba9e2d3231fcb46af75802d0381e33"
+  },
+  {
+    "archivo": "laminas/V03_U_PARCELA.svg",
+    "bytes": 421597,
+    "sha256": "37741c5686e751729e67e1d800f8f8d38fb6e2f4715f6e45ee3fb5271fbcb8c0"
+  },
+  {
+    "archivo": "laminas/V03_U_PARCELA.png",
+    "bytes": 202981,
+    "sha256": "dad7a47884aded5ac5379a3934d2c1909c2c40c962997c279428fa43430efb2d"
+  },
+  {
+    "archivo": "laminas/V02_P_PARCELA.svg",
+    "bytes": 745012,
+    "sha256": "ec703e1accefde9c505b34ce31309ac5863c6fd538dcdeab70ff4eb3d5dac287"
+  },
+  {
+    "archivo": "laminas/V02_P_PARCELA.png",
+    "bytes": 207550,
+    "sha256": "af6c990c68c793c9484b6dff3e3ac8f818669aed891992c46d77b6825c334ee7"
+  },
+  {
+    "archivo": "laminas/V01_D_PARCELA.svg",
+    "bytes": 720731,
+    "sha256": "f894b068655946ebb2b0a92208f0c56769239fa87e2fd93e5d5da33a339d9da3"
+  },
+  {
+    "archivo": "laminas/V01_D_PARCELA.png",
+    "bytes": 187910,
+    "sha256": "9cde9283b0c3404a2025931a170c0c1014005fd727158063662f5445b81de114"
+  },
+  {
+    "archivo": "laminas/V01_S_PARCELA.svg",
+    "bytes": 720948,
+    "sha256": "dda8b3b7c0ac7b07d520d3fb56cbda50e94ca5e906c085644a0be9b05200b244"
+  },
+  {
+    "archivo": "laminas/V01_S_PARCELA.png",
+    "bytes": 207594,
+    "sha256": "750228fec10b058ec43e64a19f225341731afdc1ba652dd782f79863bbdb06a6"
+  },
+  {
+    "archivo": "laminas/V03_D_PARCELA.svg",
+    "bytes": 777404,
+    "sha256": "45af74dd035ca4ac3f42de8aa9037b886e6b21ddfd56d16b3e1cc9339801bc82"
+  },
+  {
+    "archivo": "laminas/V03_D_PARCELA.png",
+    "bytes": 262341,
+    "sha256": "19729334a63dd64a6f1f897467bd633bc9273bce6f63132d4309d2a104de5e69"
+  },
+  {
+    "archivo": "laminas/V03_S_PARCELA.svg",
+    "bytes": 760674,
+    "sha256": "f0a41492a0f59e3f75f0e60c738763bd17fb3961cd4503ea26f464a7166270f5"
+  },
+  {
+    "archivo": "laminas/V03_S_PARCELA.png",
+    "bytes": 262016,
+    "sha256": "071b50d67ef6471fd10a4035ff22dd97cf0378b04c61fd75002bd7da13cd187d"
+  },
+  {
+    "archivo": "laminas/PARCELA_CONTEXTO.svg",
+    "bytes": 80115,
+    "sha256": "b265e4ed87ced8b950466060e1df2082d00cc91b869a3ae6959e6f4189553eac"
+  },
+  {
+    "archivo": "laminas/PARCELA_CONTEXTO.png",
+    "bytes": 153099,
+    "sha256": "049573929c077c161d60d4e593b6cb7c3da806e01613fb1a35ed5a61fd545414"
+  },
+  {
+    "archivo": "fuentes/geometria.py",
+    "bytes": 12970,
+    "sha256": "261e8afcb50bc39b9746843e94ad6a0bb72363d84fbb7527cb958f7bc22fe874"
+  },
+  {
+    "archivo": "fuentes/laminas.py",
+    "bytes": 9063,
+    "sha256": "eb460a87104f786084c72b2e46a278ca138d7882a30a3ae61a371e5e7b1b7654"
+  },
+  {
+    "archivo": "fuentes/parcela.py",
+    "bytes": 2850,
+    "sha256": "c06cc583fbd34a77db1d44796d107b0b1fe337bb3e5d8bfb7bf1014063b32d94"
+  },
+  {
+    "archivo": "fuentes/laminas_parcela.py",
+    "bytes": 5408,
+    "sha256": "498ac191d06a4707914788910c03959a59d6a4eca4facc8146962fe024d3bba6"
+  },
+  {
+    "archivo": "fuentes/documento.py",
+    "bytes": 18543,
+    "sha256": "de407c85d6b129b3fb851be6fcf6b4559684787607f594205df7a0446a9c2e89"
+  },
+  {
+    "archivo": "fuentes/lengua.py",
+    "bytes": 2476,
+    "sha256": "14d9821e7f705e55059515d317473cb5ca8e310a64edd146a34680ef679966d9"
+  },
+  {
+    "archivo": "fuentes/revisar.py",
+    "bytes": 1037,
+    "sha256": "9769a69a436e75b3cdce634df9482efb4a2c1dfe6d3e4b97e512c70170d0e7f1"
+  },
+  {
+    "archivo": "fuentes/empaquetar.py",
+    "bytes": 2548,
+    "sha256": "74490423eccfa36a79dfe2654d0cba49a56112df41bcb74ea49d2c3eeb74803f"
+  },
+  {
+    "archivo": "fuentes/BASE_ANTES.py",
+    "bytes": 17478,
+    "sha256": "8d7e42459425b94ff70d6445ee1490c1733f0d91a6175a55cc3e2a6bacb73cbd"
+  },
+  {
+    "archivo": "fuentes/ANTECEDENTES.json",
+    "bytes": 20899,
+    "sha256": "f17e3b0d160252f55b58a52351d8aa6cc547d4a27a1511431f544a2008c19667"
+  },
+  {
+    "archivo": "fuentes/PARCELA_REAL.geojson",
+    "bytes": 1776,
+    "sha256": "6e4247048519682536e242fd181ecf3b9cf7cf5b7ac55ac4b1454e7fb9434b86"
+  },
+  {
+    "archivo": "fuentes/CONTEXTO_CATASTRAL.geojson",
+    "bytes": 671189,
+    "sha256": "f2caf18ea3749014d6f6eb57a8a8bad5c50dd3fd1d4b7de203132325c9aa7f27"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_MAPA_ACTIVIDADES_PARCELA_2026-10-18__01_SITUACIONES_01.png",
+    "bytes": 371075,
+    "sha256": "8b110b22b9be96845396af309b6ae1fd8273259a141dcd07c9fd276d181cbf4e"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_MAPA_ACTIVIDADES_PARCELA_2026-10-18__01_SITUACIONES_09.png",
+    "bytes": 381062,
+    "sha256": "3fb1dcb34eb2cabe82f2dddac9c42f16540d6587084840e09efb02e31cad9fa3"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_MAPA_ACTIVIDADES_PARCELA_2026-10-18__02_RED_DE_ATRACTORES.png",
+    "bytes": 205099,
+    "sha256": "fb126a55f5578fb76094af45687470cabe424fdfd97ad980142ecff4597c9bee"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_MAPA_ACTIVIDADES_PARCELA_2026-10-18__03_CONFLICTOS_Y_REGLAS.png",
+    "bytes": 190574,
+    "sha256": "746c7eee6550e9be4a7d199a66b6638de0e51e8bf846aa0b99a7709f51e250b9"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_MAPA_ACTIVIDADES_PARCELA_2026-10-18__04_PARCELA_REAL_SIN_COMPLEJO.png",
+    "bytes": 217695,
+    "sha256": "fb5c8bf950f7d31a83cfb4d2c2e29fc29b783990d0c49f06867af3b5bfe10420"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_MAPA_ACTIVIDADES_PARCELA_2026-10-18__05_ANTECEDENTE_SOL_PARCELA.png",
+    "bytes": 141429,
+    "sha256": "9ba6eba2b914d137c1665e901cd6d859934ebbefc8ceafb83360d7d3de40eb41"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_UNIDAD_TEJIDO_ACTIVIDADES_2026-10-18__01_TEJIDO_GENERAL.png",
+    "bytes": 434013,
+    "sha256": "3585b244f0bca44e3d2f3e28b4c4af8b4daebe659a3f396ee402b597999ea91e"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_UNIDAD_TEJIDO_ACTIVIDADES_2026-10-18__02_CRUCES_QUE_PRODUCEN_LUGARES.png",
+    "bytes": 393665,
+    "sha256": "98ac8344dc91f430a87944c53374e2e13aa8c7dc8f2f2deb22cec07346b0f919"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_UNIDAD_TEJIDO_ACTIVIDADES_2026-10-18__03A_TIEMPO_MANANA.png",
+    "bytes": 339658,
+    "sha256": "6f7bd487ac35fda91b1649ab05f697be4f328e0e64a506fa6d31ccefa65cfe54"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_UNIDAD_TEJIDO_ACTIVIDADES_2026-10-18__03B_TIEMPO_TARDE.png",
+    "bytes": 349395,
+    "sha256": "1321322f65bab777d911fcd42bae21ad9385ed4796df763b6ce1aea0365e9e27"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_UNIDAD_TEJIDO_ACTIVIDADES_2026-10-18__03C_TIEMPO_NOCHE.png",
+    "bytes": 355558,
+    "sha256": "6348c04a028e81e304f0f946b301b6ac31bf6ed4bb83fcf29458994baf38a3b8"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_UNIDAD_TEJIDO_ACTIVIDADES_2026-10-18__04_CALIBRACION_CORPORAL.png",
+    "bytes": 193324,
+    "sha256": "228eec48a77ad5810e0ee6f93c5b77356caf8530468f751a830f1decd3f4803a"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_TEJIDO_REGLAS_Y_ALTERNATIVAS_2026-10-18__01_MATRIZ_DE_RELACIONES.png",
+    "bytes": 173840,
+    "sha256": "07441e5461da3a1877d300fe3b2b80969e9a0c1f6cebecb9a99cdb7dba725ec3"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_TEJIDO_REGLAS_Y_ALTERNATIVAS_2026-10-18__02_RAZONES_01.png",
+    "bytes": 268948,
+    "sha256": "ea6495989b43e69dba3884cb55ea92241aea7e3c7e43c480d7249157f2b565cf"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_TEJIDO_REGLAS_Y_ALTERNATIVAS_2026-10-18__02_RAZONES_15.png",
+    "bytes": 272937,
+    "sha256": "5bcc8ef5ea0fa324609982859ab14dec47d5349d5ff8f6cb4ca7b9545dddfb20"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_TEJIDO_REGLAS_Y_ALTERNATIVAS_2026-10-18__03_TEJIDO_1.png",
+    "bytes": 284246,
+    "sha256": "daa098e9b07099179059ca466bdf0663e481f6285be8807a187a148b81697924"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_TEJIDO_REGLAS_Y_ALTERNATIVAS_2026-10-18__03_TEJIDO_2.png",
+    "bytes": 326773,
+    "sha256": "1bdbddf777a60e4add7eea4c84eeb4ca782657608d5b75aebfbb1a7ba5860526"
+  },
+  {
+    "archivo": "fuentes/antecedentes/G3_TEJIDO_REGLAS_Y_ALTERNATIVAS_2026-10-18__03_TEJIDO_3.png",
+    "bytes": 332927,
+    "sha256": "9204108cbb0b61c6e87a883b382bc22051e16a96f7f9685359d04bacd9dd95cd"
+  },
+  {
+    "archivo": "verificacion/CONTROL_GEOMETRICO.json",
+    "bytes": 7720,
+    "sha256": "6da8fe9a4ed7d8980417d16e1b67dd4d7c89f5c1e3541986c81c679864e07cb2"
+  },
+  {
+    "archivo": "verificacion/ENCAJE_PARCELA.json",
+    "bytes": 4694,
+    "sha256": "f52961328944eb549dcd362a6baeb7fd1af74c8ea4774f8a8b4f8971cefe717d"
+  },
+  {
+    "archivo": "verificacion/CONTROL_ARCHIVOS.json",
+    "bytes": 2141,
+    "sha256": "cca8e7ed333ce2dda2b9fd87ee764d8074b09b040960570706ed14a8d690886e"
+  },
+  {
+    "archivo": "verificacion/INDICE_ACTUAL.json",
+    "bytes": 11802,
+    "sha256": "7a15f527b87442d586a74acd4265b34d916e7822d6a6e76292379f4a655f0733"
+  }
+]

@@ -1,0 +1,29 @@
+a,b,tipo,razon,escena
+A02,A05,PROXIMIDAD,Alcanzar ropa mientras te vistes.,S09
+A03,A02,PROXIMIDAD,Cambiarse con intimidad y transición seca.,S01/S09
+A03,A04,PROXIMIDAD,Gestionar textiles húmedos sin recorrer espacios secos.,S01
+A07,A08,PROXIMIDAD,Trasladar comida sin rodeos.,S05
+A11,A12,PROXIMIDAD,Guardar trabajo frágil sin desmontarlo o transportarlo lejos.,S04
+A13,A12,PROXIMIDAD,Dejar piezas y materiales a mano.,S04
+A14,A20,PROXIMIDAD,Tomar y devolver herramientas.,S07
+A15,A20,PROXIMIDAD,Tomar y devolver herramientas.,S15
+A16,A05,PROXIMIDAD,Dejar pertenencias; capacidad y tipo de almacenamiento a revisar.,S01
+A16,A17,PROXIMIDAD,Resolver la llegada de una visita.,S10
+A18,A05,PROXIMIDAD,Recoger pertenencias al salir; no implica misma puerta que recibir.,S09
+A07,A19,PROXIMIDAD,Recoger después de preparar comida.,S14
+A01,A07,PROTEGER,Cocinar de madrugada puede interrumpir descanso.,S05/S08
+A01,A13,PROTEGER,Corte nocturno y descanso son simultáneos.,S04
+A01,A09,PROTEGER,Las voces del grupo pueden impedir retirarse.,S08
+A06,A07,PROTEGER,La entrevista necesita voz inteligible y privacidad.,S03/S05
+A06,A09,PROTEGER,No exponer una entrevista a conversación ajena.,S03
+A10,A09,PROTEGER,Confidencialidad frente a presencia del grupo.,S06
+A04,A01,PROTEGER,La humedad no debe resolverse invadiendo el descanso.,S01/S16
+A15,A07,PROTEGER,"Separar grasa, residuos y herramientas de preparación de comida.",S15/S05
+A06,A11,POR_TURNOS,Mesa potencialmente compartible por horario si equipo y postura funcionan.,S03/S04
+A14,A13,POR_TURNOS,Apoyo de trabajo compartible tras limpieza y almacenamiento.,S07/S04
+A08,A11,POR_TURNOS,Sólo si no obliga a desmontar continuamente el trabajo.,S05/S04
+A10,A06,POR_TURNOS,Lugar reservado potencialmente compartible por turnos.,S06/S03
+A01,A03,CONDICIONAL,"Recorrido útil, pero proximidad puede introducir ruido.",S16
+A08,A09,CONDICIONAL,"Comer y conversar pueden coincidir, sin obligar a hacerlo.",S05
+A16,A18,CONDICIONAL,Una misma puerta puede servir; las acciones son distintas.,S15
+A11,A14,CONDICIONAL,"Compartir superficie depende de tamaño, suciedad y persistencia.",S04/S07

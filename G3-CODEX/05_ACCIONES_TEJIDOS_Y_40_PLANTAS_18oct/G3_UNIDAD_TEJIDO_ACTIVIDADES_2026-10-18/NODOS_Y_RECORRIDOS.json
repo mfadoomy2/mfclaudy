@@ -1,0 +1,207 @@
+{
+  "frame": "100x70 unidades graficas; no metros ni limite de vivienda",
+  "positions": {
+    "E": [
+      3,
+      35
+    ],
+    "D1": [
+      24,
+      17
+    ],
+    "D2": [
+      76,
+      17
+    ],
+    "D3": [
+      24,
+      53
+    ],
+    "D4": [
+      76,
+      53
+    ],
+    "C": [
+      51,
+      35
+    ],
+    "K": [
+      54,
+      58
+    ],
+    "W": [
+      29,
+      35
+    ],
+    "T": [
+      75,
+      34
+    ],
+    "R": [
+      47,
+      12
+    ],
+    "A": [
+      50,
+      45
+    ]
+  },
+  "labels": {
+    "E": "llegar / salir",
+    "D1": "retiro 1",
+    "D2": "retiro 2",
+    "D3": "retiro 3",
+    "D4": "retiro 4",
+    "C": "estar acompañadas",
+    "K": "preparar / comer",
+    "W": "mojar / secar",
+    "T": "desplegar / reparar",
+    "R": "guardar / mantener",
+    "A": "hablar en confianza"
+  },
+  "routes": [
+    [
+      "S01",
+      "llegada",
+      [
+        "E",
+        "W",
+        "R",
+        "D1"
+      ]
+    ],
+    [
+      "S02",
+      "llegada",
+      [
+        "E",
+        "C",
+        "A"
+      ]
+    ],
+    [
+      "S03",
+      "concentracion",
+      [
+        "E",
+        "D3"
+      ]
+    ],
+    [
+      "S04",
+      "concentracion",
+      [
+        "D2",
+        "T",
+        "R"
+      ]
+    ],
+    [
+      "S05",
+      "encuentro",
+      [
+        "K",
+        "C",
+        "W"
+      ]
+    ],
+    [
+      "S06",
+      "encuentro",
+      [
+        "C",
+        "A"
+      ]
+    ],
+    [
+      "S07",
+      "recursos",
+      [
+        "R",
+        "T",
+        "W"
+      ]
+    ],
+    [
+      "S08",
+      "llegada",
+      [
+        "E",
+        "W",
+        "D4"
+      ]
+    ],
+    [
+      "S09",
+      "llegada",
+      [
+        "D1",
+        "R",
+        "E"
+      ]
+    ],
+    [
+      "S10",
+      "encuentro",
+      [
+        "E",
+        "A",
+        "C"
+      ]
+    ],
+    [
+      "S11",
+      "recursos",
+      [
+        "D4",
+        "W",
+        "R"
+      ]
+    ],
+    [
+      "S12",
+      "concentracion",
+      [
+        "D3",
+        "T"
+      ]
+    ],
+    [
+      "S13",
+      "encuentro",
+      [
+        "E",
+        "C",
+        "D2"
+      ]
+    ],
+    [
+      "S14",
+      "recursos",
+      [
+        "K",
+        "W",
+        "R"
+      ]
+    ],
+    [
+      "S15",
+      "llegada",
+      [
+        "E",
+        "R",
+        "T"
+      ]
+    ],
+    [
+      "S16",
+      "llegada",
+      [
+        "D1",
+        "W",
+        "D1"
+      ]
+    ]
+  ],
+  "placement": "Hipotesis manual; cuatro retiros reflejados sobre dos ejes; sin optimizacion ni comprobacion de distancias"
+}

@@ -1,0 +1,95 @@
+{
+  "code": "N05B",
+  "family": "Voces y privacidad",
+  "logic": "Tejido 2 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 2,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 7.36,
+    "H2": 6.96,
+    "H3": 5.35,
+    "H4": 7.44,
+    "K": 5.47,
+    "M": 3.72,
+    "S": 7.02,
+    "B1": 5.59,
+    "B2": 7.52,
+    "D": 2.32,
+    "T": 2.45,
+    "R": 2.36,
+    "E": 1.15
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "H4"
+    ],
+    [
+      "H1",
+      "H3"
+    ],
+    [
+      "H3",
+      "R"
+    ],
+    [
+      "E",
+      "M"
+    ],
+    [
+      "M",
+      "T"
+    ],
+    [
+      "D",
+      "T"
+    ],
+    [
+      "B2",
+      "M"
+    ],
+    [
+      "E",
+      "K"
+    ],
+    [
+      "H2",
+      "H3"
+    ],
+    [
+      "D",
+      "S"
+    ]
+  ],
+  "floor_m2": 259.94,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 186.85
+}

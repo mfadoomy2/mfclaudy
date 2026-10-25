@@ -1,0 +1,178 @@
+[
+  {
+    "id": "S01",
+    "titulo": "00:40 / volver empapadas",
+    "escena": "Dos vuelven de ayudar a recoger materiales. Ropa mojada, zapatos y lona; otra persona duerme.",
+    "acciones": "Llegar → dejar → cambiarse → secar",
+    "condicion": "Secado y ducha cerca de llegada; ruido lejos del descanso.",
+    "critica": "La cooperación no debe dejarte durmiendo entre humedad.",
+    "atractor": "recursos",
+    "tension": "descanso",
+    "origen": "lluvia"
+  },
+  {
+    "id": "S02",
+    "titulo": "02:10 / una amiga sin habitación",
+    "escena": "Una amiga necesita pasar la noche. Quien la recibe tiene una entrega a las nueve.",
+    "acciones": "Acoger → guardar → dormir → salir",
+    "condicion": "Acogida con intimidad y duración acordada; sin ocupar evacuación.",
+    "critica": "Una casa puede apoyar una emergencia sin normalizarla.",
+    "atractor": "encuentro",
+    "tension": "descanso",
+    "origen": "hipotesis"
+  },
+  {
+    "id": "S03",
+    "titulo": "09:00 / entrevista y desayuno",
+    "escena": "Entrevista por videollamada; al lado se prepara desayuno y suena la cafetera.",
+    "acciones": "Conectar → hablar → concentrarse",
+    "condicion": "Lugar privado con conexión y control acústico.",
+    "critica": "Buscar trabajo no debería exigir pagar otro espacio.",
+    "atractor": "descanso",
+    "tension": "encuentro",
+    "origen": "hipotesis"
+  },
+  {
+    "id": "S04",
+    "titulo": "01:20 / entrega y turno temprano",
+    "escena": "Una persona corta una maqueta; otra necesita dormir para entrar a trabajar a las seis.",
+    "acciones": "Desplegar → cortar → dejar → dormir",
+    "condicion": "Superficie resistente y almacenamiento; separar ruido y descanso.",
+    "critica": "La flexibilidad no consiste en desmontar tu trabajo cada noche.",
+    "atractor": "hacer",
+    "tension": "descanso",
+    "origen": "hipotesis"
+  },
+  {
+    "id": "S05",
+    "titulo": "20:30 / cocinar para muchas",
+    "escena": "Cuatro cocinan doce raciones. Alguien sólo quiere calentar su táper y marcharse.",
+    "acciones": "Preparar → cocinar → servir → recoger",
+    "condicion": "Cocina colectiva y uso individual simultáneo, sin bloquear paso.",
+    "critica": "Compartir debe ampliar opciones, no imponer una comida común.",
+    "atractor": "encuentro",
+    "tension": "recursos",
+    "origen": "pulmon"
+  },
+  {
+    "id": "S06",
+    "titulo": "19:10 / conflicto sin público",
+    "escena": "Dos residentes necesitan mediación mientras el resto está en la sala.",
+    "acciones": "Llegar → hablar → escuchar → salir",
+    "condicion": "Conversación reservada y salida discreta; no aislamiento obligatorio.",
+    "critica": "Lo común también necesita confidencialidad.",
+    "atractor": "cuidado",
+    "tension": "encuentro",
+    "origen": "comisiones"
+  },
+  {
+    "id": "S07",
+    "titulo": "18:00 / reparar una tela",
+    "escena": "Se cose una pieza seca de protección mientras alguien busca herramientas para su bici.",
+    "acciones": "Desmontar → extender → reparar → guardar",
+    "condicion": "Mesa de reparación, herramientas y acceso de mantenimiento.",
+    "critica": "Una fachada de tela necesita trabajo, tiempo y presupuesto.",
+    "atractor": "hacer",
+    "tension": "recursos",
+    "origen": "lluvia"
+  },
+  {
+    "id": "S08",
+    "titulo": "22:45 / no quiero participar",
+    "escena": "Hay cena y conversación. Una residente quiere ducharse y acostarse sin explicar nada.",
+    "acciones": "Entrar → asearse → retirarse",
+    "condicion": "Acceso a cuarto y baño sin atravesar la reunión.",
+    "critica": "La comunidad no puede exigir disponibilidad constante.",
+    "atractor": "descanso",
+    "tension": "encuentro",
+    "origen": "hipotesis"
+  },
+  {
+    "id": "S09",
+    "titulo": "07:15 / intimidad con prisas",
+    "escena": "Dos tienen horarios distintos; una necesita vestirse mientras otra sigue dormida.",
+    "acciones": "Buscar ropa → vestirse → salir",
+    "condicion": "Luz localizada, armario accesible y circulación sin rodear cama.",
+    "critica": "La intimidad se mide también en no interrumpir a otra persona.",
+    "atractor": "descanso",
+    "tension": "recursos",
+    "origen": "hipotesis"
+  },
+  {
+    "id": "S10",
+    "titulo": "16:20 / acompañar sin interrogar",
+    "escena": "Una amiga viene desbordada; quiere compañía tranquila, sin ser observada por toda la casa.",
+    "acciones": "Recibir → sentarse → acompañar",
+    "condicion": "Rincón protegido próximo al estar, sin exposición ni encierro.",
+    "critica": "Cuidar no equivale a improvisar una consulta sanitaria.",
+    "atractor": "cuidado",
+    "tension": "encuentro",
+    "origen": "comisiones"
+  },
+  {
+    "id": "S11",
+    "titulo": "23:30 / lavar después del trabajo",
+    "escena": "Se acaba la ropa limpia; lavar ahora coincide con quien ya duerme.",
+    "acciones": "Clasificar → lavar → secar → guardar",
+    "condicion": "Separación acústica, almacenamiento y horario acordado.",
+    "critica": "Los horarios domésticos deben admitir trabajos incompatibles.",
+    "atractor": "recursos",
+    "tension": "descanso",
+    "origen": "hipotesis"
+  },
+  {
+    "id": "S12",
+    "titulo": "15:00 / calor y videollamada",
+    "escena": "Una habitación se recalienta; cerrar la tela quita vista y parte de la luz del escritorio.",
+    "acciones": "Sombrear → ventilar → seguir trabajando",
+    "condicion": "Control individual de tela y luz; estudiar aire, calor y deslumbramiento.",
+    "critica": "El confort no puede depender de aguantar o gastar más.",
+    "atractor": "descanso",
+    "tension": "recursos",
+    "origen": "hipotesis"
+  },
+  {
+    "id": "S13",
+    "titulo": "21:00 / intimidad afectiva",
+    "escena": "Una residente recibe a su pareja; otras quieren seguir usando la sala y la cocina.",
+    "acciones": "Recibir → estar → retirarse",
+    "condicion": "Privacidad visual y acústica; acuerdos sin vigilancia.",
+    "critica": "Compartir vivienda no elimina la vida íntima.",
+    "atractor": "descanso",
+    "tension": "encuentro",
+    "origen": "hipotesis"
+  },
+  {
+    "id": "S14",
+    "titulo": "11:30 / quién recoge hoy",
+    "escena": "Tras una actividad compartida quedan platos, basura y una tela que revisar. Nadie tiene tiempo.",
+    "acciones": "Limpiar → reparar → repartir tareas",
+    "condicion": "Equipos accesibles; responsabilidades y presupuesto explícitos.",
+    "critica": "La sostenibilidad del grupo no se sostiene con trabajo invisible.",
+    "atractor": "recursos",
+    "tension": "cuidado",
+    "origen": "comisiones"
+  },
+  {
+    "id": "S15",
+    "titulo": "18:40 / llegar cargada",
+    "escena": "Una persona llega con compra y material voluminoso; otra lleva la bici.",
+    "acciones": "Llegar → subir → girar → guardar",
+    "condicion": "Recorrido continuo, giros y aparcamiento fuera del paso.",
+    "critica": "La accesibilidad se comprueba con cuerpos y cargas reales.",
+    "atractor": "recursos",
+    "tension": "hacer",
+    "origen": "urbanismo"
+  },
+  {
+    "id": "S16",
+    "titulo": "13:00 / descansar enferma",
+    "escena": "Una residente necesita reposo mientras hay trabajo compartido y cocina en marcha.",
+    "acciones": "Asearse → beber → descansar → pedir ayuda",
+    "condicion": "Descanso con control de luz y acceso próximo a aseo.",
+    "critica": "El cuidado debe permitir retirarse sin desaparecer del grupo.",
+    "atractor": "descanso",
+    "tension": "cuidado",
+    "origen": "comisiones"
+  }
+]

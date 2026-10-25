@@ -1,0 +1,91 @@
+{
+  "code": "N15B",
+  "family": "Retirarse sin cruzar",
+  "logic": "Tejido 3 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 3,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 0.89,
+    "H2": 5.64,
+    "H3": 6.26,
+    "H4": 6.84,
+    "K": 5.94,
+    "M": 1.41,
+    "S": 3.98,
+    "B1": 1.33,
+    "B2": 3.22,
+    "D": 3.2,
+    "T": 3.42,
+    "R": 6.1,
+    "E": 2.06
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "T"
+    ],
+    [
+      "D",
+      "H1"
+    ],
+    [
+      "B1",
+      "B2"
+    ],
+    [
+      "B2",
+      "H3"
+    ],
+    [
+      "H3",
+      "M"
+    ],
+    [
+      "E",
+      "M"
+    ],
+    [
+      "B2",
+      "K"
+    ],
+    [
+      "H1",
+      "H2"
+    ],
+    [
+      "B1",
+      "H4"
+    ]
+  ],
+  "floor_m2": 222.74,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 149.64
+}

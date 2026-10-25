@@ -1,0 +1,104 @@
+{
+  "modelos": [
+    {
+      "archivo": "V01_D_CORREGIDA.3dm",
+      "objetos_validos": 93,
+      "z": 0,
+      "bytes": 708960
+    },
+    {
+      "archivo": "V01_D_PARCELA.3dm",
+      "objetos_validos": 95,
+      "z": 0,
+      "bytes": 425300
+    },
+    {
+      "archivo": "V01_S_CORREGIDA.3dm",
+      "objetos_validos": 91,
+      "z": 0,
+      "bytes": 705341
+    },
+    {
+      "archivo": "V01_S_PARCELA.3dm",
+      "objetos_validos": 94,
+      "z": 0,
+      "bytes": 422705
+    },
+    {
+      "archivo": "V01_U_CORREGIDA.3dm",
+      "objetos_validos": 48,
+      "z": 0,
+      "bytes": 358202
+    },
+    {
+      "archivo": "V01_U_PARCELA.3dm",
+      "objetos_validos": 63,
+      "z": 0,
+      "bytes": 222574
+    },
+    {
+      "archivo": "V02_P_CORREGIDA.3dm",
+      "objetos_validos": 97,
+      "z": 0,
+      "bytes": 737920
+    },
+    {
+      "archivo": "V02_P_PARCELA.3dm",
+      "objetos_validos": 101,
+      "z": 0,
+      "bytes": 444422
+    },
+    {
+      "archivo": "V02_U_CORREGIDA.3dm",
+      "objetos_validos": 50,
+      "z": 0,
+      "bytes": 369386
+    },
+    {
+      "archivo": "V02_U_PARCELA.3dm",
+      "objetos_validos": 66,
+      "z": 0,
+      "bytes": 230903
+    },
+    {
+      "archivo": "V03_D_CORREGIDA.3dm",
+      "objetos_validos": 102,
+      "z": 0,
+      "bytes": 739479
+    },
+    {
+      "archivo": "V03_D_PARCELA.3dm",
+      "objetos_validos": 105,
+      "z": 0,
+      "bytes": 461298
+    },
+    {
+      "archivo": "V03_S_CORREGIDA.3dm",
+      "objetos_validos": 98,
+      "z": 0,
+      "bytes": 723975
+    },
+    {
+      "archivo": "V03_S_PARCELA.3dm",
+      "objetos_validos": 103,
+      "z": 0,
+      "bytes": 449772
+    },
+    {
+      "archivo": "V03_U_CORREGIDA.3dm",
+      "objetos_validos": 50,
+      "z": 0,
+      "bytes": 375818
+    },
+    {
+      "archivo": "V03_U_PARCELA.3dm",
+      "objetos_validos": 66,
+      "z": 0,
+      "bytes": 238487
+    }
+  ],
+  "pdf_paginas": 52,
+  "pdf_bytes": 11452996,
+  "pdf_sha256": "defc7802d11cab483d4d799951f636316c027ab079c51ee565dc9f8c7f63c210",
+  "control": "Geometria valida y Z=0 por rhino3dm; PDF renderizado y revisado. No revision visual nativa Rhino."
+}

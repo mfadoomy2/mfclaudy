@@ -1,0 +1,1642 @@
+[
+  {
+    "code": "N01A",
+    "old_floor_m2": 299.11,
+    "new_floor_m2": 113.57,
+    "gross_envelope_m2": 123.06,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N01B",
+    "old_floor_m2": 261.68,
+    "new_floor_m2": 113.27,
+    "gross_envelope_m2": 122.82,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N02A",
+    "old_floor_m2": 286.81,
+    "new_floor_m2": 112.96,
+    "gross_envelope_m2": 122.66,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N02B",
+    "old_floor_m2": 275.0,
+    "new_floor_m2": 112.86,
+    "gross_envelope_m2": 122.35,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N03A",
+    "old_floor_m2": 277.02,
+    "new_floor_m2": 113.18,
+    "gross_envelope_m2": 122.38,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N03B",
+    "old_floor_m2": 286.07,
+    "new_floor_m2": 113.35,
+    "gross_envelope_m2": 123.1,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N04A",
+    "old_floor_m2": 269.54,
+    "new_floor_m2": 113.02,
+    "gross_envelope_m2": 122.56,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N04B",
+    "old_floor_m2": 272.47,
+    "new_floor_m2": 113.26,
+    "gross_envelope_m2": 122.89,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N05A",
+    "old_floor_m2": 269.45,
+    "new_floor_m2": 113.2,
+    "gross_envelope_m2": 122.89,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N05B",
+    "old_floor_m2": 325.89,
+    "new_floor_m2": 113.62,
+    "gross_envelope_m2": 123.57,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N06A",
+    "old_floor_m2": 267.61,
+    "new_floor_m2": 113.71,
+    "gross_envelope_m2": 123.2,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N06B",
+    "old_floor_m2": 269.18,
+    "new_floor_m2": 113.7,
+    "gross_envelope_m2": 123.59,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N07A",
+    "old_floor_m2": 271.12,
+    "new_floor_m2": 112.94,
+    "gross_envelope_m2": 122.18,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N07B",
+    "old_floor_m2": 264.67,
+    "new_floor_m2": 113.22,
+    "gross_envelope_m2": 122.85,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N08A",
+    "old_floor_m2": 281.38,
+    "new_floor_m2": 113.0,
+    "gross_envelope_m2": 122.57,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N08B",
+    "old_floor_m2": 263.88,
+    "new_floor_m2": 113.59,
+    "gross_envelope_m2": 123.6,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N09A",
+    "old_floor_m2": 273.36,
+    "new_floor_m2": 113.63,
+    "gross_envelope_m2": 123.12,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N09B",
+    "old_floor_m2": 257.7,
+    "new_floor_m2": 112.96,
+    "gross_envelope_m2": 122.5,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N10A",
+    "old_floor_m2": 265.61,
+    "new_floor_m2": 113.02,
+    "gross_envelope_m2": 122.57,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N10B",
+    "old_floor_m2": 290.84,
+    "new_floor_m2": 113.34,
+    "gross_envelope_m2": 123.1,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N11A",
+    "old_floor_m2": 282.99,
+    "new_floor_m2": 112.93,
+    "gross_envelope_m2": 122.63,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N11B",
+    "old_floor_m2": 294.18,
+    "new_floor_m2": 113.65,
+    "gross_envelope_m2": 123.61,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N12A",
+    "old_floor_m2": 261.58,
+    "new_floor_m2": 113.07,
+    "gross_envelope_m2": 122.32,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N12B",
+    "old_floor_m2": 288.4,
+    "new_floor_m2": 113.51,
+    "gross_envelope_m2": 123.25,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N13A",
+    "old_floor_m2": 288.38,
+    "new_floor_m2": 113.01,
+    "gross_envelope_m2": 122.5,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N13B",
+    "old_floor_m2": 259.56,
+    "new_floor_m2": 113.1,
+    "gross_envelope_m2": 122.73,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N14A",
+    "old_floor_m2": 293.3,
+    "new_floor_m2": 113.49,
+    "gross_envelope_m2": 123.5,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N14B",
+    "old_floor_m2": 300.58,
+    "new_floor_m2": 113.48,
+    "gross_envelope_m2": 123.42,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N15A",
+    "old_floor_m2": 270.25,
+    "new_floor_m2": 113.63,
+    "gross_envelope_m2": 123.12,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N15B",
+    "old_floor_m2": 275.41,
+    "new_floor_m2": 113.72,
+    "gross_envelope_m2": 123.25,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N16A",
+    "old_floor_m2": 292.37,
+    "new_floor_m2": 112.9,
+    "gross_envelope_m2": 122.44,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N16B",
+    "old_floor_m2": 269.34,
+    "new_floor_m2": 112.94,
+    "gross_envelope_m2": 122.48,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N17A",
+    "old_floor_m2": 288.41,
+    "new_floor_m2": 113.29,
+    "gross_envelope_m2": 122.97,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 3,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N17B",
+    "old_floor_m2": 301.32,
+    "new_floor_m2": 113.62,
+    "gross_envelope_m2": 123.49,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N18A",
+    "old_floor_m2": 292.74,
+    "new_floor_m2": 113.26,
+    "gross_envelope_m2": 122.51,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N18B",
+    "old_floor_m2": 277.07,
+    "new_floor_m2": 113.69,
+    "gross_envelope_m2": 123.22,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N19A",
+    "old_floor_m2": 276.72,
+    "new_floor_m2": 113.1,
+    "gross_envelope_m2": 122.59,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N19B",
+    "old_floor_m2": 273.65,
+    "new_floor_m2": 113.51,
+    "gross_envelope_m2": 123.25,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N20A",
+    "old_floor_m2": 271.66,
+    "new_floor_m2": 113.09,
+    "gross_envelope_m2": 122.84,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 2,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  },
+  {
+    "code": "N20B",
+    "old_floor_m2": 315.44,
+    "new_floor_m2": 113.56,
+    "gross_envelope_m2": 123.58,
+    "private_each_m2": 16.36,
+    "public_d090_connected": true,
+    "common_exterior_windows": 1,
+    "rooms": [
+      {
+        "id": "H1",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H2",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H3",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      },
+      {
+        "id": "H4",
+        "area_m2": 16.36,
+        "circulation_d080": true,
+        "window_outward_strip_clear_6m": true,
+        "straight_door_segment_1000mm": true
+      }
+    ],
+    "holes": 0,
+    "room_overlap_m2": 0.0
+  }
+]

@@ -1,0 +1,147 @@
+{
+  "parcela_m2": 650.9129999918814,
+  "origen_utm": [
+    439984,
+    4473229.4
+  ],
+  "crs": "EPSG:25830",
+  "resultados": [
+    {
+      "codigo": "V01_U",
+      "habitantes": 4,
+      "area_envolvente_m2": 132.04,
+      "fuera_parcela_m2": 0.0,
+      "ajuste_completo": true,
+      "rotacion_grados": 180.835,
+      "centro_local_m": [
+        20.243,
+        0.158
+      ],
+      "evaluaciones": 148,
+      "modelo": "Escala 1:1, giros y traslaciones; envolvente de estudio +0.12 m. Busqueda heuristica, no prueba de imposibilidad.",
+      "paso_exterior_90cm_desde_frente": true,
+      "bows_con_banda_3m_dentro_parcela": 0,
+      "margen_envolvente_al_limite_m": 0.567
+    },
+    {
+      "codigo": "V02_U",
+      "habitantes": 4,
+      "area_envolvente_m2": 135.74,
+      "fuera_parcela_m2": 0.0,
+      "ajuste_completo": true,
+      "rotacion_grados": 186.393,
+      "centro_local_m": [
+        20.241,
+        0.004
+      ],
+      "evaluaciones": 244,
+      "modelo": "Escala 1:1, giros y traslaciones; envolvente de estudio +0.12 m. Busqueda heuristica, no prueba de imposibilidad.",
+      "paso_exterior_90cm_desde_frente": true,
+      "bows_con_banda_3m_dentro_parcela": 0,
+      "margen_envolvente_al_limite_m": 0.106
+    },
+    {
+      "codigo": "V03_U",
+      "habitantes": 4,
+      "area_envolvente_m2": 128.04,
+      "fuera_parcela_m2": 0.0,
+      "ajuste_completo": true,
+      "rotacion_grados": 147.961,
+      "centro_local_m": [
+        21.04,
+        1.983
+      ],
+      "evaluaciones": 196,
+      "modelo": "Escala 1:1, giros y traslaciones; envolvente de estudio +0.12 m. Busqueda heuristica, no prueba de imposibilidad.",
+      "paso_exterior_90cm_desde_frente": false,
+      "bows_con_banda_3m_dentro_parcela": 1,
+      "margen_envolvente_al_limite_m": 0.177
+    },
+    {
+      "codigo": "V02_P",
+      "habitantes": 8,
+      "area_envolvente_m2": 279.1,
+      "fuera_parcela_m2": 0.0,
+      "ajuste_completo": true,
+      "rotacion_grados": 179.237,
+      "centro_local_m": [
+        27.526,
+        0.419
+      ],
+      "evaluaciones": 340,
+      "modelo": "Escala 1:1, giros y traslaciones; envolvente de estudio +0.12 m. Busqueda heuristica, no prueba de imposibilidad.",
+      "paso_exterior_90cm_desde_frente": false,
+      "bows_con_banda_3m_dentro_parcela": 0,
+      "margen_envolvente_al_limite_m": 0.051
+    },
+    {
+      "codigo": "V01_D",
+      "habitantes": 8,
+      "area_envolvente_m2": 290.99,
+      "fuera_parcela_m2": 0.0,
+      "ajuste_completo": true,
+      "rotacion_grados": 179.902,
+      "centro_local_m": [
+        27.924,
+        -0.517
+      ],
+      "evaluaciones": 460,
+      "modelo": "Escala 1:1, giros y traslaciones; envolvente de estudio +0.12 m. Busqueda heuristica, no prueba de imposibilidad.",
+      "paso_exterior_90cm_desde_frente": true,
+      "bows_con_banda_3m_dentro_parcela": 1,
+      "margen_envolvente_al_limite_m": 0.056
+    },
+    {
+      "codigo": "V01_S",
+      "habitantes": 8,
+      "area_envolvente_m2": 269.71,
+      "fuera_parcela_m2": 0.0,
+      "ajuste_completo": true,
+      "rotacion_grados": 182.093,
+      "centro_local_m": [
+        25.818,
+        0.409
+      ],
+      "evaluaciones": 268,
+      "modelo": "Escala 1:1, giros y traslaciones; envolvente de estudio +0.12 m. Busqueda heuristica, no prueba de imposibilidad.",
+      "paso_exterior_90cm_desde_frente": false,
+      "bows_con_banda_3m_dentro_parcela": 1,
+      "margen_envolvente_al_limite_m": 0.105
+    },
+    {
+      "codigo": "V03_D",
+      "habitantes": 8,
+      "area_envolvente_m2": 298.77,
+      "fuera_parcela_m2": 5.4391,
+      "ajuste_completo": false,
+      "rotacion_grados": 126.033,
+      "centro_local_m": [
+        30.3,
+        -0.118
+      ],
+      "evaluaciones": 972,
+      "modelo": "Escala 1:1, giros y traslaciones; envolvente de estudio +0.12 m. Busqueda heuristica, no prueba de imposibilidad.",
+      "paso_exterior_90cm_desde_frente": false,
+      "bows_con_banda_3m_dentro_parcela": 2,
+      "margen_envolvente_al_limite_m": 0
+    },
+    {
+      "codigo": "V03_S",
+      "habitantes": 8,
+      "area_envolvente_m2": 292.1,
+      "fuera_parcela_m2": 4.1522,
+      "ajuste_completo": false,
+      "rotacion_grados": 305.94,
+      "centro_local_m": [
+        29.89,
+        -0.076
+      ],
+      "evaluaciones": 972,
+      "modelo": "Escala 1:1, giros y traslaciones; envolvente de estudio +0.12 m. Busqueda heuristica, no prueba de imposibilidad.",
+      "paso_exterior_90cm_desde_frente": false,
+      "bows_con_banda_3m_dentro_parcela": 2,
+      "margen_envolvente_al_limite_m": 0
+    }
+  ],
+  "limite": "Encaje geometrico aislado. No valida normativa, acceso desde calle, contexto, luz o posibilidad de apilar."
+}

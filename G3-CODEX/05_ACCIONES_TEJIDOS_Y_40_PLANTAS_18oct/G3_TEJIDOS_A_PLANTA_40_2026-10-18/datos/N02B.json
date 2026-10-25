@@ -1,0 +1,91 @@
+{
+  "code": "N02B",
+  "family": "Cocina y comedor",
+  "logic": "Tejido 2 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 2,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 5.04,
+    "H2": 4.64,
+    "H3": 7.92,
+    "H4": 5.43,
+    "K": 6.15,
+    "M": 6.71,
+    "S": 3.26,
+    "B1": 5.05,
+    "B2": 3.05,
+    "D": 4.73,
+    "T": 3.58,
+    "R": 6.04,
+    "E": 4.03
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "H4"
+    ],
+    [
+      "B2",
+      "H4"
+    ],
+    [
+      "B1",
+      "B2"
+    ],
+    [
+      "B2",
+      "T"
+    ],
+    [
+      "S",
+      "T"
+    ],
+    [
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "H2"
+    ],
+    [
+      "H1",
+      "K"
+    ],
+    [
+      "H3",
+      "S"
+    ]
+  ],
+  "floor_m2": 222.27,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 149.17
+}

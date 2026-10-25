@@ -1,0 +1,95 @@
+{
+  "code": "N04B",
+  "family": "Llegada con carga",
+  "logic": "Tejido 1 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 1,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 4.46,
+    "H2": 9.17,
+    "H3": 6.12,
+    "H4": 2.09,
+    "K": 4.69,
+    "M": 4.91,
+    "S": 3.73,
+    "B1": 13.26,
+    "B2": 3.69,
+    "D": 1.64,
+    "T": 8.76,
+    "R": 3.45,
+    "E": 0.45
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "M"
+    ],
+    [
+      "H1",
+      "R"
+    ],
+    [
+      "H4",
+      "R"
+    ],
+    [
+      "D",
+      "H4"
+    ],
+    [
+      "D",
+      "H3"
+    ],
+    [
+      "E",
+      "H3"
+    ],
+    [
+      "B2",
+      "K"
+    ],
+    [
+      "B1",
+      "S"
+    ],
+    [
+      "H2",
+      "H3"
+    ],
+    [
+      "H4",
+      "T"
+    ]
+  ],
+  "floor_m2": 227.41,
+  "bedrooms_m2": 73.58,
+  "shared_gross_m2": 153.83
+}

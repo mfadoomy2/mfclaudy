@@ -1,0 +1,71 @@
+{
+  "pdf": "/Volumes/T7/G3 Proyectos/G3_DOCUMENTO_PLANTAS_NUEVAS_CORREGIDAS_2026-10-19/output/pdf/G3_PLANTAS_NUEVAS_Y_DIAGRAMAS_CORREGIDOS.pdf",
+  "paginas": 47,
+  "formato": "A3 horizontal",
+  "diagramas_originales": 18,
+  "diagramas_nuevos_lectura": 8,
+  "plantas_nuevas_corregidas": 8,
+  "modelos": [
+    {
+      "archivo": "V01_D_CORREGIDA.3dm",
+      "objetos": 87,
+      "geometria_valida": true,
+      "metros": true,
+      "z0": true
+    },
+    {
+      "archivo": "V01_S_CORREGIDA.3dm",
+      "objetos": 85,
+      "geometria_valida": true,
+      "metros": true,
+      "z0": true
+    },
+    {
+      "archivo": "V01_U_CORREGIDA.3dm",
+      "objetos": 45,
+      "geometria_valida": true,
+      "metros": true,
+      "z0": true
+    },
+    {
+      "archivo": "V02_P_CORREGIDA.3dm",
+      "objetos": 93,
+      "geometria_valida": true,
+      "metros": true,
+      "z0": true
+    },
+    {
+      "archivo": "V02_U_CORREGIDA.3dm",
+      "objetos": 48,
+      "geometria_valida": true,
+      "metros": true,
+      "z0": true
+    },
+    {
+      "archivo": "V03_D_CORREGIDA.3dm",
+      "objetos": 96,
+      "geometria_valida": true,
+      "metros": true,
+      "z0": true
+    },
+    {
+      "archivo": "V03_S_CORREGIDA.3dm",
+      "objetos": 91,
+      "geometria_valida": true,
+      "metros": true,
+      "z0": true
+    },
+    {
+      "archivo": "V03_U_CORREGIDA.3dm",
+      "objetos": 45,
+      "geometria_valida": true,
+      "metros": true,
+      "z0": true
+    }
+  ],
+  "renderizadas": 47,
+  "plantas_anteriores_incluidas": false,
+  "revision_visual": "47 paginas revisadas en 4 contactos; inspeccion ampliada de paginas 23,25,32,38,43,46,47; reparado relleno del detalle de vestidor; sin recortes de texto detectados.",
+  "sha256_pdf": "3d9b47b687f66c2a7e03a5ee15fa37efdf75f5c89f2cf5a31adc3f2c2ff173b9",
+  "bytes_pdf": 9166704
+}

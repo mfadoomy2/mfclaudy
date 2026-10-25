@@ -1,0 +1,95 @@
+{
+  "code": "N20A",
+  "family": "Cruces habitables",
+  "logic": "Tejido 2 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "A",
+  "source": 2,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 8.77,
+    "H2": 4.5,
+    "H3": 11.54,
+    "H4": 6.71,
+    "K": 2.83,
+    "M": 4.96,
+    "S": 2.48,
+    "B1": 1.91,
+    "B2": 8.43,
+    "D": 4.43,
+    "T": 3.4,
+    "R": 3.73,
+    "E": 6.04
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "H1"
+    ],
+    [
+      "B2",
+      "E"
+    ],
+    [
+      "B2",
+      "H2"
+    ],
+    [
+      "B2",
+      "K"
+    ],
+    [
+      "K",
+      "T"
+    ],
+    [
+      "H4",
+      "T"
+    ],
+    [
+      "B1",
+      "H4"
+    ],
+    [
+      "B1",
+      "R"
+    ],
+    [
+      "M",
+      "T"
+    ],
+    [
+      "H3",
+      "T"
+    ]
+  ],
+  "floor_m2": 220.61,
+  "bedrooms_m2": 71.26,
+  "shared_gross_m2": 149.35
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "a": "A02",
+    "b": "A05",
+    "tipo": "PROXIMIDAD",
+    "razon": "Alcanzar ropa mientras te vistes.",
+    "escena": "S09"
+  },
+  {
+    "a": "A03",
+    "b": "A02",
+    "tipo": "PROXIMIDAD",
+    "razon": "Cambiarse con intimidad y transición seca.",
+    "escena": "S01/S09"
+  },
+  {
+    "a": "A03",
+    "b": "A04",
+    "tipo": "PROXIMIDAD",
+    "razon": "Gestionar textiles húmedos sin recorrer espacios secos.",
+    "escena": "S01"
+  },
+  {
+    "a": "A07",
+    "b": "A08",
+    "tipo": "PROXIMIDAD",
+    "razon": "Trasladar comida sin rodeos.",
+    "escena": "S05"
+  },
+  {
+    "a": "A11",
+    "b": "A12",
+    "tipo": "PROXIMIDAD",
+    "razon": "Guardar trabajo frágil sin desmontarlo o transportarlo lejos.",
+    "escena": "S04"
+  },
+  {
+    "a": "A13",
+    "b": "A12",
+    "tipo": "PROXIMIDAD",
+    "razon": "Dejar piezas y materiales a mano.",
+    "escena": "S04"
+  },
+  {
+    "a": "A14",
+    "b": "A20",
+    "tipo": "PROXIMIDAD",
+    "razon": "Tomar y devolver herramientas.",
+    "escena": "S07"
+  },
+  {
+    "a": "A15",
+    "b": "A20",
+    "tipo": "PROXIMIDAD",
+    "razon": "Tomar y devolver herramientas.",
+    "escena": "S15"
+  },
+  {
+    "a": "A16",
+    "b": "A05",
+    "tipo": "PROXIMIDAD",
+    "razon": "Dejar pertenencias; capacidad y tipo de almacenamiento a revisar.",
+    "escena": "S01"
+  },
+  {
+    "a": "A16",
+    "b": "A17",
+    "tipo": "PROXIMIDAD",
+    "razon": "Resolver la llegada de una visita.",
+    "escena": "S10"
+  },
+  {
+    "a": "A18",
+    "b": "A05",
+    "tipo": "PROXIMIDAD",
+    "razon": "Recoger pertenencias al salir; no implica misma puerta que recibir.",
+    "escena": "S09"
+  },
+  {
+    "a": "A07",
+    "b": "A19",
+    "tipo": "PROXIMIDAD",
+    "razon": "Recoger después de preparar comida.",
+    "escena": "S14"
+  },
+  {
+    "a": "A01",
+    "b": "A07",
+    "tipo": "PROTEGER",
+    "razon": "Cocinar de madrugada puede interrumpir descanso.",
+    "escena": "S05/S08"
+  },
+  {
+    "a": "A01",
+    "b": "A13",
+    "tipo": "PROTEGER",
+    "razon": "Corte nocturno y descanso son simultáneos.",
+    "escena": "S04"
+  },
+  {
+    "a": "A01",
+    "b": "A09",
+    "tipo": "PROTEGER",
+    "razon": "Las voces del grupo pueden impedir retirarse.",
+    "escena": "S08"
+  },
+  {
+    "a": "A06",
+    "b": "A07",
+    "tipo": "PROTEGER",
+    "razon": "La entrevista necesita voz inteligible y privacidad.",
+    "escena": "S03/S05"
+  },
+  {
+    "a": "A06",
+    "b": "A09",
+    "tipo": "PROTEGER",
+    "razon": "No exponer una entrevista a conversación ajena.",
+    "escena": "S03"
+  },
+  {
+    "a": "A10",
+    "b": "A09",
+    "tipo": "PROTEGER",
+    "razon": "Confidencialidad frente a presencia del grupo.",
+    "escena": "S06"
+  },
+  {
+    "a": "A04",
+    "b": "A01",
+    "tipo": "PROTEGER",
+    "razon": "La humedad no debe resolverse invadiendo el descanso.",
+    "escena": "S01/S16"
+  },
+  {
+    "a": "A15",
+    "b": "A07",
+    "tipo": "PROTEGER",
+    "razon": "Separar grasa, residuos y herramientas de preparación de comida.",
+    "escena": "S15/S05"
+  },
+  {
+    "a": "A06",
+    "b": "A11",
+    "tipo": "POR_TURNOS",
+    "razon": "Mesa potencialmente compartible por horario si equipo y postura funcionan.",
+    "escena": "S03/S04"
+  },
+  {
+    "a": "A14",
+    "b": "A13",
+    "tipo": "POR_TURNOS",
+    "razon": "Apoyo de trabajo compartible tras limpieza y almacenamiento.",
+    "escena": "S07/S04"
+  },
+  {
+    "a": "A08",
+    "b": "A11",
+    "tipo": "POR_TURNOS",
+    "razon": "Sólo si no obliga a desmontar continuamente el trabajo.",
+    "escena": "S05/S04"
+  },
+  {
+    "a": "A10",
+    "b": "A06",
+    "tipo": "POR_TURNOS",
+    "razon": "Lugar reservado potencialmente compartible por turnos.",
+    "escena": "S06/S03"
+  },
+  {
+    "a": "A01",
+    "b": "A03",
+    "tipo": "CONDICIONAL",
+    "razon": "Recorrido útil, pero proximidad puede introducir ruido.",
+    "escena": "S16"
+  },
+  {
+    "a": "A08",
+    "b": "A09",
+    "tipo": "CONDICIONAL",
+    "razon": "Comer y conversar pueden coincidir, sin obligar a hacerlo.",
+    "escena": "S05"
+  },
+  {
+    "a": "A16",
+    "b": "A18",
+    "tipo": "CONDICIONAL",
+    "razon": "Una misma puerta puede servir; las acciones son distintas.",
+    "escena": "S15"
+  },
+  {
+    "a": "A11",
+    "b": "A14",
+    "tipo": "CONDICIONAL",
+    "razon": "Compartir superficie depende de tamaño, suciedad y persistencia.",
+    "escena": "S04/S07"
+  }
+]

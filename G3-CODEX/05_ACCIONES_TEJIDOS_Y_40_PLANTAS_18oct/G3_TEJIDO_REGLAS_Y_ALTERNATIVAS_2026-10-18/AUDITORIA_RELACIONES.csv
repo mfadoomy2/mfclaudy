@@ -1,0 +1,85 @@
+alternativa,a,b,tipo,razon,escena,distancia_grafica,estado
+1,A02,A05,PROXIMIDAD,Alcanzar ropa mientras te vistes.,S09,1,cumple ensayo
+1,A03,A02,PROXIMIDAD,Cambiarse con intimidad y transición seca.,S01/S09,3,cumple ensayo
+1,A03,A04,PROXIMIDAD,Gestionar textiles húmedos sin recorrer espacios secos.,S01,1,cumple ensayo
+1,A07,A08,PROXIMIDAD,Trasladar comida sin rodeos.,S05,2,cumple ensayo
+1,A11,A12,PROXIMIDAD,Guardar trabajo frágil sin desmontarlo o transportarlo lejos.,S04,1,cumple ensayo
+1,A13,A12,PROXIMIDAD,Dejar piezas y materiales a mano.,S04,1,cumple ensayo
+1,A14,A20,PROXIMIDAD,Tomar y devolver herramientas.,S07,3,cumple ensayo
+1,A15,A20,PROXIMIDAD,Tomar y devolver herramientas.,S15,1,cumple ensayo
+1,A16,A05,PROXIMIDAD,Dejar pertenencias; capacidad y tipo de almacenamiento a revisar.,S01,2,cumple ensayo
+1,A16,A17,PROXIMIDAD,Resolver la llegada de una visita.,S10,1,cumple ensayo
+1,A18,A05,PROXIMIDAD,Recoger pertenencias al salir; no implica misma puerta que recibir.,S09,2,cumple ensayo
+1,A07,A19,PROXIMIDAD,Recoger después de preparar comida.,S14,1,cumple ensayo
+1,A01,A07,PROTEGER,Cocinar de madrugada puede interrumpir descanso.,S05/S08,7,cumple ensayo
+1,A01,A13,PROTEGER,Corte nocturno y descanso son simultáneos.,S04,6,cumple ensayo
+1,A01,A09,PROTEGER,Las voces del grupo pueden impedir retirarse.,S08,14,cumple ensayo
+1,A06,A07,PROTEGER,La entrevista necesita voz inteligible y privacidad.,S03/S05,7,cumple ensayo
+1,A06,A09,PROTEGER,No exponer una entrevista a conversación ajena.,S03,10,cumple ensayo
+1,A10,A09,PROTEGER,Confidencialidad frente a presencia del grupo.,S06,6,cumple ensayo
+1,A04,A01,PROTEGER,La humedad no debe resolverse invadiendo el descanso.,S01/S16,10,cumple ensayo
+1,A15,A07,PROTEGER,"Separar grasa, residuos y herramientas de preparación de comida.",S15/S05,5,cumple ensayo
+1,A06,A11,POR_TURNOS,Mesa potencialmente compartible por horario si equipo y postura funcionan.,S03/S04,2,no evaluada metricamente
+1,A14,A13,POR_TURNOS,Apoyo de trabajo compartible tras limpieza y almacenamiento.,S07/S04,4,no evaluada metricamente
+1,A08,A11,POR_TURNOS,Sólo si no obliga a desmontar continuamente el trabajo.,S05/S04,7,no evaluada metricamente
+1,A10,A06,POR_TURNOS,Lugar reservado potencialmente compartible por turnos.,S06/S03,4,no evaluada metricamente
+1,A01,A03,CONDICIONAL,"Recorrido útil, pero proximidad puede introducir ruido.",S16,9,no evaluada metricamente
+1,A08,A09,CONDICIONAL,"Comer y conversar pueden coincidir, sin obligar a hacerlo.",S05,13,no evaluada metricamente
+1,A16,A18,CONDICIONAL,Una misma puerta puede servir; las acciones son distintas.,S15,2,no evaluada metricamente
+1,A11,A14,CONDICIONAL,"Compartir superficie depende de tamaño, suciedad y persistencia.",S04/S07,6,no evaluada metricamente
+2,A02,A05,PROXIMIDAD,Alcanzar ropa mientras te vistes.,S09,2,cumple ensayo
+2,A03,A02,PROXIMIDAD,Cambiarse con intimidad y transición seca.,S01/S09,3,cumple ensayo
+2,A03,A04,PROXIMIDAD,Gestionar textiles húmedos sin recorrer espacios secos.,S01,2,cumple ensayo
+2,A07,A08,PROXIMIDAD,Trasladar comida sin rodeos.,S05,1,cumple ensayo
+2,A11,A12,PROXIMIDAD,Guardar trabajo frágil sin desmontarlo o transportarlo lejos.,S04,1,cumple ensayo
+2,A13,A12,PROXIMIDAD,Dejar piezas y materiales a mano.,S04,2,cumple ensayo
+2,A14,A20,PROXIMIDAD,Tomar y devolver herramientas.,S07,1,cumple ensayo
+2,A15,A20,PROXIMIDAD,Tomar y devolver herramientas.,S15,2,cumple ensayo
+2,A16,A05,PROXIMIDAD,Dejar pertenencias; capacidad y tipo de almacenamiento a revisar.,S01,1,cumple ensayo
+2,A16,A17,PROXIMIDAD,Resolver la llegada de una visita.,S10,1,cumple ensayo
+2,A18,A05,PROXIMIDAD,Recoger pertenencias al salir; no implica misma puerta que recibir.,S09,3,cumple ensayo
+2,A07,A19,PROXIMIDAD,Recoger después de preparar comida.,S14,3,cumple ensayo
+2,A01,A07,PROTEGER,Cocinar de madrugada puede interrumpir descanso.,S05/S08,8,cumple ensayo
+2,A01,A13,PROTEGER,Corte nocturno y descanso son simultáneos.,S04,7,cumple ensayo
+2,A01,A09,PROTEGER,Las voces del grupo pueden impedir retirarse.,S08,6,cumple ensayo
+2,A06,A07,PROTEGER,La entrevista necesita voz inteligible y privacidad.,S03/S05,6,cumple ensayo
+2,A06,A09,PROTEGER,No exponer una entrevista a conversación ajena.,S03,12,cumple ensayo
+2,A10,A09,PROTEGER,Confidencialidad frente a presencia del grupo.,S06,10,cumple ensayo
+2,A04,A01,PROTEGER,La humedad no debe resolverse invadiendo el descanso.,S01/S16,8,cumple ensayo
+2,A15,A07,PROTEGER,"Separar grasa, residuos y herramientas de preparación de comida.",S15/S05,12,cumple ensayo
+2,A06,A11,POR_TURNOS,Mesa potencialmente compartible por horario si equipo y postura funcionan.,S03/S04,10,no evaluada metricamente
+2,A14,A13,POR_TURNOS,Apoyo de trabajo compartible tras limpieza y almacenamiento.,S07/S04,8,no evaluada metricamente
+2,A08,A11,POR_TURNOS,Sólo si no obliga a desmontar continuamente el trabajo.,S05/S04,3,no evaluada metricamente
+2,A10,A06,POR_TURNOS,Lugar reservado potencialmente compartible por turnos.,S06/S03,4,no evaluada metricamente
+2,A01,A03,CONDICIONAL,"Recorrido útil, pero proximidad puede introducir ruido.",S16,6,no evaluada metricamente
+2,A08,A09,CONDICIONAL,"Comer y conversar pueden coincidir, sin obligar a hacerlo.",S05,13,no evaluada metricamente
+2,A16,A18,CONDICIONAL,Una misma puerta puede servir; las acciones son distintas.,S15,2,no evaluada metricamente
+2,A11,A14,CONDICIONAL,"Compartir superficie depende de tamaño, suciedad y persistencia.",S04/S07,7,no evaluada metricamente
+3,A02,A05,PROXIMIDAD,Alcanzar ropa mientras te vistes.,S09,2,cumple ensayo
+3,A03,A02,PROXIMIDAD,Cambiarse con intimidad y transición seca.,S01/S09,3,cumple ensayo
+3,A03,A04,PROXIMIDAD,Gestionar textiles húmedos sin recorrer espacios secos.,S01,1,cumple ensayo
+3,A07,A08,PROXIMIDAD,Trasladar comida sin rodeos.,S05,2,cumple ensayo
+3,A11,A12,PROXIMIDAD,Guardar trabajo frágil sin desmontarlo o transportarlo lejos.,S04,2,cumple ensayo
+3,A13,A12,PROXIMIDAD,Dejar piezas y materiales a mano.,S04,1,cumple ensayo
+3,A14,A20,PROXIMIDAD,Tomar y devolver herramientas.,S07,1,cumple ensayo
+3,A15,A20,PROXIMIDAD,Tomar y devolver herramientas.,S15,3,cumple ensayo
+3,A16,A05,PROXIMIDAD,Dejar pertenencias; capacidad y tipo de almacenamiento a revisar.,S01,1,cumple ensayo
+3,A16,A17,PROXIMIDAD,Resolver la llegada de una visita.,S10,1,cumple ensayo
+3,A18,A05,PROXIMIDAD,Recoger pertenencias al salir; no implica misma puerta que recibir.,S09,3,cumple ensayo
+3,A07,A19,PROXIMIDAD,Recoger después de preparar comida.,S14,1,cumple ensayo
+3,A01,A07,PROTEGER,Cocinar de madrugada puede interrumpir descanso.,S05/S08,16,cumple ensayo
+3,A01,A13,PROTEGER,Corte nocturno y descanso son simultáneos.,S04,8,cumple ensayo
+3,A01,A09,PROTEGER,Las voces del grupo pueden impedir retirarse.,S08,5,cumple ensayo
+3,A06,A07,PROTEGER,La entrevista necesita voz inteligible y privacidad.,S03/S05,18,cumple ensayo
+3,A06,A09,PROTEGER,No exponer una entrevista a conversación ajena.,S03,7,cumple ensayo
+3,A10,A09,PROTEGER,Confidencialidad frente a presencia del grupo.,S06,8,cumple ensayo
+3,A04,A01,PROTEGER,La humedad no debe resolverse invadiendo el descanso.,S01/S16,13,cumple ensayo
+3,A15,A07,PROTEGER,"Separar grasa, residuos y herramientas de preparación de comida.",S15/S05,12,cumple ensayo
+3,A06,A11,POR_TURNOS,Mesa potencialmente compartible por horario si equipo y postura funcionan.,S03/S04,9,no evaluada metricamente
+3,A14,A13,POR_TURNOS,Apoyo de trabajo compartible tras limpieza y almacenamiento.,S07/S04,2,no evaluada metricamente
+3,A08,A11,POR_TURNOS,Sólo si no obliga a desmontar continuamente el trabajo.,S05/S04,13,no evaluada metricamente
+3,A10,A06,POR_TURNOS,Lugar reservado potencialmente compartible por turnos.,S06/S03,15,no evaluada metricamente
+3,A01,A03,CONDICIONAL,"Recorrido útil, pero proximidad puede introducir ruido.",S16,12,no evaluada metricamente
+3,A08,A09,CONDICIONAL,"Comer y conversar pueden coincidir, sin obligar a hacerlo.",S05,9,no evaluada metricamente
+3,A16,A18,CONDICIONAL,Una misma puerta puede servir; las acciones son distintas.,S15,4,no evaluada metricamente
+3,A11,A14,CONDICIONAL,"Compartir superficie depende de tamaño, suciedad y persistencia.",S04/S07,1,no evaluada metricamente

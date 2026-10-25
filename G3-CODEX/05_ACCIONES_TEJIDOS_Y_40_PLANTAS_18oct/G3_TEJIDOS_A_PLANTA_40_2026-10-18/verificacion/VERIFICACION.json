@@ -1,0 +1,26 @@
+{
+  "count": 40,
+  "families": 20,
+  "variants_each": 2,
+  "pdf_pages": 88,
+  "plan_png": 40,
+  "plan_svg": 40,
+  "traces": 40,
+  "cad": 40,
+  "all_floor_connected": true,
+  "private_furniture_collisions": 0,
+  "four_entry_proxies_connected": 40,
+  "area_min": 208.0658962242862,
+  "area_max": 259.94188654065795,
+  "status": "exploratory; not an approved housing layout",
+  "unverified": [
+    "daylight",
+    "site",
+    "structure",
+    "accessibility",
+    "fire evacuation",
+    "complete door and fixture use",
+    "acoustic protection",
+    "compliance with previous 1500m2 target"
+  ]
+}

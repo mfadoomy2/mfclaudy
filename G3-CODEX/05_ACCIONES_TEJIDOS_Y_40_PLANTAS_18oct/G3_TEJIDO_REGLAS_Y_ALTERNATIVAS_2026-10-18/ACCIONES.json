@@ -1,0 +1,122 @@
+[
+  {
+    "id": "A01",
+    "accion": "Dormir",
+    "ocupacion": "Cama, cuerpo tumbado, acceso a ropa y aseo.",
+    "condiciones": "Silencio, intimidad, oscuridad controlable; horario variable."
+  },
+  {
+    "id": "A02",
+    "accion": "Vestirse",
+    "ocupacion": "Cuerpo de pie, abrir almacenamiento, cambiar ropa.",
+    "condiciones": "Privacidad; luz localizada; no invadir cama o puerta."
+  },
+  {
+    "id": "A03",
+    "accion": "Ducharse",
+    "ocupacion": "Cuerpo mojado, toalla, cambio seco.",
+    "condiciones": "Agua, extracción, intimidad; transición seca."
+  },
+  {
+    "id": "A04",
+    "accion": "Secar ropa",
+    "ocupacion": "Prendas húmedas ocupan volumen durante horas.",
+    "condiciones": "Ventilación y humedad controlada; no dormitorio como secadero."
+  },
+  {
+    "id": "A05",
+    "accion": "Guardar ropa",
+    "ocupacion": "Ropa limpia, sucia y de temporada.",
+    "condiciones": "Acceso próximo a vestirse; capacidad por comprobar."
+  },
+  {
+    "id": "A06",
+    "accion": "Entrevista en vídeo",
+    "ocupacion": "Persona sentada, portátil, voz y fondo de cámara.",
+    "condiciones": "Intimidad visual, conexión y control acústico."
+  },
+  {
+    "id": "A07",
+    "accion": "Cocinar",
+    "ocupacion": "Preparar, abrir equipos, cocinar, recoger.",
+    "condiciones": "Agua, extracción, higiene y usos simultáneos."
+  },
+  {
+    "id": "A08",
+    "accion": "Comer",
+    "ocupacion": "Una o varias personas; comida y apoyos.",
+    "condiciones": "Puede ser individual o compartido; no convivencia obligatoria."
+  },
+  {
+    "id": "A09",
+    "accion": "Conversar en grupo",
+    "ocupacion": "Voces, varias posturas, duración variable.",
+    "condiciones": "Encuentro voluntario y derecho a retirarse."
+  },
+  {
+    "id": "A10",
+    "accion": "Hablar en privado",
+    "ocupacion": "Dos personas, voz y escucha.",
+    "condiciones": "Confidencialidad, salida discreta; no consulta sanitaria."
+  },
+  {
+    "id": "A11",
+    "accion": "Dibujar",
+    "ocupacion": "Tablero1,80×0,90m y persona trabajando.",
+    "condiciones": "Luz de tarea y referencias; trabajo puede quedar montado."
+  },
+  {
+    "id": "A12",
+    "accion": "Guardar maqueta",
+    "ocupacion": "Objeto frágil, dimensiones variables.",
+    "condiciones": "Capacidad y traslado sin atravesar usos incompatibles."
+  },
+  {
+    "id": "A13",
+    "accion": "Cortar maqueta",
+    "ocupacion": "Herramientas, recortes y superficie resistente.",
+    "condiciones": "Ruido y limpieza; materiales/adhesivos específicos por estudiar."
+  },
+  {
+    "id": "A14",
+    "accion": "Coser una tela",
+    "ocupacion": "Pieza extendida, máquina o herramientas.",
+    "condiciones": "Acceso, apoyo y almacenamiento; tamaño real pendiente."
+  },
+  {
+    "id": "A15",
+    "accion": "Reparar bicicleta",
+    "ocupacion": "Bici, herramientas, grasa y maniobra.",
+    "condiciones": "Trabajo sucio separado de preparación de comida."
+  },
+  {
+    "id": "A16",
+    "accion": "Llegar con cargas",
+    "ocupacion": "Compra, mochila o material voluminoso.",
+    "condiciones": "Paso y giros sin ocupar permanentemente circulación."
+  },
+  {
+    "id": "A17",
+    "accion": "Recibir una visita",
+    "ocupacion": "Esperar, saludar, acordar acceso.",
+    "condiciones": "Control de intimidad; no enseñar dormitorios desde llegada."
+  },
+  {
+    "id": "A18",
+    "accion": "Salir con prisa",
+    "ocupacion": "Abrigo, llaves, pertenencias y recorrido.",
+    "condiciones": "Camino libre; no supone una segunda puerta."
+  },
+  {
+    "id": "A19",
+    "accion": "Limpiar y recoger",
+    "ocupacion": "Agua, útiles, residuos y tiempo de trabajo.",
+    "condiciones": "Almacenamiento accesible, reparto de tareas y presupuesto."
+  },
+  {
+    "id": "A20",
+    "accion": "Guardar herramientas",
+    "ocupacion": "Útiles de reparación, seguridad y devolución.",
+    "condiciones": "Acceso próximo a trabajos; no armario de ropa."
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "code": "N06B",
+  "family": "Ropa y humedad",
+  "logic": "Tejido 3 traducido mediante huellas de uso y rutas; desplazamientos locales para evitar solapes.",
+  "risk": "Revisar distancia de conexiones, privacidad y luz en la parcela.",
+  "variant": "B",
+  "source": 3,
+  "connections": 4,
+  "geometry_conflicts": [],
+  "entry_on_boundary": true,
+  "displacements": {
+    "H1": 3.34,
+    "H2": 4.81,
+    "H3": 3.54,
+    "H4": 6.84,
+    "K": 3.23,
+    "M": 7.28,
+    "S": 2.08,
+    "B1": 2.07,
+    "B2": 6.22,
+    "D": 2.08,
+    "T": 2.45,
+    "R": 3.88,
+    "E": 1.63
+  },
+  "edges": [
+    [
+      "K",
+      "M"
+    ],
+    [
+      "B1",
+      "D"
+    ],
+    [
+      "B2",
+      "D"
+    ],
+    [
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S"
+    ],
+    [
+      "H1",
+      "R"
+    ],
+    [
+      "H2",
+      "R"
+    ],
+    [
+      "E",
+      "H1"
+    ],
+    [
+      "B1",
+      "E"
+    ],
+    [
+      "B1",
+      "H3"
+    ],
+    [
+      "H3",
+      "K"
+    ],
+    [
+      "D",
+      "E"
+    ],
+    [
+      "D",
+      "H4"
+    ],
+    [
+      "B1",
+      "S"
+    ],
+    [
+      "M",
+      "S"
+    ]
+  ],
+  "floor_m2": 216.21,
+  "bedrooms_m2": 73.09,
+  "shared_gross_m2": 143.12
+}

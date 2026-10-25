@@ -1,0 +1,22 @@
+{
+  "unidades": 40,
+  "parcela_poligono_m2": 650.91,
+  "parcela_extension_xy_m": [
+    49.48,
+    20.17
+  ],
+  "tres_contrastes_geometricos": [
+    "N02A",
+    "N14A",
+    "N20B"
+  ],
+  "ancho_rectangulo_unidades_rango_m": [
+    13.58,
+    15.6
+  ],
+  "largo_rectangulo_unidades_rango_m": [
+    16.02,
+    18.4
+  ],
+  "advertencia": "Sin implantacion, sin calculo de luz ni estructura; rectangulos no demuestran imposibilidad de encaje."
+}
