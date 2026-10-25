@@ -1,0 +1,131 @@
+{
+  "code": "01",
+  "title": "Hueco vertical y balcón: unidad o banda",
+  "definition": "Lo que se repite es la asociación entre hueco vertical, antepecho metálico y posición en una retícula de planta. No es «el ladrillo»: el mismo orden aparece con acabados y épocas visualmente distintos. La excepción comparativa es el balcón corrido, que agrupa varios huecos.",
+  "conclusion": "Siete casos seleccionados fragmentan el borde en balcones individuales; B08 lo reúne en bandas. La repetición de ejes se observa en el alzado, pero no demuestra dónde están los pilares ni qué muros son portantes.",
+  "question": "¿Conviene que las 20 unidades del programa tengan una relación individual con la calle, o que el borde exterior sea un espacio compartido? ¿Dónde debe romperse la repetición para reconocer el acceso colectivo?",
+  "test": "Dibujar dos alzados del mismo programa: hueco-balconcillo por unidad y franja compartida. Comparar intimidad, mantenimiento, sombra y posibilidad de estancia; no copiar solo la forma ornamental.",
+  "diagram": "ritmo",
+  "cases": [
+    {
+      "front": "B01",
+      "source": "RC02",
+      "target": [
+        0.407,
+        0.502
+      ],
+      "crop": [
+        0.26,
+        0.3,
+        0.46,
+        0.55
+      ],
+      "note": "Balcón individual bajo hueco vertical; contorno de remate ornamentado."
+    },
+    {
+      "front": "B02",
+      "source": "RC02",
+      "target": [
+        0.652,
+        0.427
+      ],
+      "crop": [
+        0.49,
+        0.05,
+        0.74,
+        0.48
+      ],
+      "note": "Ejes apilados de huecos con barandillas individuales."
+    },
+    {
+      "front": "B03",
+      "source": "RC03",
+      "target": [
+        0.306,
+        0.445
+      ],
+      "crop": [
+        0.27,
+        0.07,
+        0.43,
+        0.5
+      ],
+      "note": "Serie de huecos en ladrillo, delimitada por bandas claras."
+    },
+    {
+      "front": "B05",
+      "source": "RC05",
+      "target": [
+        0.362,
+        0.444
+      ],
+      "crop": [
+        0.275,
+        0.19,
+        0.46,
+        0.49
+      ],
+      "note": "Tres huecos con balcones separados: pared entre unidades."
+    },
+    {
+      "front": "B06",
+      "source": "RC05",
+      "target": [
+        0.843,
+        0.398
+      ],
+      "crop": [
+        0.68,
+        0.05,
+        0.95,
+        0.46
+      ],
+      "note": "Balcones individuales con losa visible y laterales abiertos."
+    },
+    {
+      "front": "B07",
+      "source": "RC06",
+      "target": [
+        0.733,
+        0.476
+      ],
+      "crop": [
+        0.54,
+        0.04,
+        0.83,
+        0.5
+      ],
+      "note": "Barandillas por hueco sobre la franja comercial."
+    },
+    {
+      "front": "B08",
+      "source": "RC07",
+      "target": [
+        0.538,
+        0.329
+      ],
+      "crop": [
+        0.3,
+        0.03,
+        0.67,
+        0.39
+      ],
+      "note": "Banda continua: varios huecos comparten un mismo borde."
+    },
+    {
+      "front": "B09",
+      "source": "RC08",
+      "target": [
+        0.394,
+        0.48
+      ],
+      "crop": [
+        0.28,
+        0.18,
+        0.54,
+        0.52
+      ],
+      "note": "Huecos alineados con balcones estrechos, carpintería oscura."
+    }
+  ]
+}

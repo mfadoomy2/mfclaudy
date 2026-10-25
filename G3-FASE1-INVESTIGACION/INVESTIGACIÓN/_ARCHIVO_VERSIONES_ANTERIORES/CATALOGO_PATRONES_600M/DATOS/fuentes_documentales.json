@@ -1,0 +1,56 @@
+[
+  [
+    "D0",
+    "Instantánea OSM local y recorte propio",
+    "COORDENADAS_*_600M.csv; centro 40.407576, -3.707172; círculo de 600 m en EPSG:25830. Datos © colaboradores de OpenStreetMap.",
+    "https://www.openstreetmap.org/copyright"
+  ],
+  [
+    "D1",
+    "Universidad Autónoma de Madrid · Centro Cultural La Corrala",
+    "Descripción de la planta en U/O, origen hacia 1860 y rehabilitación de Carlos Arniches 3 y 5.",
+    "https://www.uam.es/uam/lacorrala/centro-cultural"
+  ],
+  [
+    "D2",
+    "Santa Cruz-Astorqui y Del Río · CSIC, 2014",
+    "Modelo de comportamiento estructural de muros entramados de madera en el siglo XIX en España. DOI 10.3989/ic.14.030. Marco tipológico, no diagnóstico de edificios concretos.",
+    "https://informesdelaconstruccion.revistas.csic.es/index.php/informesdelaconstruccion/article/download/3589/4044?inline=1"
+  ],
+  [
+    "D3",
+    "Ayuntamiento de Madrid / EMVS · Vara de Rey 12",
+    "Ficha de 22 viviendas: balconada, ventanales y cerramientos móviles.",
+    "https://diario.madrid.es/wp-content/uploads/2016/06/VARA-DE-REY-12-SP.pdf"
+  ],
+  [
+    "D4",
+    "Ayuntamiento de Madrid · Características de los puestos",
+    "Descripción oficial de dimensiones, estructura tubular y ocupación del mercadillo.",
+    "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Normativa/Mercadillo-del-Rastro-de-Madrid-Caracteristicas-de-los-puestos/?vgnextchannel=f5b4e3ad92eb8010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=5ba2a0da2db8b010VgnVCM1000000b205a0aRCRD"
+  ],
+  [
+    "D5",
+    "Ayuntamiento de Madrid · Autorizaciones de venta",
+    "La página consultada distingue montaje 8-9 h, venta 9-15 h y retirada 15-16 h en domingos y festivos.",
+    "https://sede.madrid.es/portal/site/tramites/menuitem.62876cb64654a55e2dbd7003a8a409a0/?vgnextchannel=ae1637c190180210VgnVCM100000c90da8c0RCRD&vgnextoid=402cef82e1bed010VgnVCM1000000b205a0aRCRD"
+  ],
+  [
+    "D6",
+    "Geoportal de Madrid · Puestos Rastro, capa 11",
+    "Consulta paginada: 2.186 registros con atributos; geometría no devuelta incluso con returnGeometry=true. Sin inferir cero puestos ni asignar todos al círculo.",
+    "https://sigma.madrid.es/hosted/rest/services/GEOPORTAL/PUESTOS_RASTRO/MapServer/11"
+  ],
+  [
+    "D7",
+    "UNED · La arquitectura de la UNED",
+    "Centro en Escuelas Pías: biblioteca en la antigua iglesia y aulario, proyecto de Linazasoro.",
+    "https://www.uned.es/universidad/dam/inicio/unidad/otom/archivos/LA-ARQUITECTURA-DE-LA-UNED.PDF"
+  ],
+  [
+    "D8",
+    "Ministerio de Cultura · Rehabilitación de Tabacalera",
+    "La fuente registra recepción de obras de fachadas, cubiertas y carpinterías el 15-09-2025: las vistas históricas no describen por sí solas el estado actual.",
+    "https://www.cultura.gob.es/giec/obras/concluidas/museos/madrid-tabacalera.html"
+  ]
+]

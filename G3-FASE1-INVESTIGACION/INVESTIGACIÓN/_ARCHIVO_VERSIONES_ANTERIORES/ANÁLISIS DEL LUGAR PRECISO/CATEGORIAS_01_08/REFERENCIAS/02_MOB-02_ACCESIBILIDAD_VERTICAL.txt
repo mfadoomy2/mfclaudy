@@ -1,0 +1,69 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O M O B - 0 2
+M O B - 0 2   ·   M O V I L I D A D   Y   A C C E S I B I L I D A D
+Subir a la cinta
+El nivel +6,00 tiene 6 escaleras y 3 ascensores. Para una persona con
+movilidad reducida, los ascensores no son una comodidad: son la única vía.
+Este documento mide esa dependencia.
+A S C E N S O R E S
+3
+E S C A L E R A S
+6
+R O D E O   P M R   N O R M A L
+174 m
+R O D E O   P E O R   N − 1
+286 m
+
+PÁGINA 2
+M O B - 0 2   ·   A C C E S I B I L I D A D M O B - 0 2
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+M O B - 0 2   ·   M O V I L I D A D
+Tres ascensores y un anillo
+¿Qué pasa con el itinerario accesible cuando falla un ascensor?
+A · M E D I D O   /   C A L C U L A D O
+M É T O D O
+Proyección de los 3
+LIFT_TOWER medidos en la
+escena sobre la
+polilínea de la cinta
+(733 m, anillo); rodeo
+máximo a lo largo del
+tablero hasta el
+ascensor operativo más
+próximo, con los 3 y en
+cada escenario N−1.
+D A T O S
+a4_ribbon.json (perfil
+de cinta) + anclas
+LIFT_TOWER de la escena
+v006.
+L I M I T A C I O N E S
+El rodeo se mide sobre
+el tablero; no incluye
+tiempo de espera del
+aparato. La normativa de
+itinerarios accesibles
+exigirá validación de
+detalle (cabina,
+meseta).
+E S C E N A R I O R O D E O   M Á X I M O L E C T U R A
+Los 3
+operativos
+174 m servicio pleno
+Falla ASC-1
+(C1-O)
+253 m rodeo asumible
+Falla ASC-2
+(C2-N)
+192 m rodeo asumible
+Falla ASC-3
+(C3-E)
+286 m peor caso: 286 m ~ 4-5
+min PMR
+— El sistema es N−1 tolerante pero no elegante: 286 m de rodeo es un límite razonable
+para avería puntual, no para fuera-de-servicio crónico. Contrato de mantenimiento con
+SLA <48 h (07_ECONOMIA presupuesta el término).
+— Las escaleras reparten mejor: ningún punto de la cinta queda a más de ~90 m de una
+escalera. La asimetría escalera/ascensor es la brecha de equidad del nivel +6.
+— Documentado como mejora potencial (§54): un cuarto ascensor en el arco sur
+bajaría el peor N−1 a ~180 m. NO se implementa: se deja al proyecto de ejecución.

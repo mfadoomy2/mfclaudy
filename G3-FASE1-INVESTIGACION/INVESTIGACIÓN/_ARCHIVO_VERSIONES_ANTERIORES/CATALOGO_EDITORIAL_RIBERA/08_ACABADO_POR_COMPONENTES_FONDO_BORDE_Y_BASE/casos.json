@@ -1,0 +1,131 @@
+{
+  "code": "08",
+  "title": "Acabado por componentes: fondo, borde y base",
+  "definition": "Fondo, borde y base se diferencian por tono, textura o junta. Esa distribución permite leer tanto una unidad de hueco como un orden de varias plantas.",
+  "conclusion": "B03 y B15 destacan bandas claras sobre ladrillo. B10 rodea el hueco con un recercado blanco; B12 dibuja un despiece inciso; B09 diferencia el basamento.",
+  "question": "¿Qué componente debe expresar la unidad doméstica y cuál debe reconocer lo colectivo?",
+  "test": "Comparar el mismo alzado organizado por unidad, por banda horizontal y por pieza de mantenimiento.",
+  "diagram": "acabado",
+  "cases": [
+    {
+      "front": "B01",
+      "source": "RC02",
+      "target": [
+        0.398,
+        0.391
+      ],
+      "crop": [
+        0.268,
+        0.32,
+        0.46,
+        0.55
+      ],
+      "note": "Marco claro ornamentado contra un fondo cálido."
+    },
+    {
+      "front": "B03",
+      "source": "RC03",
+      "target": [
+        0.255,
+        0.375
+      ],
+      "crop": [
+        0.17,
+        0.31,
+        0.371,
+        0.5
+      ],
+      "note": "Bandas y recercados claros sobre el campo de ladrillo."
+    },
+    {
+      "front": "B05",
+      "source": "RC05",
+      "target": [
+        0.398,
+        0.354
+      ],
+      "crop": [
+        0.275,
+        0.26,
+        0.452,
+        0.491
+      ],
+      "note": "El aparejo y la banda de ladrillo diferencian el campo respecto al hueco."
+    },
+    {
+      "front": "B09",
+      "source": "RC08",
+      "target": [
+        0.388,
+        0.536
+      ],
+      "crop": [
+        0.273,
+        0.36,
+        0.55,
+        0.66
+      ],
+      "note": "Campo claro y basamento gris; el cable marca otra línea añadida."
+    },
+    {
+      "front": "B10",
+      "source": "RC09",
+      "target": [
+        0.523,
+        0.403
+      ],
+      "crop": [
+        0.425,
+        0.366,
+        0.568,
+        0.541
+      ],
+      "note": "Recercado blanco con remate curvo sobre revoco ocre."
+    },
+    {
+      "front": "B12",
+      "source": "RC10",
+      "target": [
+        0.295,
+        0.3
+      ],
+      "crop": [
+        0.263,
+        0.276,
+        0.416,
+        0.442
+      ],
+      "note": "Despiece del acabado claro alrededor de huecos oscuros."
+    },
+    {
+      "front": "B13",
+      "source": "RC12",
+      "target": [
+        0.573,
+        0.353
+      ],
+      "crop": [
+        0.557,
+        0.255,
+        0.655,
+        0.481
+      ],
+      "note": "Borde blanco del hueco frente al paño de acabado ocre."
+    },
+    {
+      "front": "B15",
+      "source": "RC04",
+      "target": [
+        0.701,
+        0.321
+      ],
+      "crop": [
+        0.626,
+        0.14,
+        0.734,
+        0.468
+      ],
+      "note": "Bandas y montantes claros dividen el paño rojo."
+    }
+  ]
+}

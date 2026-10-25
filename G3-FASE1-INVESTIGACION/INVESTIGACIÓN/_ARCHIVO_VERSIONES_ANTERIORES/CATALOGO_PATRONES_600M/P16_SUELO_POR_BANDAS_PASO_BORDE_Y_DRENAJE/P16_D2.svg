@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="515" height="205" viewBox="0 0 515 205"><title>street_sections</title><rect width="515" height="205" fill="white"/>
+<text x="15" y="15" font-family="Arial,sans-serif" font-size="10" fill="black">SECCIONES · cambios de cota y de anchura</text>
+<polyline points="27,48 27,87 108,87 108,98 369,98 369,87 484,87 484,48" stroke="black" stroke-width="1.5" fill="none"/>
+<polyline points="27,141 27,178 141,178 369,178 484,178 484,141" stroke="black" stroke-width="1.5" fill="none"/>
+<line x1="104" y1="150" x2="104" y2="177" stroke="black" stroke-width="2"/>
+<line x1="374" y1="150" x2="374" y2="177" stroke="black" stroke-width="2"/>
+<text x="193" y="73" font-family="Arial,sans-serif" font-size="9" fill="black">bordillo + calzada</text>
+<text x="177" y="161" font-family="Arial,sans-serif" font-size="9" fill="black">banda marcada por bolardos</text>
+</svg>

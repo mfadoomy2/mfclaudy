@@ -1,0 +1,77 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O C L I - 0 2
+C L I - 0 2   ·   C L I M A   Y   C O N F O R T
+Radiación solar
+Cuánta energía solar deja de golpear el suelo de Sol: acumulada de la
+ventana crítica, retirada por el dosel, y su distribución espacial en verano
+e invierno.
+B A S E L I N E
+v006 · build 12
+R E D U C C I Ó N   V E R A N O
+−38,0
+M E D I A   A C T U A L
+653,9 W/m²
+M E D I A   P R O P U E S T A
+380,3 W/m²
+
+PÁGINA 2
+0 100 200 300 400 500 600
+C L I - 0 2   ·   R A D I A C I Ó N C L I - 0 2
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+C L I - 0 2   ·   C L I M A   Y   C O N F O R T
+La energía retirada
+¿Cuánta radiación solar deja de recibir cada metro de suelo y adónde va la que sigue llegando?
+A · M E D I D O   /   C A L C U L A D O
+M É T O D O
+Acumulación de radiación
+directa+difusa por celda
+con las mismas 431
+posiciones solares del
+CLI-01 y bóveda de 61
+direcciones para la
+difusa; media de la
+ventana crítica en W/m².
+Invierno: suma del
+21-dic en kWh/m²·día.
+D A T O S
+rad_A/B.npy,
+rad_delta.npy,
+radwin_A/B.npy,
+metricas.json.
+L I M I T A C I O N E S
+Sin nubes (caso pésimo)
+ni reflexiones entre
+fachadas de segundo
+orden (albedo de suelo
+sí incluido en el
+balance MRT del CLI-03).
+A   ·   W / M ²   M E D I A   C R Í T I C A B   ·   W / M ²   M E D I A   C R Í T I C A
+R A D I A C I Ó N   M E D I A   ·   W / M ²
+De 654 a 380 W/m² de media:el dosel retira el 38 % de la
+energía solar del suelo pisable. El mapa B enseña la nueva
+geografía térmica: pasillos protegidos, claros deliberados y el
+gradiente hacia los bordes con los edificios.
+FUENTE: _reclima9/_data (v006 build 12, 2026-08-13) · celda 0,5 m · ventana crítica 15 jun–15 sep
+654 › 380
+W/m²
+radiación media sobre
+pisable, A › B
+−38 %
+energía retirada en la
+ventana crítica
+−100 %
+máximo local: bajo las
+hojas densas del dosel
+
+PÁGINA 3
+C L I - 0 2   ·   R A D I A C I Ó N C L I - 0 2   ·   L E C T U R A
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 3
+C L I - 0 2 . 2   ·   L E C T U R A
+Energía, no temperatura
+— La radiación es la palanca. A 33 °C de aire, la diferencia entre sol y sombra son
+~25 K de MRT: la energía retirada es el presupuesto del confort del CLI-03/04.
+— El −38 % es promedio, no uniforme. Bajo dosel denso la retirada llega al 100 %;
+el claro central mantiene su régimen solar casi intacto (decisión de proyecto).
+— Verano e invierno comparten geometría. La misma hoja retira 38 % en julio y 40
+% en diciembre: el dosel es estacional en el CLIMA (hoja caduca en las especies) pero
+la membrana estructural no. Véase la discusión estacional en 04_AGUA/ECO.

@@ -1,0 +1,81 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O C L I - 0 7
+C L I - 0 7   ·   C L I M A   Y   C O N F O R T
+El agua que enfría
+Evaporación de láminas y splash, nebulización de alta presión, cámara de
+microalgas: cuánto enfría cada término y cuánta agua consume hacerlo.
+E V A P O R A C I Ó N   T O T A L
+2034
+P O T E N C I A
+1.367 kW
+N I E B L A
+210 L/h · 141 kW
+R E F U G I O   E X T R A
++501 m²
+
+PÁGINA 2
+0.0 0.5 1.0 1.5 2.0 2.5 3.0
+C L I - 0 7   ·   A G U A C L I - 0 7
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+C L I - 0 7   ·   C L I M A
+Kilovatios líquidos
+¿Cuánto enfriamiento compra cada litro y qué términos del sistema hídrico rinden más?
+B · I N F E R I D O
+M É T O D O
+Penman lámina libre por
+elemento de agua
+(splash, estanques,
+balsas) con su
+exposición solar real;
+nebulización
+isoentálpica con deriva
+por viento (gota 40 μm,
+eficiencia 0,55)
+evaluada en 9 escenarios
+caudal×clima; microalgas
+como lámina confinada
+del canopy (CLI-10
+estudia su fallo).
+D A T O S
+agua.json,
+neb_escenarios.json,
+mist_cov/mist_dT.npy,
+refugio.json.
+L I M I T A C I O N E S
+Penman es un techo
+teórico bajo cielo
+despejado; la deriva de
+niebla usa viento
+dominante constante; el
+balance diario completo
+(riego incluido) vive en
+04_AGUA.
+Δ T A   N E B U L I Z A C I Ó N   ·   K
+R E S U L T A D O
+La nube de niebla deriva con el
+viento y cubre ~1.100 m² efectivos;
+baja el aire local hasta 2-3 K en la
+zona cubierta y añade +501 m² de
+refugio.
+C O S T E
+210 L/h en el escenario BASE — el 10
+%% del agua evaporativa total. El
+término más eficiente por litro del
+sistema (04_AGUA lo cuantifica).
+R I E S G O
+Con humedad alta la depresión
+psicrométrica se hunde: en E1-húmedo
+el ΔT aplicado cae a 0,13 K. La
+niebla es un arma de día seco.
+FUENTE: _reclima9/_data (v006 build 12, 2026-08-13) · celda 0,5 m · ventana crítica 15 jun–15 sep
+C L I - 0 7 . 2   ·   N U E V E   E S C E N A R I O S   D E   N E B U L I Z A C I Ó N
+E S C E N A R I O C L I M A L / H Δ T   P S I C R . Δ T   A P L I C A D O
+BAJO E1 126.0 2.76 K 0.13 K
+BAJO E2 126.0 3.56 K 0.13 K
+BAJO E3 126.0 4.45 K 0.11 K
+NOMINAL E1 210.0 4.83 K 0.22 K
+NOMINAL E2 210.0 6.23 K 0.22 K
+NOMINAL E3 210.0 7.78 K 0.18 K
+MAXIMO E1 336.0 6.9 K 0.35 K
+MAXIMO E2 336.0 8.9 K 0.35 K
+MAXIMO E3 336.0 11.11 K 0.28 K

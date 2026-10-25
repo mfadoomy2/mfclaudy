@@ -1,0 +1,67 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O C L I - 0 9
+C L I - 0 9   ·   C L I M A   Y   C O N F O R T
+Confort por programa
+No un ráster: la experiencia térmica de cada uso — bancos, huerto, cinta,
+agua, accesos, atrio del Metro — con su sombra, su UTCI y su grado de
+refugio.
+P R O G R A M A S
+9 zonas
+M E J O R
+HUERTO −5,9 K
+C I N T A
+−?
+A T R I O   M E T R O
+véase ficha
+
+PÁGINA 2
+C L I - 0 9   ·   P R O G R A M A C L I - 0 9
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+C L I - 0 9   ·   C L I M A
+Nueve maneras de estar en Sol
+¿Qué siente quien usa cada programa: quien espera al Metro, quien cultiva el huerto, quien
+camina la cinta a 6 m?
+A · M E D I D O   /   C A L C U L A D O
+M É T O D O
+Máscaras de programa
+sobre los campos de
+CLI-03/04: media zonal
+de sombra, MRT, UTCI y
+fracción de refugio; la
+cinta se evalúa en sus
+186 estaciones a cota de
+tablero (+7,1 m) con su
+propio viento.
+D A T O S
+zonas.json, cinta.json,
+spots.json (build 12).
+L I M I T A C I O N E S
+Las zonas son máscaras
+geométricas del programa
+arquitectónico; el uso
+real dependerá del
+comportamiento
+(06_USO_SOCIAL modela,
+no afirma).
+P R O G R A M A M ² S O M B R A   B U T C I   A › B Δ U T C I R E F U G I O
+BANCOS
+(estancia)
+263.0 72.3 % 40.3›35.2 -5.18 K 73.4 %
+HUERTO C1 312.0 82.7 % 40.0›34.1 -5.9 K 84.1 %
+SPLASH PAD 218.0 60.4 % 37.4›35.8 -1.61 K 15.5 %
+CUPULA-PERGOLA 135.0 51.3 % 39.8›36.3 -3.57 K 51.9 %
+VIVEROS C3 82.0 84.0 % 40.6›33.7 -6.93 K 89.6 %
+BAJO DOSEL 1466.0 82.6 % 40.0›34.1 -5.92 K 83.8 %
+ESTANQUES 492.0 72.8 % 37.3›34.5 -2.8 K 52.4 %
+CORREDORES 2098.0 24.0 % 40.3›38.8 -1.45 K 21.5 %
+BAJO
+NEBULIZACION
+1143.0 65.1 % 39.8›35.9 -3.9 K 56.8 %
+C L I - 0 9 . 2   ·   L A   C I N T A :   C A M I N A R   A   S E I S   M E T R O S
+— La cinta es la paradoja del proyecto: solo el 22,6 %% de sus 186 estaciones va en
+sombra y su UTCI medio (38,0 °C) es apenas mejor que la plaza actual. A cota de
+tablero el viento sube (2,4 m/s frente a 1,0 a nivel de suelo) y compensa parte.
+— Lectura: la cinta NO es un programa de estancia térmica: es un mirador en
+movimiento. Su papel climático es dar sombra A LOS DE ABAJO, no a sus usuarios.
+— Candidato de mejora documentado (§54): sombra ligera sobre los tramos sur de
+la cinta — se documenta como modificación potencial, NO se implementa.

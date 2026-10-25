@@ -1,0 +1,67 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O S O C - 0 2
+S O C - 0 2   ·   U S O   S O C I A L   Y   E X P E R I E N C I A
+¿A cuánta gente
+protege esto?
+El indicador municipal por excelencia: personas-hora de estrés térmico
+evitado al día. Tres escenarios con todas las hipótesis sobre la mesa —
+nunca una extrapolación vestida de hecho.
+L O W
+350 p·h/día
+B A S E
+2.160 p·h/día
+H I G H
+9.580 p·h/día
+N I V E L
+C — ESCENARIO
+
+PÁGINA 2
+S O C - 0 2   ·   P E R S O N A S - H O R A S O C - 0 2
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+S O C - 0 2   ·   U S O   S O C I A L
+Personas-hora, no porcentajes
+¿Cuántas horas humanas de calor severo evita el refugio en un día de verano?
+C · H I P Ó T E S I S   /   E S C E N A R I O
+M É T O D O
+p·h = afluencia ×
+fracción que se detiene
+× estancia media ×
+fracción de estancia en
+refugio. La fracción en
+refugio = 36 % de suelo
+× factor de
+concentración (quien se
+para, elige el confort:
+el IPE alto está dentro
+del refugio).
+D A T O S
+soc_stats.json/personas_
+hora + refugio.json.
+L I M I T A C I O N E S
+HIPOTESIS (C): afluencia
+diaria sin dato oficial
+cerrado (se busca en
+07_ECONOMIA); % que se
+detiene y estancia media
+por rangos de literatura
+de espacio publico
+(Gehl/PPS); factor de
+concentracion = los que
+se detienen ELIGEN el
+confort (IPE alto esta
+en refugio).
+E S C E N A R I O A F L U E N C I A / D Í A S E   D E T I E N E E S T A N C I A E N   R E F U G I O P · H / D Í A
+LOW 30.000 15 % 10 min 47 % 350
+BASE 60.000 25 % 15 min 58 % 2.160
+HIGH 120.000 35 % 20 min 68 % 9.580
+— En temporada crítica (93 días), el escenario BASE acumula ~200.000 personas-hora
+protegidas por verano; el HIGH, ~890.000. El LOW honesto: ~33.000.
+— El indicador es conservador: no cuenta al peatón en tránsito (que también gana −2,5 K
+durante su cruce) ni el efecto nocturno de las superficies no recalentadas.
+— Cómo se valida: conteos de estancia georreferenciados en el piloto (fase C del roadmap)
+convierten este C en un A en una temporada.
+C Ó M O   C A M B I A R Í A   L A   E X P E R I E N C I A   D E   P U E R T A   D E L   S O L   ( § 1 5 )
+Hoy Sol es un lugar de PASO con 3,4 % de sombra: la estancia media estival se mide en segundos
+y la plaza se vacía de 14 a 19 h. El refugio la convierte en un lugar donde detenerse es
+térmicamente racional: 1.956 m² de estancia de alta calidad, agua jugable, un huerto y un
+mirador. El cambio no es estético: es de FUNCIÓN — de rotonda peatonal a sala de estar urbana.

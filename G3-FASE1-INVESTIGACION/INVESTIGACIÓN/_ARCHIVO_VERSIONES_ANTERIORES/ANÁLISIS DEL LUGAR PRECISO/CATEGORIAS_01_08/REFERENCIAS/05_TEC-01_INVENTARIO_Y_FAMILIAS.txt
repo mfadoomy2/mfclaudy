@@ -1,0 +1,69 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O T E C - 0 1
+T E C - 0 1   ·   C O N S T R U C C I Ó N   Y   E S T R U C T U R A
+De qué está hecho
+el refugio
+Inventario completo de la escena v006 por familia constructiva: cantidades
+reales del modelo, no estimaciones. La base de toda medición, presupuesto y
+plan de mantenimiento.
+M A L L A S
+15197
+H O J A S   D E   D O S E L
+93
+N E B U L I Z A D O R E S
+42
+P U N T O S   A 9
+160
+
+PÁGINA 2
+T E C - 0 1   ·   I N V E N T A R I O T E C - 0 1
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+T E C - 0 1   ·   C O N S T R U C C I Ó N
+Quince mil piezas con nombre
+¿Qué cantidades reales de cada sistema constructivo contiene el modelo aprobado?
+A · M E D I D O   /   C A L C U L A D O
+M É T O D O
+Reconstrucción
+interceptada de la
+escena v006 (el mismo
+load_scene de la
+auditoría) y conteo por
+familia: mallas totales
+y anclas de instancia
+únicas por bloque. Todo
+objeto tiene nombre y
+capa: no hay geometría
+anónima.
+D A T O S
+build_all_03b9 vía
+audit_core.load_scene
+(build 12).
+L I M I T A C I O N E S
+El conteo de instancias
+solo aplica a bloques
+colocados con place();
+las familias de detalle
+emitidas por add_mesh
+cuentan por malla.
+F A M I L I A M A L L A S I N S T A N C I A S
+LEAF 4170 93
+BAL 2156 —
+MAST 1924 80
+VEG2 1572 48
+19_DETALLE 1057 13
+STAIR 738 6
+NEB 420 41
+03_SECONDARY_STRUCTURE 392 6
+VEGETACION (asset
+GRAMINEA)
+315 63
+POD 277 14
+VEGETACION (asset
+CALATHEA)
+265 53
+SUP 258 —
+VEGETACION (asset
+HELECHO)
+220 55
+DECK 151 —
+FUENTE: escena v006 build 12 (15.197 mallas) + _reaudit9/a9_maint.json + tec_engine.py

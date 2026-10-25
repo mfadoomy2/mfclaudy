@@ -1,0 +1,131 @@
+{
+  "code": "03",
+  "title": "Carpintería y cerrajería: transparente arriba, opaco abajo",
+  "definition": "Se repite una división del cierre en partes: barras o vidrio que dejan ver, bastidor que ordena y una zona inferior más cerrada. Hay puertas, rejas y barandillas: son variantes de una relación visual, no ocho ejemplares de una misma pieza industrial.",
+  "conclusion": "El grado de apertura se gradúa sin cambiar siempre el tamaño del hueco. Astoria combina reja alta y faldón; Ranger, reja en el portal; el frente B11 conserva una puerta enrejada. Los balcones trasladan la misma lógica de barras al límite exterior.",
+  "question": "¿Qué debe poder verse del edificio comunitario cuando está cerrado? ¿Se puede distinguir acceso doméstico, taller y espacio común por densidad del cierre, y no por añadir tres lenguajes de fachada?",
+  "test": "Ensayar alzados de cierre con igual hueco y tres densidades. Comprobar aparte seguridad, accesibilidad y mantenimiento. No deducir mecanismos de giro, espesores ni anclajes de imágenes frontales.",
+  "diagram": "metal",
+  "cases": [
+    {
+      "front": "B02",
+      "source": "RC02",
+      "target": [
+        0.68,
+        0.58
+      ],
+      "crop": [
+        0.63,
+        0.49,
+        0.75,
+        0.68
+      ],
+      "note": "Astoria: barras verticales y faldón inferior opaco."
+    },
+    {
+      "front": "B04",
+      "source": "RC04",
+      "target": [
+        0.512,
+        0.522
+      ],
+      "crop": [
+        0.49,
+        0.45,
+        0.59,
+        0.58
+      ],
+      "note": "Barandilla delante de los paños de carpintería."
+    },
+    {
+      "front": "B05",
+      "source": "RC05",
+      "target": [
+        0.359,
+        0.457
+      ],
+      "crop": [
+        0.325,
+        0.35,
+        0.405,
+        0.5
+      ],
+      "note": "Barrotes y franja ornamental inferior del balcón."
+    },
+    {
+      "front": "B06",
+      "source": "RC05",
+      "target": [
+        0.824,
+        0.407
+      ],
+      "crop": [
+        0.776,
+        0.29,
+        0.86,
+        0.45
+      ],
+      "note": "Barandilla metálica separada del plano de ventana."
+    },
+    {
+      "front": "B09",
+      "source": "RC08",
+      "target": [
+        0.49,
+        0.672
+      ],
+      "crop": [
+        0.462,
+        0.58,
+        0.504,
+        0.77
+      ],
+      "note": "Portal de barras: transparencia en el acceso."
+    },
+    {
+      "front": "B10",
+      "source": "RC09",
+      "target": [
+        0.452,
+        0.485
+      ],
+      "crop": [
+        0.427,
+        0.407,
+        0.495,
+        0.548
+      ],
+      "note": "Retícula metálica ante un hueco de vivienda."
+    },
+    {
+      "front": "B11",
+      "source": "RC09",
+      "target": [
+        0.61,
+        0.727
+      ],
+      "crop": [
+        0.587,
+        0.625,
+        0.642,
+        0.837
+      ],
+      "note": "Reja vertical del portal, con zócalo gráfico inferior."
+    },
+    {
+      "front": "B12",
+      "source": "RC10",
+      "target": [
+        0.251,
+        0.497
+      ],
+      "crop": [
+        0.243,
+        0.435,
+        0.286,
+        0.55
+      ],
+      "note": "Cierre de barras en un hueco inmediatamente sobre el comercio."
+    }
+  ]
+}

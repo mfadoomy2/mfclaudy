@@ -1,0 +1,78 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O M O B - 0 3
+M O B - 0 3   ·   M O V I L I D A D   Y   A C C E S I B I L I D A D
+Salir y caber
+Distancia de cada punto de la plaza a su salida más próxima, y nivel de
+servicio peatonal bajo tres escenarios de demanda — con las hipótesis a la
+vista.
+D I S T .   M E D I A   A   S A L I D A
+21 m
+P 9 5
+37 m
+M Á X I M O
+45 m
+P E O R   L O S
+A-B (libre)
+
+PÁGINA 2
+0 20 40 60 80 100 120
+M O B - 0 3   ·   E V A C U A C I Ó N   Y   A F L U E N C I A M O B - 0 3
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+M O B - 0 3   ·   M O V I L I D A D
+Nadie queda lejos de una salida
+¿A qué distancia real (bordeando obstáculos) está cada celda pisable de un acceso, y aguanta la
+red una gran afluencia?
+A · M E D I D O   /   C A L C U L A D O
+M É T O D O
+Distancia geodésica por
+frente de onda sobre el
+ráster pisable
+(conectividad 8,
+corrección diagonal)
+desde los 10 accesos
+declarados; LOS por eje
+con demanda repartida
+por anchura y evaluada
+en el ancho mínimo
+(HCM/Fruin).
+D A T O S
+walk.npy +
+a1_paths.json/access +
+a5_access.json +
+mob_engine.py.
+L I M I T A C I O N E S
+La demanda de los
+escenarios es HIPÓTESIS
+(C) hasta cruzar el dato
+oficial de afluencia
+(07_ECONOMIA); la
+evacuación normativa
+exige cálculo específico
+de incendios que excede
+este análisis básico.
+D I S T A N C I A   G E O D É S I C A   A   A C C E S O   ·   M
+R E S U L T A D O
+Media 21 m, p95 37 m, máximo 45 m.
+El 100 % del suelo con salida; 0.0
+% a más de 60 m.
+L E C T U R A
+El refugio no crea fondos de saco
+de evacuación: el dosel está
+arriba y las familias en planta
+dejan pasillos de 1,8-3,0 m
+garantizados por auditoría.
+FUENTE: _reaudit9/_data (v006 build 12) + mob_engine.py · celda 0,25 m
+M O B - 0 3 . 2   ·   N I V E L   D E   S E R V I C I O   E N   T R E S   E S C E N A R I O S
+C · H I P Ó T E S I S   /   E S C E N A R I O
+E S C E N A R I O E J E   P É S I M O F L U J O A N C H O   M Í N P / M I N / M L O S
+COTIDIANO CINTA +6.00 357 p/h 2.31 m 2.6 A-B
+(libre)
+HORA PUNTA CINTA +6.00 643 p/h 2.31 m 4.6 A-B
+(libre)
+GRAN
+AFLUENCIA
+CINTA +6.00 1609 p/h 2.31 m 11.6 A-B
+(libre)
+HIPOTESIS (C): demanda diaria 40.000 peatones/dia ordinario y 120.000 en gran afluencia (orden de magnitud de un eje centrico de Madrid; pendiente de
+dato oficial en 07_ECONOMIA); hora punta 18 %; reparto proporcional al ancho p05 de cada eje; el LOS se evalua en el ancho transversal MINIMO (punto
+pesimo).

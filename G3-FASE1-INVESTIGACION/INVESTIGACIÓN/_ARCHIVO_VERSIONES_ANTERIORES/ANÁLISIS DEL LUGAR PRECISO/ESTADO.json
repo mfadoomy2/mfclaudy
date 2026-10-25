@@ -1,0 +1,82 @@
+{
+  "completadas": [
+    "01_CLIMA_DE_REFERENCIA.pdf",
+    "02_GEOMETRIA_SOLAR.pdf",
+    "03_TEJIDO_Y_VACIOS.pdf",
+    "04_ARBOLADO_Y_PROXIMIDAD.pdf",
+    "05_ESTANCIA_Y_AGUA.pdf"
+  ],
+  "total_previsto": 5,
+  "datos": {
+    "source_sha256": "b00bcd383166bd7c5bbfb196805500088c607ff7ca33777a1502d2908b6d1470",
+    "crs": "EPSG:25830",
+    "anchor": [
+      -3.707172,
+      40.407576
+    ],
+    "occupation": [
+      {
+        "radius_m": 100,
+        "area_m2": 31415.72940366839,
+        "building_union_m2": 15679.177938181105,
+        "fraction": 0.49908686622282467
+      },
+      {
+        "radius_m": 300,
+        "area_m2": 282741.5646330345,
+        "building_union_m2": 124104.90454059586,
+        "fraction": 0.43893406581968064
+      },
+      {
+        "radius_m": 600,
+        "area_m2": 1130966.2585321786,
+        "building_union_m2": 423477.920034404,
+        "fraction": 0.37443903992680877
+      }
+    ],
+    "trees": {
+      "counts_100_300_600": [
+        51,
+        411,
+        1001
+      ],
+      "nearest_distance_m": 7.733867669177686,
+      "nearest_osm_id": "node/12237648791"
+    },
+    "stay": {
+      "benches": 183,
+      "drinking_water": 25,
+      "ornamental": 11,
+      "nearest_bench_m": 10.122174339371742,
+      "nearest_water": [
+        {
+          "label": "F1",
+          "osm_id": "node/12529098952",
+          "distance_m": 186.52580680169774,
+          "coordinates_4326": [
+            -3.7084177,
+            40.406191500000006
+          ]
+        },
+        {
+          "label": "F2",
+          "osm_id": "node/9007810617",
+          "distance_m": 196.9015000307146,
+          "coordinates_4326": [
+            -3.7052888999999998,
+            40.4065395
+          ]
+        },
+        {
+          "label": "F3",
+          "osm_id": "node/12722701286",
+          "distance_m": 212.5372031037167,
+          "coordinates_4326": [
+            -3.7052993,
+            40.4063045
+          ]
+        }
+      ]
+    }
+  }
+}

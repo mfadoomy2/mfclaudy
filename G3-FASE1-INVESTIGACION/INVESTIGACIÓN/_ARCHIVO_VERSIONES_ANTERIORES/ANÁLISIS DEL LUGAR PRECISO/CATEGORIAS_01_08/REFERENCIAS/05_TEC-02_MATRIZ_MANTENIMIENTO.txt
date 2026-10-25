@@ -1,0 +1,211 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O T E C - 0 2
+T E C - 0 2   ·   C O N S T R U C C I Ó N   Y   E S T R U C T U R A
+Quién cuida qué,
+cada cuánto
+La matriz componente  ›  función  ›  acceso  ›  frecuencia  ›  riesgo, con
+las cantidades del modelo y el acceso de mantenimiento auditado punto a
+punto.
+C O M P O N E N T E S
+12
+P U N T O S   A U D I T A D O S
+160
+S I N   A C C E S O
+1 de 160
+R I E S G O   A L T O
+ascensores (equidad)
+
+PÁGINA 2
+T E C - 0 2   ·   M A N T E N I M I E N T O T E C - 0 2
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+T E C - 0 2   ·   C O N S T R U C C I Ó N
+La matriz de mantenimiento
+¿Puede mantenerse cada sistema, con qué medios, con qué frecuencia y qué pasa si no?
+B · I N F E R I D O
+M É T O D O
+Cantidades MEDIDAS en la
+escena; acceso por punto
+del módulo A9 de la
+auditoría (holgura,
+distancia a pisable,
+necesidad de
+plataforma); frecuencias
+y vidas útiles INFERIDAS
+por analogía con
+equipamiento urbano
+comparable.
+D A T O S
+a9_maint.json (160
+puntos) + matriz_manteni
+miento.csv.
+L I M I T A C I O N E S
+Las frecuencias son plan
+inicial, no contrato: el
+roadmap municipal las
+convierte en SLA tras el
+piloto.
+C O M P O N E N T E A C C E S O F R E C U E N C I A V I D A R I E S G O
+Mástiles
+estructurales
+(×80)
+desde suelo
++ línea de
+vida
+inspección
+anual
+50 años BAJO
+Hojas de
+dosel
+(canopy)
+(×93)
+plataforma
+elevadora
+desde
+claros
+limpieza
+semestral
+· cámara
+quincenal
+15-20 años
+(membrana)
+MEDIO —
+cámara
+seca =
++6,9 K
+local
+(CLI-10)
+Cinta
+(pasarela
++6) (×1)
+propio
+tablero;
+juntas cada
+18 m, tapas
+cada 36 m
+inspección
+trimestral
+de juntas
+30 años
+(tablero)
+MEDIO —
+elemento
+con
+público
+Ascensores
+(×3)
+cuartos
+técnicos
+propios
+mensual
+(normativa
+aparatos)
+20 años ALTO para
+equidad —
+N−1 = 286
+m de rodeo
+(MOB-02)
+Escaleras
+(×6)
+directo inspección
+anual
+40 años BAJO
+Pods rosa
+(×14)
+desde
+suelo;
+válvula e
+inflado
+propios
+presión
+semanal ·
+recambio
+membrana
+8-10 años
+10 años MEDIO —
+vandalismo
+Depósitos-gota
+(×6)
+6 de 6 con
+acceso
+auditado;
+plataforma
+purga
+mensual ·
+limpieza
+anual
+25 años MEDIO —
+carga en
+altura
+Red
+hidráulica
+enterrada
+(×4)
+tapas de
+registro
+cada 9 m
+inspección
+anual ·
+purga
+estacional
+30 años BAJO
+(enterrada,
+registrable)
+Nebulizadores
+(×42)
+desde suelo
+(cabezal a
+3,5 m)
+boquillas
+trimestral
+(cal)
+7 años MEDIO —
+agua dura
+de Madrid
+Balsas y
+estanques
+(×96)
+borde
+practicable
+limpieza
+mensual ·
+vaciado
+anual
+30 años
+(vaso)
+MEDIO —
+calidad de
+agua
+estival
+Barandillas
+y remates
+(×2156)
+directo repaso
+anual
+25 años BAJO
+Mobiliario
+(bancos)
+(×66)
+directo repaso
+anual
+15 años BAJO
+
+PÁGINA 3
+T E C - 0 2   ·   M A N T E N I M I E N T O T E C - 0 2   ·   H A L L A Z G O   A 9
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 3
+T E C - 0 2 . 2   ·   E L   P U N T O   C I E G O   ( § 4 3 )
+159 de 160 puntos con acceso. ¿Y el 160?
+— BOMBA-1 (−70,0 · 22,0) no tiene acceso auditado: holgura 0,0 m — quedó
+encajonada entre la jardinera perimetral y el murete del vivero en el detailing v006.
+Las otras dos bombas (BOMBA-2, BOMBA-3) tienen 4 m de distancia practicable y gálibo
+de sobra.
+— Consecuencia: es el único punto del sistema hídrico cuyo mantenimiento exigiría
+desmontar elementos. Riesgo operativo real si esa bomba sirve la recirculación del
+cuadrante oeste.
+— Modificación potencial documentada (§54, NO implementada): desplazar
+BOMBA-1 1,5 m al norte o practicar registro en el murete. Se deja al proyecto de
+ejecución con prioridad ALTA.
+P A R A   E L   D O S S I E R   M U N I C I P A L
+El proyecto se modeló hasta el tornillo con la pregunta «¿quién mantiene esto?» integrada en
+la auditoría (módulo A9): 160 puntos técnicos georreferenciados, 159 con acceso verificado,
+tapas de registro cada 9 m en la red enterrada y un único punto ciego, identificado y con
+corrección trivial.

@@ -1,0 +1,131 @@
+{
+  "code": "06",
+  "title": "Instalaciones: una segunda trama sobre el alzado",
+  "definition": "Ocho frentes presentan cableado superficial que sigue una línea de planta, atraviesa un paño o cambia de dirección en un borde. Se señalan cables visibles, no conducciones supuestas. La lectura se separa de la estructura portante.",
+  "conclusion": "La traza se concentra a menudo sobre los comercios o bajo el primer balcón; el portal, la esquina y la caja obligan a desviarla. El problema de proyecto es la convivencia entre una retícula prevista y añadidos futuros, no la mera presencia de un aparato.",
+  "question": "¿Dónde podrán pasar y registrarse futuras instalaciones sin perforar indiscriminadamente la envolvente? ¿Qué recorridos deben quedar disponibles para cambios de uso en planta baja?",
+  "test": "Reservar y dibujar un recorrido accesible, sus puntos de registro y la separación entre ámbitos domésticos y comerciales. Contrastar una franja común con tendidos independientes. El catálogo no identifica servicio ni titularidad de cada cable.",
+  "diagram": "cables",
+  "cases": [
+    {
+      "front": "B01",
+      "source": "RC02",
+      "target": [
+        0.26,
+        0.546
+      ],
+      "crop": [
+        0.198,
+        0.43000000000000005,
+        0.44,
+        0.67
+      ],
+      "note": "Tendido horizontal inmediatamente por encima del rótulo comercial."
+    },
+    {
+      "front": "B03",
+      "source": "RC03",
+      "target": [
+        0.31,
+        0.489
+      ],
+      "crop": [
+        0.215,
+        0.4256652892561984,
+        0.376,
+        0.5853347107438017
+      ],
+      "note": "Línea bajo el balcón y sobre el remate claro de la planta baja."
+    },
+    {
+      "front": "B05",
+      "source": "RC05",
+      "target": [
+        0.458,
+        0.502
+      ],
+      "crop": [
+        0.334,
+        0.42815702479338846,
+        0.493,
+        0.5858429752066115
+      ],
+      "note": "Tendido en el cambio entre ladrillo y frente comercial."
+    },
+    {
+      "front": "B07",
+      "source": "RC06",
+      "target": [
+        0.614,
+        0.516
+      ],
+      "crop": [
+        0.548,
+        0.4085,
+        0.79,
+        0.6485
+      ],
+      "note": "Paquete de cables que acompaña la base de los balcones."
+    },
+    {
+      "front": "B09",
+      "source": "RC08",
+      "target": [
+        0.516,
+        0.529
+      ],
+      "crop": [
+        0.342,
+        0.4363801652892562,
+        0.555,
+        0.6476198347107438
+      ],
+      "note": "Cableado y cajas sobre los accesos del frente blanco."
+    },
+    {
+      "front": "B10",
+      "source": "RC09",
+      "target": [
+        0.709,
+        0.57
+      ],
+      "crop": [
+        0.615,
+        0.5135289256198347,
+        0.743,
+        0.6404710743801653
+      ],
+      "note": "El tendido sigue el encuentro inferior de la fachada ocre."
+    },
+    {
+      "front": "B11",
+      "source": "RC09",
+      "target": [
+        0.75,
+        0.597
+      ],
+      "crop": [
+        0.729,
+        0.5101652892561984,
+        0.89,
+        0.6698347107438017
+      ],
+      "note": "Cables en el encuentro con el edificio contiguo y bajo balcones."
+    },
+    {
+      "front": "B13",
+      "source": "RC12",
+      "target": [
+        0.672,
+        0.524
+      ],
+      "crop": [
+        0.633,
+        0.4088057851239669,
+        0.828,
+        0.602194214876033
+      ],
+      "note": "Cable horizontal con derivación curva hacia un hueco."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O M O B - 0 1
+M O B - 0 1   ·   M O V I L I D A D   Y   A C C E S I B I L I D A D
+La red peatonal
+Anchuras, cuellos, continuidad y fragmentación del suelo pisable con el
+refugio construido: lo que la auditoría geométrica garantiza y lo que los
+escenarios de afluencia añaden.
+S U E L O   P I S A B L E
+9.827 m²
+P E O R   C U E L L O
+3.8 m
+C O N T I N U I D A D   1 , 8 0   M
+84 %
+E J E S   B L O Q U E A D O S
+0 de 6
+
+PÁGINA 2
+2 4 6 8 10 12
+1.0 1.5 2.0 2.5 3.0 3.5 4.0
+ancho exigido · m
+0
+20
+40
+60
+80
+% del suelo conectado
+M O B - 0 1   ·   R E D   P E A T O N A L M O B - 0 1
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+M O B - 0 1   ·   M O V I L I D A D
+Una plaza que sigue siendo plaza
+¿El refugio estrangula el movimiento? Anchuras reales, cuellos entre accesos y fragmentación de
+la red a cada exigencia de ancho.
+A · M E D I D O   /   C A L C U L A D O
+M É T O D O
+Rásters de la auditoría
+v006 (celda 0,25 m,
+banda de cuerpo
+0,05–2,10 m): anchura
+local 2×DT, cuello
+máximo entre los 45
+pares de accesos por
+barrido de umbral,
+fragmentación por
+componentes conexas a
+cada ancho exigido.
+D A T O S
+_reaudit9/_data/a1_paths
+.json + width.npy (0 RED
+en build 12).
+L I M I T A C I O N E S
+La holgura 2×DT es
+isótropa (subestima
+pasos diagonales); los
+umbrales 1,80/3,00 m son
+criterio de proyecto, no
+normativa de obligado
+cumplimiento.
+A N C H U R A   L I B R E   L O C A L   ·   M
+C O N T I N U I D A D
+Exigiendo 1,80 m continuos, la red
+mantiene el 84 %% del suelo en una
+sola pieza; a 3,00 m, el 73 %% en
+dos.
+C U E L L O S
+El peor par de accesos conserva
+3.8 m de paso: no existe cuello
+relevante a escala de multitud.
+B O L S A S
+0 cul-de-sac >8 m² imputables al
+proyecto (auditoría A1): las
+bolsas de v002 se reclasificaron o
+resolvieron en v003-v006.
+FUENTE: _reaudit9/_data (v006 build 12) + mob_engine.py · celda 0,25 m
+Cobertura de red frente a exigencia de ancho.La curva cae suave: no hay umbral catastrófico — la
+red degrada con elegancia.
+FUENTE: _reaudit9/_data (v006 build 12) + mob_engine.py · celda 0,25 m

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="515" height="205" viewBox="0 0 515 205"><title>threshold_plan</title><rect width="515" height="205" fill="white"/>
+<text x="15" y="15" font-family="Arial,sans-serif" font-size="10" fill="black">PLANTA · el objeto ocupa una posición respecto del acceso</text>
+<line x1="18" y1="85" x2="164" y2="85" stroke="black" stroke-width="2"/>
+<line x1="239" y1="85" x2="494" y2="85" stroke="black" stroke-width="2"/>
+<line x1="164" y1="85" x2="164" y2="32" stroke="black" stroke-width="1.5"/>
+<rect x="263" y="104" width="43" height="36" stroke="black" stroke-width="1" fill="none"/>
+<rect x="333" y="92" width="74" height="15" stroke="black" stroke-width="1" fill="none"/>
+<line x1="17" y1="176" x2="495" y2="176" stroke="black" stroke-width="0.6" stroke-dasharray="3 3"/>
+<line x1="191" y1="159" x2="191" y2="65" stroke="black" stroke-width="0.8"/>
+<line x1="191" y1="65" x2="193.17482767055614" y2="69.50223551176339" stroke="black" stroke-width="0.8"/>
+<line x1="191" y1="65" x2="188.82517232944386" y2="69.50223551176339" stroke="black" stroke-width="0.8"/>
+<text x="191" y="154" font-family="Arial,sans-serif" font-size="9" fill="black">acceso</text>
+<line x1="435" y1="134" x2="306" y2="124" stroke="black" stroke-width="0.8"/>
+<line x1="306" y1="124" x2="310.6568556468783" y2="122.179644132556" stroke="black" stroke-width="0.8"/>
+<line x1="306" y1="124" x2="310.32068162696424" y2="126.51628898944729" stroke="black" stroke-width="0.8"/>
+<text x="435" y="129" font-family="Arial,sans-serif" font-size="9" fill="black">objeto</text>
+<text x="30" y="59" font-family="Arial,sans-serif" font-size="9" fill="black">interior</text>
+<text x="45" y="155" font-family="Arial,sans-serif" font-size="9" fill="black">acera</text>
+<text x="334" y="198" font-family="Arial,sans-serif" font-size="9" fill="black">paso por verificar</text>
+</svg>

@@ -1,0 +1,104 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O C L I - 0 3
+C L I - 0 3   ·   C L I M A   Y   C O N F O R T
+Temperatura radiante
+La temperatura que la piel siente de verdad: MRT actual, propuesta, delta,
+hotspots supervivientes y la cola donde el proyecto empeora las cosas.
+B A S E L I N E
+v006 · build 12
+M R T   M E D I A
+65,2 › 54,3 °C
+D E L T A   M E D I O
+−10,9
+E N   R E F U G I O
+−28,2 K
+
+PÁGINA 2
+30 40 50 60 70
+C L I - 0 3   ·   M R T C L I - 0 3
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+C L I - 0 3   ·   C L I M A   Y   C O N F O R T
+Once grados menos de pared radiante
+¿Cuánto baja la temperatura media radiante y dónde quedan los puntos calientes?
+A · M E D I D O   /   C A L C U L A D O
+M É T O D O
+Balance radiativo
+completo por celda: onda
+corta
+directa/difusa/reflejada
++ onda larga de cielo,
+suelo y superficies (el
+rayo que atraviesa un
+dosel transmite sol pero
+NO ve el cielo frío).
+Superficies con
+temperatura propia
+(granito/agua/vegetal).
+MRT a 1,10 m según VDI
+3787.
+D A T O S
+f_E2_16_A/B_Tmrt.npy,
+spots.json,
+metricas.json. Escenario
+E2 (día caluroso p95)
+16:00.
+L I M I T A C I O N E S
+Emisividades y albedos
+son ESTIMADOS declarados
+en PARAMS; persona
+estándar (a_k 0,70).
+A   ·   M R T   ° C   ·   E 2   1 6 H B   ·   M R T   ° C   ·   E 2   1 6 H
+M R T   ·   ° C
+De pared radiante a mosaico térmico: la media pisable cae de
+65,2 a 54,3 °C; bajo el dosel la MRT baja hasta −28 K. Los máximos
+supervivientes (hotspots CL-HOT) son los claros deliberados y las
+bandas junto a fachadas soleadas.
+FUENTE: _reclima9/_data (v006 build 12, 2026-08-13) · celda 0,5 m · ventana crítica 15 jun–15 sep
+−10,9
+K
+delta MRT medio sobre
+pisable
+−28,2
+K
+delta MRT medio dentro
+del refugio
+−38,8
+K
+delta máximo local bajo
+dosel denso
+
+PÁGINA 3
+−6 −4 −2 0 2 4 6
+C L I - 0 3   ·   M R T C L I - 0 3   ·   L A   C O L A   P O S I T I V A
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 3
+C L I - 0 3 . 2   ·   D O N D E   E M P E O R A   ( § 4 3 )
+La cola positiva crece con el calor
+¿Hay celdas donde la propuesta EMPEORA la sensación? Sí: y crecen con la dureza del día. 55 m²
+en E1, 755 m² en E2, 1.175 m² en E3.
+Δ U T C I   B − A   ·   K   ·   E 2   1 6 H
+O B S E R V A C I Ó N
+Los cinco mayores focos de
+empeoramiento suman 428 m² y NO
+están bajo el dosel: toda la cola
+positiva cae en celdas abiertas.
+H I P Ó T E S I S
+Pérdida de factor de cielo sin
+sombra a cambio: las celdas ven
+MENOS cielo frío (más onda larga
+de estructuras calientes) pero el
+sol les sigue llegando.
+P R U E B A
+Medido sobre las 3.021 celdas de
+la cola: Δsvf −0,53 con Δtau −0,01
+(pierden la mitad del cielo,
+conservan su sol). Las celdas que
+mejoran: Δsvf −0,63 CON Δtau
+−0,75. La firma del mecanismo,
+confirmada.
+C O N S E C U E N C I A
+Sombra o cielo: media medida a
+media altura. Donde no se pueda
+dar sombra, conviene despejar
+cielo (candidato de ajuste fino
+post-piloto).
+FUENTE: _reclima9/_data (v006 build 12, 2026-08-13) · celda 0,5 m · ventana crítica 15 jun–15 sep

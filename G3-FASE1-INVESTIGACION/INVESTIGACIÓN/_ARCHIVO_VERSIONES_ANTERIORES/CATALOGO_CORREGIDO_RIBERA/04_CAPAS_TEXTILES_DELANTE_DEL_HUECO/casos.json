@@ -1,0 +1,131 @@
+{
+  "code": "04",
+  "title": "Capas textiles delante del hueco",
+  "definition": "Ocho frentes incorporan una capa textil exterior: capota de ventana, toldo comercial, lona sobre balcón o tela colgada. El patrón es la adición de una capa regulable; las funciones de sombra, intimidad y señal comercial no son intercambiables ni están todas verificadas.",
+  "conclusion": "La escala cambia: B02 y B13 cubren un hueco; B15 y B16 cubren un frente comercial; B08 repite el textil por tramos de balcón. La tela de B07 está documentada, pero su propósito concreto no se deduce de la imagen.",
+  "question": "¿Puede el edificio admitir apropiaciones textiles sin convertirlas en añadidos improvisados? ¿Qué partes las coloca cada habitante y qué partes se gestionan colectivamente?",
+  "test": "Dibujar una regla de posición, recogida y sustitución del textil. Ensayar una franja común de sujeción, sin atribuir a la solución fotografiada un anclaje que no se ve. Comprobar sombras con orientación y fecha reales antes de afirmar rendimiento.",
+  "diagram": "textil",
+  "cases": [
+    {
+      "front": "B02",
+      "source": "RC02",
+      "target": [
+        0.52,
+        0.33
+      ],
+      "crop": [
+        0.495,
+        0.3,
+        0.568,
+        0.473
+      ],
+      "note": "Capota desplegada sobre un balcón individual."
+    },
+    {
+      "front": "B15",
+      "source": "RC04",
+      "target": [
+        0.808,
+        0.55
+      ],
+      "crop": [
+        0.746,
+        0.46571900826446283,
+        0.92,
+        0.6382809917355372
+      ],
+      "note": "Toldo rojo sobre el acceso comercial de Nuevas Galerías."
+    },
+    {
+      "front": "B05",
+      "source": "RC05",
+      "target": [
+        0.361,
+        0.508
+      ],
+      "crop": [
+        0.28,
+        0.4097603305785124,
+        0.464,
+        0.5922396694214875
+      ],
+      "note": "Franja textil a rayas recogida sobre la tienda."
+    },
+    {
+      "front": "B07",
+      "source": "RC06",
+      "target": [
+        0.719,
+        0.27
+      ],
+      "crop": [
+        0.626,
+        0.1727851239669422,
+        0.816,
+        0.3612148760330578
+      ],
+      "note": "Telas colgadas ante balcones: capa añadida por uso."
+    },
+    {
+      "front": "B08",
+      "source": "RC07",
+      "target": [
+        0.533,
+        0.215
+      ],
+      "crop": [
+        0.407,
+        0.08312396694214877,
+        0.679,
+        0.3528760330578513
+      ],
+      "note": "Toldo verde y blanco: cobertura extendida en banda."
+    },
+    {
+      "front": "B10",
+      "source": "RC09",
+      "target": [
+        0.547,
+        0.56
+      ],
+      "crop": [
+        0.412,
+        0.4876818181818182,
+        0.577,
+        0.6513181818181818
+      ],
+      "note": "Toldo verde de comercio bajo los balcones."
+    },
+    {
+      "front": "B13",
+      "source": "RC12",
+      "target": [
+        0.607,
+        0.2
+      ],
+      "crop": [
+        0.563,
+        0.181,
+        0.65,
+        0.291
+      ],
+      "note": "Capota verde contenida en el ancho del recercado."
+    },
+    {
+      "front": "B16",
+      "source": "SV016",
+      "target": [
+        0.36,
+        0.38
+      ],
+      "crop": [
+        0.165,
+        0.12729778906893716,
+        0.7,
+        0.6177022109310628
+      ],
+      "note": "Toldo de comercio en la calle lateral; caso de contraste próximo."
+    }
+  ]
+}

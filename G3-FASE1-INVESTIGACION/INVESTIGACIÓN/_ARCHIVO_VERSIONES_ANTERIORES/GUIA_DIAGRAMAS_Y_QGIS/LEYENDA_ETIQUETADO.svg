@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140mm" height="193mm" viewBox="0 0 560 772">
+<rect width="560" height="772" fill="white"/>
+<g font-family="Arial,sans-serif" fill="#111">
+<text x="16" y="29" font-size="18">INVENTARIO ETIQUETADO</text>
+<text x="16" y="52" font-size="12">Color = categoría; forma = geometría. P / L / A.</text>
+<circle cx="24" cy="84" r="4" fill="#d7191c"/>
+<path d="M40 84h22" stroke="#d7191c" stroke-width="2"/>
+<rect x="74" y="78" width="16" height="12" fill="#d7191c" fill-opacity="0.35" stroke="#d7191c"/>
+<text x="105" y="88" font-size="13">EMP · Emplazamiento</text>
+<circle cx="24" cy="119" r="4" fill="#a63603"/>
+<path d="M40 119h22" stroke="#a63603" stroke-width="2"/>
+<rect x="74" y="113" width="16" height="12" fill="#a63603" fill-opacity="0.35" stroke="#a63603"/>
+<text x="105" y="123" font-size="13">PAT · Patrimonio y cultura</text>
+<circle cx="24" cy="154" r="4" fill="#376b91"/>
+<path d="M40 154h22" stroke="#376b91" stroke-width="2"/>
+<rect x="74" y="148" width="16" height="12" fill="#376b91" fill-opacity="0.35" stroke="#376b91"/>
+<text x="105" y="158" font-size="13">TRA · Transporte</text>
+<circle cx="24" cy="189" r="4" fill="#ce3b37"/>
+<path d="M40 189h22" stroke="#ce3b37" stroke-width="2"/>
+<rect x="74" y="183" width="16" height="12" fill="#ce3b37" fill-opacity="0.35" stroke="#ce3b37"/>
+<text x="105" y="193" font-size="13">COM · Comercio y actividad</text>
+<circle cx="24" cy="224" r="4" fill="#268c9e"/>
+<path d="M40 224h22" stroke="#268c9e" stroke-width="2"/>
+<rect x="74" y="218" width="16" height="12" fill="#268c9e" fill-opacity="0.35" stroke="#268c9e"/>
+<text x="105" y="228" font-size="13">MOB · Mobiliario y servicios de calle</text>
+<circle cx="24" cy="259" r="4" fill="#e68241"/>
+<path d="M40 259h22" stroke="#e68241" stroke-width="2"/>
+<rect x="74" y="253" width="16" height="12" fill="#e68241" fill-opacity="0.35" stroke="#e68241"/>
+<text x="105" y="263" font-size="13">ACC · Accesibilidad y elementos de calle</text>
+<circle cx="24" cy="294" r="4" fill="#9e6a39"/>
+<path d="M40 294h22" stroke="#9e6a39" stroke-width="2"/>
+<rect x="74" y="288" width="16" height="12" fill="#9e6a39" fill-opacity="0.35" stroke="#9e6a39"/>
+<text x="105" y="298" font-size="13">UMB · Accesos y umbrales</text>
+<circle cx="24" cy="329" r="4" fill="#333333"/>
+<path d="M40 329h22" stroke="#333333" stroke-width="2"/>
+<rect x="74" y="323" width="16" height="12" fill="#333333" fill-opacity="0.35" stroke="#333333"/>
+<text x="105" y="333" font-size="13">BAR · Barreras</text>
+<circle cx="24" cy="364" r="4" fill="#777777"/>
+<path d="M40 364h22" stroke="#777777" stroke-width="2"/>
+<rect x="74" y="358" width="16" height="12" fill="#777777" fill-opacity="0.35" stroke="#777777"/>
+<text x="105" y="368" font-size="13">INF · Infraestructura</text>
+<circle cx="24" cy="399" r="4" fill="#8e5aa4"/>
+<path d="M40 399h22" stroke="#8e5aa4" stroke-width="2"/>
+<rect x="74" y="393" width="16" height="12" fill="#8e5aa4" fill-opacity="0.35" stroke="#8e5aa4"/>
+<text x="105" y="403" font-size="13">EQU · Equipamientos y locales</text>
+<circle cx="24" cy="434" r="4" fill="#a4a4a4"/>
+<path d="M40 434h22" stroke="#a4a4a4" stroke-width="2"/>
+<rect x="74" y="428" width="16" height="12" fill="#a4a4a4" fill-opacity="0.35" stroke="#a4a4a4"/>
+<text x="105" y="438" font-size="13">EDI · Edificios</text>
+<circle cx="24" cy="469" r="4" fill="#4d745d"/>
+<path d="M40 469h22" stroke="#4d745d" stroke-width="2"/>
+<rect x="74" y="463" width="16" height="12" fill="#4d745d" fill-opacity="0.35" stroke="#4d745d"/>
+<text x="105" y="473" font-size="13">VER · Espacio público y verde</text>
+<circle cx="24" cy="504" r="4" fill="#555555"/>
+<path d="M40 504h22" stroke="#555555" stroke-width="2"/>
+<rect x="74" y="498" width="16" height="12" fill="#555555" fill-opacity="0.35" stroke="#555555"/>
+<text x="105" y="508" font-size="13">VIA · Calles y recorridos</text>
+<circle cx="24" cy="539" r="4" fill="#756bb1"/>
+<path d="M40 539h22" stroke="#756bb1" stroke-width="2"/>
+<rect x="74" y="533" width="16" height="12" fill="#756bb1" fill-opacity="0.35" stroke="#756bb1"/>
+<text x="105" y="543" font-size="13">DIR · Portales y direcciones</text>
+<circle cx="24" cy="574" r="4" fill="#999999"/>
+<path d="M40 574h22" stroke="#999999" stroke-width="2"/>
+<rect x="74" y="568" width="16" height="12" fill="#999999" fill-opacity="0.35" stroke="#999999"/>
+<text x="105" y="578" font-size="13">OTR · Otros elementos físicos</text>
+<text x="16" y="622" font-size="12">P = punto; L = línea; A = área o polígono.</text>
+<text x="16" y="644" font-size="12">La etiqueta identifica el objeto: ID + nombre.</text>
+<text x="16" y="666" font-size="12">Áreas al 35 % de opacidad; claves de color en la guía.</text>
+<text x="16" y="688" font-size="12">UMB puede incluir información wheelchair, no solo accesos.</text>
+</g></svg>

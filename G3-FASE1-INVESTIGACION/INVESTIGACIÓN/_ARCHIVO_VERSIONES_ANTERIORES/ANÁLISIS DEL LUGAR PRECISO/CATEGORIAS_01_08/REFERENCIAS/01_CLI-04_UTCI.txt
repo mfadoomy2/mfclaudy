@@ -1,0 +1,70 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O C L I - 0 4
+C L I - 0 4   ·   C L I M A   Y   C O N F O R T
+Estrés térmico UTCI
+El índice que integra aire, radiación, viento y humedad. Categorías de
+estrés por escenario: día típico, día caluroso p95, ola de calor y
+nebulización activa.
+B A S E L I N E
+v006 · build 12
+Δ U T C I   E 2
+−2,5 K
+Δ U T C I   O L A   E 3
+−2,0 K
+C O N   N I E B L A
+−3,4
+
+PÁGINA 2
+30 32 34 36 38 40 42 44
+E1 · A E1 · B E2 · A E2 · B E3 · A E3 · B
+0
+2
+4
+6
+8
+10
+miles de m²
+MODERADO FUERTE MUY FUERTE
+C L I - 0 4   ·   U T C I C L I - 0 4
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+C L I - 0 4   ·   C L I M A   Y   C O N F O R T
+Del «muy fuerte» al «fuerte»
+¿Cuánto estrés térmico retira la propuesta en cada escenario meteorológico y a qué categoría
+UTCI se muda el suelo de Sol?
+A · M E D I D O   /   C A L C U L A D O
+M É T O D O
+UTCI (pythermalcomfort)
+por celda con la MRT del
+CLI-03,
+aire/humedad/viento del
+escenario PVGIS. E1=día
+típico, E2=p95, E3=ola
+de calor (38 °C),
+E4=E2+nebulización
+isoentálpica. Categorías
+oficiales de estrés por
+calor.
+D A T O S
+u_E{1,2,3}_{14,16,18}_{A
+,B}.npy + u_E4_16_B.npy,
+refugio.json.
+L I M I T A C I O N E S
+Viento de escenario
+idéntico en A y B (el
+abrigo del dosel no está
+resuelto: véase CLI-08);
+UTCI evaluado 1 de cada
+3 celdas e interpolado
+(declarado en el
+método).
+A   ·   U T C I   ° C   ·   E 2   1 6 H B   ·   U T C I   ° C   ·   E 2   1 6 H
+U T C I   ·   ° C
+El mapa que resume el proyecto:en el día caluroso p95 a las
+16 h, 3.451 m² salen de la categoría «MUY FUERTE» (38–46 °C UTCI).
+El refugio efectivo (ΔUTCI≤−2 K sostenido) cubre 3.876 m² — 4.377
+m² con la nebulización activa.
+FUENTE: _reclima9/_data (v006 build 12, 2026-08-13) · celda 0,5 m · ventana crítica 15 jun–15 sep
+Categorías UTCI a las 16 h por escenario y estado.Cuanto más duro el día, más área muda de
+categoría — y más crece también la cola que empeora (CLI-03). La propuesta rinde más precisamente
+cuando más se necesita.
+FUENTE: _reclima9/_data (v006 build 12, 2026-08-13) · celda 0,5 m · ventana crítica 15 jun–15 sep

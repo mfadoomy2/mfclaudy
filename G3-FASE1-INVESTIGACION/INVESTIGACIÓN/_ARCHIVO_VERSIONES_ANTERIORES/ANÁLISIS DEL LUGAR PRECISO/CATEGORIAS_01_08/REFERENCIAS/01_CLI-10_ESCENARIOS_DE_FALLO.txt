@@ -1,0 +1,100 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O C L I - 1 0
+C L I - 1 0   ·   C L I M A   Y   C O N F O R T
+Cuando algo falla
+El refugio sin nebulización, sin agua, con la cámara de microalgas seca, en
+ola de calor y con la vegetación degradada: cuánto beneficio sobrevive a
+cada fallo y cuál es el mínimo garantizado.
+M Í N I M O   G A R A N T I Z A D O
+la sombra estructural
+P E O R   F A L L O
+canopy seco: +6,9 K MRT local
+O L A   D E   C A L O R
+ΔUTCI −2,0 K
+N I V E L
+B/C declarado
+
+PÁGINA 2
+C L I - 1 0   ·   F A L L O S C L I - 1 0
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+C L I - 1 0   ·   C L I M A
+Ingeniería del fallo
+¿Qué parte del beneficio climático sobrevive a cada modo de fallo del sistema?
+B · I N F E R I D O
+M É T O D O
+Composición de los
+términos ya medidos: E3
+simulado (ola de calor);
+niebla OFF por
+diferencia
+refugio/refugio_neb; sin
+agua por supresión de
+términos latentes;
+canopy seco por
+linealización radiativa
+(tau 0,12 › 0,25);
+vegetación por
+sensibilidad LAI.
+D A T O S
+cli_stats.json (motor),
+refugio.json, aire.json,
+PARAMS de clima_core.
+L I M I T A C I O N E S
+Los modos de fallo no
+simulan dinámica
+transitoria (cuánto
+tarda en secarse una
+cámara); son estados
+estacionarios
+pesimistas.
+M O D O   D E   F A L L O C A U S A   T I P O E F E C T O   C L I M Á T I C O N I V E L
+Sin
+nebulización
+válvulas
+cerradas /
+avería
+−501 m² de refugio
+(queda 3.876)
+A
+Sin agua
+total
+corte de
+red +
+depósitos
+vacíos
+−0,43 K de aire +
+niebla OFF; la sombra
+persiste
+B
+Canopy
+seco
+cámara de
+microalgas
+vacía
++6,9 K MRT bajo 700 m²
+de dosel (~+2,4 K UTCI
+local)
+C
+Ola de
+calor E3
+Ta 38 °C,
+RH 10 %
+ΔUTCI −2,0 K (rinde,
+pero la cola positiva
+crece a 1.175 m²)
+A
+Vegetación
+−30 %
+sequía /
+plaga /
+poda dura
+sombra −1 p.p.; se
+pierde confort fino y
+1/3 del latente
+vegetal
+B
+E L   M Í N I M O   G A R A N T I Z A D O
+El refugio se diseñó para degradarse bien: el mecanismo dominante (sombra estructural, −10,9
+K de MRT) no consume agua, no depende de bombas y no se seca. Todos los modos de fallo
+estudiados erosionan el margen — ninguno devuelve la plaza al estado A. El peor caso
+combinado (seco+ola de calor) conserva del orden de dos tercios del beneficio UTCI.

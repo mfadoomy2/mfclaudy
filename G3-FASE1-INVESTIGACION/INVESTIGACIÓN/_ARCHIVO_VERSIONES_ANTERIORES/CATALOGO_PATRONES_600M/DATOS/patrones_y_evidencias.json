@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "P01",
+    "title": "Frente continuo / edificio discontinuo",
+    "family": "01 · TEJIDO URBANO",
+    "definition": "La calle queda delimitada por fachadas contiguas, pero las líneas de cornisa, los portales y las anchuras cambian entre inmuebles. Continuidad del borde no significa edificio único.",
+    "shots": [
+      [
+        "NR03",
+        [
+          [
+            0.53,
+            0.24,
+            "1"
+          ],
+          [
+            0.78,
+            0.65,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR09",
+        [
+          [
+            0.72,
+            0.39,
+            "1"
+          ],
+          [
+            0.2,
+            0.49,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV002",
+      "SV009",
+      "SV017",
+      "SV031",
+      "SV033",
+      "NR02",
+      "NR03",
+      "NR05",
+      "NR09",
+      "NR12"
+    ],
+    "parts": [
+      "1. Juanelo: dos frentes se encuentran en una esquina; los balcones continúan sobre ella.",
+      "2. San Isidoro: reja y vegetación separan algunos frentes residenciales de la acera; el límite ya no es siempre la fachada."
+    ],
+    "variation": "Contraste territorial: calle del núcleo con portales directos frente a edificios del borde sur con cerramientos y franjas intermedias.",
+    "limit": "Los linderos legales y la propiedad no se deducen del color de fachada. Los dibujos comparan relaciones espaciales, no parcelas catastrales.",
+    "diagrams": [
+      "streetwall",
+      "setback"
+    ],
+    "roi": null,
+    "sources": [
+      "D0"
+    ],
+    "n_sites": 10,
+    "sectors": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      11
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P01_FRENTE_CONTINUO_EDIFICIO_DISCONTINUO"
+  },
+  {
+    "id": "P02",
+    "title": "Cornisas escalonadas y alturas diferentes",
+    "family": "01 · TEJIDO URBANO",
+    "definition": "Las cubiertas y cornisas no forman una cota única: edificios bajos, cuerpos de vivienda y bloques mayores comparten el mismo radio.",
+    "shots": [
+      [
+        "NR05",
+        [
+          [
+            0.54,
+            0.13,
+            "1"
+          ],
+          [
+            0.83,
+            0.26,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR08",
+        [
+          [
+            0.74,
+            0.24,
+            "1"
+          ],
+          [
+            0.43,
+            0.45,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV009",
+      "SV017",
+      "NR02",
+      "NR05",
+      "NR08",
+      "NR09",
+      "NR12"
+    ],
+    "parts": [
+      "1. Provisiones: la pieza de esquina tiene un remate más bajo que sus vecinos.",
+      "2. Acacias: el frente largo acumula más niveles y huecos que la pieza baja del primer ejemplo."
+    ],
+    "variation": "OSM informa de 381 polígonos con plantas entre 1 y 10; 251 declaran 4, 5 o 6. Son el 65,9 % de los que tienen dato, no del conjunto.",
+    "limit": "951 de 1.332 carecen de building:levels. No se estima altura en metros por perspectiva ni se afirma que todo el barrio tenga cinco plantas.",
+    "diagrams": [
+      "skyline",
+      "levels"
+    ],
+    "roi": null,
+    "sources": [
+      "D0"
+    ],
+    "n_sites": 7,
+    "sectors": [
+      1,
+      3,
+      4,
+      7,
+      8,
+      11
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P02_CORNISAS_ESCALONADAS_Y_ALTURAS_DIFERENTES"
+  },
+  {
+    "id": "P03",
+    "title": "Ejes verticales de hueco y balcón",
+    "family": "02 · ORDEN DE FACHADA",
+    "definition": "El motivo es la repetición vertical de puertas-ventana y balcones sobre un mismo eje. El ladrillo no es el objeto de esta ficha.",
+    "shots": [
+      [
+        "SV015",
+        [
+          [
+            0.55,
+            0.23,
+            "1"
+          ],
+          [
+            0.86,
+            0.27,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR02",
+        [
+          [
+            0.74,
+            0.2,
+            "1"
+          ],
+          [
+            0.86,
+            0.19,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV009",
+      "SV015",
+      "SV016",
+      "SV025",
+      "SV031",
+      "SV033",
+      "NR02",
+      "NR03",
+      "NR12"
+    ],
+    "parts": [
+      "1. La Ruda: huecos altos alineados sobre balcones de vuelo corto.",
+      "2. Duque de Alba: se repiten huecos en altura; la decoración del cerco y la barandilla varía respecto a La Ruda."
+    ],
+    "variation": "El módulo se reconoce por eje, ancho aparente del hueco, separación y número de repeticiones. No por contar dos giros de una misma cámara.",
+    "limit": "La regularidad visible del alzado no demuestra la posición de pilares ni de tabiques interiores.",
+    "diagrams": [
+      "rhythm",
+      "rhythm_variants"
+    ],
+    "roi": null,
+    "sources": [],
+    "n_sites": 9,
+    "sectors": [
+      1,
+      2,
+      3,
+      11
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P03_EJES_VERTICALES_DE_HUECO_Y_BALC_N"
+  },
+  {
+    "id": "P04",
+    "title": "Dos ritmos: vivienda arriba, local abajo",
+    "family": "02 · ORDEN DE FACHADA",
+    "definition": "En un mismo frente, los huecos domésticos superiores mantienen su secuencia mientras portales, escaparates y persianas forman otra composición en planta baja.",
+    "shots": [
+      [
+        "SV031",
+        [
+          [
+            0.34,
+            0.13,
+            "1"
+          ],
+          [
+            0.35,
+            0.53,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR01",
+        [
+          [
+            0.79,
+            0.21,
+            "1"
+          ],
+          [
+            0.75,
+            0.52,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV003",
+      "SV009",
+      "SV014",
+      "SV016",
+      "SV018",
+      "SV021",
+      "SV031",
+      "SV033",
+      "NR01",
+      "NR02",
+      "NR03",
+      "NR07"
+    ],
+    "parts": [
+      "1. Cabestreros: balcón superior y portal no coinciden con el ancho del cierre comercial contiguo.",
+      "2. Mira el Sol: rótulo horizontal y escaparate ocupan una franja distinta de las ventanas superiores."
+    ],
+    "variation": "Portal estrecho, local ancho, acceso independiente y rótulo superpuesto son componentes separables, no una única ventana de gran tamaño.",
+    "limit": "No se identifican dinteles ocultos ni intervenciones estructurales. Un escaparate no acredita por sí solo actividad actual.",
+    "diagrams": [
+      "dual_rhythm",
+      "threshold_section"
+    ],
+    "roi": null,
+    "sources": [],
+    "n_sites": 12,
+    "sectors": [
+      1,
+      2,
+      3,
+      6,
+      10,
+      11
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P04_DOS_RITMOS_VIVIENDA_ARRIBA_LOCAL_ABAJO"
+  },
+  {
+    "id": "P05",
+    "title": "Zócalo de piezas: juntas, remate y pendiente",
+    "family": "03 · ACABADOS",
+    "definition": "Una banda baja diferenciada llega hasta portales y ventanas. Se reconoce por sus juntas, su remate horizontal y su contacto con una acera que puede estar inclinada.",
+    "shots": [
+      [
+        "SV025",
+        [
+          [
+            0.24,
+            0.63,
+            "1"
+          ],
+          [
+            0.17,
+            0.49,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "SV027",
+        [
+          [
+            0.52,
+            0.57,
+            "1"
+          ],
+          [
+            0.74,
+            0.7,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV009",
+      "SV014",
+      "SV025",
+      "SV027",
+      "NR02",
+      "NR03",
+      "NR05"
+    ],
+    "parts": [
+      "1. Fray Ceferino: banda oscura con piezas y juntas visibles bajo el revoco claro.",
+      "2. Casino: la base mantiene una referencia horizontal mientras cambia la cota de la acera y aparecen huecos bajos."
+    ],
+    "variation": "Registrar continuidad, juntas verticales, encuentro con jambas y relación entre altura de base y pendiente. No agrupar automáticamente pintura oscura y piedra.",
+    "limit": "La apariencia pétrea no basta para identificar granito, espesor, anclaje o resistencia al agua.",
+    "diagrams": [
+      "plinth",
+      "slope"
+    ],
+    "roi": [
+      "SV025",
+      [
+        0.02,
+        0.38,
+        0.47,
+        0.9
+      ]
+    ],
+    "sources": [],
+    "n_sites": 7,
+    "sectors": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P05_Z_CALO_DE_PIEZAS_JUNTAS_REMATE_Y_PENDIENTE"
+  },
+  {
+    "id": "P06",
+    "title": "Revoco liso, rugoso y con juntas dibujadas",
+    "family": "03 · ACABADOS",
+    "definition": "La superficie revestida puede ser continua o incorporar surcos que dibujan piezas. Esos surcos no prueban que el muro esté hecho de sillares.",
+    "shots": [
+      [
+        "SV014",
+        [
+          [
+            0.6,
+            0.38,
+            "1"
+          ],
+          [
+            0.7,
+            0.69,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR12",
+        [
+          [
+            0.26,
+            0.49,
+            "1"
+          ],
+          [
+            0.3,
+            0.62,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV002",
+      "SV014",
+      "SV025",
+      "SV035",
+      "NR02",
+      "NR05",
+      "NR12"
+    ],
+    "parts": [
+      "1. La Ruda: textura menuda del revestimiento por encima de una base de piezas.",
+      "2. Mediodía Grande: líneas horizontales y verticales sobre un paño rugoso simulan una partición de mayor tamaño."
+    ],
+    "variation": "Separar textura superficial, dibujo de juntas y cambio de material. Comparar a igual distancia fotográfica antes de graduar rugosidad.",
+    "limit": "No se confirma el aglomerante: cal, cemento y acabados sintéticos pueden parecer similares en Street View.",
+    "diagrams": [
+      "render",
+      "render_layers"
+    ],
+    "roi": [
+      "NR12",
+      [
+        0.1,
+        0.31,
+        0.39,
+        0.76
+      ]
+    ],
+    "sources": [],
+    "n_sites": 7,
+    "sectors": [
+      1,
+      2,
+      4,
+      11
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P06_REVOCO_LISO_RUGOSO_Y_CON_JUNTAS_DIBUJADAS"
+  },
+  {
+    "id": "P07",
+    "title": "Ladrillo visto: hiladas y bordes de hueco",
+    "family": "03 · ACABADOS",
+    "definition": "Aquí sí se estudia el ladrillo: piezas pequeñas, juntas horizontales repetidas y cambio de disposición en los bordes de algunas ventanas.",
+    "shots": [
+      [
+        "NR01",
+        [
+          [
+            0.85,
+            0.39,
+            "1"
+          ],
+          [
+            0.71,
+            0.19,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR07",
+        [
+          [
+            0.66,
+            0.3,
+            "1"
+          ],
+          [
+            0.67,
+            0.2,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV002",
+      "SV003",
+      "SV016",
+      "SV032",
+      "NR01",
+      "NR05",
+      "NR07",
+      "NR08",
+      "NR09",
+      "NR13"
+    ],
+    "parts": [
+      "1. Mira el Sol: paño de piezas alargadas con juntas claras y franja diferenciada sobre el local.",
+      "2. Martín de Vargas: hiladas horizontales junto al cerco de la ventana; la fábrica visible no es igual al paño revocado vecino."
+    ],
+    "variation": "Comparar dirección de hiladas, desfase entre juntas y resolución de jambas/dinteles. Dos edificios y dos calles sustituyen la antigua doble vista de San Cayetano.",
+    "limit": "Se dibuja la trama observable; no se certifica aparejo en profundidad, espesor ni que el ladrillo sea portante.",
+    "diagrams": [
+      "brick",
+      "brick_opening"
+    ],
+    "roi": [
+      "NR07",
+      [
+        0.54,
+        0.08,
+        0.87,
+        0.36
+      ]
+    ],
+    "sources": [],
+    "n_sites": 9,
+    "sectors": [
+      1,
+      3,
+      4,
+      6,
+      7,
+      8,
+      11,
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P07_LADRILLO_VISTO_HILADAS_Y_BORDES_DE_HUECO"
+  },
+  {
+    "id": "P08",
+    "title": "Recercado: un segundo borde alrededor del hueco",
+    "family": "03 · ACABADOS",
+    "definition": "Bandas y molduras enmarcan puertas-ventana y separan visualmente el hueco del paño. Algunas cornisas repiten horizontalmente esta operación.",
+    "shots": [
+      [
+        "NR02",
+        [
+          [
+            0.73,
+            0.17,
+            "1"
+          ],
+          [
+            0.9,
+            0.37,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "SV033",
+        [
+          [
+            0.78,
+            0.19,
+            "1"
+          ],
+          [
+            0.73,
+            0.3,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV009",
+      "SV015",
+      "SV025",
+      "SV033",
+      "NR02",
+      "NR03",
+      "NR05"
+    ],
+    "parts": [
+      "1. Duque de Alba: cerco en relieve y moldura horizontal bajo las plantas superiores.",
+      "2. Amparo: recercado claro sobre paño rojizo; el contraste delimita el hueco además del relieve."
+    ],
+    "variation": "No es lo mismo un cerco pintado, una moldura saliente y una pieza pétrea. Se clasifican por borde, relieve visible y continuidad.",
+    "limit": "La foto no permite distinguir yeso, mortero, piedra o prefabricado en todos los cercos.",
+    "diagrams": [
+      "moulding",
+      "moulding_section"
+    ],
+    "roi": null,
+    "sources": [],
+    "n_sites": 7,
+    "sectors": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P08_RECERCADO_UN_SEGUNDO_BORDE_ALREDEDOR_DEL_HUECO"
+  },
+  {
+    "id": "P09",
+    "title": "Balcón individual / balcón corrido de esquina",
+    "family": "04 · CARPINTERÍAS Y FILTROS",
+    "definition": "El balcón se descompone en acceso, plano horizontal saliente y barandilla. La variante de esquina une varios huecos en una misma línea exterior.",
+    "shots": [
+      [
+        "SV015",
+        [
+          [
+            0.55,
+            0.33,
+            "1"
+          ],
+          [
+            0.57,
+            0.4,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR03",
+        [
+          [
+            0.46,
+            0.27,
+            "1"
+          ],
+          [
+            0.49,
+            0.33,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV009",
+      "SV015",
+      "SV016",
+      "SV025",
+      "SV026",
+      "SV031",
+      "NR02",
+      "NR03",
+      "NR12"
+    ],
+    "parts": [
+      "1. La Ruda: cada puerta-ventana tiene su propia plataforma y protección.",
+      "2. Juanelo: la barandilla gira en la esquina; el ritmo de huecos permanece detrás de un borde continuo."
+    ],
+    "variation": "La unidad no siempre es un hueco-un balcón. Distinguir vuelo individual, balcón que agrupa huecos y galería de acceso común.",
+    "limit": "No se calculan cargas ni dimensiones reales a partir de la imagen. Continuidad de barandilla no acredita circulación entre viviendas.",
+    "diagrams": [
+      "balcony",
+      "balcony_plan"
+    ],
+    "roi": [
+      "SV015",
+      [
+        0.37,
+        0.05,
+        0.71,
+        0.48
+      ]
+    ],
+    "sources": [],
+    "n_sites": 9,
+    "sectors": [
+      1,
+      2,
+      3,
+      4,
+      11
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P09_BALC_N_INDIVIDUAL_BALC_N_CORRIDO_DE_ESQUINA"
+  },
+  {
+    "id": "P10",
+    "title": "Reja de hueco bajo: marco, barrotes y ornamento",
+    "family": "04 · CARPINTERÍAS Y FILTROS",
+    "definition": "Las ventanas próximas al peatón incorporan un plano de barras, independiente del vidrio. El patrón básico es marco perimetral más repetición vertical.",
+    "shots": [
+      [
+        "SV026",
+        [
+          [
+            0.19,
+            0.59,
+            "1"
+          ],
+          [
+            0.25,
+            0.54,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "SV035",
+        [
+          [
+            0.34,
+            0.28,
+            "1"
+          ],
+          [
+            0.53,
+            0.31,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV002",
+      "SV026",
+      "SV027",
+      "SV035",
+      "NR05",
+      "NR13"
+    ],
+    "parts": [
+      "1. Peña de Francia: trama de barrotes con dibujo curvo central en un hueco bajo.",
+      "2. Oso: rejas rectangulares de mayor superficie, con elementos verticales y divisiones horizontales."
+    ],
+    "variation": "Barrote recto, voluta y travesaño producen densidades y transparencias distintas. La reja pertenece al hueco; la barandilla protege un borde.",
+    "limit": "No se presume fecha, técnica de forja, apertura de emergencia ni conformidad normativa.",
+    "diagrams": [
+      "grille",
+      "grille_section"
+    ],
+    "roi": [
+      "SV026",
+      [
+        0.02,
+        0.36,
+        0.37,
+        0.75
+      ]
+    ],
+    "sources": [],
+    "n_sites": 6,
+    "sectors": [
+      1,
+      2,
+      4,
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P10_REJA_DE_HUECO_BAJO_MARCO_BARROTES_Y_ORNAMENTO"
+  },
+  {
+    "id": "P11",
+    "title": "Portal: hojas, montantes y rellenos",
+    "family": "04 · CARPINTERÍAS Y FILTROS",
+    "definition": "La entrada se puede leer como marco, hojas móviles y paños interiores. Un tablero opaco y una reja acristalada producen umbrales diferentes.",
+    "shots": [
+      [
+        "SV031",
+        [
+          [
+            0.055,
+            0.55,
+            "1"
+          ],
+          [
+            0.075,
+            0.39,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR12",
+        [
+          [
+            0.44,
+            0.65,
+            "1"
+          ],
+          [
+            0.41,
+            0.48,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV031",
+      "NR04",
+      "NR12"
+    ],
+    "parts": [
+      "1. Cabestreros: hoja de aspecto maderero con dibujo diagonal, separada del cierre comercial.",
+      "2. Mediodía Grande: portal oscuro con paños transparentes y travesaños horizontales; no se clasifica como madera sin verificación."
+    ],
+    "variation": "Se comparan opacidad, número de hojas, dibujo del relleno y posición del tirador, no solo el color de la puerta.",
+    "limit": "El material de una carpintería pintada y su sistema de apertura requieren inspección; la foto no muestra herrajes completos.",
+    "diagrams": [
+      "door",
+      "door_plan"
+    ],
+    "roi": [
+      "SV031",
+      [
+        0.0,
+        0.24,
+        0.19,
+        0.83
+      ]
+    ],
+    "sources": [],
+    "n_sites": 3,
+    "sectors": [
+      3,
+      11
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P11_PORTAL_HOJAS_MONTANTES_Y_RELLENOS"
+  },
+  {
+    "id": "P12",
+    "title": "Cierre enrollable: textura que cambia con la apertura",
+    "family": "04 · CARPINTERÍAS Y FILTROS",
+    "definition": "La persiana de lamas tiene dos estados: paño cerrado delante del hueco y recogida sobre él. No es una contraventana que gira sobre bisagras.",
+    "shots": [
+      [
+        "SV016",
+        [
+          [
+            0.39,
+            0.6,
+            "1"
+          ],
+          [
+            0.4,
+            0.46,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR01",
+        [
+          [
+            0.05,
+            0.52,
+            "1"
+          ],
+          [
+            0.95,
+            0.25,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV014",
+      "SV016",
+      "SV019",
+      "SV025",
+      "SV030",
+      "SV031",
+      "SV035",
+      "SV037",
+      "NR01",
+      "NR05"
+    ],
+    "parts": [
+      "1. Mira el Río Alta: lamas metálicas del comercio detrás del toldo, con pintura sobre el paño cerrado.",
+      "2. Mira el Sol: persianas en huecos de fachada; la pieza enrollable puede aparecer también fuera del uso comercial."
+    ],
+    "variation": "Separar lama, guía lateral y zona superior de recogida. Registrar opaca/perforada y grado de apertura observado, no horario supuesto.",
+    "limit": "La secuencia dibujada explica el mecanismo; no representa tres fotografías del mismo día.",
+    "diagrams": [
+      "shutters",
+      "shutter_section"
+    ],
+    "roi": [
+      "SV016",
+      [
+        0.21,
+        0.43,
+        0.62,
+        0.87
+      ]
+    ],
+    "sources": [],
+    "n_sites": 10,
+    "sectors": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      11,
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P12_CIERRE_ENROLLABLE_TEXTURA_QUE_CAMBIA_CON_LA_APERTURA"
+  },
+  {
+    "id": "P13",
+    "title": "Toldo: un plano inclinado añadido al frente",
+    "family": "04 · CARPINTERÍAS Y FILTROS",
+    "definition": "El toldo prolonga el local hacia la calle mediante una superficie inclinada y un borde inferior, a menudo rotulado.",
+    "shots": [
+      [
+        "SV016",
+        [
+          [
+            0.43,
+            0.36,
+            "1"
+          ],
+          [
+            0.54,
+            0.42,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "SV018",
+        [
+          [
+            0.79,
+            0.4,
+            "1"
+          ],
+          [
+            0.89,
+            0.44,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV016",
+      "SV018",
+      "SV019",
+      "SV021",
+      "NR04"
+    ],
+    "parts": [
+      "1. Mira el Río Alta: lona verde, borde colgante y rótulo encima de la persiana.",
+      "2. Mira el Río Baja: toldo claro y franja rotulada sobre una entrada enrejada."
+    ],
+    "variation": "Hay que separar tejido, estructura, vuelo y faldón. El color no demuestra que dos toldos sean del mismo modelo.",
+    "limit": "No se deducen orientación solar eficaz, resistencia al viento ni mecanismo oculto por la lona.",
+    "diagrams": [
+      "awning",
+      "awning_states"
+    ],
+    "roi": null,
+    "sources": [],
+    "n_sites": 5,
+    "sectors": [
+      3,
+      10,
+      11
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P13_TOLDO_UN_PLANO_INCLINADO_A_ADIDO_AL_FRENTE"
+  },
+  {
+    "id": "P14",
+    "title": "Color por estratos, no paleta única",
+    "family": "03 · ACABADOS",
+    "definition": "El color se distribuye en campos: paño principal, recercado, zócalo, metal y comercio. Su relación se repite aunque cambien los tonos.",
+    "shots": [
+      [
+        "SV033",
+        [
+          [
+            0.82,
+            0.15,
+            "1"
+          ],
+          [
+            0.82,
+            0.4,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "SV024",
+        [
+          [
+            0.46,
+            0.24,
+            "1"
+          ],
+          [
+            0.27,
+            0.62,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV009",
+      "SV024",
+      "SV025",
+      "SV033",
+      "SV037",
+      "NR03",
+      "NR05",
+      "NR08"
+    ],
+    "parts": [
+      "1. Amparo: cuerpo rojizo, cercos claros, metal oscuro y rótulo comercial naranja.",
+      "2. Rodas: paño ocre, base gris y cierre azul; cambia el contraste entre pieza fija y añadida."
+    ],
+    "variation": "La unidad comparable es la posición del color, no un código cromático extraído de imágenes con iluminación distinta.",
+    "limit": "No se ofrecen RAL ni porcentajes de color del barrio; exposición, sombra y fecha modifican la fotografía.",
+    "diagrams": [
+      "color_fields",
+      "color_order"
+    ],
+    "roi": null,
+    "sources": [],
+    "n_sites": 8,
+    "sectors": [
+      2,
+      3,
+      4,
+      7,
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P14_COLOR_POR_ESTRATOS_NO_PALETA_NICA"
+  },
+  {
+    "id": "P15",
+    "title": "Instalaciones como segunda trama superficial",
+    "family": "05 · CAPAS DE USO",
+    "definition": "Cables, tubos, bajantes y aparatos recorren o atraviesan el alzado construido. Forman líneas horizontales y verticales distintas de las juntas del acabado.",
+    "shots": [
+      [
+        "SV019",
+        [
+          [
+            0.5,
+            0.2,
+            "1"
+          ],
+          [
+            0.61,
+            0.54,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR12",
+        [
+          [
+            0.42,
+            0.3,
+            "1"
+          ],
+          [
+            0.54,
+            0.64,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV015",
+      "SV019",
+      "SV030",
+      "SV032",
+      "SV035",
+      "NR01",
+      "NR04",
+      "NR05",
+      "NR12"
+    ],
+    "parts": [
+      "1. Carnero: haz de conducciones que cruza bajo el balcón y baja junto a un hueco.",
+      "2. Mediodía Grande: cableado superficial y tubo vertical que bordean el portal en lugar de desaparecer en el paño."
+    ],
+    "variation": "Separar línea continua, caja puntual, aparato volumétrico y fijación. Registrar cómo esquivan un hueco y dónde interrumpen una moldura.",
+    "limit": "No se identifica suministro, propiedad ni estado técnico de una conducción por su color.",
+    "diagrams": [
+      "services",
+      "services_layers"
+    ],
+    "roi": [
+      "NR12",
+      [
+        0.26,
+        0.22,
+        0.56,
+        0.5
+      ]
+    ],
+    "sources": [],
+    "n_sites": 9,
+    "sectors": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      11
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P15_INSTALACIONES_COMO_SEGUNDA_TRAMA_SUPERFICIAL"
+  },
+  {
+    "id": "P16",
+    "title": "Suelo por bandas: paso, borde y drenaje",
+    "family": "06 · CALLE Y ESPACIO ABIERTO",
+    "definition": "Piezas de pavimento, bordillos, bolardos y sumideros organizan franjas. La repetición está en la sección de la calle, no en un único tipo de loseta.",
+    "shots": [
+      [
+        "NR01",
+        [
+          [
+            0.43,
+            0.7,
+            "1"
+          ],
+          [
+            0.67,
+            0.85,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "SV017",
+        [
+          [
+            0.54,
+            0.75,
+            "1"
+          ],
+          [
+            0.66,
+            0.7,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV002",
+      "SV005",
+      "SV010",
+      "SV017",
+      "SV022",
+      "SV032",
+      "NR01",
+      "NR03",
+      "NR04",
+      "NR05",
+      "NR12"
+    ],
+    "parts": [
+      "1. Mira el Sol: calzada de piezas pequeñas, banda lateral y rejilla junto al borde.",
+      "2. Mira el Río Alta: continuidad estrecha entre fachadas, con acera y bolardos que acotan el paso."
+    ],
+    "variation": "Distinguir calle estrecha pavimentada, calzada asfaltada de borde y plaza. El cambio de banda puede ser material, de cota o de ambos.",
+    "limit": "No se certifica accesibilidad: faltan anchos, pendientes y resaltes medidos.",
+    "diagrams": [
+      "paving",
+      "street_sections"
+    ],
+    "roi": [
+      "NR01",
+      [
+        0.49,
+        0.64,
+        0.84,
+        0.92
+      ]
+    ],
+    "sources": [],
+    "n_sites": 11,
+    "sectors": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      9,
+      11,
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P16_SUELO_POR_BANDAS_PASO_BORDE_Y_DRENAJE"
+  },
+  {
+    "id": "P17",
+    "title": "Vegetación en tres soportes distintos",
+    "family": "06 · CALLE Y ESPACIO ABIERTO",
+    "definition": "Árbol en alcorque, planta en jardinera y maceta doméstica son sistemas diferentes de relación entre vegetación, suelo y fachada.",
+    "shots": [
+      [
+        "SV030",
+        [
+          [
+            0.57,
+            0.61,
+            "1"
+          ],
+          [
+            0.35,
+            0.63,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR04",
+        [
+          [
+            0.65,
+            0.7,
+            "1"
+          ],
+          [
+            0.78,
+            0.5,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV006",
+      "SV026",
+      "SV028",
+      "SV030",
+      "SV034",
+      "NR04",
+      "NR06",
+      "NR08",
+      "NR09",
+      "NR11"
+    ],
+    "parts": [
+      "1. Tribulete: contenedores de plantación repetidos sobre el pavimento, delante de los locales.",
+      "2. Lavapiés: troncos insertados en alcorques, con copas sobre la banda peatonal y mesas en el borde."
+    ],
+    "variation": "La serie de jardineras no equivale a un suelo continuo plantado. Comparar apoyo, movilidad potencial, sombra visible y posición respecto del paso.",
+    "limit": "No se asignan especies ni mejora térmica anual a una imagen de una estación concreta.",
+    "diagrams": [
+      "green",
+      "green_section"
+    ],
+    "roi": null,
+    "sources": [],
+    "n_sites": 10,
+    "sectors": [
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      10,
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P17_VEGETACI_N_EN_TRES_SOPORTES_DISTINTOS"
+  },
+  {
+    "id": "P18",
+    "title": "Exposición que ocupa el espesor del umbral",
+    "family": "05 · CAPAS DE USO",
+    "definition": "Objetos a la venta o mobiliario se apoyan entre el interior del local y la acera. El patrón es un borde de exposición, no simplemente la existencia de comercio.",
+    "shots": [
+      [
+        "SV016",
+        [
+          [
+            0.72,
+            0.77,
+            "1"
+          ],
+          [
+            0.63,
+            0.6,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "SV018",
+        [
+          [
+            0.8,
+            0.72,
+            "1"
+          ],
+          [
+            0.88,
+            0.55,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV001",
+      "SV016",
+      "SV018",
+      "SV034",
+      "SV038"
+    ],
+    "parts": [
+      "1. Mira el Río Alta: silla y pequeños objetos junto a una entrada distinta de la persiana cerrada.",
+      "2. Mira el Río Baja: objetos apoyados fuera del plano de la reja; interior y acera se leen conjuntamente."
+    ],
+    "variation": "Registrar posición respecto de puerta, línea de fachada y banda de paso. Los cuadros dentro de un escaparate no ocupan lo mismo que una silla fuera.",
+    "limit": "La fotografía no prueba autorización, frecuencia, reciclaje efectivo ni carácter permanente de la ocupación.",
+    "diagrams": [
+      "threshold_plan",
+      "objects"
+    ],
+    "roi": null,
+    "sources": [],
+    "n_sites": 5,
+    "sectors": [
+      1,
+      2,
+      10,
+      11
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P18_EXPOSICI_N_QUE_OCUPA_EL_ESPESOR_DEL_UMBRAL"
+  },
+  {
+    "id": "P19",
+    "title": "Paños que registran reparación y desgaste",
+    "family": "05 · CAPAS DE USO",
+    "definition": "Desconchados, repintes y grafitis introducen bordes irregulares sobre el acabado regular. Se describen sus posiciones, no se diagnostican sus causas.",
+    "shots": [
+      [
+        "SV035",
+        [
+          [
+            0.43,
+            0.66,
+            "1"
+          ],
+          [
+            0.76,
+            0.49,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR05",
+        [
+          [
+            0.11,
+            0.68,
+            "1"
+          ],
+          [
+            0.5,
+            0.56,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV016",
+      "SV019",
+      "SV030",
+      "SV035",
+      "SV037",
+      "NR01",
+      "NR05",
+      "NR12"
+    ],
+    "parts": [
+      "1. Oso: pérdidas y parches en la franja baja, bajo ventanas protegidas.",
+      "2. Provisiones: desconchados de un paño lateral y escritura sobre un cierre, dos soportes y dos procesos visuales diferentes."
+    ],
+    "variation": "Comparar soporte, borde del parche, extensión relativa y superposición. Una marca sobre chapa no es una lesión del revoco.",
+    "limit": "No se diagnostican humedad, corrosión interna, abandono ni antigüedad de una reparación.",
+    "diagrams": [
+      "repair",
+      "repair_layers"
+    ],
+    "roi": [
+      "SV035",
+      [
+        0.05,
+        0.49,
+        0.7,
+        0.86
+      ]
+    ],
+    "sources": [],
+    "n_sites": 8,
+    "sectors": [
+      2,
+      4,
+      6,
+      11,
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P19_PA_OS_QUE_REGISTRAN_REPARACI_N_Y_DESGASTE"
+  },
+  {
+    "id": "P20",
+    "title": "Patio y galería: el acceso tiene un borde común",
+    "family": "07 · TIPOS LOCALIZADOS",
+    "definition": "Una galería continua da frente a un vacío y enlaza accesos. Se distingue del balcón individual porque pertenece a una organización de circulación.",
+    "shots": [
+      [
+        "SV007",
+        [
+          [
+            0.5,
+            0.25,
+            "1"
+          ],
+          [
+            0.51,
+            0.52,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "SV011",
+        [
+          [
+            0.81,
+            0.31,
+            "1"
+          ],
+          [
+            0.71,
+            0.38,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV007",
+      "SV008",
+      "SV011",
+      "SV012"
+    ],
+    "parts": [
+      "1. Carlos Arniches: patio cerrado por corredores y apoyos; hoy es un equipamiento cultural.",
+      "2. Sombrerete: frente de galerías visible desde el espacio público, con pantallas y ropa tendida en la imagen histórica."
+    ],
+    "variation": "La U y la O son variantes de relación corredor-vacío documentadas por la UAM. Una foto del museo no representa la vivienda habitada de todo el ámbito.",
+    "limit": "Dos sitios, no cuatro casos: SV007/008 y SV011/012 comparten posición respectivamente. No se accede a patios privados.",
+    "diagrams": [
+      "patio",
+      "gallery_section"
+    ],
+    "roi": null,
+    "sources": [
+      "D1"
+    ],
+    "n_sites": 2,
+    "sectors": [
+      4,
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P20_PATIO_Y_GALER_A_EL_ACCESO_TIENE_UN_BORDE_COM_N"
+  },
+  {
+    "id": "P21",
+    "title": "Entramado: pie derecho, carrera y tornapunta",
+    "family": "07 · TIPOS LOCALIZADOS",
+    "definition": "En el patio de Carlos Arniches son visibles apoyos verticales de madera, piezas horizontales y diagonales cortas. Es un caso documentado, no una estructura atribuible a todas las fachadas.",
+    "shots": [
+      [
+        "SV007",
+        [
+          [
+            0.39,
+            0.36,
+            "1"
+          ],
+          [
+            0.43,
+            0.25,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "SV008",
+        [
+          [
+            0.86,
+            0.31,
+            "1"
+          ],
+          [
+            0.84,
+            0.55,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV007",
+      "SV008"
+    ],
+    "parts": [
+      "1. Pie derecho: apoyo vertical repetido en el borde del patio.",
+      "2. Carrera y tornapunta: línea superior y pieza inclinada del encuentro; el basamento claro cambia el contacto con el suelo."
+    ],
+    "variation": "El artículo CSIC de 2014 estudia entramados con rellenos que colaboran en la carga. No deben dibujarse siempre como pórticos vacíos de madera.",
+    "limit": "El esquema histórico no es un levantamiento de este museo rehabilitado ni un cálculo. Un solo patio observado no demuestra frecuencia barrial.",
+    "diagrams": [
+      "timber",
+      "timber_infill"
+    ],
+    "roi": [
+      "SV007",
+      [
+        0.24,
+        0.13,
+        0.5,
+        0.68
+      ]
+    ],
+    "sources": [
+      "D1",
+      "D2"
+    ],
+    "n_sites": 1,
+    "sectors": [
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P21_ENTRAMADO_PIE_DERECHO_CARRERA_Y_TORNAPUNTA"
+  },
+  {
+    "id": "P22",
+    "title": "Filtro exterior independiente del vidrio",
+    "family": "07 · TIPOS LOCALIZADOS",
+    "definition": "Una segunda piel de lamas o paños filtrantes se coloca por delante de la carpintería. Su separación crea profundidad, no solo un dibujo sobre el muro.",
+    "shots": [
+      [
+        "SV004",
+        [
+          [
+            0.57,
+            0.27,
+            "1"
+          ],
+          [
+            0.71,
+            0.28,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR07",
+        [
+          [
+            0.34,
+            0.2,
+            "1"
+          ],
+          [
+            0.44,
+            0.23,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV004",
+      "SV011",
+      "NR07"
+    ],
+    "parts": [
+      "1. Vara de Rey 12: cerramientos móviles de lamas por delante de los ventanales; la ficha municipal documenta la regulación de aire y luz.",
+      "2. Martín de Vargas: paños filtrantes junto a miradores; su mecanismo no se confirma en la foto."
+    ],
+    "variation": "Comparar posición del vidrio, plano exterior y hueco intermedio. Pantalla textil de una galería y cerramiento de lamas no son el mismo producto.",
+    "limit": "Vara de Rey es una obra singular de 22 viviendas, no el tipo dominante del radio. No extrapolar sus prestaciones a otros filtros.",
+    "diagrams": [
+      "filter",
+      "filter_states"
+    ],
+    "roi": null,
+    "sources": [
+      "D3"
+    ],
+    "n_sites": 3,
+    "sectors": [
+      4,
+      6,
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P22_FILTRO_EXTERIOR_INDEPENDIENTE_DEL_VIDRIO"
+  },
+  {
+    "id": "P23",
+    "title": "Puesto desmontable y calle reversible",
+    "family": "07 · TIPOS LOCALIZADOS",
+    "definition": "La repetición temporal corresponde a unidades desmontables dentro de un sistema de calles autorizado. La señal de aparcamiento es una pista, no una fotografía del mercado funcionando.",
+    "shots": [
+      [
+        "SV023",
+        [
+          [
+            0.51,
+            0.29,
+            "1"
+          ],
+          [
+            0.51,
+            0.43,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "SV013",
+        [
+          [
+            0.7,
+            0.55,
+            "1"
+          ],
+          [
+            0.76,
+            0.71,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "SV013",
+      "SV022",
+      "SV023"
+    ],
+    "parts": [
+      "1. Campillo: señal con restricción de estacionamiento dominical en la foto de 2022.",
+      "2. Cascorro: vehículo abierto y mercancías; evidencia de carga puntual, no demostración del montaje de los puestos."
+    ],
+    "variation": "La fuente municipal describe estructura tubular desmontable, longitudes de 1 a 3 m y fondos de 1 o 2 m según la calle. El dibujo se basa en esa descripción, no en medir la foto.",
+    "limit": "No se ha observado una secuencia completa de domingo. El registro municipal consultado contiene 2.186 filas, pero devolvió geometrías nulas: no es un recuento validado dentro del radio.",
+    "diagrams": [
+      "market",
+      "market_time"
+    ],
+    "roi": null,
+    "sources": [
+      "D4",
+      "D5",
+      "D6"
+    ],
+    "n_sites": 2,
+    "sectors": [
+      1,
+      9
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P23_PUESTO_DESMONTABLE_Y_CALLE_REVERSIBLE"
+  },
+  {
+    "id": "P24",
+    "title": "Fábrica antigua / intervención reconocible",
+    "family": "08 · SINGULARIDADES",
+    "definition": "En Escuelas Pías, huecos grandes y superficies de ladrillo irregular pertenecen a una pieza excepcional del tejido. Su rehabilitación no debe confundirse con la fachada residencial corriente.",
+    "shots": [
+      [
+        "NR14",
+        [
+          [
+            0.7,
+            0.38,
+            "1"
+          ],
+          [
+            0.83,
+            0.43,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR15",
+        [
+          [
+            0.65,
+            0.31,
+            "1"
+          ],
+          [
+            0.48,
+            0.38,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "NR14",
+      "NR15"
+    ],
+    "parts": [
+      "1. Localizar el borde y la textura del paño conservado; no alisar gráficamente sus discontinuidades.",
+      "2. Separar la imagen de ruina conservada del uso contemporáneo de biblioteca y aulario, documentado por la UNED."
+    ],
+    "variation": "Es una singularidad localizada. La UNED documenta la reutilización de la iglesia y la nueva pieza alineada con las calles.",
+    "limit": "Las dos vistas son del mismo conjunto, no dos recurrencias. El esquema dibuja una relación antiguo-nuevo, no su sección constructiva medida.",
+    "diagrams": [
+      "oldnew",
+      "oldnew_section"
+    ],
+    "roi": null,
+    "sources": [
+      "D7"
+    ],
+    "n_sites": 2,
+    "sectors": [
+      3
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P24_F_BRICA_ANTIGUA_INTERVENCI_N_RECONOCIBLE"
+  },
+  {
+    "id": "P25",
+    "title": "Celosía: repetir el hueco dentro del paño",
+    "family": "08 · SINGULARIDADES",
+    "definition": "La repetición se produce a escala de una pieza perforada: celdas hexagonales en Cebada y perforaciones circulares en una franja de Martín de Vargas. No se afirma un motivo único del barrio.",
+    "shots": [
+      [
+        "NR13",
+        [
+          [
+            0.36,
+            0.19,
+            "1"
+          ],
+          [
+            0.44,
+            0.16,
+            "2"
+          ]
+        ]
+      ],
+      [
+        "NR07",
+        [
+          [
+            0.47,
+            0.22,
+            "1"
+          ],
+          [
+            0.46,
+            0.12,
+            "2"
+          ]
+        ]
+      ]
+    ],
+    "evidence": [
+      "NR13",
+      "NR07"
+    ],
+    "parts": [
+      "1. Humilladero/Cebada: bandas altas con malla de celdas hexagonales delante de un fondo oscuro.",
+      "2. Martín de Vargas: banda vertical de perforaciones circulares junto a los miradores."
+    ],
+    "variation": "Dos variantes localizadas de porosidad geométrica: forma del hueco, paso de repetición, ancho del nervio y organización en banda.",
+    "limit": "No se confirma material, función de ventilación ni porcentaje de hueco con precisión. No equivale a un revestimiento cerámico repetido en todo el barrio.",
+    "diagrams": [
+      "perforation",
+      "perforation_section"
+    ],
+    "roi": [
+      "NR13",
+      [
+        0.24,
+        0.06,
+        0.48,
+        0.27
+      ]
+    ],
+    "sources": [],
+    "n_sites": 2,
+    "sectors": [
+      6,
+      12
+    ],
+    "folder": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/CATALOGO_PATRONES_600M/P25_CELOS_A_REPETIR_EL_HUECO_DENTRO_DEL_PA_O"
+  }
+]

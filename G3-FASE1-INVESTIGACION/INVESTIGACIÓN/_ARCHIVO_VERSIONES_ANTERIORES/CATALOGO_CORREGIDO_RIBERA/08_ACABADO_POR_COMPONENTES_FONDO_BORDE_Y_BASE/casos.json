@@ -1,0 +1,131 @@
+{
+  "code": "08",
+  "title": "Acabado por componentes: fondo, borde y base",
+  "definition": "La recurrencia no es un color exacto, sino la diferenciación visual de componentes. En ocho frentes, el campo de pared, el contorno de los huecos o la banda de planta y el basamento se distinguen por tono, textura o junta. Las fotografías no están calibradas para obtener colores de obra.",
+  "conclusion": "B03 y B15 hacen muy visibles marcos y bandas claras sobre ladrillo; B10 contrapone recercado blanco y revoco ocre; B09 usa un campo claro casi continuo y una base pétrea; B12 añade un despiece inciso. El acabado participa en el orden del edificio sin demostrar su construcción interior.",
+  "question": "¿Debe el proyecto expresar la unidad doméstica, una estructura común o un zócalo colectivo? ¿Qué componente puede cambiar de material sin destruir la lectura general?",
+  "test": "Ensayar el mismo alzado con tres distribuciones del acabado: por vivienda, por capa horizontal y por pieza sustituible. Trabajar con muestras reales de las texturas F01, F11, F18 y F32; no convertir una señal de calle en prueba de cerámica generalizada.",
+  "diagram": "acabado",
+  "cases": [
+    {
+      "front": "B01",
+      "source": "RC02",
+      "target": [
+        0.398,
+        0.391
+      ],
+      "crop": [
+        0.268,
+        0.32,
+        0.46,
+        0.55
+      ],
+      "note": "Marco claro ornamentado contra un fondo cálido."
+    },
+    {
+      "front": "B03",
+      "source": "RC03",
+      "target": [
+        0.255,
+        0.375
+      ],
+      "crop": [
+        0.17,
+        0.31,
+        0.371,
+        0.5
+      ],
+      "note": "Bandas y recercados claros sobre el campo de ladrillo."
+    },
+    {
+      "front": "B05",
+      "source": "RC05",
+      "target": [
+        0.398,
+        0.354
+      ],
+      "crop": [
+        0.275,
+        0.26,
+        0.452,
+        0.491
+      ],
+      "note": "El aparejo y la banda de ladrillo diferencian el campo respecto al hueco."
+    },
+    {
+      "front": "B09",
+      "source": "RC08",
+      "target": [
+        0.388,
+        0.536
+      ],
+      "crop": [
+        0.273,
+        0.36,
+        0.55,
+        0.66
+      ],
+      "note": "Campo claro y basamento gris; el cable marca otra línea añadida."
+    },
+    {
+      "front": "B10",
+      "source": "RC09",
+      "target": [
+        0.523,
+        0.403
+      ],
+      "crop": [
+        0.425,
+        0.366,
+        0.568,
+        0.541
+      ],
+      "note": "Recercado blanco con remate curvo sobre revoco ocre."
+    },
+    {
+      "front": "B12",
+      "source": "RC10",
+      "target": [
+        0.295,
+        0.3
+      ],
+      "crop": [
+        0.263,
+        0.276,
+        0.416,
+        0.442
+      ],
+      "note": "Despiece del acabado claro alrededor de huecos oscuros."
+    },
+    {
+      "front": "B13",
+      "source": "RC12",
+      "target": [
+        0.573,
+        0.353
+      ],
+      "crop": [
+        0.557,
+        0.255,
+        0.655,
+        0.481
+      ],
+      "note": "Borde blanco del hueco frente al paño de acabado ocre."
+    },
+    {
+      "front": "B15",
+      "source": "RC04",
+      "target": [
+        0.701,
+        0.321
+      ],
+      "crop": [
+        0.626,
+        0.14,
+        0.734,
+        0.468
+      ],
+      "note": "Bandas y montantes claros dividen el paño rojo."
+    }
+  ]
+}

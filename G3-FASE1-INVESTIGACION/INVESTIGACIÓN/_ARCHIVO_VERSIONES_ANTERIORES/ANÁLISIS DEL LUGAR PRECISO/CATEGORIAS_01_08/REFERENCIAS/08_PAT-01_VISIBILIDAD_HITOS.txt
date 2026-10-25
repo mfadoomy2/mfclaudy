@@ -1,0 +1,76 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O P A T - 0 1
+P A T - 0 1   ·   P A T R I M O N I O   Y   V I S U A L E S
+El reloj, la torre
+y la fachada
+Cuánto patrimonio se ve con el refugio puesto — medido por superficie,
+ponderado por uso real y con el hallazgo incómodo publicado: donde mejor se
+está, menos se ve el reloj.
+R E L O J   ( S U P E R F I C I E )
+41,5 %
+R E L O J   ( P O R   U S O )
+33.6
+D E S D E   E S T A N C I A   A L T A
+25,5 %
+M I R A D O R E S
+896 m²
+
+PÁGINA 2
+P A T - 0 1   ·   V I S I B I L I D A D P A T - 0 1
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+P A T - 0 1   ·   P A T R I M O N I O
+Ver el reloj o estar a gusto: casi nunca ambos
+¿Qué visibilidad de los tres hitos queda, y qué visibilidad EXPERIMENTA quien usa la plaza — no
+quien la sobrevuela en estadística?
+A · M E D I D O   /   C A L C U L A D O
+M É T O D O
+Trazado de rayos de la
+auditoría A7 (2.455
+puntos a 1,60 m contra
+la escena completa) para
+reloj, torre y fachada
+de Correos; ponderación
+por el índice de
+estancia (SOC-01):
+pct_ponderado =
+Σ(vis·IPE)/Σ(IPE).
+D A T O S
+a7_views.json + ipe.npy.
+L I M I T A C I O N E S
+El estado actual (sin
+proyecto) tiene
+visibilidad cuasi-total
+desde el vacío central:
+la reducción al 41-48 %
+es real y no se
+maquilla. No hay
+análisis del skyline
+lejano (corredores desde
+Alcalá/Arenal
+exteriores): pendiente
+declarado.
+H I T O P O R   S U P E R F I C I E P O N D E R A D A   P O R   U S O D E S D E   E S T A N C I A   A L T A
+RELOJ 41.5 % 33.6 % 25.5 %
+TORRE 42.6 % 33.0 % 25.1 %
+CORREOS 48.1 % 46.0 % 48.4 %
+— El hallazgo (§43, publicado sin suavizar): la ponderación por uso EMPEORA la
+visibilidad del reloj (41,5 › 33,6 %) y desde la estancia alta cae al 25,5 %. El mismo
+dosel que fabrica el confort tapa la contemplación: confort y patrimonio COMPITEN en
+este proyecto.
+— La excepción: la fachada completa de Correos aguanta (48 % en todas las métricas):
+es demasiado grande para taparla.
+— Los miradores existen: 896 m² combinan IPE≥0,5 Y vista del reloj (el 30 % de la
+estancia buena) — arcos en el borde sur del dosel y el claro central.
+— Modificación potencial documentada (§54, NO implementada): orientar 2-3
+líneas de banco hacia los corredores visuales del reloj costaría cero térmicamente y
+subiría la visibilidad ponderada ~5 puntos. Para el proyecto de ejecución.
+
+PÁGINA 3
+P A T - 0 1   ·   V I S I B I L I D A D P A T - 0 1   ·   M I R A D O R E S
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 3
+P A T - 0 1 . 2   ·   E L   M A P A   D E   L O S   M I R A D O R E S
+Dónde se puede estar bien Y ver el reloj
+Magenta: los 896 m² de mirador (estancia + vista del reloj ★).Gris: sin vista. Agua
+pálida: vista sin calidad de estancia. La contemplación cómoda del reloj es un recurso ESCASO
+del proyecto: se cartografía para protegerlo en la ejecución.
+FUENTE: _reaudit9/a7_views.json (2.455 puntos, malla 2 m) × ipe.npy · v006 build 12

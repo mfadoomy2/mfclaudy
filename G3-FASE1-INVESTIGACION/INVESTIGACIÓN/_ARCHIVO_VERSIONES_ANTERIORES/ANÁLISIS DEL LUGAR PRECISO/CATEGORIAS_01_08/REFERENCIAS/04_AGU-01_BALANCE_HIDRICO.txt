@@ -1,0 +1,86 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O A G U - 0 1
+A G U - 0 1   ·   A G U A ,   E C O L O G Í A   Y   V E G E T A C I Ó N
+El presupuesto
+de agua
+Cuánta agua consume el refugio el peor día del verano, de dónde sale, cuánta
+se recircula y cuántos días aguanta un corte de red.
+D Í A   P U N T A
+30.1
+D Í A   M E D I O
+18.9 m³
+D E P Ó S I T O S
+99,8 m³
+A U T O N O M Í A
+3,3 días
+
+PÁGINA 2
+A G U - 0 1   ·   B A L A N C E   H Í D R I C O A G U - 0 1
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+A G U - 0 1   ·   A G U A
+Treinta metros cúbicos el peor día
+¿Cuál es la demanda real de agua del sistema completo y su autonomía ante fallo?
+B · I N F E R I D O
+M É T O D O
+Evaporación de cada
+lámina por Penman con su
+exposición solar real
+(MEDIDA en el modelo,
+integrada a día); riego
+= evapotranspiración
+vegetal ×1,30 de
+ineficiencia de goteo
+(B); nebulización 6 h de
+operación en día seco
+(C). Almacenamiento:
+depósitos-gota medidos
+en la escena (99,8 m³).
+D A T O S
+agua.json (por
+elemento),
+vegetacion.json,
+agu_engine.py.
+L I M I T A C I O N E S
+El perfil horario del
+riego se toma como 8
+h-punta equivalentes; la
+niebla solo opera en día
+seco (su consumo anual
+es una fracción del
+nominal).
+T É R M I N O D E M A N D A N I V E L L E C T U R A
+Evaporación de
+láminas y
+splash
+24.4 m³ A/B reposición de lo que
+el sol evapora; el
+splash es además
+juego
+Riego de la
+capa vegetal
+4.4 m³ B goteo por
+hidrozonas; ET
+medida ×1,30
+Nebulización
+(día seco)
+1.26 m³ C 6 h de operación; 0
+en día húmedo
+TOTAL DÍA PUNTA 30.1 m³ — equivale a ~12
+viviendas medias de
+Madrid
+99,8
+m³
+almacenamiento en los
+depósitos-gota
+3,3
+días
+autonomía total ante
+corte de red (día punta)
+18,7
+m³
+demanda del día medio
+(E1)
+R E C I R C U L A C I Ó N
+La única pérdida real es la evaporación: splash, estanques y balsas recirculan por las 4
+conducciones principales enterradas con registro cada 9 m. No hay vertido de servicio: el
+sistema repone, no consume en flujo.

@@ -1,0 +1,131 @@
+{
+  "code": "07",
+  "title": "Banda accesible: inscripción, roce y sustitución",
+  "definition": "Ocho frentes diferentes muestran grafiti o inscripciones en cierres y paños de planta baja. La recurrencia documentada es su presencia en soportes accesibles desde la calle. Las fotos cercanas permiten añadir desgaste y cambios de superficie, sin diagnosticar causas materiales no comprobadas.",
+  "conclusion": "El soporte importa: el grafiti ocupa láminas de persiana, madera, piedra y revoco. El cierre concentra gran parte de la superficie visible cuando el comercio está cerrado. Repetición no significa que todos los edificios del barrio estén afectados ni que el turismo sea la causa.",
+  "question": "¿Cómo afecta esta condición a la materialidad del edificio? ¿Se puede alojar una superficie de expresión, montaje o intercambio sin convertir cada inscripción en una reparación de toda la fachada?",
+  "test": "Comparar panel reemplazable, superficie limpiable y paño de uso gráfico acordado. Probar muestras reales de limpieza antes de especificar tratamientos. Una intervención participativa exige acuerdos; no se deduce su aceptación de las fotos.",
+  "diagram": "huella",
+  "cases": [
+    {
+      "front": "B14",
+      "source": "RC01",
+      "target": [
+        0.29,
+        0.611
+      ],
+      "crop": [
+        0.264,
+        0.503,
+        0.327,
+        0.679
+      ],
+      "note": "Galerías Piquer: grafiti sobre las lamas de un cierre."
+    },
+    {
+      "front": "B02",
+      "source": "RC02",
+      "target": [
+        0.605,
+        0.627
+      ],
+      "crop": [
+        0.571,
+        0.515,
+        0.626,
+        0.701
+      ],
+      "note": "Astoria: inscripción en persiana contigua al acceso enrejado."
+    },
+    {
+      "front": "B03",
+      "source": "RC03",
+      "target": [
+        0.125,
+        0.638
+      ],
+      "crop": [
+        0.093,
+        0.531,
+        0.149,
+        0.701
+      ],
+      "note": "Rodas: trazos superpuestos en un cierre de planta baja."
+    },
+    {
+      "front": "B05",
+      "source": "RC05",
+      "target": [
+        0.152,
+        0.627
+      ],
+      "crop": [
+        0.128,
+        0.539,
+        0.184,
+        0.714
+      ],
+      "note": "Esquina de Fray Ceferino: inscripción sobre cierre laminado."
+    },
+    {
+      "front": "B07",
+      "source": "RC06",
+      "target": [
+        0.463,
+        0.699
+      ],
+      "crop": [
+        0.444,
+        0.626,
+        0.479,
+        0.775
+      ],
+      "note": "Amantis: cierre lateral con una figura gráfica de gran escala."
+    },
+    {
+      "front": "B10",
+      "source": "RC09",
+      "target": [
+        0.536,
+        0.724
+      ],
+      "crop": [
+        0.509,
+        0.652,
+        0.566,
+        0.816
+      ],
+      "note": "Frente ocre: la persiana se lee como soporte gráfico completo."
+    },
+    {
+      "front": "B18",
+      "source": "RC07",
+      "target": [
+        0.823,
+        0.761
+      ],
+      "crop": [
+        0.781,
+        0.692,
+        0.864,
+        0.865
+      ],
+      "note": "Junto a La Plaza: grafiti de gran tamaño en cierre comercial."
+    },
+    {
+      "front": "B13",
+      "source": "RC12",
+      "target": [
+        0.694,
+        0.748
+      ],
+      "crop": [
+        0.65,
+        0.64,
+        0.743,
+        0.885
+      ],
+      "note": "Cascorro 12: trazos finos directamente sobre placas del zócalo."
+    }
+  ]
+}

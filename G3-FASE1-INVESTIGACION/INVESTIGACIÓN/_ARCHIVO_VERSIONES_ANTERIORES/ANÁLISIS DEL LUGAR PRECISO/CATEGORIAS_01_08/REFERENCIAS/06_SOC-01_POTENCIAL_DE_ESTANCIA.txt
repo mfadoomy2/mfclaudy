@@ -1,0 +1,68 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O S O C - 0 1
+S O C - 0 1   ·   U S O   S O C I A L   Y   E X P E R I E N C I A
+Dónde querrá
+quedarse la gente
+Un índice de potencial de estancia con la fórmula a la vista: sombra,
+confort, asiento, agua y efecto borde. No es una caja negra: cada peso está
+declarado y su sensibilidad, medida.
+I P E   M E D I O
+0.327
+E S T A N C I A   A L T A
+1956.0
+E S T A B I L I D A D   P E S O S
+Jaccard ≥ 0.74
+N I V E L
+B
+
+PÁGINA 2
+0.0 0.2 0.4 0.6 0.8
+S O C - 0 1   ·   P O T E N C I A L   D E   E S T A N C I A S O C - 0 1
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+S O C - 0 1   ·   U S O   S O C I A L
+El índice que se deja auditar
+¿Qué zonas de la plaza reúnen las condiciones que hacen que la gente se quede?
+B · I N F E R I D O
+M É T O D O
+IPE = 0,30·sombra +
+0,30·confort(UTCI) +
+0,15·asiento(≤15 m) +
+0,10·agua(≤20 m) +
+0,15·borde(≤6 m). Capas:
+sombra crítica (CLI-01),
+UTCI E2/16h normalizado
+(CLI-04), proximidad a 7
+líneas de banco y 5
+puntos de agua (escena
+v006), efecto borde Gehl
+a jardineras/mobiliario.
+Sensibilidad: cada peso
+±50 %, estabilidad
+Jaccard del conjunto
+IPE≥0,6.
+D A T O S
+ipe.npy +
+soc_stats.json.
+L I M I T A C I O N E S
+El IPE predice
+CONDICIONES, no
+comportamiento: el uso
+real depende de gestión,
+programación y estación.
+Se valida con conteos en
+el piloto (roadmap).
+Í N D I C E   D E   P O T E N C I A L   D E   E S T A N C I A   ·   0 - 0 , 8
+L E C T U R A
+La estancia alta (1956 m²,
+IPE≥0,6) dibuja tres arcos:
+bancos bajo dosel, borde de
+balsas y huerto-vivero. Coinciden
+con el refugio térmico: el
+proyecto quiere que te quedes
+exactamente donde te protege.
+R O B U S T E Z
+Variando cada peso ±50 %, el
+conjunto de estancia alta
+conserva Jaccard ≥ 0.74: el mapa
+no es un artefacto de los pesos.
+FUENTE: soc_engine.py sobre v006 build 12 (IPE explícito, pesos declarados)

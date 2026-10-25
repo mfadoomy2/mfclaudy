@@ -1,0 +1,106 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O U R B - 0 2
+U R B - 0 2   ·   C O N T E X T O   U R B A N O   Y   T R A N S P O R T E
+Los bordes:
+donde el proyecto
+toca la ciudad
+Fachadas, kioscos, servidumbres y continuidad del espacio público — con la
+distinción explícita entre dato oficial y criterio provisional del proyecto.
+P E N E T R A C I O N E S
+0
+E D I F I C I O S   A U D I T A D O S
+35
+A I R E   A   E C I
+~2,0 m
+E J E S   H I S T Ó R I C O S
+6 conservados
+
+PÁGINA 2
+U R B - 0 2   ·   B O R D E S U R B - 0 2
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+U R B - 0 2   ·   C O N T E X T O
+Convivir con 35 edificios y 6 ejes
+¿Dónde y cómo toca el proyecto los bordes construidos y los recorridos históricos de Sol?
+A · M E D I D O   /   C A L C U L A D O
+M É T O D O
+Módulo A12
+(independiente del
+generador): penetración
+de cualquier sólido del
+proyecto en 35
+volumetrías construidas
+reales con alturas por
+tipo; regla CR-2 de
+fachada (cerrar a ~2 cm
+o abrir ≥1,5 m: nunca
+ranuras-trampa); 6 ejes
+declarados auditados
+estación a estación.
+D A T O S
+a12_edificios.json +
+a1_paths.json + geometri
+a_maestra_v006/contexto.
+L I M I T A C I O N E S
+Las servidumbres
+administrativas
+(licencias de veladores,
+accesos de carga,
+hidrantes) NO están en
+el modelo: inventario
+municipal pendiente para
+ejecución.
+C A P A E S T A D O   E N   V 0 0 6 F U E N T E C A R Á C T E R
+Huellas de
+edificio
+(35)
+0
+penetraciones
+(A12)
+OSM DATO
+cuasi-oficial
+Alturas de
+contexto
+tipo: manzana
+/ estación
+6,5 / kiosco
+4,1
+OSM+fotos CRITERIO
+calibrado
+Accesos
+Metro/Cercanías
+0 obstáculos
+en banda
+OSM DATO
+cuasi-oficial
+Bandas de
+respeto
+5,5 m por
+acceso
+proyecto CRITERIO
+PROVISIONAL
+Ejes
+históricos
+(6)
+transitables,
+0 RED
+proyecto
+sobre
+callejero
+CRITERIO
+Kioscos y
+estancos
+conservados
+con margen
+propio
+OSM DATO
+cuasi-oficial
+Servidumbres
+administrativas
+NO MODELADAS — PENDIENTE
+MUNICIPAL
+C O N T I N U I D A D   D E L   E S P A C I O   P Ú B L I C O
+El proyecto no cierra, vallar ni privatiza suelo alguno: el 100 % del ámbito sigue siendo
+espacio público 24 h. Los seis corredores históricos (Mayor-Alcalá, Preciados-Carretas,
+Carmen-Correos, Montera-Espoz y Mina, Arenal-Alcalá y el arco norte) conservan trazado y
+anchura auditada. La implantación es reversible por diseño: cimentación puntual de mástiles y
+pavimento existente conservado bajo las jardineras.

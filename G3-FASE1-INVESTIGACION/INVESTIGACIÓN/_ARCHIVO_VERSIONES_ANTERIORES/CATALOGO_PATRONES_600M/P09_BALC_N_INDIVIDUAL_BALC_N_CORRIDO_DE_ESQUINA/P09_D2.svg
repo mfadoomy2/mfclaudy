@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="515" height="205" viewBox="0 0 515 205"><title>balcony_plan</title><rect width="515" height="205" fill="white"/>
+<text x="15" y="15" font-family="Arial,sans-serif" font-size="10" fill="black">PLANTA · un vuelo corto no es una galería común</text>
+<line x1="20" y1="75" x2="229" y2="75" stroke="black" stroke-width="2"/>
+<rect x="42" y="75" width="60" height="31" stroke="black" stroke-width="1" fill="none"/>
+<line x1="50" y1="74" x2="90" y2="74" stroke="black" stroke-width="3"/>
+<rect x="124" y="75" width="60" height="31" stroke="black" stroke-width="1" fill="none"/>
+<line x1="132" y1="74" x2="172" y2="74" stroke="black" stroke-width="3"/>
+<polyline points="288,60 390,60 390,141 488,141" stroke="black" stroke-width="2" fill="none"/>
+<polyline points="288,90 361,90 361,171 488,171" stroke="black" stroke-width="1" fill="none"/>
+<text x="27" y="191" font-family="Arial,sans-serif" font-size="9" fill="black">A. plataformas separadas</text>
+<text x="287" y="191" font-family="Arial,sans-serif" font-size="9" fill="black">B. continuidad al girar la esquina</text>
+</svg>

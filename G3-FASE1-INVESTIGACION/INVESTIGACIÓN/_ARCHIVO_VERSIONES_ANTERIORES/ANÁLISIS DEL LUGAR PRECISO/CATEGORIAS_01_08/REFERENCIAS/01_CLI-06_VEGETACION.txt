@@ -1,0 +1,81 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O C L I - 0 6
+C L I - 0 6   ·   C L I M A   Y   C O N F O R T
+Vegetación y clima
+Qué hace de verdad la capa vegetal en el balance térmico: LAI por especie,
+transmitancia, evapotranspiración y una sensibilidad honesta al dato
+bibliográfico.
+E S P E C I E S
+17 reales
+Á R B O L E S
+20 (6+14)
+E V A P O T R A N S P I R A C I Ó N
+425
+P O T E N C I A   L A T E N T E
+286 kW
+
+PÁGINA 2
+C L I - 0 6   ·   V E G E T A C I Ó N C L I - 0 6
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+C L I - 0 6   ·   C L I M A
+La vegetación no da la sombra: da lo demás
+¿Cuánto aporta la capa vegetal al clima del refugio y cuán sensible es el resultado al LAI
+bibliográfico?
+B · I N F E R I D O
+M É T O D O
+Cada especie entra al
+vóxel climático con su
+k_veg=0,5·LAI/3
+(Beer–Lambert
+volumétrico); el
+arbolado OSM existente
+(Platanus, k 0,750) se
+distingue del nuevo
+(Celtis, k 0,633) por
+ancla.
+Evapotranspiración
+Penman con kc 0,65 por
+copa. Sensibilidad:
+k_veg ±30 % re-trazando
+la transmitancia solar
+del 15-jul.
+D A T O S
+_veg_clima.json (17
+especies),
+vegetacion.json,
+kvA/kvB.npy, sens_kveg
+(motor).
+L I M I T A C I O N E S
+El LAI de cada especie
+es bibliográfico
+(ESTIMADO); las copas
+del término
+evapotranspirativo son
+cilindros del
+masterplan, no la
+silueta del asset.
+D O S E L   A R B O L A D O N L A I T A U   C O P A L / H K W
+ARBOLURB_NUEVO
+(Celtis)
+6 3.8 0.042 61 41.0
+ARBOLURB_EX
+(Platanus OSM)
+14 4.5 0.002 364 244.9
+C L I - 0 6 . 2   ·   S E N S I B I L I D A D   L A I   ± 3 0   %   ( L O W   /   B A S E   /   H I G H )
+H O R A   1 5 - J U L S O M B R A   L O W S O M B R A   B A S E S O M B R A   H I G H L E C T U R A
+14:30 37.6 % 38.0 % 38.1 % la sombra
+apenas se
+mueve
+16:30 42.4 % 43.2 % 43.4 % la sombra
+apenas se
+mueve
+18:30 55.5 % 56.2 % 56.5 % la sombra
+apenas se
+mueve
+— Hallazgo honesto: la sombra del refugio es estructural. Quitar o poner un 30 % de
+LAI mueve la fracción de sombra ±1 punto. La vegetación NO es el parasol.
+— Su papel real: 286 kW de calor latente (el 21 % del total evaporativo), superficies
+frías (Tveg~Ta+2 frente a granito Ta+20), biodiversidad y la experiencia del jardín
+(06_USO_SOCIAL).
+— Consecuencia de diseño: una sequía que degrade el LAI no colapsa el refugio
+térmico; degrada el confort fino y el paisaje. Vulnerabilidad acotada.

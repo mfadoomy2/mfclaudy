@@ -1,0 +1,66 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O C L I - 0 8
+C L I - 0 8   ·   C L I M A   Y   C O N F O R T
+Viento: el término
+no resuelto
+El modelo aplica el mismo viento a la plaza actual y a la propuesta. Este
+documento declara esa limitación, la acota con una sensibilidad y define qué
+haría falta para cerrarla.
+E S T A D O
+PENDIENTE DE CFD
+V I E N T O   E 2
+2.9 m/s
+S E N S I B I L I D A D   − 2 5   %
++0,36 K UTCI
+S E N S I B I L I D A D   − 5 0   %
++0,55 K UTCI
+
+PÁGINA 2
+C L I - 0 8   ·   V I E N T O C L I - 0 8
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+C L I - 0 8   ·   C L I M A
+Qué pasaría si el dosel frena el viento
+¿Cuánto confort se perdería si la estructura abriga el viento que el UTCI da por disponible?
+C · H I P Ó T E S I S   /   E S C E N A R I O
+M É T O D O
+El UTCI de CLI-04 usa el
+viento de escenario
+PVGIS idéntico en A y B
+(limitación declarada).
+Sensibilidad: recomputo
+del UTCI-B en E2/16h con
+viento −25 % y −50 %
+sobre la MRT real de la
+propuesta.
+D A T O S
+sens_viento (motor
+final), u_E2_16_B +
+f_E2_16_B_Tmrt.
+L I M I T A C I O N E S
+Resolver el abrigo
+aerodinámico real
+requiere CFD urbano o
+medición en prototipo
+(roadmap municipal, fase
+B). Este documento acota
+el riesgo, no lo cierra.
+37.7
+°C
+UTCI-B medio E2/16h con
+viento de escenario
++0,36
+K
+si el viento efectivo
+cae un 25 %
++0,55
+K
+si cae un 50 % (abrigo
+fuerte)
+— El signo importa: en verano, menos viento = peor confort. Si el dosel abriga con
+fuerza, hasta 0,55 K del beneficio de −2,5 K se devolverían.
+— El neto sigue siendo claramente positivo incluso en la cota pesimista (−2,5 + 0,55
+= −1,95 K), porque el mecanismo dominante es radiativo.
+— La geometría juega a favor: el dosel es de hojas discontinuas a 8-12 m con
+porosidad alta; no es una bóveda cerrada. El caso −50 % es deliberadamente duro.
+— Cierre pendiente: CFD urbano de 2 direcciones dominantes o anemometría en el piloto
+(fase B del roadmap). Hasta entonces, este término se publica como C.

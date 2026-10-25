@@ -1,0 +1,62 @@
+{
+  "documents": [
+    {
+      "file": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/GUIA_DIAGRAMAS_Y_QGIS/EXPLICACION_DIAGRAMAS_Y_80_PREGUNTAS.pdf",
+      "pages": 10
+    },
+    {
+      "file": "/Volumes/T7/G3 Proyectos/INVESTIGACIÓN/GUIA_DIAGRAMAS_Y_QGIS/LEYENDA_Y_ETIQUETAS_QGIS.pdf",
+      "pages": 4
+    }
+  ],
+  "questions": 80,
+  "counts": {
+    "puntos_fisicos": {
+      "ACC": 718,
+      "BAR": 69,
+      "COM": 540,
+      "DIR": 89,
+      "EDI": 1,
+      "EMP": 1,
+      "EQU": 465,
+      "INF": 13,
+      "MOB": 508,
+      "PAT": 85,
+      "TRA": 130,
+      "UMB": 1386,
+      "VER": 1035,
+      "VIA": 12
+    },
+    "lineas_fisicas": {
+      "ACC": 119,
+      "BAR": 203,
+      "COM": 47,
+      "EQU": 36,
+      "INF": 76,
+      "MOB": 3,
+      "PAT": 1,
+      "TRA": 33,
+      "UMB": 6,
+      "VER": 12,
+      "VIA": 902
+    },
+    "poligonos_fisicos": {
+      "BAR": 5,
+      "COM": 7,
+      "EDI": 1338,
+      "EQU": 20,
+      "INF": 1,
+      "MOB": 4,
+      "PAT": 7,
+      "TRA": 6,
+      "UMB": 7,
+      "VER": 130,
+      "VIA": 6
+    }
+  },
+  "totals": [
+    5052,
+    1438,
+    1531
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "code": "02",
+  "title": "Basamento: la pared cambia al tocar la calle",
+  "definition": "En ocho frentes distintos, el contacto con la calle se diferencia mediante piezas pétreas o un revestimiento de apariencia pétrea con juntas visibles. Se compara la continuidad, la altura relativa y su interrupción por accesos; no se identifica una cantera por fotografía.",
+  "conclusion": "El basamento no es un adorno uniforme. B02 envuelve casi toda la planta baja; B01 y B13 forman una franja más baja; B05 concentra piezas en jambas y machones. El portal obliga a negociar el encuentro entre suelo, pared y carpintería.",
+  "question": "¿Qué parte de la planta baja necesita soportar roce, apoyo de objetos, limpieza o reposición? ¿Puede esa banda admitir cambios sin rehacer toda la fachada?",
+  "test": "Probar un zócalo con piezas sustituibles y juntas accesibles, comparado con un acabado continuo. Resolver primero umbral, drenaje y encuentro con carpintería; la fotografía no prueba la solución oculta existente.",
+  "diagram": "base",
+  "cases": [
+    {
+      "front": "B01",
+      "source": "RC02",
+      "target": [
+        0.254,
+        0.713
+      ],
+      "crop": [
+        0.19,
+        0.57,
+        0.3,
+        0.77
+      ],
+      "note": "Franja gris baja, interrumpida por una puerta de madera."
+    },
+    {
+      "front": "B02",
+      "source": "RC02",
+      "target": [
+        0.561,
+        0.601
+      ],
+      "crop": [
+        0.51,
+        0.49,
+        0.74,
+        0.7
+      ],
+      "note": "Despiece pétreo en toda la altura del acceso."
+    },
+    {
+      "front": "B03",
+      "source": "RC03",
+      "target": [
+        0.206,
+        0.675
+      ],
+      "crop": [
+        0.15,
+        0.5,
+        0.36,
+        0.75
+      ],
+      "note": "Piezas grises al pie de los machones, bajo acabado blanco."
+    },
+    {
+      "front": "B04",
+      "source": "RC04",
+      "target": [
+        0.468,
+        0.706
+      ],
+      "crop": [
+        0.425,
+        0.57,
+        0.585,
+        0.79
+      ],
+      "note": "Juntas horizontales del revestimiento de planta baja."
+    },
+    {
+      "front": "B05",
+      "source": "RC05",
+      "target": [
+        0.308,
+        0.694
+      ],
+      "crop": [
+        0.26,
+        0.52,
+        0.46,
+        0.76
+      ],
+      "note": "Jamba y machón pétreos entre portal y escaparate."
+    },
+    {
+      "front": "B07",
+      "source": "RC06",
+      "target": [
+        0.638,
+        0.713
+      ],
+      "crop": [
+        0.57,
+        0.53,
+        0.79,
+        0.77
+      ],
+      "note": "Base pétrea alrededor del portal y tienda Amantis."
+    },
+    {
+      "front": "B09",
+      "source": "RC08",
+      "target": [
+        0.508,
+        0.69
+      ],
+      "crop": [
+        0.46,
+        0.53,
+        0.66,
+        0.78
+      ],
+      "note": "Grandes piezas con juntas marcadas en la banda de acceso."
+    },
+    {
+      "front": "B13",
+      "source": "RC12",
+      "target": [
+        0.698,
+        0.751
+      ],
+      "crop": [
+        0.55,
+        0.61,
+        0.82,
+        0.89
+      ],
+      "note": "Zócalo de placas grises, bajo revoco ocre claro."
+    }
+  ]
+}

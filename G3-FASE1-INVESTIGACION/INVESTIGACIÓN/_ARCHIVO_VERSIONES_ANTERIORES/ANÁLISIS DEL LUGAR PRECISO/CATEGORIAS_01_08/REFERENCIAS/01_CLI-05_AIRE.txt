@@ -1,0 +1,70 @@
+PÁGINA 1
+I R A X X X D I O S     /     R E F U G I O   C L I M Á T I C O C L I - 0 5
+C L I - 0 5   ·   C L I M A   Y   C O N F O R T
+Temperatura del aire
+Lo que una sombra puede y no puede hacer: el efecto local y el efecto de
+conjunto sobre la temperatura del aire de la plaza, con sus hipótesis a la
+vista.
+B A S E L I N E
+v006 · build 12
+Δ T A   S E N S I B L E
+−0,66 K
+Δ T A   L A T E N T E
+−0,43 K
+Δ T A   T O T A L
+−1,09
+
+PÁGINA 2
+C L I - 0 5   ·   A I R E C L I - 0 5
+I R A X X X D I O S   ·   R E F U G I O   C L I M Á T I C O 2
+C L I - 0 5   ·   C L I M A   Y   C O N F O R T
+El aire apenas se entera — y eso es lo esperable
+¿Cuánto baja la temperatura DEL AIRE (no la radiante) y por qué es honesto decir que poco?
+B · I N F E R I D O
+M É T O D O
+Balance de volumen de
+control: sección de 100
+m × 10 m de altura de
+mezcla barrida por el
+viento medio; el término
+sensible retira el flujo
+de calor que el suelo
+sombreado deja de
+emitir; el latente suma
+evaporación de agua y
+vegetación.
+D A T O S
+aire.json (dH 771 kW,
+mdot 1.165 kg/s),
+agua.json,
+vegetacion.json.
+L I M I T A C I O N E S
+ESTIMADO de orden de
+magnitud, no CFD: la
+advección real depende
+de la turbulencia
+urbana. El propio json
+declara la hipótesis
+textualmente.
+— El confort NO viene del aire. De la mejora percibida (−2,5 K UTCI), el ~90 % procede
+de la radiación (MRT −10,9 K). El aire aporta ~−1,1 K local.
+— Una sombra no refrigera la ciudad. El volumen de aire de Sol se renueva por viento
+en decenas de segundos: cualquier promesa de «bajar la temperatura de Madrid» sería
+falsa y no se hace.
+— El efecto local es real y medible a posteriori. El plan municipal (10_SINTESIS)
+incluye sensores Ta/HR bajo dosel y fuera para validar el −1,1 K estimado.
+D E S C O M P O S I C I Ó N   D E L   Δ T A   ( V O L U M E N   D E   C O N T R O L   ·   N I V E L   B )
+T É R M I N O M E C A N I S M O Δ T A
+Sensible flujo convectivo que el suelo
+sombreado deja de ceder al
+aire
+−0,66 K
+Latente evaporación de láminas de
+agua + evapotranspiración
+vegetal (711 kW)
+−0,43 K
+Total
+local
+suma bajo el dosel, con
+mezcla de 10 m
+−1,09 K

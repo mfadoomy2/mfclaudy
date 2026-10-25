@@ -1,0 +1,131 @@
+{
+  "code": "05",
+  "title": "Comercio: el hueco funciona como vitrina",
+  "definition": "Se comparan ocho locales distintos, no ocho fotografías de un mismo negocio. El objeto, rótulo y cierre ocupan una banda frontal; la diferencia está en mostrar tras vidrio, abrir el hueco o prolongar el uso al umbral. No se atribuye permiso de ocupación a lo que aparece fuera.",
+  "conclusion": "Barrabés y Ranger acumulan objetos detrás del vidrio; la tienda de B05 deja un pequeño objeto en el umbral; Paprika lleva plantas al borde; Amantis presenta una entrada abierta. La planta baja hace legible su actividad mediante profundidad y contenido, no solo mediante color.",
+  "question": "¿Puede la planta baja del proyecto aportar reparación, intercambio, exposición o almacenaje al Rastro sin bloquear el acceso de las viviendas? ¿Cómo se reconoce el umbral cuando el taller está cerrado?",
+  "test": "Dibujar una franja de espesor útil: cierre, escaparate, lugar de apoyo y circulación libre. Contrastar la actividad diaria con la del mercadillo sin suponer que todas las tiendas sacan mercancía a la calle.",
+  "diagram": "comercio",
+  "cases": [
+    {
+      "front": "B01",
+      "source": "RC02",
+      "target": [
+        0.411,
+        0.673
+      ],
+      "crop": [
+        0.255,
+        0.565,
+        0.455,
+        0.746
+      ],
+      "note": "Chimeneas José Martínez: rótulo y escaparates por huecos."
+    },
+    {
+      "front": "B05",
+      "source": "RC05",
+      "target": [
+        0.362,
+        0.72
+      ],
+      "crop": [
+        0.314,
+        0.542,
+        0.442,
+        0.758
+      ],
+      "note": "Tienda de la esquina: escaparate, puerta y pequeña mesa exterior."
+    },
+    {
+      "front": "B06",
+      "source": "RC05",
+      "target": [
+        0.673,
+        0.727
+      ],
+      "crop": [
+        0.609,
+        0.594,
+        0.727,
+        0.798
+      ],
+      "note": "Barrabés: material expuesto detrás del vidrio."
+    },
+    {
+      "front": "B07",
+      "source": "RC06",
+      "target": [
+        0.73,
+        0.661
+      ],
+      "crop": [
+        0.642,
+        0.531,
+        0.785,
+        0.748
+      ],
+      "note": "Amantis: acceso abierto y frente dividido por machones."
+    },
+    {
+      "front": "B08",
+      "source": "RC07",
+      "target": [
+        0.454,
+        0.693
+      ],
+      "crop": [
+        0.292,
+        0.5239297520661157,
+        0.638,
+        0.8670702479338843
+      ],
+      "note": "La Plaza: frente ancho subdividido en huecos de acceso y vidrio."
+    },
+    {
+      "front": "B09",
+      "source": "RC08",
+      "target": [
+        0.756,
+        0.647
+      ],
+      "crop": [
+        0.684,
+        0.5,
+        0.808,
+        0.746
+      ],
+      "note": "Ranger: vitrina estrecha y densa, reconocible también en F30."
+    },
+    {
+      "front": "B14",
+      "source": "RC01",
+      "target": [
+        0.368,
+        0.611
+      ],
+      "crop": [
+        0.338,
+        0.51,
+        0.413,
+        0.68
+      ],
+      "note": "Galerías Piquer: escaparate individual junto a varios cierres."
+    },
+    {
+      "front": "B19",
+      "source": "RC06",
+      "target": [
+        0.234,
+        0.717
+      ],
+      "crop": [
+        0.13,
+        0.568,
+        0.284,
+        0.784
+      ],
+      "note": "Paprika: plantas y objetos delimitan el borde del local."
+    }
+  ]
+}
