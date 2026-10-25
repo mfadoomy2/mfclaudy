@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "name": "corralas_y_tipologias_historicas",
+  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}},
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-3.702550, 40.408090]},
+      "properties": {
+        "ID": "C001",
+        "Nombre": "Corrala de Sombrerete",
+        "Ano_Construccion": null,
+        "Tipologia": "Casa de corredor histórica",
+        "Categoria": "Corrala",
+        "Intensidad_Uso": "No medida",
+        "Temporalidad": "Permanente",
+        "Tipo_Geometria": "Punto",
+        "Latitud": 40.408090,
+        "Longitud": -3.702550,
+        "Fuente": "OpenStreetMap y referencia patrimonial",
+        "Precision_Geometria": "Centroide del edificio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-3.708099, 40.408835]},
+      "properties": {
+        "ID": "C002",
+        "Nombre": "Centro Cultural La Corrala",
+        "Ano_Construccion": null,
+        "Tipologia": "Casa de corredor rehabilitada como equipamiento",
+        "Categoria": "Corrala",
+        "Intensidad_Uso": "No medida",
+        "Temporalidad": "Permanente",
+        "Tipo_Geometria": "Punto",
+        "Latitud": 40.408835,
+        "Longitud": -3.708099,
+        "Fuente": "Ayuntamiento de Madrid y OpenStreetMap",
+        "Precision_Geometria": "Centroide aproximado del conjunto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-3.704923, 40.408480]},
+      "properties": {
+        "ID": "C003",
+        "Nombre": "Embajadores 46",
+        "Ano_Construccion": null,
+        "Tipologia": "Corrala rehabilitada",
+        "Categoria": "Corrala",
+        "Intensidad_Uso": "No medida",
+        "Temporalidad": "Permanente",
+        "Tipo_Geometria": "Punto",
+        "Latitud": 40.408480,
+        "Longitud": -3.704923,
+        "Fuente": "Ayuntamiento de Madrid y Nominatim",
+        "Precision_Geometria": "Acceso del inmueble"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-3.708177, 40.409578]},
+      "properties": {
+        "ID": "C004",
+        "Nombre": "Viviendas para jóvenes Vara de Rey 12",
+        "Ano_Construccion": 2010,
+        "Tipologia": "Reinterpretación contemporánea de corrala",
+        "Categoria": "Vivienda colectiva",
+        "Intensidad_Uso": "No medida",
+        "Temporalidad": "Permanente",
+        "Tipo_Geometria": "Punto",
+        "Latitud": 40.409578,
+        "Longitud": -3.708177,
+        "Fuente": "Ayuntamiento de Madrid y Nominatim",
+        "Precision_Geometria": "Referencia aproximada en plaza; verificar acceso exacto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+ID,Categoria,Tipo_Usuario,Accion,Latitud,Longitud,Frecuencia_Horaria,Intensidad_Uso,Temporalidad,Tipo_Geometria,Franja,Fuente,Estado_Dato
+F001,Mercado,Visitantes y compradores,Comprar y pasear,40.407576,-3.707172,NO_MEDIDA,Alta prevista,Efímero,Punto,Domingos y festivos 09:00-15:00,Ayuntamiento de Madrid y coordenada aproximada OSM,Horario confirmado intensidad pendiente de conteo
+F002,Montaje,Comerciantes y logística,Descargar y montar puestos,40.407576,-3.707172,NO_MEDIDA,Media prevista,Efímero,Punto,Domingos y festivos 08:00-09:00,Ayuntamiento de Madrid y coordenada aproximada OSM,Horario confirmado intensidad pendiente de conteo
+F003,Desmontaje,Comerciantes y logística,Recoger puestos,40.407576,-3.707172,NO_MEDIDA,Media prevista,Efímero,Punto,Domingos y festivos 15:00-16:00,Ayuntamiento de Madrid y coordenada aproximada OSM,Horario confirmado intensidad pendiente de conteo
+F004,Limpieza,Servicios urbanos,Limpiar y retirar residuos,40.407576,-3.707172,NO_MEDIDA,Media prevista,Efímero,Punto,Domingos y festivos 15:00-18:00,Ayuntamiento de Madrid y coordenada aproximada OSM,Horario confirmado intensidad pendiente de conteo
+F005,Cotidiano,Residentes y comercio fijo,Acceder comprar y atravesar,40.407576,-3.707172,NO_MEDIDA,Pendiente,Permanente,Punto,Días laborables,Ayuntamiento de Madrid y coordenada aproximada OSM,Acciones por verificar en campo

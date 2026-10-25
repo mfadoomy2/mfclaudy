@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "name": "ocupacion_temporal_rastro_preliminar",
+  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}},
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-3.707321, 40.410584],
+          [-3.707172, 40.407576],
+          [-3.707113, 40.405837]
+        ]
+      },
+      "properties": {
+        "ID": "T001",
+        "Categoria": "Eje principal del mercado",
+        "Dia_Semana": "Domingos y festivos",
+        "Elemento_Material": "Puestos toldos mercancías y flujo peatonal",
+        "Altura_Zonificacion": "Pendiente de levantamiento",
+        "Intensidad_Uso": "Alta prevista",
+        "Temporalidad": "Efímero",
+        "Tipo_Geometria": "Línea",
+        "Fuente": "Recinto descrito por el Ayuntamiento y referencias OSM",
+        "Precision_Geometria": "Esquema preliminar del eje Ribera de Curtidores; no representa el límite legal"
+      }
+    }
+  ]
+}
