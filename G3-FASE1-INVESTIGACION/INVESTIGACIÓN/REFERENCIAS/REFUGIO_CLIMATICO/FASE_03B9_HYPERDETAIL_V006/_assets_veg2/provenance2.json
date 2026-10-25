@@ -1,0 +1,120 @@
+{
+  "fecha_descarga": "2026-08-13",
+  "destino": "_assets_veg2/",
+  "assets": [
+    {
+      "archivo": "elm_tree_polybygoogle.glb",
+      "especie_rol": "arbol urbano caduco completo copa+tronco (olmo / Ulmus, proxy de Celtis-Tilia) - HUECO 1",
+      "fuente_url": "https://poly.pizza/m/68OOL4zL6Co",
+      "autor": "Poly by Google",
+      "licencia": "CC-BY 3.0",
+      "formato": "glb (textura embebida, ~3k tris)",
+      "fecha_descarga": "2026-08-13",
+      "notas": "los arboles fotoescaneados de Poly Haven (39-204 MB de bin) exceden presupuesto; este low-mid poly es la mejor opcion dentro de licencia y peso",
+      "lod_sugerido": "B (calle media distancia); instanciable"
+    },
+    {
+      "archivo": "monstera_large_isalousberg.glb",
+      "especie_rol": "monstera deliciosa grande con fenestraciones legibles (mejora la monstera_plant actual) - HUECO 2",
+      "fuente_url": "https://poly.pizza/m/kZQ2WmnJFI",
+      "autor": "Isa Lousberg",
+      "licencia": "CC0",
+      "formato": "glb (textura embebida, ~4.5k verts)",
+      "fecha_descarga": "2026-08-13",
+      "notas": "version 'Large Monstera Plant' de la misma autora que la actual; hojas mas grandes y recortes visibles",
+      "lod_sugerido": "A/B (interior primer plano)"
+    },
+    {
+      "archivo": "big_leaf_plant_reyshapes.glb",
+      "especie_rol": "alocasia / elephant ear - palas grandes verticales - HUECO 3",
+      "fuente_url": "https://poly.pizza/m/aKIm5k6l5F",
+      "autor": "reyshapes",
+      "licencia": "CC0",
+      "formato": "glb (sin textura, color por material, ~1k verts)",
+      "fecha_descarga": "2026-08-13",
+      "notas": "no existe alocasia fotoescaneada CC0/CC-BY sin login; este 'Big Leaf Plant' es la pala grande mas legible encontrada",
+      "lod_sugerido": "B (interior media distancia)"
+    },
+    {
+      "archivo": "water_lilies_polybygoogle.glb",
+      "especie_rol": "nenufar / water lily - hojas flotantes + flor - HUECO 4",
+      "fuente_url": "https://poly.pizza/m/birD7XV2A44",
+      "autor": "Poly by Google",
+      "licencia": "CC-BY 3.0",
+      "formato": "glb (textura embebida, ~1.8k verts)",
+      "fecha_descarga": "2026-08-13",
+      "notas": "mesh 'GiantWaterLilies': grupo de hojas flotantes con flores, listo para lamina de agua",
+      "lod_sugerido": "B (lamina de agua, media distancia)"
+    },
+    {
+      "archivo": "japanese_sedge_zsky.glb",
+      "especie_rol": "junco / reeds clump (Carex, mata completa, no cattail suelto) - HUECO 5",
+      "fuente_url": "https://poly.pizza/m/bTMJc47EiE",
+      "autor": "Zsky",
+      "licencia": "CC-BY 3.0",
+      "formato": "glb (color por material, ~1.9k verts)",
+      "fecha_descarga": "2026-08-13",
+      "notas": "mata densa de sedge; complementa el cattail_polybygoogle existente",
+      "lod_sugerido": "B/C (borde de agua, instanciable)"
+    },
+    {
+      "archivo": "corn_plant_phases_apelab.glb",
+      "especie_rol": "planta de huerto (maiz en 6 fases de crecimiento; proxy de tomatera) - HUECO 6",
+      "fuente_url": "https://poly.pizza/m/a69USAWC9MM",
+      "autor": "apelab",
+      "licencia": "CC-BY 3.0",
+      "formato": "glb (6 meshes = 6 fases, ~5k verts total)",
+      "fecha_descarga": "2026-08-13",
+      "notas": "NO existe tomatera CC0/CC-BY descargable sin login en las fuentes autorizadas; el maiz por fases cubre el rol de cultivo de huerto y las fases dan variedad",
+      "lod_sugerido": "B (parcela de huerto)"
+    },
+    {
+      "archivo": "fern_quaternius.glb",
+      "especie_rol": "helecho segundo (estilizado, rompe clones del fern_02 fotoescaneado) - HUECO 7",
+      "fuente_url": "https://poly.pizza/m/jqcanvH7D6",
+      "autor": "Quaternius",
+      "licencia": "CC0",
+      "formato": "glb (textura embebida, ~243 verts)",
+      "fecha_descarga": "2026-08-13",
+      "notas": "muy low-poly; usar en fondo o masa, nunca junto a fern_02 en primer plano",
+      "lod_sugerido": "C (fondo / masa)"
+    },
+    {
+      "archivo": "ivy_polybygoogle.glb",
+      "especie_rol": "hiedra trepadora sobre soporte - HUECO 8",
+      "fuente_url": "https://poly.pizza/m/1ufwWhb0Dlj",
+      "autor": "Poly by Google",
+      "licencia": "CC-BY 3.0",
+      "formato": "glb (textura embebida, ~3.8k verts)",
+      "fecha_descarga": "2026-08-13",
+      "notas": "manto de hiedra; aplicable a muro o pergola",
+      "lod_sugerido": "B (muros vistos)"
+    },
+    {
+      "archivo": "shrub_01/shrub_01_1k.gltf",
+      "especie_rol": "arbusto segundo con flor (fotoescaneado, variedad frente a shrub_04) - HUECO 9",
+      "fuente_url": "https://polyhaven.com/a/shrub_01",
+      "autor": "Poly Haven",
+      "licencia": "CC0",
+      "formato": "gltf + bin + texturas jpg 1k",
+      "fecha_descarga": "2026-08-13",
+      "notas": "gltf referencia shrub_01.bin y textures/ relativos; cargar carpeta completa; mismo pipeline que _assets_veg",
+      "lod_sugerido": "A/B (fotoescaneado, primer plano valido)"
+    },
+    {
+      "archivo": "tall_grass_quaternius.glb",
+      "especie_rol": "graminea ornamental alta (proxy miscanthus) - HUECO 10",
+      "fuente_url": "https://poly.pizza/m/JSIYtscPmP",
+      "autor": "Quaternius",
+      "licencia": "CC0",
+      "formato": "glb (textura embebida, ~303 verts)",
+      "fecha_descarga": "2026-08-13",
+      "notas": "no hay pampas/miscanthus CC0-CC-BY en las fuentes; 'Grass_Common_Tall' cubre el rol en masa; muy low-poly",
+      "lod_sugerido": "C (masas, instanciable)"
+    }
+  ],
+  "huecos_no_cubiertos_literalmente": [
+    "tomatera exacta: ninguna fuente autorizada (Poly Haven, poly.pizza, Quaternius, Kenney, OpenGameArt) tiene tomato plant CC0/CC-BY descargable sin login; se cubrio el rol huerto con maiz por fases (corn_plant_phases_apelab.glb)",
+    "pampas/miscanthus exacta: 0 resultados en poly.pizza y Poly Haven; se cubrio con tall_grass_quaternius.glb"
+  ]
+}

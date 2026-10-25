@@ -1,0 +1,130 @@
+{
+  "_meta": {
+    "version": "E01-v1 (2026-08-07)",
+    "fuente_identidad": "renders originales DIBUJO3 + manual grafico Fase 01 + D14/D03B-05",
+    "convencion": "PBR metal/roughness. baseColor sRGB hex. transmission 0..1 (translucidez fisica). variacion = rangos aleatorios DETERMINISTAS por instancia (semilla = indice de malla). Traducible 1:1 a D5/Enscape/V-Ray asignando por capa Rhino.",
+    "nota_pod": "D03B-05: el detalle descartado de Tripo se resuelve con arrugas por deformacion no destructiva (solo visor/render, jamas en el 3dm), costuras en gajos ya modeladas, roughness irregular por instancia y translucidez."
+  },
+  "familias": {
+    "POD_TPU_ROSA": {
+      "capas": ["08_PINK_MODULES"],
+      "fams": ["POD_S", "POD_M", "POD_L", "POD_TRAIN", "TANK"],
+      "baseColor": "#F0A6C2",
+      "roughness": 0.30,
+      "metalness": 0.0,
+      "transmission": 0.52,
+      "ior": 1.32,
+      "thickness": 0.18,
+      "specularIntensity": 0.9,
+      "detalle": {
+        "arrugas_normal": "deformacion de vertices no destructiva: ruido 3D 2 octavas, amplitud 0.030 m alta frecuencia + 0.055 m baja frecuencia (asimetria), a lo largo de la normal; solo mallas fam POD_*/TANK parte envolvente",
+        "costuras": "gajos modelados (tubos 0.025) + roughness +0.15 en banda de costura (aprox por instancia)",
+        "variacion_instancia": { "hue": "±4 grados", "roughness": "±0.12", "escala_arrugas": "±35%", "transmission": "±0.08" }
+      },
+      "anti_globo": "roughness nunca < 0.18; arrugas siempre activas; sin clearcoat"
+    },
+    "MEMBRANA_VERDE": {
+      "capas": ["07_CANOPIES"],
+      "baseColor": "#B7D07E",
+      "roughness": 0.22,
+      "metalness": 0.0,
+      "transmission": 0.60,
+      "ior": 1.35,
+      "thickness": 0.06,
+      "doble_cara": true,
+      "variacion_instancia": { "hue": "±6 grados (lima<->verde agua)", "transmission": "±0.10" },
+      "nota": "la luz filtrada verde bajo el dosel ES la atmosfera del proyecto; la lamina de agua va aparte (AGUA_MICROALGAS)"
+    },
+    "AGUA_MICROALGAS": {
+      "capas": ["11_WATER"],
+      "fams_excluir": ["SPLASH"],
+      "baseColor": "#3E8A63",
+      "roughness": 0.08,
+      "metalness": 0.0,
+      "transmission": 0.35,
+      "ior": 1.33,
+      "nota": "masa verde-alga: mas absorcion que transparencia; oleaje sutil ya modelado en estanques"
+    },
+    "AGUA_SPLASH": {
+      "objetos": ["SPLASH"],
+      "baseColor": "#BFE3DC",
+      "roughness": 0.05,
+      "transmission": 0.7,
+      "nota": "lamina 1-3 cm clara y reflectante sobre granito; el mojado alrededor lo pinta la textura del suelo"
+    },
+    "MADERA_LAMINADA": {
+      "capas": ["02_PRIMARY_STRUCTURE", "03_SECONDARY_STRUCTURE", "04_MASTS", "10_FURNITURE"],
+      "baseColor": "#B08055",
+      "roughness": 0.55,
+      "metalness": 0.0,
+      "variacion_instancia": { "value": "±6%", "roughness": "±0.08" },
+      "nota": "madera laminada clara/bambu tecnologico (D14); veta por textura en pipeline final; nudos y herrajes discretos = NUDO_ACERO"
+    },
+    "NUDO_ACERO": {
+      "objetos": ["NODE", "orejetas de canopy", "herrajes"],
+      "baseColor": "#C8C8C4",
+      "roughness": 0.30,
+      "metalness": 1.0
+    },
+    "RED_HIDRAULICA_ROSA": {
+      "capas": ["13_PIPES"],
+      "baseColor": "#E0508E",
+      "roughness": 0.35,
+      "metalness": 0.0,
+      "transmission": 0.15,
+      "nota": "TPU/PE rosa intenso, ligeramente satinado, siempre legible como sistema tecnico"
+    },
+    "MEMBRANA_ETFE": {
+      "capas": ["06_MEMBRANES"],
+      "baseColor": "#EDF3EA",
+      "roughness": 0.28,
+      "transmission": 0.62,
+      "ior": 1.35,
+      "doble_cara": true
+    },
+    "CABLES_TECNICOS": {
+      "capas": ["05_CABLES"],
+      "render": "lineas finas gris acero #6E6E6A; en motor final: pipes 8-16 mm acero"
+    },
+    "GRANITO_SOL": {
+      "capas": ["01_GROUND"],
+      "baseColor": "#CFC9BE",
+      "roughness": 0.82,
+      "textura": "procedural: despiece en bandas 1.8 m eje 7 grados + moteado granitico + ZONAS HUMEDAS pintadas en radio 3-5 m de cada boquilla (42), splash y estanques: baseColor -28% valor, roughness 0.22, charco especular en nucleo",
+      "nota": "la humedad localizada es la firma climatica del proyecto: se pinta DONDE el sistema moja, no como barniz global"
+    },
+    "VEGETACION": {
+      "capas": ["14_VEGETATION_PROXY", "15_VEGETATION_FULL"],
+      "baseColor": "#5F8F4C",
+      "roughness": 0.85,
+      "variacion_instancia": { "hue": "±8 grados", "value": "±10%" },
+      "nota": "E01 mantiene proxies; el realismo vegetal es E02"
+    },
+    "CONTEXTO": {
+      "capas": ["00_CONTEXT"],
+      "baseColor": "#DAD3C6",
+      "roughness": 0.95,
+      "nota": "neutro calido, sin competir; Casa de Correos ligeramente mas calida #D9CDBB"
+    },
+    "PERSONAS": {
+      "capas": ["16_PEOPLE_PROXY"],
+      "baseColor": "#6B6B6B",
+      "roughness": 0.9
+    },
+    "NIEBLA_VOLUMEN": {
+      "capas": ["12_MIST"],
+      "baseColor": "#E8F4F0",
+      "roughness": 1.0,
+      "opacity": 0.16,
+      "nota": "proxy de vapor en E01; niebla real en E03"
+    }
+  },
+  "iluminacion_E01": {
+    "sol": { "color": "#FFEFD6", "intensidad": 2.6, "posicion": [120, -80, 150], "sombras": "PCFSoft 2048, bias -0.0002" },
+    "cielo": { "hemisferio": ["#EAF2F8", "#CFC5B2"], "intensidad": 0.55 },
+    "relleno": { "color": "#DCE8F5", "intensidad": 0.18 },
+    "env": "PMREM de mini-escena cielo calido (reflejos y transmision)",
+    "tonemapping": "ACESFilmic, exposure 1.12",
+    "niebla_ambiental": { "color": "#F2EFE7", "near": 90, "far": 380, "nota": "solo lectura de profundidad, no cinematografica" }
+  }
+}

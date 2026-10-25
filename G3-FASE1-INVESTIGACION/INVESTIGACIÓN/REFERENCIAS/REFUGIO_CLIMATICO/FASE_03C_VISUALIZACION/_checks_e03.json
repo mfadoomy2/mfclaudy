@@ -1,0 +1,104 @@
+{
+ "H1_mediodia": {
+  "existe": true,
+  "kb": 1867,
+  "ok_30kb": true,
+  "lum_media": 163.1,
+  "dLum_vs_E02_pct": 2.4,
+  "ok_niebla_8pct": true,
+  "H1_roi_sombra_pct": 31.7,
+  "ok_H1_sombra_30": true
+ },
+ "H1_tarde": {
+  "existe": true,
+  "kb": 1908,
+  "ok_30kb": true,
+  "lum_media": 136.9
+ },
+ "H2_mediodia": {
+  "existe": true,
+  "kb": 1720,
+  "ok_30kb": true,
+  "lum_media": 95.5,
+  "dLum_vs_E02_pct": -2.5,
+  "ok_niebla_8pct": true
+ },
+ "H2_tarde": {
+  "existe": true,
+  "kb": 1599,
+  "ok_30kb": true,
+  "lum_media": 75.8
+ },
+ "H3_mediodia": {
+  "existe": true,
+  "kb": 2013,
+  "ok_30kb": true,
+  "lum_media": 145.9,
+  "dLum_vs_E02_pct": 1.4,
+  "ok_niebla_8pct": true
+ },
+ "H3_tarde": {
+  "existe": true,
+  "kb": 2123,
+  "ok_30kb": true,
+  "lum_media": 107.5
+ },
+ "H4_mediodia": {
+  "existe": true,
+  "kb": 1319,
+  "ok_30kb": true,
+  "lum_media": 145.8,
+  "dLum_vs_E02_pct": -0.6,
+  "ok_niebla_8pct": true
+ },
+ "H4_tarde": {
+  "existe": true,
+  "kb": 1176,
+  "ok_30kb": true,
+  "lum_media": 123.8,
+  "H4_contraste_pct": 61.2,
+  "ok_H4_contraste_15": true
+ },
+ "H5_mediodia": {
+  "existe": true,
+  "kb": 1927,
+  "ok_30kb": true,
+  "lum_media": 128.5,
+  "dLum_vs_E02_pct": -8.4,
+  "ok_niebla_8pct": true
+ },
+ "H5_tarde": {
+  "existe": true,
+  "kb": 2001,
+  "ok_30kb": true,
+  "lum_media": 108.8
+ },
+ "H6_mediodia": {
+  "existe": true,
+  "kb": 1739,
+  "ok_30kb": true,
+  "lum_media": 116.8,
+  "dLum_vs_E02_pct": -0.8,
+  "ok_niebla_8pct": true
+ },
+ "H6_tarde": {
+  "existe": true,
+  "kb": 1788,
+  "ok_30kb": true,
+  "lum_media": 95.9
+ },
+ "H7_mediodia": {
+  "existe": true,
+  "kb": 2110,
+  "ok_30kb": true,
+  "lum_media": 153.4
+ },
+ "H7_tarde": {
+  "existe": true,
+  "kb": 1991,
+  "ok_30kb": true,
+  "lum_media": 128.5
+ },
+ "H3_chorro_px": 24.4,
+ "ok_H3_chorro_3px": true
+}

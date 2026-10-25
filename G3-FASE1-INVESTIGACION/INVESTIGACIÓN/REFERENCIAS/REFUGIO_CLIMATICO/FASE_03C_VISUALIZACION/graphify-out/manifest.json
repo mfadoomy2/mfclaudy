@@ -1,0 +1,397 @@
+{
+  "_viewer/scene_extra.js": {
+    "mtime": 1786457652.277474,
+    "ast_hash": "44d49cddd79590eafa496ea640e50f21",
+    "semantic_hash": ""
+  },
+  "_viewer/scene_full.js": {
+    "mtime": 1786357130.709563,
+    "ast_hash": "b5e8a70921100b4827b66d7a18d5dc1c",
+    "semantic_hash": ""
+  },
+  "_viewer/scene_v003.js": {
+    "mtime": 1786454996.073374,
+    "ast_hash": "3e852e8e0d039d1ef0e4f4c2883b878c",
+    "semantic_hash": ""
+  },
+  "_viewer/tex_data.js": {
+    "mtime": 1786357131.989277,
+    "ast_hash": "c086a77f26aff21cd80fc810aeb46956",
+    "semantic_hash": ""
+  },
+  "_viewer/tex_data2.js": {
+    "mtime": 1786457651.942808,
+    "ast_hash": "f853579f985d1b7b2889467054710ee3",
+    "semantic_hash": ""
+  },
+  "_viewer/three.min.js": {
+    "mtime": 1786118182.3230333,
+    "ast_hash": "bc138621ece88793eb711a9e967b273a",
+    "semantic_hash": ""
+  },
+  "atmos_prep.py": {
+    "mtime": 1786457644.6208758,
+    "ast_hash": "cdc94b9f2b9c99761d9804b8d1a0bc0e",
+    "semantic_hash": ""
+  },
+  "boards_e03.py": {
+    "mtime": 1786457386.4392054,
+    "ast_hash": "91dd42d19190cef20d4a217a94519341",
+    "semantic_hash": ""
+  },
+  "checks_e03.py": {
+    "mtime": 1786457348.8542795,
+    "ast_hash": "f9dd5d470854428b6da4b5830f94d082",
+    "semantic_hash": ""
+  },
+  "embed_tex.py": {
+    "mtime": 1786355861.7663362,
+    "ast_hash": "0e0a59b4a43ae55818b56a79302e8312",
+    "semantic_hash": ""
+  },
+  "lib_board.py": {
+    "mtime": 1786357278.2962573,
+    "ast_hash": "fe7644dc1d31ab405c80e64a43343638",
+    "semantic_hash": ""
+  },
+  "patch_e02_materials.py": {
+    "mtime": 1786356991.5982997,
+    "ast_hash": "857e75407ce832e3286e8e883116691d",
+    "semantic_hash": ""
+  },
+  "patch_palette.py": {
+    "mtime": 1786356154.2520387,
+    "ast_hash": "a4597e4aabc14b0e783071789b5f9de2",
+    "semantic_hash": ""
+  },
+  "render_e01.py": {
+    "mtime": 1786357166.978691,
+    "ast_hash": "6f946da0de9ce882828858467b441ee5",
+    "semantic_hash": ""
+  },
+  "render_e03.py": {
+    "mtime": 1786457060.8520024,
+    "ast_hash": "c3c55ec6ab01bffcfc87da0fbbdfd034",
+    "semantic_hash": ""
+  },
+  "tex_ground.py": {
+    "mtime": 1786356954.7147884,
+    "ast_hash": "a05fd32c1494cc829a4ba52fe631adbc",
+    "semantic_hash": ""
+  },
+  "ATMOSFERA_NOTES.md": {
+    "mtime": 1786457885.7943568,
+    "ast_hash": "4d98fb5c053375d23efaaf2bdd452fe4",
+    "semantic_hash": ""
+  },
+  "E03_EXECUTION_PLAN.md": {
+    "mtime": 1786455270.7926824,
+    "ast_hash": "35e737ced648104a28080ae7e10f8e9a",
+    "semantic_hash": ""
+  },
+  "FASE_03C_PLAN.md": {
+    "mtime": 1786122485.8303216,
+    "ast_hash": "4b14de0a6ea6529a9d9c5d7fffeeaa2b",
+    "semantic_hash": ""
+  },
+  "HANDOFF_D5_VRAY.md": {
+    "mtime": 1786457421.1501112,
+    "ast_hash": "75cbfafcaa01ae7249f21b524e2e6581",
+    "semantic_hash": ""
+  },
+  "REGISTRO_E01.md": {
+    "mtime": 1786356392.6196527,
+    "ast_hash": "3c300937be0a6178734e6e9d7894428c",
+    "semantic_hash": ""
+  },
+  "REGISTRO_E02.md": {
+    "mtime": 1786357346.5158837,
+    "ast_hash": "cbbbc3443026303cdd21d7862f84e1ce",
+    "semantic_hash": ""
+  },
+  "REGISTRO_E03.md": {
+    "mtime": 1786457902.2417457,
+    "ast_hash": "e1b507b57cb9f100f54b0e4814a393b0",
+    "semantic_hash": ""
+  },
+  "_viewer/test_shadow.html": {
+    "mtime": 1786355747.8606913,
+    "ast_hash": "a67dc8fe409316d71b74890a8f5690b0",
+    "semantic_hash": ""
+  },
+  "_viewer/viewer_e01.html": {
+    "mtime": 1786357132.013824,
+    "ast_hash": "43f25bdaf2abe2acf5cafa1dbfa2ae0a",
+    "semantic_hash": ""
+  },
+  "_viewer/viewer_e03.html": {
+    "mtime": 1786456888.4487133,
+    "ast_hash": "b64530b204a85c2438e425c12afa25d2",
+    "semantic_hash": ""
+  },
+  "BIBLIOTECA_VEGETAL_E02.jpg": {
+    "mtime": 1786357302.4980829,
+    "ast_hash": "eeaa3aedbe2dac3a2a84740c7a1a4af9",
+    "semantic_hash": ""
+  },
+  "COMPARATIVA_E01_E02.jpg": {
+    "mtime": 1786357302.9551287,
+    "ast_hash": "499eaf6a84cd1ec3670f789e56c4328e",
+    "semantic_hash": ""
+  },
+  "COMPARATIVA_E02_E03.jpg": {
+    "mtime": 1786457880.9291704,
+    "ast_hash": "b69549eb9cda5cdc63c6feca710354d1",
+    "semantic_hash": ""
+  },
+  "HOJA_CONTACTO_E01.jpg": {
+    "mtime": 1786356344.3015945,
+    "ast_hash": "530f9a99320578b13fa208bad6ade3be",
+    "semantic_hash": ""
+  },
+  "HOJA_CONTACTO_E03.jpg": {
+    "mtime": 1786457880.331505,
+    "ast_hash": "23922abd2349b57903bc2f3c747a302c",
+    "semantic_hash": ""
+  },
+  "_viewer/_test_shadow.png": {
+    "mtime": 1786355762.7155273,
+    "ast_hash": "4a3ad1678da2ca66b8991a20721abf4e",
+    "semantic_hash": ""
+  },
+  "_viewer/tex/granito.jpg": {
+    "mtime": 1786357131.9149811,
+    "ast_hash": "b84c11d0900aa3f19db64e464d31cec9",
+    "semantic_hash": ""
+  },
+  "_viewer/tex/granito_rough.jpg": {
+    "mtime": 1786357131.9214914,
+    "ast_hash": "c1557a2c3768fa7b53c40471263d8345",
+    "semantic_hash": ""
+  },
+  "biblioteca_vegetal/VEG2_ACUATICA.png": {
+    "mtime": 1786357301.4594042,
+    "ast_hash": "a1b5c2e4b77460ff87b01883cf83d7c3",
+    "semantic_hash": ""
+  },
+  "biblioteca_vegetal/VEG2_ARBOL_A.png": {
+    "mtime": 1786357296.1486242,
+    "ast_hash": "6f79fb72e604b29269a0aaa10981bbf2",
+    "semantic_hash": ""
+  },
+  "biblioteca_vegetal/VEG2_ARBOL_B.png": {
+    "mtime": 1786357296.9097733,
+    "ast_hash": "def8f546d8900de8a1e73309edcc2aa9",
+    "semantic_hash": ""
+  },
+  "biblioteca_vegetal/VEG2_ARBOL_EX.png": {
+    "mtime": 1786357297.7269435,
+    "ast_hash": "d5b9ae482cd933062cf48d84d6b21f3c",
+    "semantic_hash": ""
+  },
+  "biblioteca_vegetal/VEG2_BAJA.png": {
+    "mtime": 1786357299.2832372,
+    "ast_hash": "e5efc1e167defedb6f884f34e4c8d6a0",
+    "semantic_hash": ""
+  },
+  "biblioteca_vegetal/VEG2_COLGANTE.png": {
+    "mtime": 1786357302.211249,
+    "ast_hash": "c341d20c5046ad0224e1577377a8f3ad",
+    "semantic_hash": ""
+  },
+  "biblioteca_vegetal/VEG2_HUERTO.png": {
+    "mtime": 1786357300.7589562,
+    "ast_hash": "d4aba4e61375d5bfad2879174f81ba8e",
+    "semantic_hash": ""
+  },
+  "biblioteca_vegetal/VEG2_TREPADORA.png": {
+    "mtime": 1786357298.5156195,
+    "ast_hash": "13fdf5039348e561c6143e69d1f4f5a5",
+    "semantic_hash": ""
+  },
+  "biblioteca_vegetal/VEG2_TROPICAL.png": {
+    "mtime": 1786357300.0084012,
+    "ast_hash": "918749ca1bbeba78d3d9c4f57da19618",
+    "semantic_hash": ""
+  },
+  "direccion_arte/DA_V05_banda_correos.png": {
+    "mtime": 1786357213.6593828,
+    "ast_hash": "35f9e9e34dc20fa40e8c58bf5367173b",
+    "semantic_hash": ""
+  },
+  "direccion_arte/DA_V06_bajo_C1.png": {
+    "mtime": 1786357182.260748,
+    "ast_hash": "56dd873fc5ad72105fef06d84d43bfad",
+    "semantic_hash": ""
+  },
+  "direccion_arte/DA_V07_reloj.png": {
+    "mtime": 1786357174.2650683,
+    "ast_hash": "75cc94267ecf82327a7d699d2b3c356b",
+    "semantic_hash": ""
+  },
+  "direccion_arte/DA_V10_cupula.png": {
+    "mtime": 1786357197.8847377,
+    "ast_hash": "11f56f04170091214a7d47f3e71c39c8",
+    "semantic_hash": ""
+  },
+  "direccion_arte/DA_V13_splash.png": {
+    "mtime": 1786357190.3518584,
+    "ast_hash": "2a3a8a0f7716dd395e62c78f7c3cc193",
+    "semantic_hash": ""
+  },
+  "direccion_arte/DA_V19_sobre_cinta.png": {
+    "mtime": 1786357205.9129026,
+    "ast_hash": "4dc93c239a8aa141cbae944e7b6deed8",
+    "semantic_hash": ""
+  },
+  "direccion_arte/_dbg_env.png": {
+    "mtime": 1786355911.9674227,
+    "ast_hash": "5336b4a4de08c49b75a398f736b4b839",
+    "semantic_hash": ""
+  },
+  "direccion_arte/_dbg_noenv.png": {
+    "mtime": 1786355917.027099,
+    "ast_hash": "3127e8971fdc1dba77d06a995ce4d70e",
+    "semantic_hash": ""
+  },
+  "direccion_arte/_sheet_DA.jpg": {
+    "mtime": 1786356220.4847276,
+    "ast_hash": "bcffdd59520b09b8e1bf0792972f8754",
+    "semantic_hash": ""
+  },
+  "direccion_arte/_test_gpu.png": {
+    "mtime": 1786355797.4938245,
+    "ast_hash": "b666baa3cdb4b708109b94b685b3cf6f",
+    "semantic_hash": ""
+  },
+  "direccion_arte_E01/DA_V05_banda_correos.png": {
+    "mtime": 1786356203.9619699,
+    "ast_hash": "412554e6d37623f491664860ff7e5018",
+    "semantic_hash": ""
+  },
+  "direccion_arte_E01/DA_V06_bajo_C1.png": {
+    "mtime": 1786356179.035824,
+    "ast_hash": "7f1312f025e50e4ad9d5e5fc73bee9ea",
+    "semantic_hash": ""
+  },
+  "direccion_arte_E01/DA_V07_reloj.png": {
+    "mtime": 1786356172.1887155,
+    "ast_hash": "5ad814920f0745085711be4b2fcf1c5b",
+    "semantic_hash": ""
+  },
+  "direccion_arte_E01/DA_V10_cupula.png": {
+    "mtime": 1786356191.5083914,
+    "ast_hash": "c58b1b9db61411ab158e70950581e033",
+    "semantic_hash": ""
+  },
+  "direccion_arte_E01/DA_V13_splash.png": {
+    "mtime": 1786356185.5367928,
+    "ast_hash": "7dabb52a8af093cab2d742c931d96766",
+    "semantic_hash": ""
+  },
+  "direccion_arte_E01/DA_V19_sobre_cinta.png": {
+    "mtime": 1786356197.8587584,
+    "ast_hash": "5bf2682ba0df6196bb84f5912bedaef5",
+    "semantic_hash": ""
+  },
+  "hero_E03/H1_mediodia.png": {
+    "mtime": 1786457662.8049915,
+    "ast_hash": "9f5cae81147791b75097d889bc4487e4",
+    "semantic_hash": ""
+  },
+  "hero_E03/H1_tarde.png": {
+    "mtime": 1786457673.798298,
+    "ast_hash": "389c54b0f9e34c29898d8ab6290c0f70",
+    "semantic_hash": ""
+  },
+  "hero_E03/H2_mediodia.png": {
+    "mtime": 1786457678.8723829,
+    "ast_hash": "2769f3900f62077c471acd35c89af151",
+    "semantic_hash": ""
+  },
+  "hero_E03/H2_tarde.png": {
+    "mtime": 1786457690.5702693,
+    "ast_hash": "ba2bd7ed96bbfaf2a7bad6a20b63e15b",
+    "semantic_hash": ""
+  },
+  "hero_E03/H3_mediodia.png": {
+    "mtime": 1786457702.427878,
+    "ast_hash": "ac9a28217ac14d58060c1b562ff4676a",
+    "semantic_hash": ""
+  },
+  "hero_E03/H3_tarde.png": {
+    "mtime": 1786457714.0566957,
+    "ast_hash": "adba103517e7ae101c6b4c2317c06ffe",
+    "semantic_hash": ""
+  },
+  "hero_E03/H4_mediodia.png": {
+    "mtime": 1786457723.4326012,
+    "ast_hash": "0927803a46f578a66f0ff609fd9156c3",
+    "semantic_hash": ""
+  },
+  "hero_E03/H4_tarde.png": {
+    "mtime": 1786457732.8147705,
+    "ast_hash": "24322cd27157b540bab493bd2d38c6f3",
+    "semantic_hash": ""
+  },
+  "hero_E03/H5_mediodia.png": {
+    "mtime": 1786457744.256785,
+    "ast_hash": "97242b8b4f0ef97661f44e3dae07d5cb",
+    "semantic_hash": ""
+  },
+  "hero_E03/H5_tarde.png": {
+    "mtime": 1786457755.96118,
+    "ast_hash": "68620b47dd15aa4cd5138b8607dbd83a",
+    "semantic_hash": ""
+  },
+  "hero_E03/H6_mediodia.png": {
+    "mtime": 1786457766.1068604,
+    "ast_hash": "afb48f5cc86115ca938e0284dd1f7ad8",
+    "semantic_hash": ""
+  },
+  "hero_E03/H6_tarde.png": {
+    "mtime": 1786457776.2333877,
+    "ast_hash": "f64ab02548e5565c3c21f1bb53924b56",
+    "semantic_hash": ""
+  },
+  "hero_E03/H7_mediodia.png": {
+    "mtime": 1786457787.7059717,
+    "ast_hash": "a5f970a82c87f6407a99a27c9ae3fe60",
+    "semantic_hash": ""
+  },
+  "hero_E03/H7_tarde.png": {
+    "mtime": 1786457799.321801,
+    "ast_hash": "76172136ff0393f103ab8f2e4b19869d",
+    "semantic_hash": ""
+  },
+  "material_previews/MATPREV_canopy_membrana.png": {
+    "mtime": 1786356275.6126235,
+    "ast_hash": "27fcff2965766e27214cb1a1d6de2da6",
+    "semantic_hash": ""
+  },
+  "material_previews/MATPREV_estanque_algas.png": {
+    "mtime": 1786356285.450751,
+    "ast_hash": "509d20e8149f0fc2733caada850f5b1d",
+    "semantic_hash": ""
+  },
+  "material_previews/MATPREV_granito_humedo.png": {
+    "mtime": 1786356291.6810775,
+    "ast_hash": "3a5effd22453f0170ea63b7dbc16217c",
+    "semantic_hash": ""
+  },
+  "material_previews/MATPREV_madera_nudo.png": {
+    "mtime": 1786356280.061004,
+    "ast_hash": "a3e7aa77106c37f98e0bcaa80995a798",
+    "semantic_hash": ""
+  },
+  "material_previews/MATPREV_pod_tpu.png": {
+    "mtime": 1786356343.3887887,
+    "ast_hash": "3972819c01c4ae3b5453af97a10b083a",
+    "semantic_hash": ""
+  },
+  "material_previews/MATPREV_red_rosa.png": {
+    "mtime": 1786356296.859836,
+    "ast_hash": "076e58352035a7be0e22761d0d2fb61b",
+    "semantic_hash": ""
+  }
+}

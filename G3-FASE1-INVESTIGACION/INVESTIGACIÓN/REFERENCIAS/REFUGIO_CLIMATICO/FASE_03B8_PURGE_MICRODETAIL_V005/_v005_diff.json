@@ -1,0 +1,31 @@
+{
+ "base": "geometria_maestra_v004.json",
+ "fecha": "2026-08-11",
+ "cambios": [
+  {
+   "causa": "S08/D-16",
+   "que": "margenes edificio: {'suelo': 0.8, 'aereo': 0.5, 'loop': 3.25, 'cinta': 2.65} -> {'suelo': 1.0, 'aereo': 1.2, 'loop': 4.3, 'cinta': 3.8}",
+   "detalle": null
+  },
+  {
+   "causa": "S04/D-43",
+   "que": "tanque D-C1: paso de fila 6.70 (antes 2.6 implicito)",
+   "detalle": null
+  },
+  {
+   "causa": "S04/D-43",
+   "que": "tanque D-C2: paso de fila 6.70 (antes 2.6 implicito)",
+   "detalle": null
+  },
+  {
+   "causa": "S04/D-43",
+   "que": "tanque D-C3: paso de fila 6.30 (antes 2.6 implicito)",
+   "detalle": null
+  },
+  {
+   "causa": "S07/D-12",
+   "que": "tren_portico: L_capsula 5.3 en datos (el build usaba w=3.4 como paso)",
+   "detalle": null
+  }
+ ]
+}

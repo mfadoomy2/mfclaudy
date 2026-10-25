@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>html,body{margin:0;padding:0;overflow:hidden;background:#fff}</style>
+<script src="three.min.js"></script>
+<script src="tex_data.js"></script>
+<script src="scene_full.js"></script>
+</head>
+<body>
+<script>
+// VISOR E01 — PBR segun MATERIAL_SPEC.json (E01-v1). ?cx..tz&fov&w&h&exp=1.12&ortho=
+const q = new URLSearchParams(location.search);
+const W = parseInt(q.get('w') || '1920'), Hpx = parseInt(q.get('h') || '1200');
+const EXP = parseFloat(q.get('exp') || '1.12');
+
+const renderer = new THREE.WebGLRenderer({antialias: true, preserveDrawingBuffer: true});
+renderer.setSize(W, Hpx);
+renderer.shadowMap.enabled = true;
+renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = EXP;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+document.body.appendChild(renderer.domElement);
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0xf5f2ea);
+scene.fog = new THREE.Fog(0xf2efe7, 90, 380);
+
+let cam;
+if (q.get('ortho')) {
+  const s = parseFloat(q.get('ortho'));
+  cam = new THREE.OrthographicCamera(-s, s, s * Hpx / W, -s * Hpx / W, -500, 900);
+} else {
+  cam = new THREE.PerspectiveCamera(parseFloat(q.get('fov') || '62'), W / Hpx, 0.1, 900);
+}
+cam.up.set(0, 0, 1);
+cam.position.set(parseFloat(q.get('cx') || '0'), parseFloat(q.get('cy') || '-60'), parseFloat(q.get('cz') || '1.65'));
+cam.lookAt(parseFloat(q.get('tx') || '0'), parseFloat(q.get('ty') || '0'), parseFloat(q.get('tz') || '1.65'));
+
+// ---------- iluminacion (MATERIAL_SPEC.iluminacion_E01) ----------
+scene.add(new THREE.HemisphereLight(0xeaf2f8, 0xcfc5b2, 0.85));
+const sun = new THREE.DirectionalLight(0xffefd6, 2.6);
+sun.position.set(120, -80, 150);
+sun.castShadow = true;
+sun.shadow.mapSize.set(2048, 2048);
+sun.shadow.camera.left = -130; sun.shadow.camera.right = 130;
+sun.shadow.camera.top = 130; sun.shadow.camera.bottom = -130;
+sun.shadow.camera.near = 20; sun.shadow.camera.far = 450;
+sun.shadow.bias = -0.0002;
+sun.shadow.camera.updateProjectionMatrix();
+scene.add(sun);
+scene.add(sun.target);
+const fill = new THREE.DirectionalLight(0xdce8f5, 0.18);
+fill.position.set(-100, 60, 80);
+scene.add(fill);
+
+// env PMREM: mini-escena cielo calido
+const pm = new THREE.PMREMGenerator(renderer);
+const envScene = new THREE.Scene();
+const skyGeo = new THREE.SphereGeometry(60, 16, 12);
+const skyMat = new THREE.MeshBasicMaterial({side: THREE.BackSide, vertexColors: true});
+const colTop = new THREE.Color(0xbfd7ea), colHor = new THREE.Color(0xf6ead2);
+const sg = skyGeo.attributes.position, scol = [];
+for (let i = 0; i < sg.count; i++) {
+  const t = (sg.getZ(i) / 60 + 1) / 2;
+  const c = colHor.clone().lerp(colTop, Math.max(0, t * t));
+  scol.push(c.r, c.g, c.b);
+}
+skyGeo.setAttribute('color', new THREE.Float32BufferAttribute(scol, 3));
+envScene.add(new THREE.Mesh(skyGeo, skyMat));
+const sunQuad = new THREE.Mesh(new THREE.PlaneGeometry(18, 18), new THREE.MeshBasicMaterial({color: 0xfff4e0}));
+sunQuad.position.set(30, -20, 40); sunQuad.lookAt(0, 0, 0);
+envScene.add(sunQuad);
+// PMREM corrompe el pase de sombras en headless (bug documentado en REGISTRO_E01): solo con ?env=1
+if (q.get('env')) scene.environment = pm.fromScene(envScene, 0.04).texture;
+
+// ---------- ruido 3D determinista (arrugas POD, D03B-05) ----------
+function h3(x, y, z) { const s = Math.sin(x * 127.1 + y * 311.7 + z * 74.7) * 43758.5453; return s - Math.floor(s); }
+function vnoise(x, y, z) {
+  const xi = Math.floor(x), yi = Math.floor(y), zi = Math.floor(z);
+  const xf = x - xi, yf = y - yi, zf = z - zi;
+  const u = xf * xf * (3 - 2 * xf), v = yf * yf * (3 - 2 * yf), w = zf * zf * (3 - 2 * zf);
+  let acc = 0;
+  for (let dx = 0; dx <= 1; dx++) for (let dy = 0; dy <= 1; dy++) for (let dz = 0; dz <= 1; dz++) {
+    const wgt = (dx ? u : 1 - u) * (dy ? v : 1 - v) * (dz ? w : 1 - w);
+    acc += wgt * h3(xi + dx, yi + dy, zi + dz);
+  }
+  return acc * 2 - 1;
+}
+
+// ---------- materiales por familia ----------
+const texLoader = new THREE.TextureLoader();
+const granCol = texLoader.load(GRAN_COL_URI);
+const granRgh = texLoader.load(GRAN_RGH_URI);
+granCol.colorSpace = THREE.SRGBColorSpace;
+
+function matFor(o, idx) {
+  const lay = o.layer, fam = o.fam || '';
+  const seed = idx * 0.618;
+  const rnd = (k) => h3(seed, k, 1.7);
+  const vary = (c, hueDeg, valPct) => {
+    const hsl = {h: 0, s: 0, l: 0}; c.getHSL(hsl);
+    c.setHSL(hsl.h + (rnd(2) - 0.5) * hueDeg / 180, hsl.s, Math.min(1, hsl.l * (1 + (rnd(3) - 0.5) * valPct * 2)));
+    return c;
+  };
+  if (lay === '01_GROUND') {
+    return new THREE.MeshStandardMaterial({map: granCol, roughnessMap: granRgh, roughness: 1.0, metalness: 0});
+  }
+  if (lay === '08_PINK_MODULES') {
+    // aproximacion de visor: alfa + emisivo tenue en lugar de transmission (sin env en headless)
+    return new THREE.MeshStandardMaterial({
+      color: vary(new THREE.Color(0xf3c4d5), 6, 0.03), roughness: 0.36 + (rnd(4) - 0.5) * 0.2,
+      metalness: 0, transparent: true, opacity: 0.74 + (rnd(5) - 0.5) * 0.08,
+      emissive: 0xf0d4de, emissiveIntensity: 0.22, side: THREE.DoubleSide});
+  }
+  if (lay === '07_CANOPIES') {
+    return new THREE.MeshStandardMaterial({
+      color: vary(new THREE.Color(0xd3dd7e), 8, 0.04), roughness: 0.22, metalness: 0,
+      transparent: true, opacity: 0.50 + (rnd(6) - 0.5) * 0.12,
+      emissive: 0xc9d468, emissiveIntensity: 0.5, side: THREE.DoubleSide});
+  }
+  if (lay === '11_WATER') {
+    let mz = -1e9; for (const v of o.V) if (v[2] > mz) mz = v[2];
+    if (mz < 0.1) return new THREE.MeshStandardMaterial({color: 0xbfe3dc, roughness: 0.05, transparent: true, opacity: 0.8, side: THREE.DoubleSide});
+    return new THREE.MeshStandardMaterial({color: 0x4a9a72, roughness: 0.08, transparent: true, opacity: 0.92, emissive: 0x3a7d5a, emissiveIntensity: 0.18, side: THREE.DoubleSide});
+  }
+  if (lay === '02_PRIMARY_STRUCTURE' || lay === '03_SECONDARY_STRUCTURE' || lay === '04_MASTS' || lay === '10_FURNITURE') {
+    return new THREE.MeshStandardMaterial({color: vary(new THREE.Color(0xb5a084), 7, 0.09),
+      roughness: 0.55 + (rnd(7) - 0.5) * 0.16, metalness: 0});
+  }
+  if (lay === '09_PLANTERS') {
+    return new THREE.MeshStandardMaterial({color: vary(new THREE.Color(0xa08a66), 4, 0.06), roughness: 0.75});
+  }
+  if (lay === '13_PIPES') {
+    return new THREE.MeshStandardMaterial({color: 0xe06b9c, roughness: 0.42, metalness: 0});
+  }
+  if (lay === '06_MEMBRANES') {
+    return new THREE.MeshStandardMaterial({color: 0xf2f5ec, roughness: 0.22, transparent: true, opacity: 0.30, side: THREE.DoubleSide});
+  }
+  if (lay === '12_MIST') {
+    return new THREE.MeshStandardMaterial({color: 0xe8f4f0, roughness: 1, transparent: true, opacity: 0.16, depthWrite: false});
+  }
+  if (lay === '14_VEGETATION_PROXY' || lay === '15_VEGETATION_FULL') {
+    return new THREE.MeshStandardMaterial({color: vary(new THREE.Color(0x6f9e59), 10, 0.06), roughness: 0.85});
+  }
+  if (lay === '16_PEOPLE_PROXY') return new THREE.MeshStandardMaterial({color: 0x6b6b6b, roughness: 0.9});
+  if (lay === '17_METRO_CLEARANCES') return new THREE.MeshStandardMaterial({color: 0x9a9ac8, transparent: true, opacity: 0.10, depthWrite: false});
+  if (lay === '00_CONTEXT') {
+    return new THREE.MeshStandardMaterial({color: fam === '' ? 0xdad3c6 : 0xdad3c6, roughness: 0.95});
+  }
+  return new THREE.MeshStandardMaterial({color: 0xcccccc, roughness: 0.8});
+}
+
+const PODFAM = (f) => f && (f.indexOf('POD') === 0 || f === 'TANK');
+let gi = 0;
+for (const o of SCENE_MESHES) {
+  const g = new THREE.BufferGeometry();
+  const pos = new Float32Array(o.V.length * 3);
+  o.V.forEach((v, i) => { pos[3*i] = v[0]; pos[3*i+1] = v[1]; pos[3*i+2] = v[2]; });
+  g.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+  const idx = new Uint32Array(o.F.length * 3);
+  o.F.forEach((fc, i) => { idx[3*i] = fc[0]; idx[3*i+1] = fc[1]; idx[3*i+2] = fc[2]; });
+  g.setIndex(new THREE.BufferAttribute(idx, 1));
+  g.computeVertexNormals();
+  // ARRUGAS POD (no destructivo, solo visor): envolvente = part 0
+  if (PODFAM(o.fam) && (o.part === 0 || o.part === undefined)) {
+    const n = g.attributes.normal, p = g.attributes.position;
+    const s1 = 2.6, s2 = 0.7, A1 = 0.030, A2 = 0.055;
+    const esc = 1 + (h3(gi, 9, 4) - 0.5) * 0.7;
+    const off = gi * 13.7;
+    for (let i = 0; i < p.count; i++) {
+      const x = p.getX(i), y = p.getY(i), z = p.getZ(i);
+      const dsp = esc * (A1 * vnoise(x * s1 + off, y * s1, z * s1) + A2 * vnoise(x * s2 + off, y * s2, z * s2 + off));
+      p.setXYZ(i, x + n.getX(i) * dsp, y + n.getY(i) * dsp, z + n.getZ(i) * dsp);
+    }
+    p.needsUpdate = true;
+    g.computeVertexNormals();
+  }
+  // UV planar para el suelo
+  if (o.layer === '01_GROUND') {
+    const p = g.attributes.position, uv = new Float32Array(p.count * 2);
+    for (let i = 0; i < p.count; i++) {
+      uv[2*i] = (p.getX(i) + 160) / 320;
+      uv[2*i+1] = (p.getY(i) + 105) / 220;
+    }
+    g.setAttribute('uv', new THREE.BufferAttribute(uv, 2));
+  }
+  const mesh = new THREE.Mesh(g, matFor(o, gi));
+  // E02-4b: reticula de membrana en la cupula (bbox grande en capa 06 cerca de 30.5,2)
+  if (o.layer === '06_MEMBRANES') {
+    let cx=0, cy=0, n0=o.V.length;
+    for (const v of o.V) { cx+=v[0]; cy+=v[1]; }
+    cx/=n0; cy/=n0;
+    if (Math.abs(cx-30.5)<3 && Math.abs(cy-2)<3 && n0>120) {
+      const wf = new THREE.LineSegments(new THREE.WireframeGeometry(g),
+        new THREE.LineBasicMaterial({color: 0xb9b3a4, transparent: true, opacity: 0.6}));
+      scene.add(wf);
+    }
+  }
+  // E02-5: Casa de Correos con lectura material minima (dos tonos + reloj legible)
+  if (o.layer === '00_CONTEXT') {
+    let bx0=1e9,bx1=-1e9,by0=1e9,by1=-1e9,bz1=-1e9;
+    for (const v of o.V){ if(v[0]<bx0)bx0=v[0]; if(v[0]>bx1)bx1=v[0]; if(v[1]<by0)by0=v[1]; if(v[1]>by1)by1=v[1]; if(v[2]>bz1)bz1=v[2]; }
+    const enCorreos = bx0>-64 && bx1<20 && by0>-96 && by1<-28;
+    if (enCorreos) {
+      if (bz1 > 25.5 && (bx1-bx0) < 5) {            // esfera reloj / cupulin pequeno
+        mesh.material = new THREE.MeshStandardMaterial({color: 0xf5efdf, roughness: 0.4, emissive: 0xf0e6c8, emissiveIntensity: 0.25});
+      } else if (bz1 > 16.5) {                       // torre + cupulin
+        mesh.material = new THREE.MeshStandardMaterial({color: 0xd9c4a4, roughness: 0.7});
+      } else {                                       // cuerpo: ladrillo + granito
+        mesh.material = new THREE.MeshStandardMaterial({color: 0xc4907a, roughness: 0.8});
+      }
+    }
+  }
+  mesh.castShadow = !(o.layer === '12_MIST' || o.layer === '17_METRO_CLEARANCES' || o.layer === '01_GROUND');
+  mesh.receiveShadow = true;
+  scene.add(mesh);
+  gi++;
+}
+for (const l of SCENE_LINES) {
+  const pts = [];
+  for (let i = 0; i < l.pts.length - 1; i++) pts.push(new THREE.Vector3(...l.pts[i]), new THREE.Vector3(...l.pts[i+1]));
+  const g = new THREE.BufferGeometry().setFromPoints(pts);
+  scene.add(new THREE.LineSegments(g, new THREE.LineBasicMaterial({color: 0x6e6e6a})));
+}
+
+// testigo de diagnostico (?debug=1): quad en esquina, verde=textura cargada, rojo=no
+let dbgQuad = null;
+if (q.get('debug')) {
+  dbgQuad = new THREE.Mesh(new THREE.PlaneGeometry(0.08, 0.08), new THREE.MeshBasicMaterial({color: 0xff0000, depthTest: false}));
+  dbgQuad.renderOrder = 999;
+  cam.add(dbgQuad);
+  dbgQuad.position.set(-0.16, -0.10, -0.3);
+  scene.add(cam);
+}
+let frames = 0;
+function loop() {
+  if (dbgQuad) dbgQuad.material.color.set(granCol.image && granRgh.image ? 0x00cc44 : 0xff0000);
+  renderer.render(scene, cam);
+  granCol.needsUpdate = !!granCol.image;
+  granRgh.needsUpdate = !!granRgh.image;
+  if (++frames < 30) requestAnimationFrame(loop);
+  else document.title = 'RENDER_DONE';
+}
+loop();
+</script>
+</body>
+</html>

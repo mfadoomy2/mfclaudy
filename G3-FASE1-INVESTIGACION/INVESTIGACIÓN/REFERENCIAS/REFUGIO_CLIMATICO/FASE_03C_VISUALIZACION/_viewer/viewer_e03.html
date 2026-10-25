@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>html,body{margin:0;padding:0;overflow:hidden;background:#fff}</style>
+<script src="three.min.js"></script>
+<script src="tex_data.js"></script>
+<script src="tex_data2.js"></script>
+<script src="scene_v003.js"></script>
+<script src="scene_extra.js"></script>
+</head>
+<body>
+<script>
+// VISOR E03 — escena v003 CONGELADA + capa atmosferica (scene_extra.js).
+// ?cx..tz&fov&w&h&exp&luz=mediodia|tarde&extra=0 (apaga capa E03 para comparativas)
+const q = new URLSearchParams(location.search);
+const W = parseInt(q.get('w') || '1920'), Hpx = parseInt(q.get('h') || '1200');
+const LUZ = q.get('luz') || 'mediodia';
+const PRE = {
+  mediodia: {dir:[20,-45,150], color:0xFFF3DC, int:2.7, hemi:0.8, hemiCol:0xeaf2f8, exp:1.2,
+             fog:[0xF2EFE7,90,380], reloj:0.0},
+  tarde:    {dir:[-120,-60,75], color:0xFFD9A8, int:2.2, hemi:0.6, hemiCol:0xF2E7D5, exp:1.05,
+             fog:[0xF4E9D8,60,300], reloj:0.35}
+}[LUZ];
+const EXP = parseFloat(q.get('exp') || PRE.exp);
+
+const renderer = new THREE.WebGLRenderer({antialias: true, preserveDrawingBuffer: true});
+renderer.setSize(W, Hpx);
+renderer.shadowMap.enabled = true;
+renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = EXP;
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+document.body.appendChild(renderer.domElement);
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(LUZ === 'tarde' ? 0xf6ecd9 : 0xf5f2ea);
+scene.fog = new THREE.Fog(PRE.fog[0], PRE.fog[1], PRE.fog[2]);
+
+let cam;
+if (q.get('ortho')) {
+  const s = parseFloat(q.get('ortho'));
+  cam = new THREE.OrthographicCamera(-s, s, s * Hpx / W, -s * Hpx / W, -500, 900);
+} else {
+  cam = new THREE.PerspectiveCamera(parseFloat(q.get('fov') || '62'), W / Hpx, 0.1, 900);
+}
+cam.up.set(0, 0, 1);
+cam.position.set(parseFloat(q.get('cx') || '0'), parseFloat(q.get('cy') || '-60'), parseFloat(q.get('cz') || '1.65'));
+cam.lookAt(parseFloat(q.get('tx') || '0'), parseFloat(q.get('ty') || '0'), parseFloat(q.get('tz') || '1.65'));
+
+// ---------- iluminacion por preset (atmos_config §4) ----------
+scene.add(new THREE.HemisphereLight(PRE.hemiCol, 0xcfc5b2, PRE.hemi));
+const sun = new THREE.DirectionalLight(PRE.color, PRE.int);
+sun.position.set(PRE.dir[0], PRE.dir[1], PRE.dir[2]);
+sun.castShadow = true;
+sun.shadow.mapSize.set(2048, 2048);
+sun.shadow.camera.left = -130; sun.shadow.camera.right = 130;
+sun.shadow.camera.top = 130; sun.shadow.camera.bottom = -130;
+sun.shadow.camera.near = 20; sun.shadow.camera.far = 450;
+sun.shadow.bias = -0.0002;
+sun.shadow.camera.updateProjectionMatrix();
+scene.add(sun);
+scene.add(sun.target);
+const fill = new THREE.DirectionalLight(0xdce8f5, LUZ === 'tarde' ? 0.12 : 0.18);
+fill.position.set(-100, 60, 80);
+scene.add(fill);
+
+// ---------- ruido 3D determinista (arrugas POD) ----------
+function h3(x, y, z) { const s = Math.sin(x * 127.1 + y * 311.7 + z * 74.7) * 43758.5453; return s - Math.floor(s); }
+function vnoise(x, y, z) {
+  const xi = Math.floor(x), yi = Math.floor(y), zi = Math.floor(z);
+  const xf = x - xi, yf = y - yi, zf = z - zi;
+  const u = xf * xf * (3 - 2 * xf), v = yf * yf * (3 - 2 * yf), w = zf * zf * (3 - 2 * zf);
+  let acc = 0;
+  for (let dx = 0; dx <= 1; dx++) for (let dy = 0; dy <= 1; dy++) for (let dz = 0; dz <= 1; dz++) {
+    const wgt = (dx ? u : 1 - u) * (dy ? v : 1 - v) * (dz ? w : 1 - w);
+    acc += wgt * h3(xi + dx, yi + dy, zi + dz);
+  }
+  return acc * 2 - 1;
+}
+
+// ---------- materiales por familia (E01/E02, intactos) ----------
+const texLoader = new THREE.TextureLoader();
+const granCol = texLoader.load(GRAN_COL_URI);
+const granRgh = texLoader.load(GRAN_RGH_URI);
+granCol.colorSpace = THREE.SRGBColorSpace;
+
+function matFor(o, idx) {
+  const lay = o.layer;
+  const seed = idx * 0.618;
+  const rnd = (k) => h3(seed, k, 1.7);
+  const vary = (c, hueDeg, valPct) => {
+    const hsl = {h: 0, s: 0, l: 0}; c.getHSL(hsl);
+    c.setHSL(hsl.h + (rnd(2) - 0.5) * hueDeg / 180, hsl.s, Math.min(1, hsl.l * (1 + (rnd(3) - 0.5) * valPct * 2)));
+    return c;
+  };
+  if (lay === '01_GROUND') return new THREE.MeshStandardMaterial({map: granCol, roughnessMap: granRgh, roughness: 1.0, metalness: 0});
+  if (lay === '08_PINK_MODULES') return new THREE.MeshStandardMaterial({
+      color: vary(new THREE.Color(0xf3c4d5), 6, 0.03), roughness: 0.36 + (rnd(4) - 0.5) * 0.2,
+      metalness: 0, transparent: true, opacity: 0.74 + (rnd(5) - 0.5) * 0.08,
+      emissive: 0xf0d4de, emissiveIntensity: 0.22, side: THREE.DoubleSide});
+  if (lay === '07_CANOPIES') return new THREE.MeshStandardMaterial({
+      color: vary(new THREE.Color(0xd3dd7e), 8, 0.04), roughness: 0.22, metalness: 0,
+      transparent: true, opacity: 0.50 + (rnd(6) - 0.5) * 0.12,
+      emissive: 0xc9d468, emissiveIntensity: 0.5, side: THREE.DoubleSide});
+  if (lay === '11_WATER') {
+    let mz = -1e9; for (const v of o.V) if (v[2] > mz) mz = v[2];
+    if (mz < 0.1) return new THREE.MeshStandardMaterial({color: 0xbfe3dc, roughness: 0.05, transparent: true, opacity: 0.8, side: THREE.DoubleSide});
+    return new THREE.MeshStandardMaterial({color: 0x4a9a72, roughness: 0.08, transparent: true, opacity: 0.92, emissive: 0x3a7d5a, emissiveIntensity: 0.18, side: THREE.DoubleSide});
+  }
+  if (lay === '02_PRIMARY_STRUCTURE' || lay === '03_SECONDARY_STRUCTURE' || lay === '04_MASTS' || lay === '10_FURNITURE')
+    return new THREE.MeshStandardMaterial({color: vary(new THREE.Color(0xb5a084), 7, 0.09),
+      roughness: 0.55 + (rnd(7) - 0.5) * 0.16, metalness: 0});
+  if (lay === '09_PLANTERS') return new THREE.MeshStandardMaterial({color: vary(new THREE.Color(0xa08a66), 4, 0.06), roughness: 0.75});
+  if (lay === '13_PIPES') return new THREE.MeshStandardMaterial({color: 0xe06b9c, roughness: 0.42, metalness: 0});
+  if (lay === '06_MEMBRANES') return new THREE.MeshStandardMaterial({color: 0xf2f5ec, roughness: 0.22, transparent: true, opacity: 0.30, side: THREE.DoubleSide});
+  if (lay === '12_MIST') return new THREE.MeshStandardMaterial({color: 0xe8f4f0, roughness: 1, transparent: true, opacity: 0.16, depthWrite: false});
+  if (lay === '14_VEGETATION_PROXY' || lay === '15_VEGETATION_FULL')
+    return new THREE.MeshStandardMaterial({color: vary(new THREE.Color(0x6f9e59), 10, 0.06), roughness: 0.85});
+  if (lay === '16_PEOPLE_PROXY') return new THREE.MeshStandardMaterial({color: 0x6b6b6b, roughness: 0.9});
+  if (lay === '17_METRO_CLEARANCES') return new THREE.MeshStandardMaterial({color: 0x9a9ac8, transparent: true, opacity: 0.10, depthWrite: false});
+  if (lay === '00_CONTEXT') return new THREE.MeshStandardMaterial({color: 0xdad3c6, roughness: 0.95});
+  return new THREE.MeshStandardMaterial({color: 0xcccccc, roughness: 0.8});
+}
+
+const PODFAM = (f) => f && (f.indexOf('POD') === 0 || f === 'TANK');
+const SKIP16 = q.get('extra') !== '0';   // con capa E03 activa se ocultan los peatones proxy v003
+let gi = 0;
+for (const o of SCENE_MESHES) {
+  if (SKIP16 && o.layer === '16_PEOPLE_PROXY') { gi++; continue; }   // sustituidos por PERSON2
+  const g = new THREE.BufferGeometry();
+  const pos = new Float32Array(o.V.length * 3);
+  o.V.forEach((v, i) => { pos[3*i] = v[0]; pos[3*i+1] = v[1]; pos[3*i+2] = v[2]; });
+  g.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+  const idx = new Uint32Array(o.F.length * 3);
+  o.F.forEach((fc, i) => { idx[3*i] = fc[0]; idx[3*i+1] = fc[1]; idx[3*i+2] = fc[2]; });
+  g.setIndex(new THREE.BufferAttribute(idx, 1));
+  g.computeVertexNormals();
+  if (PODFAM(o.fam) && (o.part === 0 || o.part === undefined)) {
+    const n = g.attributes.normal, p = g.attributes.position;
+    const s1 = 2.6, s2 = 0.7, A1 = 0.030, A2 = 0.055;
+    const esc = 1 + (h3(gi, 9, 4) - 0.5) * 0.7;
+    const off = gi * 13.7;
+    for (let i = 0; i < p.count; i++) {
+      const x = p.getX(i), y = p.getY(i), z = p.getZ(i);
+      const dsp = esc * (A1 * vnoise(x * s1 + off, y * s1, z * s1) + A2 * vnoise(x * s2 + off, y * s2, z * s2 + off));
+      p.setXYZ(i, x + n.getX(i) * dsp, y + n.getY(i) * dsp, z + n.getZ(i) * dsp);
+    }
+    p.needsUpdate = true;
+    g.computeVertexNormals();
+  }
+  if (o.layer === '01_GROUND') {
+    const p = g.attributes.position, uv = new Float32Array(p.count * 2);
+    for (let i = 0; i < p.count; i++) {
+      uv[2*i] = (p.getX(i) + 160) / 320;
+      uv[2*i+1] = (p.getY(i) + 105) / 220;
+    }
+    g.setAttribute('uv', new THREE.BufferAttribute(uv, 2));
+  }
+  const mesh = new THREE.Mesh(g, matFor(o, gi));
+  if (o.layer === '06_MEMBRANES') {
+    let cx=0, cy=0, n0=o.V.length;
+    for (const v of o.V) { cx+=v[0]; cy+=v[1]; }
+    cx/=n0; cy/=n0;
+    if (Math.abs(cx-30.5)<3 && Math.abs(cy-2)<3 && n0>120) {
+      const wf = new THREE.LineSegments(new THREE.WireframeGeometry(g),
+        new THREE.LineBasicMaterial({color: 0xb9b3a4, transparent: true, opacity: 0.6}));
+      scene.add(wf);
+    }
+  }
+  if (o.layer === '00_CONTEXT') {
+    let bx0=1e9,bx1=-1e9,by0=1e9,by1=-1e9,bz1=-1e9;
+    for (const v of o.V){ if(v[0]<bx0)bx0=v[0]; if(v[0]>bx1)bx1=v[0]; if(v[1]<by0)by0=v[1]; if(v[1]>by1)by1=v[1]; if(v[2]>bz1)bz1=v[2]; }
+    const enCorreos = bx0>-64 && bx1<20 && by0>-96 && by1<-28;
+    if (enCorreos) {
+      if (bz1 > 25.5 && (bx1-bx0) < 5) {
+        mesh.material = new THREE.MeshStandardMaterial({color: 0xf5efdf, roughness: 0.4,
+          emissive: 0xf0e6c8, emissiveIntensity: 0.25 + PRE.reloj});   // §7.3 contraluz de tarde
+      } else if (bz1 > 16.5) {
+        mesh.material = new THREE.MeshStandardMaterial({color: 0xd9c4a4, roughness: 0.7});
+      } else {
+        mesh.material = new THREE.MeshStandardMaterial({color: 0xc4907a, roughness: 0.8});
+      }
+    }
+    // Carlos III (v003): bronce oscuro sobre granito — nunca se oculta
+    const enEstatua = bx0>-32 && bx1<-24 && by0>-17 && by1<-11;
+    if (enEstatua) {
+      if (bz1 > 2.9) mesh.material = new THREE.MeshStandardMaterial({color: 0x4a4438, roughness: 0.45, metalness: 0.55});
+      else mesh.material = new THREE.MeshStandardMaterial({color: 0xb8b0a2, roughness: 0.75});
+    }
+  }
+  mesh.castShadow = !(o.layer === '12_MIST' || o.layer === '17_METRO_CLEARANCES' || o.layer === '01_GROUND');
+  mesh.receiveShadow = true;
+  scene.add(mesh);
+  gi++;
+}
+for (const l of SCENE_LINES) {
+  const pts = [];
+  for (let i = 0; i < l.pts.length - 1; i++) pts.push(new THREE.Vector3(...l.pts[i]), new THREE.Vector3(...l.pts[i+1]));
+  const g = new THREE.BufferGeometry().setFromPoints(pts);
+  scene.add(new THREE.LineSegments(g, new THREE.LineBasicMaterial({color: 0x6e6e6a})));
+}
+
+// ---------- CAPA E03: agua viva + poblacion + niebla (scene_extra.js) ----------
+if (q.get('extra') !== '0') {
+  for (const o of EXTRA_MESHES) {
+    const g = new THREE.BufferGeometry();
+    const pos = new Float32Array(o.V.length * 3);
+    o.V.forEach((v, i) => { pos[3*i] = v[0]; pos[3*i+1] = v[1]; pos[3*i+2] = v[2]; });
+    g.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+    const idx = new Uint32Array(o.F.length * 3);
+    o.F.forEach((fc, i) => { idx[3*i] = fc[0]; idx[3*i+1] = fc[1]; idx[3*i+2] = fc[2]; });
+    g.setIndex(new THREE.BufferAttribute(idx, 1));
+    g.computeVertexNormals();
+    const m = new THREE.MeshStandardMaterial({color: new THREE.Color(o.color), roughness: o.rough,
+      transparent: o.op < 1, opacity: o.op, emissive: new THREE.Color(o.em),
+      emissiveIntensity: o.emi, side: THREE.DoubleSide});
+    const mesh = new THREE.Mesh(g, m);
+    mesh.castShadow = !!o.sh;
+    mesh.receiveShadow = true;
+    scene.add(mesh);
+  }
+  const segs = [];
+  for (const l of EXTRA_LINES) segs.push(new THREE.Vector3(...l.a), new THREE.Vector3(...l.b));
+  if (segs.length) {
+    const g = new THREE.BufferGeometry().setFromPoints(segs);
+    scene.add(new THREE.LineSegments(g, new THREE.LineBasicMaterial({color: 0xdff2ee, transparent: true, opacity: 0.75})));
+  }
+  const mistTex = texLoader.load(MIST_URI);
+  const corTex = texLoader.load(CORONA_URI);
+  mistTex.colorSpace = THREE.SRGBColorSpace;
+  corTex.colorSpace = THREE.SRGBColorSpace;
+  for (const s of EXTRA_SPRITES) {
+    const mat = new THREE.SpriteMaterial({map: s.tex === 'corona' ? corTex : mistTex,
+      transparent: true, opacity: s.op, depthWrite: false, color: new THREE.Color(s.tint || '#EAF6F2')});
+    const sp = new THREE.Sprite(mat);
+    sp.position.set(s.x, s.y, s.z);
+    sp.scale.set(s.d, s.d, 1);
+    scene.add(sp);
+  }
+}
+
+let frames = 0;
+function loop() {
+  renderer.render(scene, cam);
+  granCol.needsUpdate = !!granCol.image;
+  granRgh.needsUpdate = !!granRgh.image;
+  if (++frames < 34) requestAnimationFrame(loop);
+  else document.title = 'RENDER_DONE';
+}
+loop();
+</script>
+</body>
+</html>

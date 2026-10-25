@@ -1,0 +1,405 @@
+﻿bloque;elemento;metrica;valor;unidad;nota
+GLOBAL;resumen;area_ambito;10755.0;;
+GLOBAL;resumen;area_pisable;9827.0;;
+GLOBAL;resumen;sombra_crit_A;3.4;;
+GLOBAL;resumen;sombra_crit_B;42.3;;
+GLOBAL;resumen;sombra_crit_A_pisable;3.2;;
+GLOBAL;resumen;sombra_crit_B_pisable;38.3;;
+GLOBAL;resumen;m2_sombra_extra;4186.0;;
+GLOBAL;resumen;rad_A;653.9;;
+GLOBAL;resumen;rad_B;380.3;;
+GLOBAL;resumen;rad_red_pct;41.8;;
+GLOBAL;resumen;rad_red_max_pct;100.0;;
+GLOBAL;resumen;sunh_A;1215.0;;
+GLOBAL;resumen;sunh_B;670.0;;
+GLOBAL;resumen;MRT_A;65.2;;
+GLOBAL;resumen;MRT_B;54.3;;
+GLOBAL;resumen;dMRT;-10.9;;
+GLOBAL;resumen;dMRT_refugio;-28.23;;
+GLOBAL;resumen;dMRT_max;-38.76;;
+GLOBAL;resumen;UTCI_A;40.0;;
+GLOBAL;resumen;UTCI_B;37.4;;
+GLOBAL;resumen;dUTCI;-2.62;;
+GLOBAL;resumen;dUTCI_neb;-3.36;;
+GLOBAL;resumen;dUTCI_max;-9.3;;
+GLOBAL;resumen;m2_refugio;3876.0;;
+GLOBAL;resumen;m2_refugio_neb;4377.0;;
+GLOBAL;resumen;m2_mejora;4903.0;;
+GLOBAL;resumen;pct_beneficiada;45.6;;
+GLOBAL;resumen;agua_L_h;2034.0;;
+GLOBAL;resumen;agua_kW;1366.7;;
+GLOBAL;resumen;agua_suelo_kW;213.9;;
+GLOBAL;resumen;veg_L_h;425.0;;
+GLOBAL;resumen;veg_kW;285.9;;
+GLOBAL;resumen;neb_L_h;210.0;;
+GLOBAL;resumen;neb_kW;141.1;;
+GLOBAL;resumen;dTa_aire;1.09;;
+GLOBAL;resumen;win_A;2.3;;
+GLOBAL;resumen;win_B;1.29;;
+GLOBAL;resumen;win_perdida_pct;43.8;;
+GLOBAL;resumen;hot_m2;5150.0;;
+GLOBAL;resumen;cool_m2;3210.0;;
+ZONAS;BANCOS (estancia);m2;263.0;;
+ZONAS;BANCOS (estancia);sombra_A;0.7;;
+ZONAS;BANCOS (estancia);sombra_B;72.3;;
+ZONAS;BANCOS (estancia);MRT_A;66.4;;
+ZONAS;BANCOS (estancia);MRT_B;45.1;;
+ZONAS;BANCOS (estancia);dMRT;-21.3;;
+ZONAS;BANCOS (estancia);UTCI_A;40.3;;
+ZONAS;BANCOS (estancia);UTCI_B;35.2;;
+ZONAS;BANCOS (estancia);dUTCI;-5.18;;
+ZONAS;BANCOS (estancia);refugio_pct;73.4;;
+ZONAS;HUERTO C1;m2;312.0;;
+ZONAS;HUERTO C1;sombra_A;0.9;;
+ZONAS;HUERTO C1;sombra_B;82.7;;
+ZONAS;HUERTO C1;MRT_A;65.0;;
+ZONAS;HUERTO C1;MRT_B;40.6;;
+ZONAS;HUERTO C1;dMRT;-24.4;;
+ZONAS;HUERTO C1;UTCI_A;40.0;;
+ZONAS;HUERTO C1;UTCI_B;34.1;;
+ZONAS;HUERTO C1;dUTCI;-5.9;;
+ZONAS;HUERTO C1;refugio_pct;84.1;;
+ZONAS;SPLASH PAD;m2;218.0;;
+ZONAS;SPLASH PAD;sombra_A;0.0;;
+ZONAS;SPLASH PAD;sombra_B;60.4;;
+ZONAS;SPLASH PAD;MRT_A;54.4;;
+ZONAS;SPLASH PAD;MRT_B;47.6;;
+ZONAS;SPLASH PAD;dMRT;-6.8;;
+ZONAS;SPLASH PAD;UTCI_A;37.4;;
+ZONAS;SPLASH PAD;UTCI_B;35.8;;
+ZONAS;SPLASH PAD;dUTCI;-1.61;;
+ZONAS;SPLASH PAD;refugio_pct;15.5;;
+ZONAS;CUPULA-PERGOLA;m2;135.0;;
+ZONAS;CUPULA-PERGOLA;sombra_A;1.4;;
+ZONAS;CUPULA-PERGOLA;sombra_B;51.3;;
+ZONAS;CUPULA-PERGOLA;MRT_A;64.5;;
+ZONAS;CUPULA-PERGOLA;MRT_B;50.0;;
+ZONAS;CUPULA-PERGOLA;dMRT;-14.4;;
+ZONAS;CUPULA-PERGOLA;UTCI_A;39.8;;
+ZONAS;CUPULA-PERGOLA;UTCI_B;36.3;;
+ZONAS;CUPULA-PERGOLA;dUTCI;-3.57;;
+ZONAS;CUPULA-PERGOLA;refugio_pct;51.9;;
+ZONAS;VIVEROS C3;m2;82.0;;
+ZONAS;VIVEROS C3;sombra_A;0.0;;
+ZONAS;VIVEROS C3;sombra_B;84.0;;
+ZONAS;VIVEROS C3;MRT_A;67.6;;
+ZONAS;VIVEROS C3;MRT_B;38.8;;
+ZONAS;VIVEROS C3;dMRT;-28.8;;
+ZONAS;VIVEROS C3;UTCI_A;40.6;;
+ZONAS;VIVEROS C3;UTCI_B;33.7;;
+ZONAS;VIVEROS C3;dUTCI;-6.93;;
+ZONAS;VIVEROS C3;refugio_pct;89.6;;
+ZONAS;BAJO DOSEL;m2;1466.0;;
+ZONAS;BAJO DOSEL;sombra_A;1.0;;
+ZONAS;BAJO DOSEL;sombra_B;82.6;;
+ZONAS;BAJO DOSEL;MRT_A;65.3;;
+ZONAS;BAJO DOSEL;MRT_B;40.7;;
+ZONAS;BAJO DOSEL;dMRT;-24.5;;
+ZONAS;BAJO DOSEL;UTCI_A;40.0;;
+ZONAS;BAJO DOSEL;UTCI_B;34.1;;
+ZONAS;BAJO DOSEL;dUTCI;-5.92;;
+ZONAS;BAJO DOSEL;refugio_pct;83.8;;
+ZONAS;ESTANQUES;m2;492.0;;
+ZONAS;ESTANQUES;sombra_A;2.7;;
+ZONAS;ESTANQUES;sombra_B;72.8;;
+ZONAS;ESTANQUES;MRT_A;54.0;;
+ZONAS;ESTANQUES;MRT_B;42.2;;
+ZONAS;ESTANQUES;dMRT;-11.8;;
+ZONAS;ESTANQUES;UTCI_A;37.3;;
+ZONAS;ESTANQUES;UTCI_B;34.5;;
+ZONAS;ESTANQUES;dUTCI;-2.8;;
+ZONAS;ESTANQUES;refugio_pct;52.4;;
+ZONAS;CORREDORES;m2;2098.0;;
+ZONAS;CORREDORES;sombra_A;3.0;;
+ZONAS;CORREDORES;sombra_B;24.0;;
+ZONAS;CORREDORES;MRT_A;66.3;;
+ZONAS;CORREDORES;MRT_B;60.2;;
+ZONAS;CORREDORES;dMRT;-6.1;;
+ZONAS;CORREDORES;UTCI_A;40.3;;
+ZONAS;CORREDORES;UTCI_B;38.8;;
+ZONAS;CORREDORES;dUTCI;-1.45;;
+ZONAS;CORREDORES;refugio_pct;21.5;;
+ZONAS;BAJO NEBULIZACION;m2;1143.0;;
+ZONAS;BAJO NEBULIZACION;sombra_A;2.4;;
+ZONAS;BAJO NEBULIZACION;sombra_B;65.1;;
+ZONAS;BAJO NEBULIZACION;MRT_A;64.4;;
+ZONAS;BAJO NEBULIZACION;MRT_B;48.1;;
+ZONAS;BAJO NEBULIZACION;dMRT;-16.2;;
+ZONAS;BAJO NEBULIZACION;UTCI_A;39.8;;
+ZONAS;BAJO NEBULIZACION;UTCI_B;35.9;;
+ZONAS;BAJO NEBULIZACION;dUTCI;-3.9;;
+ZONAS;BAJO NEBULIZACION;refugio_pct;56.8;;
+AGUA;SPLASH splash;area;155.5;;"lamina jugable de 3 cm; profundidad MEDIDA en el modelo (z=0"
+AGUA;SPLASH splash;depth;0.03;;"lamina jugable de 3 cm; profundidad MEDIDA en el modelo (z=0"
+AGUA;SPLASH splash;vol;4.7;;"lamina jugable de 3 cm; profundidad MEDIDA en el modelo (z=0"
+AGUA;SPLASH splash;E_kg_m2_h;0.876;;"lamina jugable de 3 cm; profundidad MEDIDA en el modelo (z=0"
+AGUA;SPLASH splash;L_h;136.3;;"lamina jugable de 3 cm; profundidad MEDIDA en el modelo (z=0"
+AGUA;SPLASH splash;kW;91.58;;"lamina jugable de 3 cm; profundidad MEDIDA en el modelo (z=0"
+AGUA;SPLASH splash;mm_dia;10.5;;"lamina jugable de 3 cm; profundidad MEDIDA en el modelo (z=0"
+AGUA;SPLASH splash;pct_calado_dia;35.0;;"lamina jugable de 3 cm; profundidad MEDIDA en el modelo (z=0"
+AGUA;ESTANQUE E-1;area;38.5;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-1;depth;0.48;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-1;vol;18.5;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-1;E_kg_m2_h;0.748;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-1;L_h;28.8;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-1;kW;19.35;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-1;mm_dia;9.0;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-1;pct_calado_dia;1.9;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-2;area;28.3;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-2;depth;0.48;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-2;vol;13.6;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-2;E_kg_m2_h;0.748;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-2;L_h;21.2;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-2;kW;14.22;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-2;mm_dia;9.0;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-2;pct_calado_dia;1.9;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-3;area;38.5;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-3;depth;0.48;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-3;vol;18.5;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-3;E_kg_m2_h;0.748;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-3;L_h;28.8;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-3;kW;19.35;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-3;mm_dia;9.0;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-3;pct_calado_dia;1.9;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-4;area;28.3;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-4;depth;0.48;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-4;vol;13.6;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-4;E_kg_m2_h;0.748;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-4;L_h;21.2;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-4;kW;14.22;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-4;mm_dia;9.0;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-4;pct_calado_dia;1.9;;bordillo 0.60 MEDIDO, lamina a 0.48 MEDIDA -> calado 0.48 HI
+AGUA;ESTANQUE E-5;area;72.0;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-5;depth;0.45;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-5;vol;32.4;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-5;E_kg_m2_h;0.748;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-5;L_h;53.9;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-5;kW;36.19;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-5;mm_dia;9.0;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-5;pct_calado_dia;2.0;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-6;area;37.7;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-6;depth;0.45;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-6;vol;17.0;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-6;E_kg_m2_h;0.748;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-6;L_h;28.2;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-6;kW;18.98;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-6;mm_dia;9.0;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;ESTANQUE E-6;pct_calado_dia;2.0;;"lamina rinon a z=0.45 MEDIDA; calado HIPOTESIS"
+AGUA;BALSA ELEVADA B-C1a;area;164.1;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1a;depth;0.3;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1a;vol;49.2;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1a;E_kg_m2_h;0.927;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1a;L_h;152.2;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1a;kW;102.25;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1a;mm_dia;11.1;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1a;pct_calado_dia;3.7;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1b;area;81.7;;"balsa sobre estructura a cota 7.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1b;depth;0.3;;"balsa sobre estructura a cota 7.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1b;vol;24.5;;"balsa sobre estructura a cota 7.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1b;E_kg_m2_h;0.927;;"balsa sobre estructura a cota 7.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1b;L_h;75.7;;"balsa sobre estructura a cota 7.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1b;kW;50.88;;"balsa sobre estructura a cota 7.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1b;mm_dia;11.1;;"balsa sobre estructura a cota 7.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C1b;pct_calado_dia;3.7;;"balsa sobre estructura a cota 7.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2a;area;133.5;;"balsa sobre estructura a cota 6.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2a;depth;0.3;;"balsa sobre estructura a cota 6.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2a;vol;40.1;;"balsa sobre estructura a cota 6.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2a;E_kg_m2_h;0.927;;"balsa sobre estructura a cota 6.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2a;L_h;123.8;;"balsa sobre estructura a cota 6.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2a;kW;83.17;;"balsa sobre estructura a cota 6.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2a;mm_dia;11.1;;"balsa sobre estructura a cota 6.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2a;pct_calado_dia;3.7;;"balsa sobre estructura a cota 6.5 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2b;area;75.4;;"balsa sobre estructura a cota 8.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2b;depth;0.3;;"balsa sobre estructura a cota 8.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2b;vol;22.6;;"balsa sobre estructura a cota 8.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2b;E_kg_m2_h;0.927;;"balsa sobre estructura a cota 8.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2b;L_h;69.9;;"balsa sobre estructura a cota 8.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2b;kW;46.97;;"balsa sobre estructura a cota 8.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2b;mm_dia;11.1;;"balsa sobre estructura a cota 8.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C2b;pct_calado_dia;3.7;;"balsa sobre estructura a cota 8.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3a;area;188.5;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3a;depth;0.3;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3a;vol;56.5;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3a;E_kg_m2_h;0.927;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3a;L_h;174.7;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3a;kW;117.42;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3a;mm_dia;11.1;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3a;pct_calado_dia;3.7;;"balsa sobre estructura a cota 6.0 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3b;area;99.0;;"balsa sobre estructura a cota 7.6 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3b;depth;0.3;;"balsa sobre estructura a cota 7.6 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3b;vol;29.7;;"balsa sobre estructura a cota 7.6 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3b;E_kg_m2_h;0.927;;"balsa sobre estructura a cota 7.6 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3b;L_h;91.7;;"balsa sobre estructura a cota 7.6 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3b;kW;61.64;;"balsa sobre estructura a cota 7.6 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3b;mm_dia;11.1;;"balsa sobre estructura a cota 7.6 MEDIDA; calado 0.30 HIPOTE"
+AGUA;BALSA ELEVADA B-C3b;pct_calado_dia;3.7;;"balsa sobre estructura a cota 7.6 MEDIDA; calado 0.30 HIPOTE"
+AGUA;LAMINA MICROALGAS DISCOS x94;area;1108.5;;D15: lamina de 2-5 cm en TODOS los discos, radio 0.82r MEDID
+AGUA;LAMINA MICROALGAS DISCOS x94;depth;0.03;;D15: lamina de 2-5 cm en TODOS los discos, radio 0.82r MEDID
+AGUA;LAMINA MICROALGAS DISCOS x94;vol;33.3;;D15: lamina de 2-5 cm en TODOS los discos, radio 0.82r MEDID
+AGUA;LAMINA MICROALGAS DISCOS x94;E_kg_m2_h;0.927;;D15: lamina de 2-5 cm en TODOS los discos, radio 0.82r MEDID
+AGUA;LAMINA MICROALGAS DISCOS x94;L_h;1027.6;;D15: lamina de 2-5 cm en TODOS los discos, radio 0.82r MEDID
+AGUA;LAMINA MICROALGAS DISCOS x94;kW;690.5;;D15: lamina de 2-5 cm en TODOS los discos, radio 0.82r MEDID
+AGUA;LAMINA MICROALGAS DISCOS x94;mm_dia;11.1;;D15: lamina de 2-5 cm en TODOS los discos, radio 0.82r MEDID
+AGUA;LAMINA MICROALGAS DISCOS x94;pct_calado_dia;37.1;;D15: lamina de 2-5 cm en TODOS los discos, radio 0.82r MEDID
+VEGETACION;ARBOLURB_NUEVO (Celtis);n;6;;
+VEGETACION;ARBOLURB_NUEVO (Celtis);proy_m2;117.8;;
+VEGETACION;ARBOLURB_NUEVO (Celtis);LAI;3.8;;
+VEGETACION;ARBOLURB_NUEVO (Celtis);tau;0.042;;
+VEGETACION;ARBOLURB_NUEVO (Celtis);L_h;61.0;;
+VEGETACION;ARBOLURB_NUEVO (Celtis);kW;40.99;;
+VEGETACION;ARBOLURB_EX (Platanus OSM);n;14;;
+VEGETACION;ARBOLURB_EX (Platanus OSM);proy_m2;703.7;;
+VEGETACION;ARBOLURB_EX (Platanus OSM);LAI;4.5;;
+VEGETACION;ARBOLURB_EX (Platanus OSM);tau;0.002;;
+VEGETACION;ARBOLURB_EX (Platanus OSM);L_h;364.4;;
+VEGETACION;ARBOLURB_EX (Platanus OSM);kW;244.87;;
+NEBULIZACION;BAJO/E1;dT_aplicado;0.13;K;q=3.0 L/h eta=0.20 kW=85.1
+NEBULIZACION;BAJO/E2;dT_aplicado;0.13;K;q=3.0 L/h eta=0.20 kW=84.7
+NEBULIZACION;BAJO/E3;dT_aplicado;0.11;K;q=3.0 L/h eta=0.20 kW=84.2
+NEBULIZACION;NOMINAL/E1;dT_aplicado;0.22;K;q=5.0 L/h eta=0.35 kW=141.9
+NEBULIZACION;NOMINAL/E2;dT_aplicado;0.22;K;q=5.0 L/h eta=0.35 kW=141.1
+NEBULIZACION;NOMINAL/E3;dT_aplicado;0.18;K;q=5.0 L/h eta=0.35 kW=140.4
+NEBULIZACION;MAXIMO/E1;dT_aplicado;0.35;K;q=8.0 L/h eta=0.50 kW=227.0
+NEBULIZACION;MAXIMO/E2;dT_aplicado;0.35;K;q=8.0 L/h eta=0.50 kW=225.8
+NEBULIZACION;MAXIMO/E3;dT_aplicado;0.28;K;q=8.0 L/h eta=0.50 kW=224.6
+DOSEL;DISC-15;sombra_exclusiva_m2;0.0;m2;r=4.2 cota=8.5 pisable=218
+DOSEL;DISC-01;sombra_exclusiva_m2;0.0;m2;r=4.0 cota=5.3 pisable=146
+DOSEL;DISC-36;sombra_exclusiva_m2;0.0;m2;r=3.8 cota=8.3 pisable=214
+DOSEL;DISC-16;sombra_exclusiva_m2;0.0;m2;r=3.6 cota=5.6 pisable=138
+DOSEL;DISC-14;sombra_exclusiva_m2;9.75;m2;r=3.6 cota=6.6 pisable=176
+DOSEL;DISC-30;sombra_exclusiva_m2;16.25;m2;r=3.2 cota=8.3 pisable=156
+DOSEL;DISC-02;sombra_exclusiva_m2;0.0;m2;r=3.2 cota=5.7 pisable=105
+DOSEL;DISC-37;sombra_exclusiva_m2;1.5;m2;r=3.2 cota=8.3 pisable=183
+DOSEL;DISC-17;sombra_exclusiva_m2;1.75;m2;r=3.0 cota=8.2 pisable=134
+DOSEL;DISC-32;sombra_exclusiva_m2;0.0;m2;r=3.0 cota=7.9 pisable=144
+DOSEL;DISC-31;sombra_exclusiva_m2;69.5;m2;r=2.9 cota=8.0 pisable=164
+DOSEL;DISC-03;sombra_exclusiva_m2;0.25;m2;r=2.8 cota=6.1 pisable=108
+DOSEL;DISC-45;sombra_exclusiva_m2;12.0;m2;r=2.8 cota=8.3 pisable=172
+DOSEL;DISC-38;sombra_exclusiva_m2;7.5;m2;r=2.8 cota=6.2 pisable=112
+DOSEL;DISC-18;sombra_exclusiva_m2;2.0;m2;r=2.8 cota=8.3 pisable=137
+DOSEL;DISC-92;sombra_exclusiva_m2;0.0;m2;r=2.6 cota=5.0 pisable=98
+DOSEL;DISC-91;sombra_exclusiva_m2;46.75;m2;r=2.6 cota=5.0 pisable=72
+DOSEL;DISC-93;sombra_exclusiva_m2;0.0;m2;r=2.6 cota=5.0 pisable=80
+DOSEL;DISC-94;sombra_exclusiva_m2;57.0;m2;r=2.6 cota=5.0 pisable=100
+DOSEL;DISC-19;sombra_exclusiva_m2;3.5;m2;r=2.6 cota=5.6 pisable=98
+DOSEL;DISC-39;sombra_exclusiva_m2;0.0;m2;r=2.6 cota=5.6 pisable=110
+DOSEL;DISC-04;sombra_exclusiva_m2;0.0;m2;r=2.6 cota=6.5 pisable=100
+DOSEL;DISC-05;sombra_exclusiva_m2;5.75;m2;r=2.5 cota=8.5 pisable=153
+DOSEL;DISC-20;sombra_exclusiva_m2;0.0;m2;r=2.5 cota=8.5 pisable=153
+DOSEL;DISC-78;sombra_exclusiva_m2;89.75;m2;r=2.4 cota=8.3 pisable=164
+DOSEL;DISC-79;sombra_exclusiva_m2;65.0;m2;r=2.4 cota=8.3 pisable=161
+DOSEL;DISC-81;sombra_exclusiva_m2;7.5;m2;r=2.4 cota=8.3 pisable=133
+DOSEL;DISC-88;sombra_exclusiva_m2;26.5;m2;r=2.4 cota=8.3 pisable=160
+DOSEL;DISC-74;sombra_exclusiva_m2;73.75;m2;r=2.4 cota=8.3 pisable=139
+DOSEL;DISC-86;sombra_exclusiva_m2;20.75;m2;r=2.4 cota=8.3 pisable=133
+DOSEL;DISC-90;sombra_exclusiva_m2;27.0;m2;r=2.4 cota=8.3 pisable=138
+DOSEL;DISC-75;sombra_exclusiva_m2;20.0;m2;r=2.4 cota=8.3 pisable=164
+DOSEL;DISC-89;sombra_exclusiva_m2;55.75;m2;r=2.4 cota=8.3 pisable=138
+DOSEL;DISC-77;sombra_exclusiva_m2;10.75;m2;r=2.4 cota=8.3 pisable=145
+DOSEL;DISC-82;sombra_exclusiva_m2;121.5;m2;r=2.4 cota=8.3 pisable=159
+DOSEL;DISC-87;sombra_exclusiva_m2;114.5;m2;r=2.4 cota=8.3 pisable=148
+DOSEL;DISC-73;sombra_exclusiva_m2;59.0;m2;r=2.4 cota=8.3 pisable=146
+DOSEL;DISC-70;sombra_exclusiva_m2;24.25;m2;r=2.4 cota=8.3 pisable=134
+DOSEL;DISC-83;sombra_exclusiva_m2;6.0;m2;r=2.4 cota=8.3 pisable=154
+DOSEL;DISC-84;sombra_exclusiva_m2;25.25;m2;r=2.4 cota=8.3 pisable=136
+DOSEL;DISC-06;sombra_exclusiva_m2;1.0;m2;r=2.4 cota=6.2 pisable=103
+DOSEL;DISC-21;sombra_exclusiva_m2;13.75;m2;r=2.4 cota=8.5 pisable=130
+DOSEL;DISC-33;sombra_exclusiva_m2;0.0;m2;r=2.4 cota=7.3 pisable=116
+DOSEL;DISC-80;sombra_exclusiva_m2;61.0;m2;r=2.4 cota=8.3 pisable=150
+DOSEL;DISC-72;sombra_exclusiva_m2;47.25;m2;r=2.4 cota=8.3 pisable=156
+DOSEL;DISC-76;sombra_exclusiva_m2;97.5;m2;r=2.4 cota=8.3 pisable=125
+DOSEL;DISC-68;sombra_exclusiva_m2;0.0;m2;r=2.4 cota=8.3 pisable=139
+DOSEL;DISC-69;sombra_exclusiva_m2;0.0;m2;r=2.4 cota=8.3 pisable=139
+DOSEL;DISC-71;sombra_exclusiva_m2;60.5;m2;r=2.4 cota=8.3 pisable=154
+DOSEL;DISC-85;sombra_exclusiva_m2;67.0;m2;r=2.4 cota=8.3 pisable=137
+DOSEL;DISC-22;sombra_exclusiva_m2;0.0;m2;r=2.3 cota=5.2 pisable=56
+DOSEL;DISC-40;sombra_exclusiva_m2;5.0;m2;r=2.3 cota=8.5 pisable=138
+DOSEL;DISC-46;sombra_exclusiva_m2;0.0;m2;r=2.2 cota=5.9 pisable=93
+DOSEL;DISC-23;sombra_exclusiva_m2;18.75;m2;r=2.2 cota=8.5 pisable=136
+DOSEL;DISC-60;sombra_exclusiva_m2;59.25;m2;r=2.2 cota=5.0 pisable=82
+DOSEL;DISC-07;sombra_exclusiva_m2;0.0;m2;r=2.2 cota=8.5 pisable=109
+DOSEL;DISC-41;sombra_exclusiva_m2;0.0;m2;r=2.1 cota=8.5 pisable=137
+DOSEL;DISC-24;sombra_exclusiva_m2;1.5;m2;r=2.1 cota=8.5 pisable=108
+DOSEL;DISC-08;sombra_exclusiva_m2;14.5;m2;r=2.1 cota=8.5 pisable=89
+DOSEL;DISC-25;sombra_exclusiva_m2;2.0;m2;r=2.0 cota=7.8 pisable=116
+DOSEL;DISC-34;sombra_exclusiva_m2;0.0;m2;r=2.0 cota=5.1 pisable=69
+DOSEL;DISC-09;sombra_exclusiva_m2;1.25;m2;r=2.0 cota=7.0 pisable=90
+DOSEL;DISC-42;sombra_exclusiva_m2;0.0;m2;r=2.0 cota=8.5 pisable=127
+DOSEL;DISC-26;sombra_exclusiva_m2;0.0;m2;r=1.9 cota=7.4 pisable=93
+DOSEL;DISC-47;sombra_exclusiva_m2;24.25;m2;r=1.9 cota=8.3 pisable=124
+DOSEL;DISC-64;sombra_exclusiva_m2;14.5;m2;r=1.9 cota=5.0 pisable=74
+DOSEL;DISC-10;sombra_exclusiva_m2;12.0;m2;r=1.9 cota=6.3 pisable=96
+DOSEL;DISC-51;sombra_exclusiva_m2;24.25;m2;r=1.8 cota=4.5 pisable=62
+DOSEL;DISC-59;sombra_exclusiva_m2;9.5;m2;r=1.8 cota=4.5 pisable=62
+DOSEL;DISC-50;sombra_exclusiva_m2;25.0;m2;r=1.8 cota=4.5 pisable=63
+DOSEL;DISC-56;sombra_exclusiva_m2;1.75;m2;r=1.8 cota=4.5 pisable=56
+DOSEL;DISC-57;sombra_exclusiva_m2;27.5;m2;r=1.8 cota=4.5 pisable=52
+DOSEL;DISC-58;sombra_exclusiva_m2;1.25;m2;r=1.8 cota=4.5 pisable=55
+DOSEL;DISC-43;sombra_exclusiva_m2;0.25;m2;r=1.8 cota=8.3 pisable=128
+DOSEL;DISC-35;sombra_exclusiva_m2;0.0;m2;r=1.8 cota=7.4 pisable=72
+DOSEL;DISC-11;sombra_exclusiva_m2;3.0;m2;r=1.8 cota=6.4 pisable=66
+DOSEL;DISC-53;sombra_exclusiva_m2;0.0;m2;r=1.8 cota=4.5 pisable=47
+DOSEL;DISC-55;sombra_exclusiva_m2;0.0;m2;r=1.8 cota=4.5 pisable=64
+DOSEL;DISC-54;sombra_exclusiva_m2;65.0;m2;r=1.8 cota=4.5 pisable=65
+DOSEL;DISC-52;sombra_exclusiva_m2;64.75;m2;r=1.8 cota=4.5 pisable=58
+DOSEL;DISC-27;sombra_exclusiva_m2;9.25;m2;r=1.8 cota=8.5 pisable=120
+DOSEL;DISC-48;sombra_exclusiva_m2;0.25;m2;r=1.7 cota=8.3 pisable=114
+DOSEL;DISC-12;sombra_exclusiva_m2;0.0;m2;r=1.7 cota=5.5 pisable=68
+DOSEL;DISC-61;sombra_exclusiva_m2;60.75;m2;r=1.7 cota=5.0 pisable=64
+DOSEL;DISC-44;sombra_exclusiva_m2;0.0;m2;r=1.7 cota=8.3 pisable=103
+DOSEL;DISC-28;sombra_exclusiva_m2;32.25;m2;r=1.7 cota=8.5 pisable=107
+DOSEL;DISC-65;sombra_exclusiva_m2;0.0;m2;r=1.6 cota=5.0 pisable=58
+DOSEL;DISC-67;sombra_exclusiva_m2;0.0;m2;r=1.6 cota=5.0 pisable=62
+DOSEL;DISC-29;sombra_exclusiva_m2;9.25;m2;r=1.6 cota=8.5 pisable=98
+DOSEL;DISC-49;sombra_exclusiva_m2;1.0;m2;r=1.6 cota=5.1 pisable=57
+DOSEL;DISC-13;sombra_exclusiva_m2;31.75;m2;r=1.6 cota=8.5 pisable=100
+DOSEL;DISC-62;sombra_exclusiva_m2;44.75;m2;r=1.5 cota=5.0 pisable=52
+DOSEL;DISC-66;sombra_exclusiva_m2;0.0;m2;r=1.5 cota=5.0 pisable=61
+DOSEL;DISC-63;sombra_exclusiva_m2;9.5;m2;r=1.4 cota=5.0 pisable=56
+REFUGIO;SIN MEJORA;m2;5851.0;m2;con niebla 5304.0
+REFUGIO;MEJORA LEVE;m2;836.0;m2;con niebla 937.0
+REFUGIO;MEJORA MODERADA;m2;191.0;m2;con niebla 137.0
+REFUGIO;REFUGIO EFECTIVO;m2;3876.0;m2;con niebla 4377.0
+SPOTS;CL-HOT-002;m2;2548.0;m2;x=-16 y=-14 UTCI=40.7
+SPOTS;CL-HOT-013;m2;1161.0;m2;x=47 y=45 UTCI=40.6
+SPOTS;CL-HOT-015;m2;306.0;m2;x=-14 y=36 UTCI=40.7
+SPOTS;CL-HOT-010;m2;234.0;m2;x=-61 y=22 UTCI=40.8
+SPOTS;CL-HOT-001;m2;218.0;m2;x=-104 y=-35 UTCI=40.6
+SPOTS;CL-HOT-003;m2;157.0;m2;x=-106 y=-10 UTCI=40.6
+SPOTS;CL-HOT-008;m2;150.0;m2;x=-20 y=14 UTCI=40.6
+SPOTS;CL-HOT-007;m2;111.0;m2;x=-12 y=2 UTCI=40.8
+SPOTS;CL-HOT-009;m2;54.0;m2;x=-33 y=9 UTCI=40.2
+SPOTS;CL-HOT-006;m2;50.0;m2;x=30 y=0 UTCI=39.4
+SPOTS;CL-HOT-011;m2;40.0;m2;x=-11 y=13 UTCI=40.6
+SPOTS;CL-HOT-004;m2;35.0;m2;x=-58 y=-2 UTCI=39.8
+SPOTS;CL-HOT-012;m2;30.0;m2;x=37 y=17 UTCI=40.4
+SPOTS;CL-HOT-005;m2;28.0;m2;x=-40 y=-3 UTCI=40.4
+SPOTS;CL-HOT-014;m2;28.0;m2;x=-43 y=21 UTCI=40.2
+SPOTS;CL-COOL-001;m2;3210.0;m2;x=8 y=12 UTCI=33.4
+PARAMETRO;tau_canopy;HIPOTESIS;0.12;;Transmitancia solar de la hoja-canopy: membrana tensada opaca + lamina de microalgas 2-5 cm (D15). Una lamina de agua co
+PARAMETRO;tau_net;ESTIMADO;0.75;;Redes tensadas (cables + velo) de C1/C2/C3: sombra parcial ligera.
+PARAMETRO;tau_dome;HIPOTESIS;0.55;;"Cupula-pergola: ETFE con reticula de membrana visible (E02 op.0.30). ETFE claro transmite 0.90; con fritado/reticula y s"
+PARAMETRO;k_veg;ESTIMADO;0.4;;Coeficiente de extincion volumetrico del follaje [1/m]. Beer-Lambert: una copa de 4 m de espesor da tau=exp(-0.40*4)=0.2
+PARAMETRO;alb_granito;ESTIMADO;0.3;;Albedo del granito de Sol (gris claro, seco). Rango 0.25-0.35.
+PARAMETRO;alb_granito_hum;ESTIMADO;0.18;;"Albedo del mismo granito humedo (la pelicula de agua oscurece; E01 midio -34 % de color en humedo)."
+PARAMETRO;alb_agua;CALCULADO;0.07;;Albedo de lamina de agua para angulos solares altos (Fresnel).
+PARAMETRO;alb_veg;ESTIMADO;0.2;;Albedo de masa foliar.
+PARAMETRO;alb_canopy;ESTIMADO;0.25;;Albedo de la cara inferior de la hoja-canopy (membrana clara).
+PARAMETRO;eps_sup;ESTIMADO;0.95;;Emisividad infrarroja de granito, vegetacion y membrana (0.92-0.97).
+PARAMETRO;eps_agua;ESTIMADO;0.96;;Emisividad del agua.
+PARAMETRO;a_k;ESTIMADO;0.7;;Coeficiente de absorcion de onda corta del cuerpo vestido (VDI 3787 / Hoppe).
+PARAMETRO;eps_p;ESTIMADO;0.97;;Emisividad del cuerpo humano.
+PARAMETRO;h_mrt;HIPOTESIS;1.1;;"Altura de calculo de MRT [m] (centro de masas del peaton; el enunciado pide 1,10-1,50)."
+PARAMETRO;G_frac;ESTIMADO;0.25;;Fraccion del balance neto que se conduce al terreno en pavimento macizo diurno (0.2-0.3 en literatura de pavimentos urba
+PARAMETRO;z0_plaza;HIPOTESIS;0.3;;Longitud de rugosidad de la plaza abierta [m] para llevar el viento de 10 m a nivel peatonal. Rango urbano abierto 0.1-0
+PARAMETRO;z_ped;CALCULADO;1.1;;Altura de referencia peatonal [m].
+PARAMETRO;neb_caudal_L_h;HIPOTESIS;5.0;;Caudal por boquilla [L/h]. Boquilla de alta presion (70-100 bar) de niebla seca: 3-8 L/h. El modelo 03B define la POSICI
+PARAMETRO;neb_eficiencia;HIPOTESIS;0.35;;Eficiencia de saturacion alcanzada en aire libre, es decir fraccion de la depresion de bulbo humedo realmente conseguida
+PARAMETRO;neb_radio;HIPOTESIS;3.0;;Radio nominal de la nube de una boquilla a 4.0 m [m], antes de deriva.
+PARAMETRO;neb_altura;MEDIDO;4.0;;Altura de emision: H_MISTING del HEIGHT_SYSTEM, verificada en el modelo.
+ISSUES;CL-001;YELLOW;43.8;;INVIERNO | El dosel bloquea el 44 % de la radiacion de invierno
+ISSUES;CL-002;RED;5150.0;;HOTSPOT | Quedan 5150 m2 de suelo pisable en estres termico muy fuerte
+ISSUES;CL-003;YELLOW;1152.83;;AGUA | La mayor parte de la potencia evaporativa del agua esta en altura, no sobre el peaton
+ISSUES;CL-004;RED;38.00268817204301;;CINTA | El recorrido elevado es MAS calido que la plaza que sobrevuela
+ISSUES;CL-005;YELLOW;-1.45;;RECORRIDOS | Los corredores peatonales apenas mejoran
+ISSUES;CL-006;YELLOW;37.1;;AGUA | Las laminas finas se evaporan mas rapido de lo que su calado admite

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><script src="three.min.js"></script></head>
+<body style="margin:0">
+<script>
+const renderer = new THREE.WebGLRenderer({antialias:true, preserveDrawingBuffer:true});
+renderer.setSize(800, 500);
+renderer.shadowMap.enabled = true;
+renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+document.body.appendChild(renderer.domElement);
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0xffffff);
+const cam = new THREE.PerspectiveCamera(50, 1.6, 0.1, 100);
+cam.position.set(4, -6, 4); cam.up.set(0,0,1); cam.lookAt(0,0,0.5);
+const sun = new THREE.DirectionalLight(0xffffff, 2.5);
+sun.position.set(5, -3, 8); sun.castShadow = true;
+sun.shadow.mapSize.set(1024,1024);
+sun.shadow.camera.left=-8; sun.shadow.camera.right=8; sun.shadow.camera.top=8; sun.shadow.camera.bottom=-8;
+sun.shadow.camera.updateProjectionMatrix();
+scene.add(sun); scene.add(sun.target);
+scene.add(new THREE.AmbientLight(0xffffff, 0.4));
+const cube = new THREE.Mesh(new THREE.BoxGeometry(1,1,1), new THREE.MeshStandardMaterial({color:0xdd6699}));
+cube.position.set(0,0,1.2); cube.castShadow = true;
+scene.add(cube);
+const plano = new THREE.Mesh(new THREE.PlaneGeometry(20,20), new THREE.MeshStandardMaterial({color:0xcccccc}));
+plano.receiveShadow = true;
+scene.add(plano);
+let f=0; (function loop(){ renderer.render(scene,cam); if(++f<5) requestAnimationFrame(loop); })();
+</script>
+</body></html>

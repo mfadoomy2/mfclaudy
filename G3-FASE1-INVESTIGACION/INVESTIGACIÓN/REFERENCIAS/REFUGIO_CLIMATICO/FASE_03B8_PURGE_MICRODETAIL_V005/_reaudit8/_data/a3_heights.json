@@ -1,0 +1,730 @@
+{
+ "rows": [
+  {
+   "param": "H_SEATING",
+   "declarado": 0.45,
+   "rango": [
+    0.42,
+    0.48
+   ],
+   "construido": 0.64,
+   "estado": "FUERA",
+   "nota": "38 objetos (BENCH_0_0, BENCH_1_0, BENCH_1_1)"
+  },
+  {
+   "param": "H_PLANTER",
+   "declarado": 0.6,
+   "rango": [
+    0.55,
+    0.9
+   ],
+   "construido": 0.61,
+   "estado": "OK",
+   "nota": "28 objetos (PLANTER_3_0, PLANTER_4_2, PLANTER_5_9)"
+  },
+  {
+   "param": "H_POND_CURB",
+   "declarado": 0.6,
+   "rango": [
+    0.3,
+    1.0
+   ],
+   "construido": 0.6,
+   "estado": "OK",
+   "nota": "4 objetos (CURB_E-1, CURB_E-2, CURB_E-3)"
+  },
+  {
+   "param": "H_BENCH_BACK",
+   "declarado": 0.85,
+   "rango": [
+    0.8,
+    0.9
+   ],
+   "construido": null,
+   "estado": "N/C",
+   "nota": "NO construido: respaldo"
+  },
+  {
+   "param": "H_RAIL",
+   "declarado": 1.05,
+   "rango": [
+    1.0,
+    1.1
+   ],
+   "construido": 1.05,
+   "estado": "OK",
+   "nota": "barandilla de cinta = deck +1.05 (montantes c/~1.0 m)"
+  },
+  {
+   "param": "H_GROUND_TANK",
+   "declarado": 1.35,
+   "rango": [
+    1.2,
+    1.5
+   ],
+   "construido": 2.31,
+   "estado": "FUERA",
+   "nota": "bloque DROP_TANK, 1 cotas de implantacion"
+  },
+  {
+   "param": "H_TOTEM",
+   "declarado": 1.35,
+   "rango": [
+    1.2,
+    1.5
+   ],
+   "construido": 1.48,
+   "estado": "OK",
+   "nota": "bloque TOTEM, 1 cotas de implantacion"
+  },
+  {
+   "param": "H_BRANCH_START",
+   "declarado": 3.0,
+   "rango": [
+    2.6,
+    3.5
+   ],
+   "construido": 3.0,
+   "estado": "OK",
+   "nota": "bloque MAST_2, 1 cotas de implantacion"
+  },
+  {
+   "param": "H_NURSERY_TOWER",
+   "declarado": 3.0,
+   "rango": [
+    3.0,
+    3.0
+   ],
+   "construido": 3.32,
+   "estado": "FUERA",
+   "nota": "bloque NURSERY, 1 cotas de implantacion"
+  },
+  {
+   "param": "H_CLEAR_MIN",
+   "declarado": 3.0,
+   "rango": [
+    2.8,
+    3.2
+   ],
+   "construido": 2.8,
+   "estado": "FUERA",
+   "nota": "minimo bajo ELEMENTO FIRME (regla 7); bajo copa de arbol baja a 2.17 m"
+  },
+  {
+   "param": "H_MISTING",
+   "declarado": 4.0,
+   "rango": [
+    3.5,
+    5.0
+   ],
+   "construido": 4.0,
+   "estado": "OK",
+   "nota": "bloque NEB_POST, 1 cotas de implantacion"
+  },
+  {
+   "param": "H_LOW_CANOPY",
+   "declarado": 5.0,
+   "rango": [
+    4.0,
+    5.5
+   ],
+   "construido": 5.0,
+   "estado": "OK",
+   "nota": "30 discos en la banda 4.2â€“5.6"
+  },
+  {
+   "param": "H_RIBBON",
+   "declarado": 6.0,
+   "rango": [
+    5.5,
+    6.5
+   ],
+   "construido": 6.0,
+   "estado": "OK",
+   "nota": "1 objetos (RIBBON_DECK)"
+  },
+  {
+   "param": "H_MID_CANOPY",
+   "declarado": 6.75,
+   "rango": [
+    6.0,
+    7.5
+   ],
+   "construido": 6.25,
+   "estado": "OK",
+   "nota": "16 discos en la banda 5.6â€“7.6"
+  },
+  {
+   "param": "H_HIGH_CANOPY",
+   "declarado": 8.5,
+   "rango": [
+    8.0,
+    9.5
+   ],
+   "construido": 8.3,
+   "estado": "OK",
+   "nota": "51 discos en la banda 7.6â€“8.5"
+  },
+  {
+   "param": "H_TANK_ELEV",
+   "declarado": 10.5,
+   "rango": [
+    10.0,
+    12.0
+   ],
+   "construido": 10.5,
+   "estado": "OK",
+   "nota": "5 objetos (TANK)"
+  },
+  {
+   "param": "H_TANK_TOWER",
+   "declarado": 5.75,
+   "rango": [
+    5.0,
+    6.0
+   ],
+   "construido": null,
+   "estado": "N/C",
+   "nota": "NO construido: torre de depositos apilados"
+  },
+  {
+   "param": "H_DOME_APEX",
+   "declarado": 8.0,
+   "rango": [
+    8.0,
+    8.0
+   ],
+   "construido": 8.0,
+   "estado": "OK",
+   "nota": "1 objetos (DOME_SHELL)"
+  },
+  {
+   "param": "H_TREE_NEW",
+   "declarado": 5.0,
+   "rango": [
+    3.5,
+    6.5
+   ],
+   "construido": 5.16,
+   "estado": "OK",
+   "nota": "bloque VEG2_ARBOL_A, 1 cotas de implantacion"
+  },
+  {
+   "param": "H_TREE_EXIST",
+   "declarado": 7.0,
+   "rango": [
+    5.0,
+    8.0
+   ],
+   "construido": 6.71,
+   "estado": "OK",
+   "nota": "bloque VEG2_ARBOL_EX, 1 cotas de implantacion"
+  },
+  {
+   "param": "H_LOW_VEGETATION",
+   "declarado": 1.2,
+   "rango": [
+    0.5,
+    2.5
+   ],
+   "construido": 0.86,
+   "estado": "OK",
+   "nota": "bloque VEG2_BAJA, 1 cotas de implantacion"
+  },
+  {
+   "param": "H_LOGISTIC_RAIL",
+   "declarado": 7.5,
+   "rango": [
+    6.5,
+    9.0
+   ],
+   "construido": null,
+   "estado": "N/C",
+   "nota": "NO construido: carril logistico (G4 apagada, D9)"
+  },
+  {
+   "param": "FAMILIA_DOSEL",
+   "declarado": "5.0/6.75/8.5",
+   "rango": [
+    "Â±0.30",
+    ""
+   ],
+   "construido": "28 de 94 discos fuera",
+   "estado": "FUERA",
+   "nota": "cotas construidas min 4.50 max 8.50 mediana 8.25"
+  }
+ ],
+ "cotas_discos": [
+  5.3,
+  5.7,
+  6.1,
+  6.5,
+  8.5,
+  6.2,
+  8.5,
+  8.5,
+  7.0,
+  6.3,
+  6.4,
+  5.5,
+  8.5,
+  6.6,
+  8.5,
+  5.6,
+  8.2,
+  8.3,
+  5.6,
+  8.5,
+  8.5,
+  5.2,
+  8.5,
+  8.5,
+  7.8,
+  7.4,
+  8.5,
+  8.5,
+  8.5,
+  8.3,
+  8.0,
+  7.9,
+  7.3,
+  5.1,
+  7.4,
+  8.3,
+  8.3,
+  6.2,
+  5.6,
+  8.5,
+  8.5,
+  8.5,
+  8.3,
+  8.3,
+  8.3,
+  5.9,
+  8.3,
+  8.3,
+  5.1,
+  4.5,
+  4.5,
+  4.5,
+  4.5,
+  4.5,
+  4.5,
+  4.5,
+  4.5,
+  4.5,
+  4.5,
+  5.0,
+  5.0,
+  5.0,
+  5.0,
+  5.0,
+  5.0,
+  5.0,
+  5.0,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  8.3,
+  5.0,
+  5.0,
+  5.0,
+  5.0
+ ],
+ "blocks": {
+  "STAIR_SB": {
+   "lo": -0.33,
+   "hi": 6.98951073633629,
+   "anchors": [
+    0.0
+   ]
+  },
+  "LIFT_TOWER": {
+   "lo": 0.0,
+   "hi": 9.12,
+   "anchors": [
+    0.0
+   ]
+  },
+  "LEAF_XL": {
+   "lo": 3.9939999999999998,
+   "hi": 9.915380943698846,
+   "anchors": [
+    5.3,
+    5.6,
+    6.6,
+    8.3,
+    8.5
+   ]
+  },
+  "LEAF_LT": {
+   "lo": 3.838,
+   "hi": 9.81919980764571,
+   "anchors": [
+    5.0,
+    5.7,
+    6.2,
+    6.5,
+    7.9,
+    8.3
+   ]
+  },
+  "LEAF_L1": {
+   "lo": 3.874,
+   "hi": 9.795136913433641,
+   "anchors": [
+    5.0,
+    5.6,
+    6.1,
+    8.0,
+    8.2,
+    8.3
+   ]
+  },
+  "LEAF_M2": {
+   "lo": 3.482,
+   "hi": 9.722876334119611,
+   "anchors": [
+    4.5,
+    5.1,
+    5.2,
+    5.9,
+    6.2,
+    6.3
+   ]
+  },
+  "LEAF_MT": {
+   "lo": 3.518,
+   "hi": 9.698754549181897,
+   "anchors": [
+    4.5,
+    6.4,
+    7.4,
+    8.3,
+    8.5
+   ]
+  },
+  "LEAF_OV": {
+   "lo": 3.428,
+   "hi": 9.75902265043326,
+   "anchors": [
+    4.5,
+    5.0,
+    5.5,
+    8.3,
+    8.5
+   ]
+  },
+  "LEAF_M1": {
+   "lo": 3.536,
+   "hi": 9.686684379382857,
+   "anchors": [
+    4.5,
+    5.0,
+    7.0,
+    7.3,
+    7.8,
+    8.3
+   ]
+  },
+  "LEAF_S1": {
+   "lo": 4.18,
+   "hi": 9.589738412097418,
+   "anchors": [
+    5.0,
+    5.1,
+    8.5
+   ]
+  },
+  "LEAF_S2": {
+   "lo": 4.1259999999999994,
+   "hi": 6.126198832300549,
+   "anchors": [
+    5.0
+   ]
+  },
+  "POD_TRAIN": {
+   "lo": 0.0,
+   "hi": 2.745,
+   "anchors": [
+    0.0
+   ]
+  },
+  "MAST_2": {
+   "lo": 0.0,
+   "hi": 5.8397871918825475,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEGA_HELECHO_M": {
+   "lo": 0.051000000000000004,
+   "hi": 1.026,
+   "anchors": [
+    0.04,
+    0.5
+   ]
+  },
+  "MAST_1": {
+   "lo": 0.0,
+   "hi": 5.442168561344428,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEGA_CALATHEA_M": {
+   "lo": 0.001,
+   "hi": 0.999,
+   "anchors": [
+    0.0,
+    0.5
+   ]
+  },
+  "VEGA_GRAMINEA_M": {
+   "lo": 0.042,
+   "hi": 0.79,
+   "anchors": [
+    0.04,
+    0.5
+   ]
+  },
+  "MAST_3": {
+   "lo": 0.0,
+   "hi": 6.436376777579511,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEGA_CALATHEA_F": {
+   "lo": 0.504,
+   "hi": 0.972,
+   "anchors": [
+    0.5
+   ]
+  },
+  "VEGA_GRAMINEA_F": {
+   "lo": 0.042,
+   "hi": 0.79,
+   "anchors": [
+    0.04,
+    0.5
+   ]
+  },
+  "VEGA_HELECHO_F": {
+   "lo": 0.069,
+   "hi": 0.9299999999999999,
+   "anchors": [
+    0.04,
+    0.5
+   ]
+  },
+  "VEGA_GRAMINEA_H": {
+   "lo": 0.042,
+   "hi": 1.05,
+   "anchors": [
+    0.04,
+    0.5
+   ]
+  },
+  "VEGA_HELECHO_H": {
+   "lo": 0.045,
+   "hi": 1.05,
+   "anchors": [
+    0.04,
+    0.5
+   ]
+  },
+  "VEGA_CALATHEA_H": {
+   "lo": 0.0,
+   "hi": 0.999,
+   "anchors": [
+    0.0,
+    0.5
+   ]
+  },
+  "POD_S": {
+   "lo": -0.004545895043399629,
+   "hi": 5.63,
+   "anchors": [
+    0.0,
+    2.9
+   ]
+  },
+  "POD_M": {
+   "lo": -0.011222968197874807,
+   "hi": 3.73,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEGA_JUNCO_M": {
+   "lo": 0.48,
+   "hi": 1.83,
+   "anchors": [
+    0.48
+   ]
+  },
+  "VEG2_ACUATICA": {
+   "lo": 0.4765332830353302,
+   "hi": 1.532494650163213,
+   "anchors": [
+    0.48
+   ]
+  },
+  "NEB_POST": {
+   "lo": 0.0,
+   "hi": 4.14,
+   "anchors": [
+    0.0
+   ]
+  },
+  "DROP_TANK": {
+   "lo": 0.0,
+   "hi": 2.31,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEG2_TROPICAL": {
+   "lo": 0.5599999999999999,
+   "hi": 2.413131323091949,
+   "anchors": [
+    0.6
+   ]
+  },
+  "VEG2_BAJA": {
+   "lo": 0.6,
+   "hi": 1.46,
+   "anchors": [
+    0.6
+   ]
+  },
+  "NURSERY": {
+   "lo": 0.0,
+   "hi": 3.3200000000000003,
+   "anchors": [
+    0.0
+   ]
+  },
+  "TOTEM": {
+   "lo": 0.0,
+   "hi": 1.48,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEG2_ARBOL_B": {
+   "lo": -0.002606518713399312,
+   "hi": 5.845999999999999,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEG2_ARBOL_A": {
+   "lo": -0.0031076082009517114,
+   "hi": 5.162,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEG2_ARBOL_EX": {
+   "lo": -0.002244574903889637,
+   "hi": 6.71,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEG2_TREPADORA": {
+   "lo": -0.013371167692525781,
+   "hi": 3.156260990336999,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEG2_HUERTO": {
+   "lo": 0.0,
+   "hi": 1.7009710755539797,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEGA_ALOCASIA_H": {
+   "lo": 0.0,
+   "hi": 0.598,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEGA_MONSTERA_H": {
+   "lo": 0.0,
+   "hi": 0.95,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEGA_ALOCASIA_M": {
+   "lo": 0.0,
+   "hi": 0.598,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEGA_MONSTERA_M": {
+   "lo": 0.0,
+   "hi": 0.949,
+   "anchors": [
+    0.0
+   ]
+  },
+  "VEGA_POTHOS_M": {
+   "lo": 5.130000000000001,
+   "hi": 10.943999999999999,
+   "anchors": [
+    5.98,
+    9.95,
+    10.95
+   ]
+  },
+  "VEGA_POTHOS_F": {
+   "lo": 5.130000000000001,
+   "hi": 9.912999999999998,
+   "anchors": [
+    5.98,
+    9.95
+   ]
+  },
+  "VEGA_POTHOS_H": {
+   "lo": 10.1,
+   "hi": 10.95,
+   "anchors": [
+    10.95
+   ]
+  },
+  "PERSON": {
+   "lo": 0.0,
+   "hi": 1.7000000000000002,
+   "anchors": [
+    0.0
+   ]
+  }
+ }
+}

@@ -1,0 +1,96 @@
+{
+  "fecha_descarga": "2026-08-11",
+  "destino": "_assets_veg/",
+  "assets": [
+    {
+      "archivo": "fern_02/fern_02_1k.gltf",
+      "especie_rol": "helecho (fern) - fronda pinnada, 4 matas fotoescaneadas",
+      "fuente_url": "https://polyhaven.com/a/fern_02",
+      "autor": "Poly Haven",
+      "licencia": "CC0",
+      "formato": "gltf + bin + texturas jpg 1k",
+      "fecha_descarga": "2026-08-11",
+      "notas": "gltf referencia fern_02.bin y textures/ relativos; cargar carpeta completa"
+    },
+    {
+      "archivo": "anthurium_botany_01/anthurium_botany_01_1k.gltf",
+      "especie_rol": "alocasia/palas grandes (proxy: anthurium de hoja ancha brillante)",
+      "fuente_url": "https://polyhaven.com/a/anthurium_botany_01",
+      "autor": "Poly Haven",
+      "licencia": "CC0",
+      "formato": "gltf + bin + texturas jpg 1k",
+      "fecha_descarga": "2026-08-11",
+      "notas": "no habia alocasia real fotoescaneada CC0; anthurium cubre el rol de pala grande"
+    },
+    {
+      "archivo": "calathea_orbifolia_01/calathea_orbifolia_01_1k.gltf",
+      "especie_rol": "tropical de hoja ancha nervada (calathea orbifolia), refuerzo del rol palas grandes",
+      "fuente_url": "https://polyhaven.com/a/calathea_orbifolia_01",
+      "autor": "Poly Haven",
+      "licencia": "CC0",
+      "formato": "gltf + bin + texturas jpg 1k",
+      "fecha_descarga": "2026-08-11",
+      "notas": null
+    },
+    {
+      "archivo": "grass_medium_02/grass_medium_02_1k.gltf",
+      "especie_rol": "graminea ornamental (grass clump)",
+      "fuente_url": "https://polyhaven.com/a/grass_medium_02",
+      "autor": "Poly Haven",
+      "licencia": "CC0",
+      "formato": "gltf + bin + texturas jpg 1k",
+      "fecha_descarga": "2026-08-11",
+      "notas": null
+    },
+    {
+      "archivo": "shrub_04/shrub_04_1k.gltf",
+      "especie_rol": "arbusto denso de hoja (4 ramas fotoescaneadas)",
+      "fuente_url": "https://polyhaven.com/a/shrub_04",
+      "autor": "Poly Haven",
+      "licencia": "CC0",
+      "formato": "gltf + bin + texturas jpg 1k",
+      "fecha_descarga": "2026-08-11",
+      "notas": null
+    },
+    {
+      "archivo": "potted_plant_01/potted_plant_01_1k.gltf",
+      "especie_rol": "planta en maceta generica fotoescaneada de alta calidad",
+      "fuente_url": "https://polyhaven.com/a/potted_plant_01",
+      "autor": "Poly Haven",
+      "licencia": "CC0",
+      "formato": "gltf + bin + texturas jpg 1k",
+      "fecha_descarga": "2026-08-11",
+      "notas": "malla densa (bin 5.3 MB); es el asset mas pesado del lote"
+    },
+    {
+      "archivo": "monstera_plant_isalousberg.glb",
+      "especie_rol": "monstera deliciosa - hojas fenestradas",
+      "fuente_url": "https://poly.pizza/m/pkmHvN1O2V",
+      "autor": "Isa Lousberg",
+      "licencia": "CC0 (dominio publico)",
+      "formato": "glb autocontenido",
+      "fecha_descarga": "2026-08-11",
+      "notas": "estilo low-poly limpio, no fotoescaneo"
+    },
+    {
+      "archivo": "pothos_hanging_isalousberg.glb",
+      "especie_rol": "planta colgante (pothos)",
+      "fuente_url": "https://poly.pizza/m/7gVHXckx8I",
+      "autor": "Isa Lousberg",
+      "licencia": "CC0 (dominio publico)",
+      "formato": "glb autocontenido",
+      "fecha_descarga": "2026-08-11",
+      "notas": "estilo low-poly limpio, no fotoescaneo"
+    },
+    {
+      "archivo": "cattail_polybygoogle.glb",
+      "especie_rol": "planta de humedal (junco / cattail)",
+      "fuente_url": "https://poly.pizza/m/9uT74BMpRrl",
+      "autor": "Poly by Google",
+      "licencia": "CC-BY 3.0 (requiere atribucion: 'Cattail by Poly by Google')",
+      "formato": "glb autocontenido",
+      "fecha_descarga": "2026-08-11",
+      "notas": "unico asset del lote con obligacion de atribucion"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+ "clases": {
+  "SIN MEJORA": {
+   "m2": 5851.0,
+   "pct": 54.4,
+   "m2_neb": 5304.0,
+   "pct_neb": 49.3
+  },
+  "MEJORA LEVE": {
+   "m2": 836.0,
+   "pct": 7.8,
+   "m2_neb": 937.0,
+   "pct_neb": 8.7
+  },
+  "MEJORA MODERADA": {
+   "m2": 191.0,
+   "pct": 1.8,
+   "m2_neb": 137.0,
+   "pct_neb": 1.3
+  },
+  "REFUGIO EFECTIVO": {
+   "m2": 3876.0,
+   "pct": 36.0,
+   "m2_neb": 4377.0,
+   "pct_neb": 40.7
+  }
+ },
+ "dU_medio": -2.6178990678537404,
+ "dU4_medio": -3.3568353518212897,
+ "formula": "Clasificacion por DELTA-UTCI en la condicion de diseno (E2 tarde calurosa, 16:00 local, sol de 21 de julio). SIN MEJORA: dUTCI > -1 K. LEVE: -3 < dUTCI <= -1. MODERADA: dUTCI <= -3 K. REFUGIO EFECTIVO: dUTCI <= -3 K Y ADEMAS el punto BAJA DE CATEGORIA en la escala oficial de estres termico UTCI (26-32 moderado / 32-38 fuerte / 38-46 muy fuerte). El criterio no es un umbral inventado: es el salto de banda de la clasificacion UTCI. No se suman efectos de sombra, agua y niebla por separado: UTCI ya integra Ta, MRT, viento y humedad en un unico indice."
+}

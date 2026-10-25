@@ -1,0 +1,447 @@
+﻿bloque;elemento;metrica;valor;unidad;nota
+GLOBAL;resumen;objetos_malla;15197;ud;
+GLOBAL;resumen;triangulos;1238977;ud;
+GLOBAL;resumen;area_ambito;10756.5625;m2;
+GLOBAL;resumen;area_libre_cuerpo;9825.9375;m2;
+GLOBAL;resumen;ocupacion_suelo;8.651695186078266;%;
+GLOBAL;resumen;cobertura_dosel;31.701577525347897;%;
+GLOBAL;resumen;ancho_libre_p05;0.7071067811865476;m;
+GLOBAL;resumen;ancho_libre_p50;5.5901699437494745;m;
+GLOBAL;resumen;cuello_botella_min;3.75;m;
+GLOBAL;resumen;galibo_min;2.1328990423984155;m;
+GLOBAL;resumen;galibo_p05;4.242267671482432;m;
+GLOBAL;resumen;vis_correos;48.14663951120163;%;
+GLOBAL;resumen;vis_torre;42.60692464358452;%;
+GLOBAL;resumen;vis_reloj;41.54786150712831;%;
+GLOBAL;resumen;incidencias_RED;0;ud;
+GLOBAL;resumen;incidencias_YELLOW;26;ud;
+GLOBAL;resumen;incidencias_GREEN;18;ud;
+A1_RECORRIDOS;eje-mayor-alcala;long;192.5;m;
+A1_RECORRIDOS;eje-mayor-alcala;w_min;6.75;m;
+A1_RECORRIDOS;eje-mayor-alcala;w_p05;16.812;m;
+A1_RECORRIDOS;eje-mayor-alcala;w_p25;35.25;m;
+A1_RECORRIDOS;eje-mayor-alcala;w_p50;41.125;m;
+A1_RECORRIDOS;eje-mayor-alcala;w_p75;47.5;m;
+A1_RECORRIDOS;eje-mayor-alcala;w_max;60.0;m;
+A1_RECORRIDOS;eje-mayor-alcala;wl_min;3.536;m;
+A1_RECORRIDOS;eje-mayor-alcala;eje_bloqueado;0;ud;
+A1_RECORRIDOS;preciados-carretas;long;93.5;m;
+A1_RECORRIDOS;preciados-carretas;w_min;7.25;m;
+A1_RECORRIDOS;preciados-carretas;w_p05;11.088;m;
+A1_RECORRIDOS;preciados-carretas;w_p25;33.25;m;
+A1_RECORRIDOS;preciados-carretas;w_p50;47.25;m;
+A1_RECORRIDOS;preciados-carretas;w_p75;58.125;m;
+A1_RECORRIDOS;preciados-carretas;w_max;60.0;m;
+A1_RECORRIDOS;preciados-carretas;wl_min;4.717;m;
+A1_RECORRIDOS;preciados-carretas;eje_bloqueado;0;ud;
+A1_RECORRIDOS;carmen-correos;long;101.5;m;
+A1_RECORRIDOS;carmen-correos;w_min;7.5;m;
+A1_RECORRIDOS;carmen-correos;w_p05;11.787;m;
+A1_RECORRIDOS;carmen-correos;w_p25;31.75;m;
+A1_RECORRIDOS;carmen-correos;w_p50;41.875;m;
+A1_RECORRIDOS;carmen-correos;w_p75;60.0;m;
+A1_RECORRIDOS;carmen-correos;w_max;60.0;m;
+A1_RECORRIDOS;carmen-correos;wl_min;3.606;m;
+A1_RECORRIDOS;carmen-correos;eje_bloqueado;0;ud;
+A1_RECORRIDOS;montera-espozymina;long;94.0;m;
+A1_RECORRIDOS;montera-espozymina;w_min;3.75;m;
+A1_RECORRIDOS;montera-espozymina;w_p05;5.55;m;
+A1_RECORRIDOS;montera-espozymina;w_p25;26.25;m;
+A1_RECORRIDOS;montera-espozymina;w_p50;34.5;m;
+A1_RECORRIDOS;montera-espozymina;w_p75;60.0;m;
+A1_RECORRIDOS;montera-espozymina;w_max;60.0;m;
+A1_RECORRIDOS;montera-espozymina;wl_min;0.707;m;
+A1_RECORRIDOS;montera-espozymina;eje_bloqueado;0;ud;
+A1_RECORRIDOS;arenal-alcala;long;192.0;m;
+A1_RECORRIDOS;arenal-alcala;w_min;13.75;m;
+A1_RECORRIDOS;arenal-alcala;w_p05;25.0;m;
+A1_RECORRIDOS;arenal-alcala;w_p25;35.0;m;
+A1_RECORRIDOS;arenal-alcala;w_p50;44.5;m;
+A1_RECORRIDOS;arenal-alcala;w_p75;51.25;m;
+A1_RECORRIDOS;arenal-alcala;w_max;60.0;m;
+A1_RECORRIDOS;arenal-alcala;wl_min;3.536;m;
+A1_RECORRIDOS;arenal-alcala;eje_bloqueado;0;ud;
+A2_GALIBOS;sin_id;altura_libre;2.133;m;x=36.6 y=43.1 area=0.5
+A2_GALIBOS;sin_id;altura_libre;2.133;m;x=45.9 y=46.9 area=0.3
+A2_GALIBOS;SAT_C1-L1;altura_libre;2.141;m;x=-45.9 y=-15.6 area=0.3
+A2_GALIBOS;sin_id;altura_libre;2.146;m;x=34.9 y=42.1 area=1.1
+A2_GALIBOS;sin_id;altura_libre;2.148;m;x=47.1 y=45.1 area=0.6
+A2_GALIBOS;sin_id;altura_libre;2.149;m;x=-47.1 y=-17.4 area=0.4
+A2_GALIBOS;sin_id;altura_libre;2.151;m;x=43.1 y=40.1 area=0.4
+A2_GALIBOS;DECK_GOTERON;altura_libre;2.195;m;x=35.9 y=26.4 area=0.3
+A2_GALIBOS;DECK_GOTERON;altura_libre;2.236;m;x=-29.4 y=-4.9 area=0.4
+A2_GALIBOS;DECK_GOTERON;altura_libre;2.245;m;x=36.1 y=27.6 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.275;m;x=44.1 y=39.1 area=0.2
+A2_GALIBOS;SAT_C1-L1;altura_libre;2.28;m;x=-45.4 y=-15.9 area=0.3
+A2_GALIBOS;VEG2_TROPICAL;altura_libre;2.309;m;x=36.1 y=6.6 area=0.3
+A2_GALIBOS;VEG2_TROPICAL;altura_libre;2.31;m;x=58.6 y=22.1 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.325;m;x=40.1 y=48.9 area=0.2
+A2_GALIBOS;DECK_GOTERON;altura_libre;2.326;m;x=76.9 y=16.9 area=0.2
+A2_GALIBOS;VEG2_TROPICAL;altura_libre;2.334;m;x=19.6 y=-6.9 area=0.3
+A2_GALIBOS;VEG2_TROPICAL;altura_libre;2.339;m;x=18.9 y=-3.6 area=0.3
+A2_GALIBOS;VEG2_TROPICAL;altura_libre;2.349;m;x=-16.6 y=8.6 area=0.3
+A2_GALIBOS;VEG2_TROPICAL;altura_libre;2.351;m;x=-13.6 y=22.9 area=0.2
+A2_GALIBOS;VEG2_TROPICAL;altura_libre;2.351;m;x=32.1 y=12.9 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.355;m;x=49.4 y=49.9 area=0.4
+A2_GALIBOS;sin_id;altura_libre;2.36;m;x=48.4 y=56.9 area=0.2
+A2_GALIBOS;VEG2_TROPICAL;altura_libre;2.365;m;x=57.6 y=25.4 area=0.3
+A2_GALIBOS;sin_id;altura_libre;2.385;m;x=-102.1 y=-35.4 area=0.2
+A2_GALIBOS;VEG2_TROPICAL;altura_libre;2.386;m;x=-13.6 y=9.9 area=0.3
+A2_GALIBOS;VEG2_TROPICAL;altura_libre;2.388;m;x=65.6 y=-6.1 area=0.3
+A2_GALIBOS;sin_id;altura_libre;2.388;m;x=-46.4 y=-18.4 area=0.2
+A2_GALIBOS;DECK_GOTERON;altura_libre;2.391;m;x=35.4 y=27.9 area=0.3
+A2_GALIBOS;sin_id;altura_libre;2.394;m;x=-100.6 y=-32.9 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.397;m;x=51.9 y=56.9 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.401;m;x=43.4 y=60.4 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.416;m;x=52.1 y=60.9 area=0.6
+A2_GALIBOS;sin_id;altura_libre;2.425;m;x=41.9 y=51.9 area=0.6
+A2_GALIBOS;LEAF_OV;altura_libre;2.438;m;x=-5.4 y=35.1 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.445;m;x=42.9 y=60.9 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.452;m;x=-109.6 y=-35.6 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.475;m;x=46.4 y=59.4 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.485;m;x=-107.1 y=-33.4 area=0.3
+A2_GALIBOS;sin_id;altura_libre;2.513;m;x=44.9 y=65.4 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.518;m;x=47.9 y=66.4 area=0.4
+A2_GALIBOS;sin_id;altura_libre;2.53;m;x=-60.1 y=-16.9 area=0.5
+A2_GALIBOS;sin_id;altura_libre;2.576;m;x=47.4 y=52.6 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.61;m;x=-107.9 y=-10.1 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.624;m;x=38.1 y=41.4 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.633;m;x=51.4 y=72.9 area=0.4
+A2_GALIBOS;MAST_1;altura_libre;2.69;m;x=-57.9 y=-15.4 area=0.3
+A2_GALIBOS;sin_id;altura_libre;2.696;m;x=53.6 y=62.1 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.761;m;x=-105.6 y=-11.1 area=0.2
+A2_GALIBOS;sin_id;altura_libre;2.761;m;x=51.1 y=62.1 area=0.3
+A2_GALIBOS;sin_id;altura_libre;2.775;m;x=42.9 y=59.1 area=0.2
+A3_ALTURAS;H_SEATING;declarado_vs_construido;0.64;m;decl=0.45 estado=FUERA
+A3_ALTURAS;H_PLANTER;declarado_vs_construido;0.61;m;decl=0.6 estado=OK
+A3_ALTURAS;H_POND_CURB;declarado_vs_construido;0.6;m;decl=0.6 estado=OK
+A3_ALTURAS;H_BENCH_BACK;declarado_vs_construido;;m;decl=0.85 estado=N/C
+A3_ALTURAS;H_RAIL;declarado_vs_construido;1.05;m;decl=1.05 estado=OK
+A3_ALTURAS;H_GROUND_TANK;declarado_vs_construido;2.31;m;decl=1.35 estado=FUERA
+A3_ALTURAS;H_TOTEM;declarado_vs_construido;1.48;m;decl=1.35 estado=OK
+A3_ALTURAS;H_BRANCH_START;declarado_vs_construido;3.0;m;decl=3.0 estado=OK
+A3_ALTURAS;H_NURSERY_TOWER;declarado_vs_construido;3.32;m;decl=3.0 estado=FUERA
+A3_ALTURAS;H_CLEAR_MIN;declarado_vs_construido;2.8;m;decl=3.0 estado=FUERA
+A3_ALTURAS;H_MISTING;declarado_vs_construido;4.0;m;decl=4.0 estado=OK
+A3_ALTURAS;H_LOW_CANOPY;declarado_vs_construido;5.0;m;decl=5.0 estado=OK
+A3_ALTURAS;H_RIBBON;declarado_vs_construido;6.0;m;decl=6.0 estado=OK
+A3_ALTURAS;H_MID_CANOPY;declarado_vs_construido;6.25;m;decl=6.75 estado=OK
+A3_ALTURAS;H_HIGH_CANOPY;declarado_vs_construido;8.3;m;decl=8.5 estado=OK
+A3_ALTURAS;H_TANK_ELEV;declarado_vs_construido;10.5;m;decl=10.5 estado=OK
+A3_ALTURAS;H_TANK_TOWER;declarado_vs_construido;;m;decl=5.75 estado=N/C
+A3_ALTURAS;H_DOME_APEX;declarado_vs_construido;8.0;m;decl=8.0 estado=OK
+A3_ALTURAS;H_TREE_NEW;declarado_vs_construido;;m;decl=5.0 estado=N/C
+A3_ALTURAS;H_TREE_EXIST;declarado_vs_construido;;m;decl=7.0 estado=N/C
+A3_ALTURAS;H_LOW_VEGETATION;declarado_vs_construido;0.86;m;decl=1.2 estado=OK
+A3_ALTURAS;H_LOGISTIC_RAIL;declarado_vs_construido;;m;decl=7.5 estado=N/C
+A3_ALTURAS;FAMILIA_DOSEL;declarado_vs_construido;28 de 94 discos fuera;m;decl=5.0/6.75/8.5 estado=FUERA
+A4_CINTA;RIBBON;long;733.0;m;
+A4_CINTA;RIBBON;ancho_util;2.31;m;
+A4_CINTA;RIBBON;galibo_bajo;5.78;m;
+A4_CINTA;RIBBON;radio_min_abs;0.01;m;
+A4_CINTA;RIBBON;pend_long_pct;0.0;%;
+A4_CINTA;RIBBON;pend_transv_pct;0.0;%;
+A4_CINTA;ESCALERA;contrahuella;0.162;m;
+A4_CINTA;ESCALERA;huella;0.29;m;
+A4_CINTA;ESCALERA;pendiente_pct;55.8621;%;
+A5_ACCESIBILIDAD;eje-mayor-alcala;veredicto;APTO;;w_min=3.54 pct180=100
+A5_ACCESIBILIDAD;preciados-carretas;veredicto;APTO;;w_min=4.72 pct180=100
+A5_ACCESIBILIDAD;carmen-correos;veredicto;APTO;;w_min=3.61 pct180=100
+A5_ACCESIBILIDAD;montera-espozymina;veredicto;CONDICIONADO;;w_min=0.71 pct180=97
+A5_ACCESIBILIDAD;arenal-alcala;veredicto;APTO;;w_min=3.54 pct180=100
+A5_ACCESIBILIDAD;CINTA +6.00;veredicto;APTO CON ASCENSOR (3 uds);;w_min=2.31 pct180=100
+A6_METRO;Centro Comercial;d_min_obstaculo_nivel_boca;44.64;m;en_ambito=False n_banda_suelo=0 frontal=11.2
+A6_METRO;Centro Comercial;d_min_estructura_aerea;43.76;m;z=4.5 n_banda_aereo=0 galibo=None
+A6_METRO;Cercanías;d_min_obstaculo_nivel_boca;5.44;m;en_ambito=True n_banda_suelo=2 frontal=5.5
+A6_METRO;Cercanías;d_min_estructura_aerea;0.34;m;z=9.55 n_banda_aereo=95 galibo=14.0
+A6_METRO;Carretas;d_min_obstaculo_nivel_boca;24.55;m;en_ambito=False n_banda_suelo=0 frontal=17.5
+A6_METRO;Carretas;d_min_estructura_aerea;22.46;m;z=5.72 n_banda_aereo=0 galibo=None
+A6_METRO;Carmen;d_min_obstaculo_nivel_boca;5.62;m;en_ambito=True n_banda_suelo=0 frontal=5.5
+A6_METRO;Carmen;d_min_estructura_aerea;0.24;m;z=5.74 n_banda_aereo=132 galibo=5.78
+A6_METRO;Mayor;d_min_obstaculo_nivel_boca;15.31;m;en_ambito=True n_banda_suelo=0 frontal=17.5
+A6_METRO;Mayor;d_min_estructura_aerea;11.01;m;z=7.55 n_banda_aereo=0 galibo=None
+A6_METRO;Alcalá;d_min_obstaculo_nivel_boca;4.75;m;en_ambito=True n_banda_suelo=1 frontal=6.8
+A6_METRO;Alcalá;d_min_estructura_aerea;0.36;m;z=9.78 n_banda_aereo=146 galibo=5.78
+A6_METRO;Alcalá;d_min_obstaculo_nivel_boca;5.15;m;en_ambito=True n_banda_suelo=1 frontal=5.0
+A6_METRO;Alcalá;d_min_estructura_aerea;0.26;m;z=9.7 n_banda_aereo=242 galibo=5.78
+A7_VISUALES;RELOJ;pct_visibilidad;41.55;%;n=2455
+A7_VISUALES;TORRE;pct_visibilidad;42.61;%;n=2455
+A7_VISUALES;CORREOS;pct_visibilidad;48.15;%;n=2455
+A8_DENSIDAD;sector_-62_5;ocupacion;17.46;%;master=14.4 delta=3.1 cubierto=84.2
+A8_DENSIDAD;sector_58_5;ocupacion;17.19;%;master=17.0 delta=0.2 cubierto=78.4
+A8_DENSIDAD;sector_-2_25;ocupacion;16.98;%;master=16.5 delta=0.4 cubierto=59.0
+A8_DENSIDAD;sector_-22_5;ocupacion;16.95;%;master=16.6 delta=0.3 cubierto=18.0
+A8_DENSIDAD;sector_18_25;ocupacion;15.69;%;master=15.6 delta=0.0 cubierto=66.3
+A8_DENSIDAD;sector_18_5;ocupacion;15.05;%;master=13.5 delta=1.5 cubierto=74.2
+A8_DENSIDAD;sector_-42_5;ocupacion;13.7;%;master=10.2 delta=3.5 cubierto=53.2
+A8_DENSIDAD;sector_38_5;ocupacion;13.39;%;master=12.5 delta=0.9 cubierto=75.0
+A8_DENSIDAD;sector_-2_5;ocupacion;12.11;%;master=9.9 delta=2.2 cubierto=47.8
+A8_DENSIDAD;sector_-42_25;ocupacion;11.81;%;master=10.9 delta=0.9 cubierto=43.3
+A8_DENSIDAD;sector_38_-15;ocupacion;11.53;%;master=11.5 delta=0.0 cubierto=4.1
+A8_DENSIDAD;sector_58_25;ocupacion;10.22;%;master=9.9 delta=0.3 cubierto=23.9
+A8_DENSIDAD;sector_-62_25;ocupacion;8.38;%;master=8.4 delta=0.0 cubierto=17.4
+A8_DENSIDAD;sector_-22_-15;ocupacion;8.14;%;master=6.8 delta=1.4 cubierto=0.0
+A8_DENSIDAD;sector_78_-15;ocupacion;7.87;%;master=7.9 delta=0.0 cubierto=4.0
+A8_DENSIDAD;sector_38_45;ocupacion;6.97;%;master=0.0 delta=7.0 cubierto=0.0
+A8_DENSIDAD;sector_78_5;ocupacion;6.9;%;master=6.7 delta=0.2 cubierto=32.1
+A8_DENSIDAD;sector_38_25;ocupacion;5.58;%;master=4.3 delta=1.3 cubierto=19.1
+A8_DENSIDAD;sector_58_-15;ocupacion;5.09;%;master=4.9 delta=0.2 cubierto=2.6
+A8_DENSIDAD;sector_-22_25;ocupacion;5.06;%;master=4.9 delta=0.1 cubierto=43.3
+A8_DENSIDAD;sector_58_65;ocupacion;4.77;%;master=0.0 delta=4.8 cubierto=0.0
+A8_DENSIDAD;sector_78_25;ocupacion;4.69;%;master=3.6 delta=1.1 cubierto=15.8
+A8_DENSIDAD;sector_-82_5;ocupacion;4.23;%;master=4.2 delta=0.0 cubierto=26.3
+A8_DENSIDAD;sector_18_-15;ocupacion;4.13;%;master=3.9 delta=0.2 cubierto=3.2
+A8_DENSIDAD;sector_-2_45;ocupacion;3.92;%;master=1.2 delta=2.8 cubierto=4.7
+A8_DENSIDAD;sector_-42_-15;ocupacion;3.65;%;master=2.1 delta=1.5 cubierto=31.4
+A8_DENSIDAD;sector_38_65;ocupacion;3.2;%;master=0.0 delta=3.2 cubierto=0.0
+A8_DENSIDAD;sector_-62_-15;ocupacion;3.05;%;master=2.2 delta=0.8 cubierto=59.6
+A8_DENSIDAD;sector_-102_-35;ocupacion;2.89;%;master=0.0 delta=2.9 cubierto=0.0
+A8_DENSIDAD;sector_-102_-15;ocupacion;2.24;%;master=0.0 delta=2.2 cubierto=0.0
+A8_DENSIDAD;sector_58_45;ocupacion;1.0;%;master=0.0 delta=1.0 cubierto=0.0
+A8_DENSIDAD;sector_-82_-15;ocupacion;0.62;%;master=0.6 delta=0.0 cubierto=5.1
+A8_DENSIDAD;sector_-82_-35;ocupacion;0.0;%;master=0.0 delta=0.0 cubierto=0.0
+A8_DENSIDAD;sector_-62_-35;ocupacion;0.0;%;master=0.0 delta=0.0 cubierto=0.0
+A8_DENSIDAD;sector_-2_-15;ocupacion;0.0;%;master=0.0 delta=0.0 cubierto=6.4
+A8_DENSIDAD;sector_-22_45;ocupacion;0.0;%;master=0.0 delta=0.0 cubierto=2.9
+A8_DENSIDAD;sector_18_45;ocupacion;0.0;%;master=0.0 delta=0.0 cubierto=3.9
+A9_MANTENIMIENTO;D-C1-1;holgura_adyacente;8.49;m;cat=DEPOSITO +10.5 acceso=True z=10.5
+A9_MANTENIMIENTO;D-C1-2;holgura_adyacente;8.49;m;cat=DEPOSITO +10.5 acceso=True z=10.5
+A9_MANTENIMIENTO;D-C2-1;holgura_adyacente;5.41;m;cat=DEPOSITO +10.5 acceso=True z=10.5
+A9_MANTENIMIENTO;D-C2-2;holgura_adyacente;7.21;m;cat=DEPOSITO +10.5 acceso=True z=10.5
+A9_MANTENIMIENTO;D-C3-1;holgura_adyacente;5.52;m;cat=DEPOSITO +10.5 acceso=True z=10.5
+A9_MANTENIMIENTO;D-C3-2;holgura_adyacente;10.51;m;cat=DEPOSITO +10.5 acceso=True z=10.5
+A9_MANTENIMIENTO;DROP-1;holgura_adyacente;6.08;m;cat=DEPOSITO DE SUELO acceso=True z=2.2
+A9_MANTENIMIENTO;DROP-2;holgura_adyacente;6.18;m;cat=DEPOSITO DE SUELO acceso=True z=2.2
+A9_MANTENIMIENTO;DROP-3;holgura_adyacente;6.73;m;cat=DEPOSITO DE SUELO acceso=True z=2.2
+A9_MANTENIMIENTO;DROP-4;holgura_adyacente;4.47;m;cat=DEPOSITO DE SUELO acceso=True z=2.2
+A9_MANTENIMIENTO;DROP-5;holgura_adyacente;4.61;m;cat=DEPOSITO DE SUELO acceso=True z=2.2
+A9_MANTENIMIENTO;DROP-6;holgura_adyacente;7.0;m;cat=DEPOSITO DE SUELO acceso=True z=2.2
+A9_MANTENIMIENTO;NEB-01;holgura_adyacente;9.0;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-02;holgura_adyacente;5.83;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-03;holgura_adyacente;7.57;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-04;holgura_adyacente;4.24;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-05;holgura_adyacente;10.12;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-06;holgura_adyacente;8.32;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-07;holgura_adyacente;7.16;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-08;holgura_adyacente;6.71;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-09;holgura_adyacente;11.42;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-10;holgura_adyacente;8.14;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-11;holgura_adyacente;8.9;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-12;holgura_adyacente;13.54;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-13;holgura_adyacente;10.61;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-14;holgura_adyacente;9.71;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-15;holgura_adyacente;6.8;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-16;holgura_adyacente;4.47;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-17;holgura_adyacente;10.01;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-18;holgura_adyacente;8.06;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-19;holgura_adyacente;6.04;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-20;holgura_adyacente;6.71;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-21;holgura_adyacente;5.5;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-22;holgura_adyacente;5.83;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-23;holgura_adyacente;6.18;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-24;holgura_adyacente;5.66;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-25;holgura_adyacente;6.36;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-26;holgura_adyacente;4.74;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-27;holgura_adyacente;4.12;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-28;holgura_adyacente;6.52;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-29;holgura_adyacente;6.58;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-30;holgura_adyacente;4.12;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-31;holgura_adyacente;7.91;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-32;holgura_adyacente;7.5;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-33;holgura_adyacente;9.86;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-34;holgura_adyacente;8.14;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-35;holgura_adyacente;10.3;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-36;holgura_adyacente;10.26;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-37;holgura_adyacente;5.59;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-38;holgura_adyacente;6.8;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-39;holgura_adyacente;6.73;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-40;holgura_adyacente;9.5;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-41;holgura_adyacente;6.02;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NEB-42;holgura_adyacente;6.95;m;cat=NEBULIZADOR +4.0 acceso=True z=4.0
+A9_MANTENIMIENTO;NURSERY-1;holgura_adyacente;4.92;m;cat=VIVERO acceso=True z=3.0
+A9_MANTENIMIENTO;NURSERY-2;holgura_adyacente;3.2;m;cat=VIVERO acceso=True z=3.0
+A9_MANTENIMIENTO;NURSERY-3;holgura_adyacente;5.85;m;cat=VIVERO acceso=True z=3.0
+A9_MANTENIMIENTO;DISC-01;holgura_adyacente;4.03;m;cat=CANOPY / BAJANTE acceso=True z=5.3
+A9_MANTENIMIENTO;DISC-02;holgura_adyacente;4.47;m;cat=CANOPY / BAJANTE acceso=True z=5.7
+A9_MANTENIMIENTO;DISC-03;holgura_adyacente;4.61;m;cat=CANOPY / BAJANTE acceso=True z=6.1
+A9_MANTENIMIENTO;DISC-04;holgura_adyacente;3.35;m;cat=CANOPY / BAJANTE acceso=True z=6.5
+A9_MANTENIMIENTO;DISC-05;holgura_adyacente;8.54;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-06;holgura_adyacente;8.28;m;cat=CANOPY / BAJANTE acceso=True z=6.2
+A9_MANTENIMIENTO;DISC-07;holgura_adyacente;5.1;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-08;holgura_adyacente;4.61;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-09;holgura_adyacente;5.22;m;cat=CANOPY / BAJANTE acceso=True z=7.0
+A9_MANTENIMIENTO;DISC-10;holgura_adyacente;7.28;m;cat=CANOPY / BAJANTE acceso=True z=6.3
+A9_MANTENIMIENTO;DISC-11;holgura_adyacente;3.5;m;cat=CANOPY / BAJANTE acceso=True z=6.4
+A9_MANTENIMIENTO;DISC-12;holgura_adyacente;8.6;m;cat=CANOPY / BAJANTE acceso=True z=5.5
+A9_MANTENIMIENTO;DISC-13;holgura_adyacente;6.02;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-14;holgura_adyacente;14.58;m;cat=CANOPY / BAJANTE acceso=True z=6.6
+A9_MANTENIMIENTO;DISC-15;holgura_adyacente;5.59;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-16;holgura_adyacente;5.5;m;cat=CANOPY / BAJANTE acceso=True z=5.6
+A9_MANTENIMIENTO;DISC-17;holgura_adyacente;5.02;m;cat=CANOPY / BAJANTE acceso=True z=8.2
+A9_MANTENIMIENTO;DISC-18;holgura_adyacente;6.02;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-19;holgura_adyacente;4.61;m;cat=CANOPY / BAJANTE acceso=True z=5.6
+A9_MANTENIMIENTO;DISC-20;holgura_adyacente;4.61;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-21;holgura_adyacente;4.95;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-22;holgura_adyacente;5.0;m;cat=CANOPY / BAJANTE acceso=True z=5.2
+A9_MANTENIMIENTO;DISC-23;holgura_adyacente;3.35;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-24;holgura_adyacente;6.04;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-25;holgura_adyacente;3.81;m;cat=CANOPY / BAJANTE acceso=True z=7.8
+A9_MANTENIMIENTO;DISC-26;holgura_adyacente;4.95;m;cat=CANOPY / BAJANTE acceso=True z=7.4
+A9_MANTENIMIENTO;DISC-27;holgura_adyacente;5.5;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-28;holgura_adyacente;5.83;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-29;holgura_adyacente;5.02;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-30;holgura_adyacente;5.5;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-31;holgura_adyacente;4.95;m;cat=CANOPY / BAJANTE acceso=True z=8.0
+A9_MANTENIMIENTO;DISC-32;holgura_adyacente;5.59;m;cat=CANOPY / BAJANTE acceso=True z=7.9
+A9_MANTENIMIENTO;DISC-33;holgura_adyacente;5.7;m;cat=CANOPY / BAJANTE acceso=True z=7.3
+A9_MANTENIMIENTO;DISC-34;holgura_adyacente;4.12;m;cat=CANOPY / BAJANTE acceso=True z=5.1
+A9_MANTENIMIENTO;DISC-35;holgura_adyacente;5.7;m;cat=CANOPY / BAJANTE acceso=True z=7.4
+A9_MANTENIMIENTO;DISC-36;holgura_adyacente;9.19;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-37;holgura_adyacente;6.96;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-38;holgura_adyacente;6.96;m;cat=CANOPY / BAJANTE acceso=True z=6.2
+A9_MANTENIMIENTO;DISC-39;holgura_adyacente;9.19;m;cat=CANOPY / BAJANTE acceso=True z=5.6
+A9_MANTENIMIENTO;DISC-40;holgura_adyacente;3.81;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-41;holgura_adyacente;9.39;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-42;holgura_adyacente;7.62;m;cat=CANOPY / BAJANTE acceso=True z=8.5
+A9_MANTENIMIENTO;DISC-43;holgura_adyacente;7.91;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-44;holgura_adyacente;6.08;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-45;holgura_adyacente;6.26;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-46;holgura_adyacente;6.95;m;cat=CANOPY / BAJANTE acceso=True z=5.9
+A9_MANTENIMIENTO;DISC-47;holgura_adyacente;10.31;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-48;holgura_adyacente;5.32;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-49;holgura_adyacente;6.26;m;cat=CANOPY / BAJANTE acceso=True z=5.1
+A9_MANTENIMIENTO;DISC-50;holgura_adyacente;16.12;m;cat=CANOPY / BAJANTE acceso=True z=4.5
+A9_MANTENIMIENTO;DISC-51;holgura_adyacente;14.15;m;cat=CANOPY / BAJANTE acceso=True z=4.5
+A9_MANTENIMIENTO;DISC-52;holgura_adyacente;8.14;m;cat=CANOPY / BAJANTE acceso=True z=4.5
+A9_MANTENIMIENTO;DISC-53;holgura_adyacente;4.0;m;cat=CANOPY / BAJANTE acceso=True z=4.5
+A9_MANTENIMIENTO;DISC-54;holgura_adyacente;19.01;m;cat=CANOPY / BAJANTE acceso=True z=4.5
+A9_MANTENIMIENTO;DISC-55;holgura_adyacente;9.12;m;cat=CANOPY / BAJANTE acceso=True z=4.5
+A9_MANTENIMIENTO;DISC-56;holgura_adyacente;8.08;m;cat=CANOPY / BAJANTE acceso=True z=4.5
+A9_MANTENIMIENTO;DISC-57;holgura_adyacente;4.0;m;cat=CANOPY / BAJANTE acceso=True z=4.5
+A9_MANTENIMIENTO;DISC-58;holgura_adyacente;3.81;m;cat=CANOPY / BAJANTE acceso=True z=4.5
+A9_MANTENIMIENTO;DISC-59;holgura_adyacente;12.65;m;cat=CANOPY / BAJANTE acceso=True z=4.5
+A9_MANTENIMIENTO;DISC-60;holgura_adyacente;9.5;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-61;holgura_adyacente;6.08;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-62;holgura_adyacente;9.5;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-63;holgura_adyacente;10.0;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-64;holgura_adyacente;10.92;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-65;holgura_adyacente;9.12;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-66;holgura_adyacente;13.01;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-67;holgura_adyacente;5.41;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-68;holgura_adyacente;4.47;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-69;holgura_adyacente;4.47;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-70;holgura_adyacente;4.72;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-71;holgura_adyacente;5.41;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-72;holgura_adyacente;9.12;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-73;holgura_adyacente;5.59;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-74;holgura_adyacente;11.66;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-75;holgura_adyacente;14.32;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-76;holgura_adyacente;7.16;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-77;holgura_adyacente;5.22;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-78;holgura_adyacente;25.83;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-79;holgura_adyacente;12.02;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-80;holgura_adyacente;5.1;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-81;holgura_adyacente;6.02;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-82;holgura_adyacente;15.0;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-83;holgura_adyacente;12.54;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-84;holgura_adyacente;6.71;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-85;holgura_adyacente;6.5;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-86;holgura_adyacente;7.91;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-87;holgura_adyacente;9.62;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-88;holgura_adyacente;10.61;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-89;holgura_adyacente;5.41;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-90;holgura_adyacente;9.22;m;cat=CANOPY / BAJANTE acceso=True z=8.3
+A9_MANTENIMIENTO;DISC-91;holgura_adyacente;10.92;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-92;holgura_adyacente;8.63;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-93;holgura_adyacente;4.27;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;DISC-94;holgura_adyacente;10.01;m;cat=CANOPY / BAJANTE acceso=True z=5.0
+A9_MANTENIMIENTO;BOMBA-1;holgura_adyacente;0.0;m;cat=BOMBEO acceso=False z=0.0
+A9_MANTENIMIENTO;BOMBA-2;holgura_adyacente;13.0;m;cat=BOMBEO acceso=True z=0.0
+A9_MANTENIMIENTO;BOMBA-3;holgura_adyacente;5.02;m;cat=BOMBEO acceso=True z=0.0
+A9_MANTENIMIENTO;D-C1-1-riser;holgura_adyacente;8.49;m;cat=BAJANTE/RISER acceso=True z=10.5
+A9_MANTENIMIENTO;D-C1-2-riser;holgura_adyacente;8.49;m;cat=BAJANTE/RISER acceso=True z=10.5
+A9_MANTENIMIENTO;D-C2-1-riser;holgura_adyacente;5.41;m;cat=BAJANTE/RISER acceso=True z=10.5
+A9_MANTENIMIENTO;D-C2-2-riser;holgura_adyacente;7.21;m;cat=BAJANTE/RISER acceso=True z=10.5
+A9_MANTENIMIENTO;D-C3-1-riser;holgura_adyacente;5.52;m;cat=BAJANTE/RISER acceso=True z=10.5
+A9_MANTENIMIENTO;D-C3-2-riser;holgura_adyacente;10.51;m;cat=BAJANTE/RISER acceso=True z=10.5
+A10_COLISIONES;RIBBON x STRUCTURE;volumen_solape;136.472;m3;intencionado=True voxeles=17059
+A10_COLISIONES;DETAIL x STRUCTURE;volumen_solape;118.096;m3;intencionado=False voxeles=14762
+A10_COLISIONES;DETAIL x RIBBON;volumen_solape;112.704;m3;intencionado=False voxeles=14088
+A10_COLISIONES;DETAIL x PLANTER;volumen_solape;33.264;m3;intencionado=False voxeles=4158
+A10_COLISIONES;DETAIL x VEGETATION;volumen_solape;19.656;m3;intencionado=False voxeles=2457
+A10_COLISIONES;PLANTER x VEGETATION;volumen_solape;17.864;m3;intencionado=True voxeles=2233
+A10_COLISIONES;CANOPY x STRUCTURE;volumen_solape;13.744;m3;intencionado=True voxeles=1718
+A10_COLISIONES;STRUCTURE x WATER;volumen_solape;8.616;m3;intencionado=True voxeles=1077
+A10_COLISIONES;PLANTER x WATER;volumen_solape;6.008;m3;intencionado=True voxeles=751
+A10_COLISIONES;CABLE x DETAIL;volumen_solape;5.656;m3;intencionado=False voxeles=707
+A10_COLISIONES;DETAIL x WATER;volumen_solape;5.336;m3;intencionado=False voxeles=667
+A10_COLISIONES;STRUCTURE x VEGETATION;volumen_solape;4.512;m3;intencionado=True voxeles=564
+A10_COLISIONES;CABLE x STRUCTURE;volumen_solape;4.456;m3;intencionado=False voxeles=557
+A10_COLISIONES;PODS x STRUCTURE;volumen_solape;4.32;m3;intencionado=True voxeles=540
+A10_COLISIONES;VEGETATION x WATER;volumen_solape;3.784;m3;intencionado=True voxeles=473
+A10_COLISIONES;CABLE x CANOPY;volumen_solape;3.384;m3;intencionado=False voxeles=423
+A10_COLISIONES;CANOPY x DETAIL;volumen_solape;3.112;m3;intencionado=False voxeles=389
+A10_COLISIONES;PLANTER x STRUCTURE;volumen_solape;2.488;m3;intencionado=True voxeles=311
+A10_COLISIONES;DETAIL x FURNITURE;volumen_solape;1.952;m3;intencionado=False voxeles=244
+A10_COLISIONES;FURNITURE x VEGETATION;volumen_solape;1.392;m3;intencionado=True voxeles=174
+A10_COLISIONES;CANOPY x PODS;volumen_solape;1.136;m3;intencionado=False voxeles=142
+A10_COLISIONES;CANOPY x WATER;volumen_solape;0.8;m3;intencionado=True voxeles=100
+A10_COLISIONES;CABLE x WATER;volumen_solape;0.648;m3;intencionado=False voxeles=81
+A10_COLISIONES;PODS x WATER;volumen_solape;0.608;m3;intencionado=False voxeles=76
+A10_COLISIONES;DETAIL x PODS;volumen_solape;0.4;m3;intencionado=False voxeles=50
+A10_COLISIONES;FURNITURE x WATER;volumen_solape;0.288;m3;intencionado=False voxeles=36
+A10_COLISIONES;RIBBON x WATER;volumen_solape;0.28;m3;intencionado=False voxeles=35
+A10_COLISIONES;CANOPY x RIBBON;volumen_solape;0.264;m3;intencionado=False voxeles=33
+A10_COLISIONES;CABLE x VEGETATION;volumen_solape;0.24;m3;intencionado=False voxeles=30
+A10_COLISIONES;PLANTER x RIBBON;volumen_solape;0.104;m3;intencionado=False voxeles=13
+A10_COLISIONES;FURNITURE x STRUCTURE;volumen_solape;0.088;m3;intencionado=True voxeles=11
+A10_COLISIONES;CABLE x PLANTER;volumen_solape;0.072;m3;intencionado=False voxeles=9
+A10_COLISIONES;CANOPY x PLANTER;volumen_solape;0.056;m3;intencionado=False voxeles=7
+A10_COLISIONES;PLANTER x PODS;volumen_solape;0.048;m3;intencionado=False voxeles=6
+A10_COLISIONES;PODS x VEGETATION;volumen_solape;0.048;m3;intencionado=False voxeles=6
+A10_COLISIONES;FURNITURE x PLANTER;volumen_solape;0.032;m3;intencionado=False voxeles=4
+A10_COLISIONES;RIBBON x VEGETATION;volumen_solape;0.016;m3;intencionado=False voxeles=2
+ISSUES;V-001;YELLOW;2.0615528128088303;;RECORRIDOS | Estrechamiento en montera-espozymina (s=1 m)
+ISSUES;V-002;YELLOW;2.5;;RECORRIDOS | Estrechamiento en montera-espozymina (s=66 m)
+ISSUES;V-003;YELLOW;;;RECORRIDOS | Huecos de 0.50 m interiores a las estancias ajardinadas: 14
+ISSUES;V-004;GREEN;;;RECORRIDOS | La red peatonal principal se mantiene continua a 3,00 m de holgura
+ISSUES;V-005;GREEN;;;ACCESIBILIDAD | El plano de plaza es horizontal en todo el ambito
+ISSUES;V-006;YELLOW;2.1328990423984155;;GALIBOS | Copas de arbolado E02 por debajo de 2,50 m sobre suelo pisable (18 puntos)
+ISSUES;V-007;GREEN;;;GALIBOS | Ningun cable tensado invade el estrato peatonal
+ISSUES;V-008;YELLOW;;;ALTURAS | H_SEATING fuera de rango declarado
+ISSUES;V-009;GREEN;;;ALTURAS | H_BENCH_BACK declarado pero no construido
+ISSUES;V-010;YELLOW;;;ALTURAS | H_GROUND_TANK fuera de rango declarado
+ISSUES;V-011;YELLOW;;;ALTURAS | H_NURSERY_TOWER fuera de rango declarado
+ISSUES;V-012;YELLOW;;;ALTURAS | H_CLEAR_MIN fuera de rango declarado
+ISSUES;V-013;GREEN;;;ALTURAS | H_TANK_TOWER declarado pero no construido
+ISSUES;V-014;GREEN;;;ALTURAS | H_LOGISTIC_RAIL declarado pero no construido
+ISSUES;V-015;YELLOW;;;ALTURAS | FAMILIA_DOSEL fuera de rango declarado
+ISSUES;V-016;GREEN;0.16199999999999998;;CINTA | Escaleras reales: 37 CH de 0.162 m, meseta y doble pasamanos
+ISSUES;V-017;GREEN;;;ACCESIBILIDAD | La cota +6.00 dispone de 3 ascensores-capsula ademas de 6 escaleras
+ISSUES;V-018;YELLOW;0.010264006151273914;;CINTA | Radio de curvatura minimo de la cinta 0.0 m
+ISSUES;V-019;GREEN;;;CINTA | La rasante de la cinta es plana y continua
+ISSUES;V-020;YELLOW;;;ACCESIBILIDAD | Itinerario montera-espozymina accesible salvo puntos criticos
+ISSUES;V-021;GREEN;;;ACCESIBILIDAD | Barandilla de cinta completa: pasamanos 1.05 + travesano 0.55 + rodapie 0.10
+ISSUES;V-022;GREEN;;;METRO | Acceso Centro Comercial queda fuera del ambito de intervencion
+ISSUES;V-023;YELLOW;5.44;;METRO | Acceso Cercanías: 2 elementos a nivel de boca dentro de la banda 5,5 m
+ISSUES;V-024;GREEN;;;METRO | Acceso Carretas queda fuera del ambito de intervencion
+ISSUES;V-025;GREEN;;;METRO | Acceso Mayor conserva la vertical libre
+ISSUES;V-026;YELLOW;4.75;;METRO | Acceso Alcalá: 1 elementos a nivel de boca dentro de la banda 5,5 m
+ISSUES;V-027;YELLOW;5.15;;METRO | Acceso Alcalá: 1 elementos a nivel de boca dentro de la banda 5,5 m
+ISSUES;V-028;YELLOW;6.969750574915974;;DENSIDAD | Sector (38,45): E02 anadio +7.0 pp de ocupacion
+ISSUES;V-029;GREEN;4.774535809018568;;DENSIDAD | Sector (58,65): E02 anadio +4.8 pp de ocupacion
+ISSUES;V-030;GREEN;3.546875;;DENSIDAD | Sector (-42,5): E02 anadio +3.5 pp de ocupacion
+ISSUES;V-031;GREEN;;;DENSIDAD | La densificacion E02 no compromete la ocupacion global de suelo
+ISSUES;V-032;YELLOW;1;;MANTENIMIENTO | BOMBEO: 1 de 3 componentes sin acceso de mantenimiento
+ISSUES;V-033;YELLOW;0.048000000000000015;;COLISIONES | Interpenetracion DETAILÃ—RIBBON: LIFT_TOWER Ã— RIBBON_DECK
+ISSUES;V-034;YELLOW;0.048000000000000015;;COLISIONES | Interpenetracion DETAILÃ—VEGETATION: ATRIO_BOLARDO Ã— VEGA_HELECHO_M_B
+ISSUES;V-035;YELLOW;0.048000000000000015;;COLISIONES | Interpenetracion DETAILÃ—WATER: DECK_JUNTAS Ã— BASIN_B-C1a
+ISSUES;V-036;YELLOW;0.048000000000000015;;COLISIONES | Interpenetracion CABLEÃ—STRUCTURE: LCBL Ã— PRIMARY_C2-L2
+ISSUES;V-037;YELLOW;0.048000000000000015;;COLISIONES | Interpenetracion CABLEÃ—STRUCTURE: LCBL Ã— SAT_C3-L2
+ISSUES;V-038;YELLOW;0.048000000000000015;;COLISIONES | Interpenetracion RIBBONÃ—WATER: RIBBON_DECK Ã— BASIN_B-C1a
+ISSUES;V-039;YELLOW;0.04000000000000001;;COLISIONES | Interpenetracion DETAILÃ—STRUCTURE: LIFT_TOWER Ã— PRIMARY_C1-L2
+ISSUES;V-040;YELLOW;0.04000000000000001;;COLISIONES | Interpenetracion DETAILÃ—STRUCTURE: DECK_CANALETA Ã— MAST_3
+ISSUES;V-041;YELLOW;0.04000000000000001;;COLISIONES | Interpenetracion DETAILÃ—STRUCTURE: DECK_CANALETA Ã— MAST_3
+ISSUES;V-042;YELLOW;0.04000000000000001;;COLISIONES | Interpenetracion DETAILÃ—RIBBON: LIFT_TOWER Ã— RIBBON_DECK
+ISSUES;V-043;GREEN;;;PERSONA | Ningun punto pisable produce impacto de cabeza con el volumen humano de 1,70 m
+ISSUES;V-044;GREEN;;;EDIFICIOS | Ningun solido del proyecto penetra volumetria construida (35 edificios, alturas reales)

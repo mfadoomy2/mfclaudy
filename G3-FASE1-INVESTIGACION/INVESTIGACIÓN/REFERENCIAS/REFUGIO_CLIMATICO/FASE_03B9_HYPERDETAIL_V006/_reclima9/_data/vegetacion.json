@@ -1,0 +1,32 @@
+{
+ "rows": [
+  {
+   "bloque": "ARBOLURB_NUEVO (Celtis)",
+   "n": 6,
+   "r_copa": 2.5,
+   "h": 9.0,
+   "LAI": 3.8,
+   "proy_m2": 117.8,
+   "tau": 0.042,
+   "E_kg_m2_h": 0.518,
+   "L_h": 61.0,
+   "kW": 40.99
+  },
+  {
+   "bloque": "ARBOLURB_EX (Platanus OSM)",
+   "n": 14,
+   "r_copa": 4.0,
+   "h": 12.0,
+   "LAI": 4.5,
+   "proy_m2": 703.7,
+   "tau": 0.002,
+   "E_kg_m2_h": 0.518,
+   "L_h": 364.4,
+   "kW": 244.87
+  }
+ ],
+ "otras": 295,
+ "proy_m2": 821.5264789137309,
+ "L_h": 425.4,
+ "kW": 285.86
+}

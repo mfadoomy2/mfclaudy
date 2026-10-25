@@ -1,0 +1,72 @@
+[
+ {
+  "id": "V-001",
+  "cat": "RECORRIDOS",
+  "x": -43.97,
+  "y": -11.22,
+  "punto_en_solido": false,
+  "modo": "en el punto",
+  "ancho": 1.118033988749895,
+  "galibo": 4.8258,
+  "pasa_cuerpo": true,
+  "pasa_cabeza": true,
+  "pasa_silla": true,
+  "pasa_cruce": false
+ },
+ {
+  "id": "V-002",
+  "cat": "RECORRIDOS",
+  "x": -12.98,
+  "y": 33.74,
+  "punto_en_solido": false,
+  "modo": "en el punto",
+  "ancho": 1.118033988749895,
+  "galibo": 4.649506020002225,
+  "pasa_cuerpo": true,
+  "pasa_cabeza": true,
+  "pasa_silla": true,
+  "pasa_cruce": false
+ },
+ {
+  "id": "V-040",
+  "cat": "COLISIONES",
+  "x": -58.0,
+  "y": 11.95,
+  "punto_en_solido": true,
+  "modo": "entorno 2.5 m",
+  "ancho": 4.031128874149275,
+  "galibo": 5.061913873742899,
+  "pasa_cuerpo": true,
+  "pasa_cabeza": true,
+  "pasa_silla": true,
+  "pasa_cruce": true
+ },
+ {
+  "id": "V-041",
+  "cat": "COLISIONES",
+  "x": -57.46,
+  "y": 11.2,
+  "punto_en_solido": true,
+  "modo": "entorno 2.5 m",
+  "ancho": 2.5,
+  "galibo": 5.061913873742899,
+  "pasa_cuerpo": true,
+  "pasa_cabeza": true,
+  "pasa_silla": true,
+  "pasa_cruce": true
+ },
+ {
+  "id": "V-042",
+  "cat": "COLISIONES",
+  "x": 8.11,
+  "y": 24.94,
+  "punto_en_solido": true,
+  "modo": "entorno 2.5 m",
+  "ancho": 3.8078865529319543,
+  "galibo": 2.9,
+  "pasa_cuerpo": true,
+  "pasa_cabeza": true,
+  "pasa_silla": true,
+  "pasa_cruce": true
+ }
+]

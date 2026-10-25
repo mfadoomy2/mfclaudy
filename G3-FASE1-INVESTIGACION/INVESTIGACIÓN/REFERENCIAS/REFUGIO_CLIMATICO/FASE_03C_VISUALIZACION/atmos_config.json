@@ -1,0 +1,43 @@
+{
+  "_meta": "E03 — parametros atmosfericos centralizados. Consumido por atmos_prep.py y viewer_e03. NO ejecutado aun (plan E03_EXECUTION_PLAN.md). ACTUALIZADO 03B.6: la escena es v003 (FASE_03B6_RESOLUCION/_viewer/scene_full.js · SOL_FULL_SCENE_v002.3dm); elementos nuevos a materializar: STAIR_SB (madera+acero), LIFT_TOWER (fuste translucido + cabina rosa), EST_* Carlos III (bronce/granito), REGISTRO+RECIRC (rosa tecnico), canaleta enrasada, barandilla 3 niveles, nebulizadores de cinta.",
+  "niebla": {
+    "_ronda_e03_6": "unica ronda global: +presencia de niebla (columnas H7 casi invisibles; margen de luminancia 5+ pts en _checks_e03)",
+    "micro": { "sprites_por_boquilla": [5, 8], "diametro_m": [2.2, 5.5], "opacidad": [0.12, 0.26],
+               "capas": { "baja_z": [0.2, 2.5], "alta_z": [2.5, 4.2] }, "deriva_x_m": [0.3, 0.8],
+               "tinte": "#EAF6F2", "blending": "normal" },
+    "columnas_h7": { "centros": [[-52, 10], [6, 20], [58, 10]], "sprites": 12, "z_max": [15, 19],
+                     "opacidad": [0.26, 0.08] }
+  },
+  "agua_viva": {
+    "splash_chorros": { "n": 10, "altura_m": [0.5, 1.6], "color": "#DFF2EE", "corona": true },
+    "goteo_discos": { "n_discos": 12, "criterio": "cota<=6.0 y sobre estancia", "estilo": "dash + minicorona" },
+    "mangueras": { "huerto_c1": 3, "viveros_c3": 1, "arco_alcance_m": [2.5, 4.5] },
+    "rebosaderos": ["B-C2a", "B-C3a"]
+  },
+  "luces": {
+    "mediodia": { "dir": [20, -45, 150], "color": "#FFF3DC", "int": 2.7, "hemi": 0.8,
+                  "exposure": 1.2, "exposure_H1": 1.1, "fog": ["#F2EFE7", 90, 380] },
+    "tarde": { "dir": [-120, -60, 75], "color": "#FFD9A8", "int": 2.2, "hemi": 0.6,
+               "hemi_color": "#F2E7D5", "exposure": 1.05, "fog": ["#F4E9D8", 60, 300],
+               "reloj_emisivo_extra": 0.35 }
+  },
+  "poblacion": {
+    "poses": ["de_pie", "andando", "sentado", "cuclillas", "nino_saltando", "pareja"],
+    "reparto": { "splash": 7, "huerto": 5, "bancos": 8, "corredores": 11, "cinta": 5,
+                 "cupula": 3, "viveros": 3, "claros": 4 },
+    "densidad_max_claros_m2_por_persona": 25,
+    "validacion": "sin interseccion con obstaculos (rutina near_corr/near_metro de E02 + v003: corredores re-trazados, estatua r=8, huellas de STAIR_SB/LIFT_TOWER, registros)"
+  },
+  "camaras_hero": [
+    { "id": "H1", "base": "V05", "cam": [-2, -18, 1.65], "tgt": [6, 16, 5.0], "fov": 62, "luz": "mediodia" },
+    { "id": "H2", "base": "V06", "cam": [-56, 2, 1.65], "tgt": [-44, 18, 5.5], "fov": 68, "luz": "mediodia" },
+    { "id": "H3", "base": "V13", "cam": [24, -10, 1.65], "tgt": [14, -1, 1.2], "fov": 66, "luz": "mediodia" },
+    { "id": "H4", "base": "V07", "cam": [6, 8, 1.65], "tgt": [-25.2, -36.5, 15.0], "fov": 58, "luz": "tarde" },
+    { "id": "H5", "base": "V19", "cam": [-12.8, 28.8, 7.55], "tgt": [10, 26, 6.5], "fov": 63, "luz": "mediodia",
+      "_nota_03b6": "sobre el eje CONSTRUIDO v003 (18 m antes del ascensor C2-N), guinada hacia la plaza: tablero + escalera + dosel; caminante determinista anclado al tramo" },
+    { "id": "H6", "base": "V10", "cam": [22, -4, 1.65], "tgt": [33, 5, 4.5], "fov": 68, "luz": "mediodia" },
+    { "id": "H7", "base": "aerea", "cam": [0, -80, 42], "tgt": [2, 12, 0], "fov": 55, "luz": "mediodia" }
+  ],
+  "resolucion_hero": [2560, 1600],
+  "refinos": { "alocasia_segmentos": 14, "espuma_splash": true, "colgantes_cinta_extra_pct": 15 }
+}

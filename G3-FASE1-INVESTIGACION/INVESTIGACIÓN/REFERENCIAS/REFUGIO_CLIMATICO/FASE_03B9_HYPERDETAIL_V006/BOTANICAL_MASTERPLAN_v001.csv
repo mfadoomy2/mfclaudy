@@ -1,0 +1,18 @@
+especie,nombre_comun,habito,altura_adulta_m,diametro_m,densidad_foliar,LAI_estimado,necesidad_hidrica,tolerancia_solar,tolerancia_sombra,estrategia_estacional,uso_proyecto,ubicacion,LOD_necesario,fuente_asset
+Nephrolepis exaltata,helecho de Boston,mata arqueada,0.6,0.9,alta,3.5,alta,media,alta,perenne,sotobosque de tiestos y jardineras,tiestos de mastil + jardineras sombreadas,HERO,fern_02 (Poly Haven CC0)
+Anthurium andraeanum,anturio (proxy Alocasia),roseta de palas,0.6,0.7,media,2.6,alta,media,alta,perenne,acento tropical bajo discos,estancias tropicales C2,HERO,anthurium_botany_01 (Poly Haven CC0)
+Alocasia macrorrhizos,oreja de elefante,palas gigantes,1.8,1.6,media,2.8,muy alta,media,alta,perenne (protegida),icono §7.1 en primer plano,estancias tropicales + planters cinta,HERO,procedural v2 + asset si el agente lo consigue
+Calathea orbifolia,calathea,roseta densa,0.5,0.6,alta,3.2,alta,baja,muy alta,perenne,tapiz de sombra profunda,bajo canopy denso + tiestos,HERO,calathea_orbifolia_01 (Poly Haven CC0)
+Monstera deliciosa,costilla de Adan,trepadora de porte,1.2,1.1,media,2.4,media,media,alta,perenne,fenestrada hero de estancias,junto a cupula-pergola,HERO,monstera Isa Lousberg (CC0) / upgrade agente
+Epipremnum aureum,poto,colgante,0.9 caida,0.5,alta,3.0,media,media,alta,perenne,colgante de aros y borde de cinta,aros C1-C3 + fascia cinta,HERO,pothos Isa Lousberg (CC0)
+Deschampsia cespitosa,graminea de plaza,macolla,0.55,0.5,media,2.0,baja,alta,media,perenne (espigas verano),textura baja soleada,camas de banco + tiestos,MID,grass_medium_02 (Poly Haven CC0)
+Miscanthus sinensis,eulalia,macolla alta,1.6,0.9,media,2.2,baja,alta,media,caduca parcial,pantalla ligera perimetral,perimetro + atrio,MID,pendiente del agente
+Pittosporum tobira,pitosporo,arbusto denso,1.2,1.2,muy alta,4.0,baja,alta,media,perenne,masa arbustiva de borde,bordes de estancia,MID,shrub_04 (Poly Haven CC0)
+Typha latifolia,junco/espadana,emergente acuatica,1.6,0.4,media,2.5,acuatica,alta,baja,rebrote anual,orla emergente de balsas,orillas de balsas E-1..E-5,HERO,cattail Poly by Google (CC-BY 3.0)
+Nymphaea alba,nenufar,flotante,0.15,1.2,media,1.5,acuatica,alta,baja,estival,lamina flotante de balsas,laminas de agua,HERO,procedural v2 (pads+flor)
+Solanum lycopersicum,tomatera,cultivo tutorado,1.5,0.5,media,2.8,alta,alta,baja,anual (jun-oct),huerto didactico,huerto C1 bajo balsas,HERO,procedural v2 + tutores; asset si llega
+Lactuca sativa,lechuga,roseta anual,0.25,0.3,alta,3.0,alta,media,media,rotacion mensual,lineas de cultivo,huerto C1,MID,procedural v2
+Salvia rosmarinus,romero,aromatica,0.6,0.6,media,2.1,muy baja,muy alta,baja,perenne,linea aromatica de huerto,huerto C1 borde,MID,procedural v2
+Celtis australis,almez,arbol caduco,9.0 (juv. 5-6),5.0,media,3.8,media,muy alta,media,caduco (sombra verano/sol invierno),arbolado nuevo del paseo,paseo norte + bordes,MID,procedural arbol_v2; asset si el agente lo consigue
+Platanus x hispanica,platano de sombra,arbol existente,12.0,8.0,alta,4.5,media,muy alta,baja,caduco,arbolado EXISTENTE OSM (intocable),alineaciones perimetrales,FAR,procedural arbol_v2 EX
+Hedera helix,hiedra,trepadora adherente,3.0 desarrollo,0.4,alta,3.4,baja,media,muy alta,perenne,enredadera de mastiles,mitad de mastiles,MID,procedural helice v2 + asset si llega

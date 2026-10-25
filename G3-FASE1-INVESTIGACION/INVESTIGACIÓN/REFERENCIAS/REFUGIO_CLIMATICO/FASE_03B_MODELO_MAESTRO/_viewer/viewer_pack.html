@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>html,body{margin:0;padding:0;overflow:hidden;background:#fff}</style>
+<script src="three.min.js"></script>
+<script src="scene_pack.js"></script>
+</head>
+<body>
+<script>
+// Visor 03B. ?cx..&tz&fov&ortho&w&h  ·  &mat=1 => test material (no clay)
+const q = new URLSearchParams(location.search);
+const W = parseInt(q.get('w') || '1600'), Hpx = parseInt(q.get('h') || '1000');
+const MAT = q.get('mat') === '1';
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(MAT ? 0xf4f1ea : 0xffffff);
+scene.fog = new THREE.Fog(MAT ? 0xf4f1ea : 0xffffff, 70, 360);
+
+let cam;
+if (q.get('ortho')) {
+  const s = parseFloat(q.get('ortho'));
+  cam = new THREE.OrthographicCamera(-s, s, s * Hpx / W, -s * Hpx / W, -500, 900);
+} else {
+  cam = new THREE.PerspectiveCamera(parseFloat(q.get('fov') || '62'), W / Hpx, 0.1, 900);
+}
+cam.up.set(0, 0, 1);
+cam.position.set(parseFloat(q.get('cx') || '0'), parseFloat(q.get('cy') || '-60'), parseFloat(q.get('cz') || '1.65'));
+cam.lookAt(parseFloat(q.get('tx') || '0'), parseFloat(q.get('ty') || '0'), parseFloat(q.get('tz') || '1.65'));
+
+scene.add(new THREE.HemisphereLight(0xffffff, MAT ? 0xcfc4b2 : 0xd8d4cc, MAT ? 1.0 : 0.95));
+const sun = new THREE.DirectionalLight(0xfff2dc, MAT ? 1.0 : 0.85);
+sun.position.set(120, -80, 160);
+scene.add(sun);
+const fill = new THREE.DirectionalLight(0xdfeaff, 0.28);
+fill.position.set(-100, 60, 80);
+scene.add(fill);
+
+// test material por capa (D14: madera calida, rosa/verde translucidos, agua)
+const MATS = {
+  '02_PRIMARY_STRUCTURE': {c: 0xb08055, r: 0.55, o: 1},
+  '03_SECONDARY_STRUCTURE': {c: 0xc09a6e, r: 0.55, o: 1},
+  '04_MASTS': {c: 0xb98f60, r: 0.6, o: 1},
+  '06_MEMBRANES': {c: 0xeef4ea, r: 0.3, o: 0.30},
+  '07_CANOPIES': {c: 0xa8cc55, r: 0.25, o: 0.55},
+  '08_PINK_MODULES': {c: 0xf27bb4, r: 0.18, o: 0.55},
+  '11_WATER': {c: 0x4fae86, r: 0.12, o: 0.7},
+  '12_MIST': {c: 0xdff2ee, r: 1.0, o: 0.22},
+  '13_PIPES': {c: 0xe0508e, r: 0.35, o: 1},
+  '14_VEGETATION_PROXY': {c: 0x6f9e59, r: 0.8, o: 1},
+  '15_VEGETATION_FULL': {c: 0x5d9448, r: 0.8, o: 1},
+  '16_PEOPLE_PROXY': {c: 0x777777, r: 0.9, o: 1},
+  '00_CONTEXT': {c: 0xd9d2c6, r: 0.95, o: 1},
+  '01_GROUND': {c: 0xe9e4da, r: 0.95, o: 1},
+  '17_METRO_CLEARANCES': {c: 0x9a9ac8, r: 0.9, o: 0.15},
+};
+
+for (const o of SCENE_MESHES) {
+  const g = new THREE.BufferGeometry();
+  const pos = new Float32Array(o.V.length * 3);
+  o.V.forEach((v, i) => { pos[3*i] = v[0]; pos[3*i+1] = v[1]; pos[3*i+2] = v[2]; });
+  g.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+  const idx = new Uint32Array(o.F.length * 3);
+  o.F.forEach((fc, i) => { idx[3*i] = fc[0]; idx[3*i+1] = fc[1]; idx[3*i+2] = fc[2]; });
+  g.setIndex(new THREE.BufferAttribute(idx, 1));
+  g.computeVertexNormals();
+  let mat;
+  if (MAT) {
+    const s = MATS[o.layer] || {c: 0xcccccc, r: 0.8, o: 1};
+    mat = new THREE.MeshStandardMaterial({color: s.c, roughness: s.r, metalness: 0.0,
+      transparent: s.o < 1, opacity: s.o, side: THREE.DoubleSide});
+  } else {
+    const col = new THREE.Color(o.color[0]/255, o.color[1]/255, o.color[2]/255);
+    col.lerp(new THREE.Color(0xffffff), 0.45);
+    mat = new THREE.MeshStandardMaterial({color: col, roughness: 0.9, metalness: 0.0,
+      transparent: o.opacity < 1, opacity: Math.min(1, o.opacity + 0.15), side: THREE.DoubleSide});
+  }
+  scene.add(new THREE.Mesh(g, mat));
+}
+for (const l of SCENE_LINES) {
+  const pts = [];
+  for (let i = 0; i < l.pts.length - 1; i++) pts.push(new THREE.Vector3(...l.pts[i]), new THREE.Vector3(...l.pts[i+1]));
+  const g = new THREE.BufferGeometry().setFromPoints(pts);
+  const col = new THREE.Color(l.color[0]/255, l.color[1]/255, l.color[2]/255);
+  if (!MAT) col.lerp(new THREE.Color(0xffffff), 0.3);
+  scene.add(new THREE.LineSegments(g, new THREE.LineBasicMaterial({color: col})));
+}
+
+const renderer = new THREE.WebGLRenderer({antialias: true, preserveDrawingBuffer: true});
+renderer.setSize(W, Hpx);
+document.body.appendChild(renderer.domElement);
+renderer.render(scene, cam);
+document.title = 'RENDER_DONE';
+</script>
+</body>
+</html>
