@@ -1,5 +1,9 @@
 # Instrucciones para Claude Code
 
+## Regla número uno
+
+**Antes de hacer nada, revisar TODO lo que hay en el repositorio.** No se diseña, no se dibuja, no se modela y no se propone nada hasta haber leído todo el material existente: documentos, guías de cada carpeta, verificaciones, fichas, imágenes y planos. Nada se rehace si ya existe, y ningún error ya señalado se repite. La lista de errores y de lo ya hecho está en `G3-CLAUDE/08_UNIDAD_RADICAL_2026-10-25/00_LO_QUE_NO_SE_REPITE.md` y se relee antes de cada trabajo.
+
 Proyecto de arquitectura G3 (UEM): viviendas temporales para 40 jóvenes en Ribera de Curtidores 31, El Rastro, Madrid. Autor: Adam.
 
 ## Cómo orientarte
