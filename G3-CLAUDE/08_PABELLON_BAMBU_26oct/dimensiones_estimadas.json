@@ -1,0 +1,32 @@
+{
+ "altura_max_Z_m": 4.91,
+ "altura_anillo_media_m": 3.55,
+ "anchura_acceso_m": 3.2,
+ "altura_acceso_m": 3.12,
+ "diametro_cana_mm": [
+  64,
+  96
+ ],
+ "espesor_pieza_perforada_mm": 30.0,
+ "agujeros": 2033,
+ "altura_asiento_m": 0.45,
+ "apoyos": 41,
+ "camara_referencia": {
+  "posicion": [
+   0.3,
+   -8.2,
+   1.95
+  ],
+  "objetivo": [
+   0.0,
+   2.0,
+   1.7
+  ],
+  "lente_mm": 30.0
+ },
+ "ancho_estructura_X_m": 10.24,
+ "profundidad_estructura_Y_m": 6.51,
+ "ancho_total_con_anclajes_X_m": 13.32,
+ "profundidad_total_con_anclajes_Y_m": 9.84,
+ "nota": "Hipotesis de trabajo a partir de la imagen; ninguna medida esta verificada."
+}
